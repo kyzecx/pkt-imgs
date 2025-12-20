@@ -1,0 +1,76 @@
+name: Incremental Sync to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'img/**'
+      - 'name/**'
+      - 'blacklist.json'
+  workflow_dispatch:
+
+env:
+  R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+
+jobs:
+  incremental-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Fetch enough history to find the previous commit
+
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone for R2
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf << EOF
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${R2_ACCESS_KEY_ID}
+          secret_access_key = ${R2_SECRET_ACCESS_KEY}
+          endpoint = https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com
+          acl = private
+          EOF
+
+      - name: Sync Changed Files
+        run: |
+          # Detect changed files in the latest commit
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
+          
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No files changed in this commit."
+            exit 0
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+          echo "Processing..."
+
+          # Iterate over changed files and upload them
+          echo "$CHANGED_FILES" | while read file; do
+            if [ -f "$file" ]; then
+              if [[ "$file" == "blacklist.json" ]]; then
+                echo "Uploading blacklist.json..."
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/blacklist.json"
+              elif [[ "$file" == img/* ]]; then
+                echo "Uploading $file..."
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
+              elif [[ "$file" == name/* ]]; then
+                echo "Uploading $file..."
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
+              fi
+            else
+              echo "File $file was deleted or does not exist, skipping..."
+            fi
+          done
