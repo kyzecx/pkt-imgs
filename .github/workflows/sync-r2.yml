@@ -8,6 +8,7 @@ on:
     paths:
       - 'img/**'
       - 'name/**'
+      - 'blacklist.json'
   workflow_dispatch:  # 允许手动触发
 
 env:
@@ -62,6 +63,10 @@ jobs:
             --progress \
             --stats 10s \
             --stats-one-line
+          
+          # 同步 blacklist.json 到 R2
+          rclone copyto ./blacklist.json r2:${R2_BUCKET_NAME}/blacklist.json \
+            --progress
 
       - name: Verify sync
         run: |
