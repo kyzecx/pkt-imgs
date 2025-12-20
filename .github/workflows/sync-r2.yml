@@ -1,0 +1,71 @@
+name: Sync Images to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'img/**'
+      - 'name/**'
+  workflow_dispatch:  # 允许手动触发
+
+env:
+  R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史以便检测变更
+
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone for R2
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf << EOF
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${R2_ACCESS_KEY_ID}
+          secret_access_key = ${R2_SECRET_ACCESS_KEY}
+          endpoint = https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com
+          acl = private
+          EOF
+
+      - name: Sync images to R2
+        run: |
+          # 同步 img 目录到 R2
+          rclone sync ./img r2:${R2_BUCKET_NAME}/img \
+            --transfers 32 \
+            --checkers 16 \
+            --progress \
+            --stats 10s \
+            --stats-one-line \
+            --exclude "*.DS_Store" \
+            --exclude "Thumbs.db"
+          
+          # 同步 name 目录到 R2 (JSON配置文件)
+          rclone sync ./name r2:${R2_BUCKET_NAME}/name \
+            --transfers 16 \
+            --checkers 8 \
+            --progress \
+            --stats 10s \
+            --stats-one-line
+
+      - name: Verify sync
+        run: |
+          echo "Listing synced files in R2..."
+          rclone ls r2:${R2_BUCKET_NAME}/img --max-depth 1
+          echo "---"
+          rclone ls r2:${R2_BUCKET_NAME}/name --max-depth 1
