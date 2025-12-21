@@ -9,6 +9,7 @@ on:
       - 'img/**'
       - 'name/**'
       - 'blacklist.json'
+      - 'props.json'
   workflow_dispatch:
 
 env:
@@ -63,6 +64,9 @@ jobs:
               if [[ "$file" == "blacklist.json" ]]; then
                 echo "Uploading blacklist.json..."
                 rclone copyto "$file" "r2:${R2_BUCKET_NAME}/blacklist.json"
+              elif [[ "$file" == "props.json" ]]; then
+                echo "Uploading props.json..."
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/props.json"
               elif [[ "$file" == img/* ]]; then
                 echo "Uploading $file..."
                 rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
