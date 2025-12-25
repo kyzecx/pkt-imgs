@@ -63,16 +63,16 @@ jobs:
             if [ -f "$file" ]; then
               if [[ "$file" == "blacklist.json" ]]; then
                 echo "Uploading blacklist.json..."
-                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/blacklist.json"
+                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/blacklist.json"
               elif [[ "$file" == "props.json" ]]; then
                 echo "Uploading props.json..."
-                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/props.json"
+                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/props.json"
               elif [[ "$file" == img/* ]]; then
                 echo "Uploading $file..."
-                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
+                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/$file"
               elif [[ "$file" == name/* ]]; then
                 echo "Uploading $file..."
-                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
+                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/$file"
               fi
             else
               echo "File $file was deleted or does not exist, skipping..."
