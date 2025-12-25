@@ -42,6 +42,7 @@ jobs:
           secret_access_key = ${R2_SECRET_ACCESS_KEY}
           endpoint = https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com
           acl = private
+          no_check_bucket = true
           EOF
 
       - name: Sync Changed Files
@@ -63,16 +64,16 @@ jobs:
             if [ -f "$file" ]; then
               if [[ "$file" == "blacklist.json" ]]; then
                 echo "Uploading blacklist.json..."
-                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/blacklist.json"
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/blacklist.json"
               elif [[ "$file" == "props.json" ]]; then
                 echo "Uploading props.json..."
-                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/props.json"
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/props.json"
               elif [[ "$file" == img/* ]]; then
                 echo "Uploading $file..."
-                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/$file"
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
               elif [[ "$file" == name/* ]]; then
                 echo "Uploading $file..."
-                rclone copyto --no-check-bucket "$file" "r2:${R2_BUCKET_NAME}/$file"
+                rclone copyto "$file" "r2:${R2_BUCKET_NAME}/$file"
               fi
             else
               echo "File $file was deleted or does not exist, skipping..."
