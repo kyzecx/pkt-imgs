@@ -49,7 +49,7 @@
   },
   "m_pant015.png": {
     "name": "乐动牛仔裤",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "m_pant016.png": {
     "name": "书香狐尾裤",
@@ -65,15 +65,15 @@
   },
   "m_pant019.png": {
     "name": "淡染优雅男裤",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "m_pant020.png": {
     "name": "美国男下装",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "m_pant021.png": {
     "name": "星梦朵朵牛仔裤",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "m_pant022.png": {
     "name": "英伦时尚背带裤",
@@ -97,7 +97,7 @@
   },
   "m_pant027.png": {
     "name": "苗木诚下装",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "m_pant028.png": {
     "name": "法国贵族长裤",
@@ -245,7 +245,7 @@
   },
   "m_pant065.png": {
     "name": "橘子汽水男裤",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "m_pant066.png": {
     "name": "牛仔蓝长裤",

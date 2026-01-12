@@ -65,15 +65,15 @@
   },
   "f_pant019.png": {
     "name": "淡染优雅灯笼裤",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant020.png": {
     "name": "美国女下装",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant021.png": {
     "name": "浪漫花语短裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant022.png": {
     "name": "普罗旺斯蛋糕裙",
@@ -81,7 +81,7 @@
   },
   "f_pant023.png": {
     "name": "热浪比基尼下装",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant024.png": {
     "name": "呆萌萝莉系带裤",
@@ -89,19 +89,19 @@
   },
   "f_pant025.png": {
     "name": "无敌百褶裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant026.png": {
     "name": "甜蜜心思短裤",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant027.png": {
     "name": "雾切响子短裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant028.png": {
     "name": "英伦复古短裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant029.png": {
     "name": "淡蓝可爱短裙",
@@ -177,15 +177,15 @@
   },
   "f_pant047.png": {
     "name": "翠湖约会短裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant048.png": {
     "name": "红颜知己女裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant049.png": {
     "name": "彩虹天堂百褶裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant050.png": {
     "name": "莫妮卡短裙",
@@ -217,7 +217,7 @@
   },
   "f_pant057.png": {
     "name": "橘子汽水女裙",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   },
   "f_pant058.png": {
     "name": "草绿背心裙",
@@ -229,6 +229,6 @@
   },
   "f_pant060.png": {
     "name": "星光女爵下装",
-    "hideBaseLayer": false
+    "hideBaseLayer": true
   }
 }
