@@ -1,177 +1,1402 @@
 {
-  "u_glas290.png": "怜怜可爱美瞳（女）",
-  "u_glas289.png": "怜怜可爱美瞳（男）",
-  "u_glas286.png": "闭目垂情美瞳（女）",
-  "u_glas285.png": "闭目垂情美瞳（男）",
-  "u_glas280.png": "诱人沉醉女眸",
-  "u_glas280_Animate.png": "诱人沉醉女眸",
-  "u_glas279.png": "甘醇如饴男眸",
-  "u_glas279_Animate.png": "甘醇如饴男眸",
-  "u_glas272.png": "星星兔女瞳",
-  "u_glas271.png": "星星兔男瞳",
-  "u_glas268.png": "梦境（女）",
-  "u_glas268_Animate.png": "梦境（女）",
-  "u_glas267.png": "凝夜（男）",
-  "u_glas267_Animate.png": "凝夜（男）",
-  "u_glas264.png": "血色琉璃（女）",
-  "u_glas263.png": "血色琉璃（男）",
-  "u_glas262.png": "湛蓝琉璃（女）",
-  "u_glas261.png": "湛蓝琉璃（男）",
-  "u_glas254.png": "萌巧泰迪女眸",
-  "u_glas253.png": "萌巧泰迪男眸",
-  "u_glas250.png": "弦砂女瞳",
-  "u_glas250_Animate.png": "弦砂女瞳",
-  "u_glas249.png": "弦砂男瞳",
-  "u_glas249_Animate.png": "弦砂男瞳",
-  "u_glas248.png": "奇妙泡泡美瞳（女）",
-  "u_glas248_Animate.png": "奇妙泡泡美瞳（女）",
-  "u_glas247.png": "奇妙泡泡美瞳（男）",
-  "u_glas247_Animate.png": "奇妙泡泡美瞳（男）",
-  "u_glas241.png": "淡淡心意男眸",
-  "u_glas240.png": "淡淡心意女眸",
-  "u_glas239.png": "暮光女瞳",
-  "u_glas238.png": "暮光男瞳",
-  "u_glas237.png": "星云迭涌女瞳",
-  "u_glas237_Animate.png": "星云迭涌女瞳",
-  "u_glas236.png": "星云迭涌男瞳",
-  "u_glas236_Animate.png": "星云迭涌男瞳",
-  "u_glas228.png": "好梦男瞳",
-  "u_glas227.png": "好梦女瞳",
-  "u_glas226.png": "风刃无相女眸",
-  "u_glas225.png": "风刃无相男眸",
-  "u_glas224.png": "焦糖心跳女眸",
-  "u_glas223.png": "焦糖心跳男眸",
-  "u_glas220.png": "镜影织梦女眸",
-  "u_glas219.png": "镜影织梦男眸",
-  "u_glas216.png": "哀伤泪滴男眸",
-  "u_glas216_Animate.png": "哀伤泪滴男眸",
-  "u_glas215.png": "哀伤泪滴女眸",
-  "u_glas215_Animate.png": "哀伤泪滴女眸",
-  "u_glas212.png": "软软喵女眼瞳",
-  "u_glas211.png": "软软喵男眼瞳",
-  "u_glas210.png": "兔啵啵眼眸（男）",
-  "u_glas209.png": "兔啵啵眼眸（女）",
-  "u_glas208.png": "爱丽眼眸（女）",
-  "u_glas207.png": "艾力眼眸（男）",
-  "u_glas204.png": "魔法兔美瞳（女）",
-  "u_glas203.png": "魔法兔美瞳（男）",
-  "u_glas202.png": "蓝钻男瞳",
-  "u_glas201.png": "蓝钻女瞳",
-  "u_glas200.png": "夏日琉璃（男）",
-  "u_glas200_Animate.png": "夏日琉璃（男）",
-  "u_glas199.png": "夏日琉璃（女）",
-  "u_glas199_Animate.png": "夏日琉璃（女）",
-  "u_glas196.png": "月之朔美瞳（女）",
-  "u_glas196_Animate.png": "月之朔美瞳（女）",
-  "u_glas195.png": "月之朔美瞳（男）",
-  "u_glas195_Animate.png": "月之朔美瞳（男）",
-  "u_glas194.png": "清波女瞳",
-  "u_glas193.png": "清波男瞳",
-  "u_glas192.png": "甜心猫猫眼（女）",
-  "u_glas192_Animate.png": "甜心猫猫眼（女）",
-  "u_glas191.png": "甜心猫猫眼（男）",
-  "u_glas191_Animate.png": "甜心猫猫眼（男）",
-  "u_glas190.png": "蝴蝶仲夏夜女瞳",
-  "u_glas189.png": "蝴蝶仲夏夜男瞳",
-  "u_glas188.png": "蓝色冰清女瞳",
-  "u_glas187.png": "蓝色冰清男瞳",
-  "u_glas185.png": "行云流转（男）",
-  "u_glas184.png": "澄色琉璃美瞳（女）",
-  "u_glas183.png": "澄色琉璃美瞳（男）",
-  "u_glas182.png": "甜蜜果糖女瞳",
-  "u_glas182_Animate.png": "甜蜜果糖女瞳",
-  "u_glas181.png": "甜蜜果糖男瞳",
-  "u_glas181_Animate.png": "甜蜜果糖男瞳",
-  "u_glas180.png": "魅惑红影女瞳",
-  "u_glas179.png": "魅惑红影男瞳",
-  "u_glas178.png": "寻云女瞳",
-  "u_glas177.png": "寻云男瞳",
-  "u_glas176.png": "薄荷猫咪女瞳",
-  "u_glas175.png": "薄荷猫咪男瞳",
-  "u_glas174.png": "甜蜜花漾美瞳（女）",
-  "u_glas174_Animate.png": "甜蜜花漾美瞳（女）",
-  "u_glas173.png": "甜蜜花漾美瞳（男）",
-  "u_glas173_Animate.png": "甜蜜花漾美瞳（男）",
-  "u_glas172.png": "豆豆奇",
-  "u_glas171.png": "可可塔",
-  "u_glas170.png": "闪烁烛光女瞳",
-  "u_glas170_Animate.png": "闪烁烛光女瞳",
-  "u_glas169.png": "闪烁烛光男瞳",
-  "u_glas169_Animate.png": "闪烁烛光男瞳",
-  "u_glas168.png": "浆果滋味女瞳",
-  "u_glas168_Animate.png": "浆果滋味女瞳",
-  "u_glas167.png": "浆果滋味男瞳",
-  "u_glas167_Animate.png": "浆果滋味男瞳",
-  "u_glas166.png": "极光之恋男瞳",
-  "u_glas165.png": "极光之恋女瞳",
-  "u_glas164.png": "心碎信号男瞳",
-  "u_glas164_Animate.png": "心碎信号男瞳",
-  "u_glas163.png": "心碎信号女瞳",
-  "u_glas163_Animate.png": "心碎信号女瞳",
-  "u_glas162.png": "钟爱之诗（女）",
-  "u_glas161.png": "钟爱之诗（男）",
-  "u_glas160.png": "桃心浪漫",
-  "u_glas159.png": "桃心烂漫",
-  "u_glas158.png": "流光之夜（男）",
-  "u_glas157.png": "流光之夜（女）",
-  "u_glas156.png": "失落之情（女）",
-  "u_glas156_Animate.png": "失落之情（女）",
-  "u_glas155.png": "失落之情（男）",
-  "u_glas155_Animate.png": "失落之情（男）",
-  "u_glas154.png": "恋爱狙击男瞳",
-  "u_glas153.png": "恋爱狙击女瞳",
-  "u_glas152.png": "莓果沁水女瞳",
-  "u_glas151.png": "莓果沁水男瞳",
-  "u_glas150.png": "松软香梦",
-  "u_glas149.png": "松软美梦",
-  "u_glas148.png": "剪水女瞳",
-  "u_glas147.png": "剪水男瞳",
-  "u_glas146.png": "风清醉夜",
-  "u_glas145.png": "清风醉晚",
-  "u_glas142.png": "萌鸭浴海眼瞳（女）",
-  "u_glas142_Animate.png": "萌鸭浴海眼瞳（女）",
-  "u_glas141.png": "萌鸭浴海眼瞳（男）",
-  "u_glas141_Animate.png": "萌鸭浴海眼瞳（男）",
-  "u_glas138.png": "炽瞳泣血",
-  "u_glas137.png": "银幽漠漠",
-  "u_glas135.png": "钻石心瞳（男）",
-  "u_glas134.png": "钻石心瞳（女）",
-  "u_glas133.png": "枫华秋月男瞳",
-  "u_glas132.png": "枫华秋月女瞳",
-  "u_glas129.png": "星星眼瞳",
-  "u_glas128.png": "冬季初雪男瞳",
-  "u_glas127.png": "冬季初雪女瞳",
-  "u_glas124.png": "优雅淑女女瞳",
-  "u_glas123.png": "优雅绅士男瞳",
-  "u_glas122.png": "冬日恋歌女瞳",
-  "u_glas121.png": "冬日恋歌男瞳",
-  "u_glas120.png": "玫瑰礼服眼罩",
-  "u_glas117.png": "紫绵绵",
-  "u_glas116.png": "夹心软糖（女）",
-  "u_glas115.png": "夹心软糖（男）",
-  "u_glas114.png": "桃夭若诗眼瞳",
-  "u_glas113.png": "棒糖哥脸饰",
-  "u_glas112.png": "清澈紫瞳",
-  "u_glas111.png": "吸血迷情眼瞳",
-  "u_glas021.png": "异瞳镜片（女）",
-  "u_glas020.png": "异瞳镜片（男）",
-  "u_glas019.png": "装饰眼镜",
-  "u_glas018.png": "绅士墨镜",
-  "u_glas017.png": "黑白猪眼镜",
-  "u_glas016.png": "草莓芭比眼镜",
-  "u_glas015.png": "粉色芭比镜",
-  "u_glas014.png": "红色方框眼镜",
-  "u_glas013.png": "旋转眼镜",
-  "u_glas012.png": "博学眼镜",
-  "u_glas011.png": "保镖黑墨镜",
-  "u_glas010.png": "斯文眼镜",
-  "u_glas009.png": "地主小墨镜",
-  "u_glas008.png": "星星眼镜",
-  "u_glas007.png": "爱心眼镜",
-  "u_glas006.png": "晕晕眼镜",
-  "u_glas005.png": "黄边大墨镜",
-  "u_glas004.png": "板材眼镜",
-  "u_glas003.png": "老花眼镜",
-  "u_glas002.png": "黑色墨镜",
-  "u_glas001.png": "灰色大墨镜"
+  "u_glas290.png": {
+    "name": "怜怜可爱美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas289.png": {
+    "name": "怜怜可爱美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas286.png": {
+    "name": "闭目垂情美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas285.png": {
+    "name": "闭目垂情美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas280.png": {
+    "name": "诱人沉醉女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas280_Animate.png": {
+    "name": "诱人沉醉女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas279.png": {
+    "name": "甘醇如饴男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas279_Animate.png": {
+    "name": "甘醇如饴男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas272.png": {
+    "name": "星星兔女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas271.png": {
+    "name": "星星兔男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas268.png": {
+    "name": "梦境（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas268_Animate.png": {
+    "name": "梦境（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas267.png": {
+    "name": "凝夜（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas267_Animate.png": {
+    "name": "凝夜（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas264.png": {
+    "name": "血色琉璃（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas263.png": {
+    "name": "血色琉璃（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas262.png": {
+    "name": "湛蓝琉璃（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas261.png": {
+    "name": "湛蓝琉璃（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas254.png": {
+    "name": "萌巧泰迪女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas253.png": {
+    "name": "萌巧泰迪男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas250.png": {
+    "name": "弦砂女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas250_Animate.png": {
+    "name": "弦砂女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas249.png": {
+    "name": "弦砂男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas249_Animate.png": {
+    "name": "弦砂男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas248.png": {
+    "name": "奇妙泡泡美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas248_Animate.png": {
+    "name": "奇妙泡泡美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas247.png": {
+    "name": "奇妙泡泡美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas247_Animate.png": {
+    "name": "奇妙泡泡美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas241.png": {
+    "name": "淡淡心意男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas240.png": {
+    "name": "淡淡心意女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas239.png": {
+    "name": "暮光女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas238.png": {
+    "name": "暮光男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas237.png": {
+    "name": "星云迭涌女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas237_Animate.png": {
+    "name": "星云迭涌女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas236.png": {
+    "name": "星云迭涌男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas236_Animate.png": {
+    "name": "星云迭涌男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas228.png": {
+    "name": "好梦男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas227.png": {
+    "name": "好梦女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas226.png": {
+    "name": "风刃无相女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas225.png": {
+    "name": "风刃无相男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas224.png": {
+    "name": "焦糖心跳女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas223.png": {
+    "name": "焦糖心跳男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas220.png": {
+    "name": "镜影织梦女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas219.png": {
+    "name": "镜影织梦男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas216.png": {
+    "name": "哀伤泪滴男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas216_Animate.png": {
+    "name": "哀伤泪滴男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas215.png": {
+    "name": "哀伤泪滴女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas215_Animate.png": {
+    "name": "哀伤泪滴女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas212.png": {
+    "name": "软软喵女眼瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas211.png": {
+    "name": "软软喵男眼瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas210.png": {
+    "name": "兔啵啵眼眸（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas209.png": {
+    "name": "兔啵啵眼眸（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas208.png": {
+    "name": "爱丽眼眸（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas207.png": {
+    "name": "艾力眼眸（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas204.png": {
+    "name": "魔法兔美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas203.png": {
+    "name": "魔法兔美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas202.png": {
+    "name": "蓝钻男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas201.png": {
+    "name": "蓝钻女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas200.png": {
+    "name": "夏日琉璃（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas200_Animate.png": {
+    "name": "夏日琉璃（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas199.png": {
+    "name": "夏日琉璃（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas199_Animate.png": {
+    "name": "夏日琉璃（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas196.png": {
+    "name": "月之朔美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas196_Animate.png": {
+    "name": "月之朔美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas195.png": {
+    "name": "月之朔美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas195_Animate.png": {
+    "name": "月之朔美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas194.png": {
+    "name": "清波女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas193.png": {
+    "name": "清波男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas192.png": {
+    "name": "甜心猫猫眼（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas192_Animate.png": {
+    "name": "甜心猫猫眼（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas191.png": {
+    "name": "甜心猫猫眼（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas191_Animate.png": {
+    "name": "甜心猫猫眼（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas190.png": {
+    "name": "蝴蝶仲夏夜女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas189.png": {
+    "name": "蝴蝶仲夏夜男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas188.png": {
+    "name": "蓝色冰清女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas187.png": {
+    "name": "蓝色冰清男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas185.png": {
+    "name": "行云流转（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas184.png": {
+    "name": "澄色琉璃美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas183.png": {
+    "name": "澄色琉璃美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas182.png": {
+    "name": "甜蜜果糖女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas182_Animate.png": {
+    "name": "甜蜜果糖女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas181.png": {
+    "name": "甜蜜果糖男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas181_Animate.png": {
+    "name": "甜蜜果糖男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas180.png": {
+    "name": "魅惑红影女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas179.png": {
+    "name": "魅惑红影男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas178.png": {
+    "name": "寻云女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas177.png": {
+    "name": "寻云男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas176.png": {
+    "name": "薄荷猫咪女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas175.png": {
+    "name": "薄荷猫咪男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas174.png": {
+    "name": "甜蜜花漾美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas174_Animate.png": {
+    "name": "甜蜜花漾美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas173.png": {
+    "name": "甜蜜花漾美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas173_Animate.png": {
+    "name": "甜蜜花漾美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas172.png": {
+    "name": "豆豆奇",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas171.png": {
+    "name": "可可塔",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas170.png": {
+    "name": "闪烁烛光女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas170_Animate.png": {
+    "name": "闪烁烛光女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas169.png": {
+    "name": "闪烁烛光男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas169_Animate.png": {
+    "name": "闪烁烛光男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas168.png": {
+    "name": "浆果滋味女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas168_Animate.png": {
+    "name": "浆果滋味女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas167.png": {
+    "name": "浆果滋味男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas167_Animate.png": {
+    "name": "浆果滋味男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas166.png": {
+    "name": "极光之恋男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas165.png": {
+    "name": "极光之恋女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas164.png": {
+    "name": "心碎信号男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas164_Animate.png": {
+    "name": "心碎信号男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas163.png": {
+    "name": "心碎信号女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas163_Animate.png": {
+    "name": "心碎信号女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas162.png": {
+    "name": "钟爱之诗（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas161.png": {
+    "name": "钟爱之诗（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas160.png": {
+    "name": "桃心浪漫",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas159.png": {
+    "name": "桃心烂漫",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas158.png": {
+    "name": "流光之夜（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas157.png": {
+    "name": "流光之夜（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas156.png": {
+    "name": "失落之情（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas156_Animate.png": {
+    "name": "失落之情（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas155.png": {
+    "name": "失落之情（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas155_Animate.png": {
+    "name": "失落之情（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas154.png": {
+    "name": "恋爱狙击男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas153.png": {
+    "name": "恋爱狙击女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas152.png": {
+    "name": "莓果沁水女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas151.png": {
+    "name": "莓果沁水男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas150.png": {
+    "name": "松软香梦",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas149.png": {
+    "name": "松软美梦",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas148.png": {
+    "name": "剪水女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas147.png": {
+    "name": "剪水男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas146.png": {
+    "name": "风清醉夜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas145.png": {
+    "name": "清风醉晚",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas142.png": {
+    "name": "萌鸭浴海眼瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas142_Animate.png": {
+    "name": "萌鸭浴海眼瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas141.png": {
+    "name": "萌鸭浴海眼瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas141_Animate.png": {
+    "name": "萌鸭浴海眼瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas138.png": {
+    "name": "炽瞳泣血",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas137.png": {
+    "name": "银幽漠漠",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas135.png": {
+    "name": "钻石心瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas134.png": {
+    "name": "钻石心瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas133.png": {
+    "name": "枫华秋月男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas132.png": {
+    "name": "枫华秋月女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas129.png": {
+    "name": "星星眼瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas128.png": {
+    "name": "冬季初雪男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas127.png": {
+    "name": "冬季初雪女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas124.png": {
+    "name": "优雅淑女女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas123.png": {
+    "name": "优雅绅士男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas122.png": {
+    "name": "冬日恋歌女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas121.png": {
+    "name": "冬日恋歌男瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas120.png": {
+    "name": "玫瑰礼服眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas117.png": {
+    "name": "紫绵绵",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas116.png": {
+    "name": "夹心软糖（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas115.png": {
+    "name": "夹心软糖（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas114.png": {
+    "name": "桃夭若诗眼瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas113.png": {
+    "name": "棒糖哥脸饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas112.png": {
+    "name": "清澈紫瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas111.png": {
+    "name": "吸血迷情眼瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas021.png": {
+    "name": "异瞳镜片（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas020.png": {
+    "name": "异瞳镜片（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas019.png": {
+    "name": "装饰眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas018.png": {
+    "name": "绅士墨镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas017.png": {
+    "name": "黑白猪眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas016.png": {
+    "name": "草莓芭比眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas015.png": {
+    "name": "粉色芭比镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas014.png": {
+    "name": "红色方框眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas013.png": {
+    "name": "旋转眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas012.png": {
+    "name": "博学眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas011.png": {
+    "name": "保镖黑墨镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas010.png": {
+    "name": "斯文眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas009.png": {
+    "name": "地主小墨镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas008.png": {
+    "name": "星星眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas007.png": {
+    "name": "爱心眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas006.png": {
+    "name": "晕晕眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas005.png": {
+    "name": "黄边大墨镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas004.png": {
+    "name": "板材眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas003.png": {
+    "name": "老花眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas002.png": {
+    "name": "黑色墨镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas001.png": {
+    "name": "灰色大墨镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  }
 }

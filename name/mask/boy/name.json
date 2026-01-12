@@ -1,46 +1,178 @@
 {
-  "m_mask108.png": "云鹤狐仙面具",
-  "m_mask111.png": "王系面具（男）",
-  "m_mask114.png": "棕棕熊眼罩",
-  "m_mask1158.png": "沁心夏日男发饰",
-  "m_mask1186.png": "精灵时花男发饰",
-  "m_mask1190.png": "酸奶不郁郁饰品",
-  "m_mask120.png": "时尚防辐射眼镜",
-  "m_mask129.png": "黑小兔",
-  "m_mask1332.png": "红丝带蛋糕耳饰",
-  "m_mask134.png": "绷带兔面具",
-  "m_mask137.png": "帅气男神发饰",
-  "m_mask138.png": "樱花发饰（男）",
-  "m_mask150.png": "午夜假面",
-  "m_mask153.png": "学院派舞会眼罩",
-  "m_mask157.png": "阿凡达面孔",
-  "m_mask160.png": "坠天使发饰",
-  "m_mask162.png": "孤傲战士眼罩",
-  "m_mask164.png": "琉月发饰",
-  "m_mask166.png": "彩虹羊发饰",
-  "m_mask170.png": "书生呆萌眼镜",
-  "m_mask173.png": "玻璃糖纸发饰",
-  "m_mask181.png": "橘子小蘑菇",
-  "m_mask182.png": "骷髅红莲眼罩",
-  "m_mask184.png": "懒懒熊发饰",
-  "m_mask188.png": "阿修罗的耳朵",
-  "m_mask189.png": "鹏游蝶梦假面",
-  "m_mask191.png": "蓝兔子面饰",
-  "m_mask194.png": "电音恍惚",
-  "m_mask198.png": "软绵绵发卡",
-  "m_mask202.png": "我爱草莓（男）",
-  "m_mask205.png": "书呆子眼镜（男）",
-  "m_mask207.png": "夏日棒冰（男）",
-  "m_mask208.png": "星宿使徒面具",
-  "m_mask212.png": "水果硬糖发卡",
-  "m_mask214.png": "拳王争霸男面饰",
-  "m_mask215.png": "冷凝亮片",
-  "m_mask217.png": "蓝色海岸眼镜",
-  "m_mask220.png": "情书男发饰",
-  "m_mask224.png": "小蘑菇头饰（男）",
-  "m_mask226.png": "乐柠头饰（男）",
-  "m_mask228.png": "祈雨头饰（男）",
-  "m_mask230.png": "天妇罗猫猫头饰",
-  "m_mask232.png": "星月男头饰",
-  "m_mask854.png": "甜辣冬日男发饰"
+  "m_mask108.png": {
+    "name": "云鹤狐仙面具",
+    "hideBaseLayer": false
+  },
+  "m_mask111.png": {
+    "name": "王系面具（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask114.png": {
+    "name": "棕棕熊眼罩",
+    "hideBaseLayer": false
+  },
+  "m_mask1158.png": {
+    "name": "沁心夏日男发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask1186.png": {
+    "name": "精灵时花男发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask1190.png": {
+    "name": "酸奶不郁郁饰品",
+    "hideBaseLayer": false
+  },
+  "m_mask120.png": {
+    "name": "时尚防辐射眼镜",
+    "hideBaseLayer": false
+  },
+  "m_mask129.png": {
+    "name": "黑小兔",
+    "hideBaseLayer": false
+  },
+  "m_mask1332.png": {
+    "name": "红丝带蛋糕耳饰",
+    "hideBaseLayer": false
+  },
+  "m_mask134.png": {
+    "name": "绷带兔面具",
+    "hideBaseLayer": false
+  },
+  "m_mask137.png": {
+    "name": "帅气男神发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask138.png": {
+    "name": "樱花发饰（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask150.png": {
+    "name": "午夜假面",
+    "hideBaseLayer": false
+  },
+  "m_mask153.png": {
+    "name": "学院派舞会眼罩",
+    "hideBaseLayer": false
+  },
+  "m_mask157.png": {
+    "name": "阿凡达面孔",
+    "hideBaseLayer": false
+  },
+  "m_mask160.png": {
+    "name": "坠天使发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask162.png": {
+    "name": "孤傲战士眼罩",
+    "hideBaseLayer": false
+  },
+  "m_mask164.png": {
+    "name": "琉月发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask166.png": {
+    "name": "彩虹羊发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask170.png": {
+    "name": "书生呆萌眼镜",
+    "hideBaseLayer": false
+  },
+  "m_mask173.png": {
+    "name": "玻璃糖纸发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask181.png": {
+    "name": "橘子小蘑菇",
+    "hideBaseLayer": false
+  },
+  "m_mask182.png": {
+    "name": "骷髅红莲眼罩",
+    "hideBaseLayer": false
+  },
+  "m_mask184.png": {
+    "name": "懒懒熊发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask188.png": {
+    "name": "阿修罗的耳朵",
+    "hideBaseLayer": false
+  },
+  "m_mask189.png": {
+    "name": "鹏游蝶梦假面",
+    "hideBaseLayer": false
+  },
+  "m_mask191.png": {
+    "name": "蓝兔子面饰",
+    "hideBaseLayer": false
+  },
+  "m_mask194.png": {
+    "name": "电音恍惚",
+    "hideBaseLayer": false
+  },
+  "m_mask198.png": {
+    "name": "软绵绵发卡",
+    "hideBaseLayer": false
+  },
+  "m_mask202.png": {
+    "name": "我爱草莓（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask205.png": {
+    "name": "书呆子眼镜（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask207.png": {
+    "name": "夏日棒冰（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask208.png": {
+    "name": "星宿使徒面具",
+    "hideBaseLayer": false
+  },
+  "m_mask212.png": {
+    "name": "水果硬糖发卡",
+    "hideBaseLayer": false
+  },
+  "m_mask214.png": {
+    "name": "拳王争霸男面饰",
+    "hideBaseLayer": false
+  },
+  "m_mask215.png": {
+    "name": "冷凝亮片",
+    "hideBaseLayer": false
+  },
+  "m_mask217.png": {
+    "name": "蓝色海岸眼镜",
+    "hideBaseLayer": false
+  },
+  "m_mask220.png": {
+    "name": "情书男发饰",
+    "hideBaseLayer": false
+  },
+  "m_mask224.png": {
+    "name": "小蘑菇头饰（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask226.png": {
+    "name": "乐柠头饰（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask228.png": {
+    "name": "祈雨头饰（男）",
+    "hideBaseLayer": false
+  },
+  "m_mask230.png": {
+    "name": "天妇罗猫猫头饰",
+    "hideBaseLayer": false
+  },
+  "m_mask232.png": {
+    "name": "星月男头饰",
+    "hideBaseLayer": false
+  },
+  "m_mask854.png": {
+    "name": "甜辣冬日男发饰",
+    "hideBaseLayer": false
+  }
 }

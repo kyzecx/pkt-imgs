@@ -1,6 +1,6 @@
 # 本地脚本和工具（不上传）
 .venv/
-fetch-assets.js
+
 need.json
 temp/
 as/

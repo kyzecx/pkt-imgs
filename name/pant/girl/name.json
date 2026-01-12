@@ -1,60 +1,234 @@
 {
-  "f_pant001.png": "红色百褶裙",
-  "f_pant002.png": "深蓝牛仔裤",
-  "f_pant003.png": "黑色直筒裤",
-  "f_pant004.png": "牛仔热裤",
-  "f_pant005.png": "蓝色休闲裤",
-  "f_pant006.png": "牛仔中裙",
-  "f_pant007.png": "休闲中裤",
-  "f_pant008.png": "蓝色牛仔",
-  "f_pant009.png": "牛仔裙",
-  "f_pant011.png": "牛仔红边超短裤",
-  "f_pant012.png": "卯兔吉祥女下装",
-  "f_pant014.png": "黑桃灯笼裤",
-  "f_pant015.png": "红心A灯笼裤",
-  "f_pant016.png": "深蓝休闲裤",
-  "f_pant017.png": "红领巾短裙",
-  "f_pant018.png": "女军训长裤",
-  "f_pant019.png": "淡染优雅灯笼裤",
-  "f_pant020.png": "美国女下装",
-  "f_pant021.png": "浪漫花语短裙",
-  "f_pant022.png": "普罗旺斯蛋糕裙",
-  "f_pant023.png": "热浪比基尼下装",
-  "f_pant024.png": "呆萌萝莉系带裤",
-  "f_pant025.png": "无敌百褶裙",
-  "f_pant026.png": "甜蜜心思短裤",
-  "f_pant027.png": "雾切响子短裙",
-  "f_pant028.png": "英伦复古短裙",
-  "f_pant029.png": "淡蓝可爱短裙",
-  "f_pant030.png": "青春巴黎公主裙",
-  "f_pant031.png": "庆典狂欢舞裙",
-  "f_pant032.png": "英姿学院长裤",
-  "f_pant033.png": "朱雀襦裙",
-  "f_pant034.png": "云霞蜜糖裙",
-  "f_pant035.png": "唯爱时尚牛仔裤",
-  "f_pant036.png": "冰雪王后短裙",
-  "f_pant037.png": "汤圆约会彩绒裤",
-  "f_pant038.png": "春暖花开短裤",
-  "f_pant039.png": "活力萌妹百褶裙",
-  "f_pant040.png": "茶艺学童短裙",
-  "f_pant041.png": "华尔兹女裙",
-  "f_pant042.png": "盛夏风情女裙",
-  "f_pant043.png": "熊熊兔半裙",
-  "f_pant044.png": "遥远星空短裙",
-  "f_pant045.png": "星缘王后短裙",
-  "f_pant046.png": "高冷校花短裙",
-  "f_pant047.png": "翠湖约会短裙",
-  "f_pant048.png": "红颜知己女裙",
-  "f_pant049.png": "彩虹天堂百褶裙",
-  "f_pant050.png": "莫妮卡短裙",
-  "f_pant051.png": "彩虹咩女裙",
-  "f_pant052.png": "珍珠半裙",
-  "f_pant053.png": "红果果下装",
-  "f_pant054.png": "黑色燕尾服女西裤",
-  "f_pant055.png": "大蝴蝶结女裙",
-  "f_pant056.png": "冰蓝女裙",
-  "f_pant057.png": "橘子汽水女裙",
-  "f_pant058.png": "草绿背心裙",
-  "f_pant059.png": "粉兔牛仔长裤",
-  "f_pant060.png": "星光女爵下装"
+  "f_pant001.png": {
+    "name": "红色百褶裙",
+    "hideBaseLayer": false
+  },
+  "f_pant002.png": {
+    "name": "深蓝牛仔裤",
+    "hideBaseLayer": false
+  },
+  "f_pant003.png": {
+    "name": "黑色直筒裤",
+    "hideBaseLayer": false
+  },
+  "f_pant004.png": {
+    "name": "牛仔热裤",
+    "hideBaseLayer": false
+  },
+  "f_pant005.png": {
+    "name": "蓝色休闲裤",
+    "hideBaseLayer": false
+  },
+  "f_pant006.png": {
+    "name": "牛仔中裙",
+    "hideBaseLayer": false
+  },
+  "f_pant007.png": {
+    "name": "休闲中裤",
+    "hideBaseLayer": false
+  },
+  "f_pant008.png": {
+    "name": "蓝色牛仔",
+    "hideBaseLayer": false
+  },
+  "f_pant009.png": {
+    "name": "牛仔裙",
+    "hideBaseLayer": false
+  },
+  "f_pant011.png": {
+    "name": "牛仔红边超短裤",
+    "hideBaseLayer": false
+  },
+  "f_pant012.png": {
+    "name": "卯兔吉祥女下装",
+    "hideBaseLayer": false
+  },
+  "f_pant014.png": {
+    "name": "黑桃灯笼裤",
+    "hideBaseLayer": false
+  },
+  "f_pant015.png": {
+    "name": "红心A灯笼裤",
+    "hideBaseLayer": false
+  },
+  "f_pant016.png": {
+    "name": "深蓝休闲裤",
+    "hideBaseLayer": false
+  },
+  "f_pant017.png": {
+    "name": "红领巾短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant018.png": {
+    "name": "女军训长裤",
+    "hideBaseLayer": false
+  },
+  "f_pant019.png": {
+    "name": "淡染优雅灯笼裤",
+    "hideBaseLayer": false
+  },
+  "f_pant020.png": {
+    "name": "美国女下装",
+    "hideBaseLayer": false
+  },
+  "f_pant021.png": {
+    "name": "浪漫花语短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant022.png": {
+    "name": "普罗旺斯蛋糕裙",
+    "hideBaseLayer": false
+  },
+  "f_pant023.png": {
+    "name": "热浪比基尼下装",
+    "hideBaseLayer": false
+  },
+  "f_pant024.png": {
+    "name": "呆萌萝莉系带裤",
+    "hideBaseLayer": false
+  },
+  "f_pant025.png": {
+    "name": "无敌百褶裙",
+    "hideBaseLayer": false
+  },
+  "f_pant026.png": {
+    "name": "甜蜜心思短裤",
+    "hideBaseLayer": false
+  },
+  "f_pant027.png": {
+    "name": "雾切响子短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant028.png": {
+    "name": "英伦复古短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant029.png": {
+    "name": "淡蓝可爱短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant030.png": {
+    "name": "青春巴黎公主裙",
+    "hideBaseLayer": false
+  },
+  "f_pant031.png": {
+    "name": "庆典狂欢舞裙",
+    "hideBaseLayer": false
+  },
+  "f_pant032.png": {
+    "name": "英姿学院长裤",
+    "hideBaseLayer": false
+  },
+  "f_pant033.png": {
+    "name": "朱雀襦裙",
+    "hideBaseLayer": false
+  },
+  "f_pant034.png": {
+    "name": "云霞蜜糖裙",
+    "hideBaseLayer": false
+  },
+  "f_pant035.png": {
+    "name": "唯爱时尚牛仔裤",
+    "hideBaseLayer": false
+  },
+  "f_pant036.png": {
+    "name": "冰雪王后短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant037.png": {
+    "name": "汤圆约会彩绒裤",
+    "hideBaseLayer": false
+  },
+  "f_pant038.png": {
+    "name": "春暖花开短裤",
+    "hideBaseLayer": false
+  },
+  "f_pant039.png": {
+    "name": "活力萌妹百褶裙",
+    "hideBaseLayer": false
+  },
+  "f_pant040.png": {
+    "name": "茶艺学童短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant041.png": {
+    "name": "华尔兹女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant042.png": {
+    "name": "盛夏风情女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant043.png": {
+    "name": "熊熊兔半裙",
+    "hideBaseLayer": false
+  },
+  "f_pant044.png": {
+    "name": "遥远星空短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant045.png": {
+    "name": "星缘王后短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant046.png": {
+    "name": "高冷校花短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant047.png": {
+    "name": "翠湖约会短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant048.png": {
+    "name": "红颜知己女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant049.png": {
+    "name": "彩虹天堂百褶裙",
+    "hideBaseLayer": false
+  },
+  "f_pant050.png": {
+    "name": "莫妮卡短裙",
+    "hideBaseLayer": false
+  },
+  "f_pant051.png": {
+    "name": "彩虹咩女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant052.png": {
+    "name": "珍珠半裙",
+    "hideBaseLayer": false
+  },
+  "f_pant053.png": {
+    "name": "红果果下装",
+    "hideBaseLayer": false
+  },
+  "f_pant054.png": {
+    "name": "黑色燕尾服女西裤",
+    "hideBaseLayer": false
+  },
+  "f_pant055.png": {
+    "name": "大蝴蝶结女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant056.png": {
+    "name": "冰蓝女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant057.png": {
+    "name": "橘子汽水女裙",
+    "hideBaseLayer": false
+  },
+  "f_pant058.png": {
+    "name": "草绿背心裙",
+    "hideBaseLayer": false
+  },
+  "f_pant059.png": {
+    "name": "粉兔牛仔长裤",
+    "hideBaseLayer": false
+  },
+  "f_pant060.png": {
+    "name": "星光女爵下装",
+    "hideBaseLayer": false
+  }
 }

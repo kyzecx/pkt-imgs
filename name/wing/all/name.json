@@ -1,20 +1,74 @@
 {
-  "u_wing001.png": "天使羽翼",
-  "u_wing002.png": "蓝色翅膀",
-  "u_wing003.png": "魔翼",
-  "u_wing004.png": "碧玉琉珠",
-  "u_wing005.png": "金玉蝶翅",
-  "u_wing006.png": "风荷羽翅",
-  "u_wing007.png": "蛾精灵翅膀",
-  "u_wing009.png": "奶茶大使翅膀",
-  "u_wing010.png": "小熊背后背",
-  "u_wing011.png": "三级包",
-  "u_wing012.png": "境羽华翼（白）",
-  "u_wing013.png": "境羽华翼（黑）",
-  "u_wing014.png": "圣心之翼（男）",
-  "u_wing015.png": "圣心之翼（女）",
-  "u_wing016.png": "新翼初放男翅膀",
-  "u_wing017.png": "新翼初放女翅膀",
-  "u_wing018.png": "蝶花之约男翅膀",
-  "u_wing019.png": "蝶花之约女翅膀"
+  "u_wing001.png": {
+    "name": "天使羽翼",
+    "hideBaseLayer": false
+  },
+  "u_wing002.png": {
+    "name": "蓝色翅膀",
+    "hideBaseLayer": false
+  },
+  "u_wing003.png": {
+    "name": "魔翼",
+    "hideBaseLayer": false
+  },
+  "u_wing004.png": {
+    "name": "碧玉琉珠",
+    "hideBaseLayer": false
+  },
+  "u_wing005.png": {
+    "name": "金玉蝶翅",
+    "hideBaseLayer": false
+  },
+  "u_wing006.png": {
+    "name": "风荷羽翅",
+    "hideBaseLayer": false
+  },
+  "u_wing007.png": {
+    "name": "蛾精灵翅膀",
+    "hideBaseLayer": false
+  },
+  "u_wing009.png": {
+    "name": "奶茶大使翅膀",
+    "hideBaseLayer": false
+  },
+  "u_wing010.png": {
+    "name": "小熊背后背",
+    "hideBaseLayer": false
+  },
+  "u_wing011.png": {
+    "name": "三级包",
+    "hideBaseLayer": false
+  },
+  "u_wing012.png": {
+    "name": "境羽华翼（白）",
+    "hideBaseLayer": false
+  },
+  "u_wing013.png": {
+    "name": "境羽华翼（黑）",
+    "hideBaseLayer": false
+  },
+  "u_wing014.png": {
+    "name": "圣心之翼（男）",
+    "hideBaseLayer": false
+  },
+  "u_wing015.png": {
+    "name": "圣心之翼（女）",
+    "hideBaseLayer": false
+  },
+  "u_wing016.png": {
+    "name": "新翼初放男翅膀",
+    "hideBaseLayer": false
+  },
+  "u_wing017.png": {
+    "name": "新翼初放女翅膀",
+    "hideBaseLayer": false
+  },
+  "u_wing018.png": {
+    "name": "蝶花之约男翅膀",
+    "hideBaseLayer": false
+  },
+  "u_wing019.png": {
+    "name": "蝶花之约女翅膀",
+    "hideBaseLayer": false
+  }
 }

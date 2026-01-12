@@ -1,60 +1,466 @@
 {
-  "f_glas023.png": "电力十足",
-  "f_glas025.png": "喵胡子眼镜（女）",
-  "f_glas027.png": "独眼异族(女)",
-  "f_glas029.png": "荧光烁烁美瞳",
-  "f_glas031.png": "柔情似水",
-  "f_glas033.png": "碧眼盈波",
-  "f_glas035.png": "眼闪秋波",
-  "f_glas037.png": "完美新娘眼眸",
-  "f_glas039.png": "心心眼罩",
-  "f_glas041.png": "心眸相望",
-  "f_glas043.png": "绿莹莹",
-  "f_glas045.png": "簪星曳月",
-  "f_glas047.png": "夏日青柠",
-  "f_glas049.png": "冰晶盈盈",
-  "f_glas051.png": "紫幽清梦",
-  "f_glas053.png": "赤血幽魄",
-  "f_glas055.png": "暮夜流萤",
-  "f_glas057.png": "星彤明眸",
-  "f_glas058.png": "霜天雪地",
-  "f_glas061.png": "月胧星淡",
-  "f_glas064.png": "蜜桃星瞳",
-  "f_glas066.png": "草莓绿瞳",
-  "f_glas067.png": "蓝莓紫瞳",
-  "f_glas069.png": "静谧女瞳",
-  "f_glas070.png": "骄阳似火",
-  "f_glas072.png": "波斯异瞳（女）",
-  "f_glas074.png": "萌露粉瞳（女）",
-  "f_glas076.png": "魅瞳（女）",
-  "f_glas078.png": "金秋女瞳",
-  "f_glas081.png": "蝶舞森林",
-  "f_glas083.png": "豆花眼",
-  "f_glas085.png": "点点星星",
-  "f_glas087.png": "紫蝶碧波",
-  "f_glas089.png": "瞌睡兔兔惺忪",
-  "f_glas090.png": "萌心青青",
-  "f_glas092.png": "五星红瞳（女）",
-  "f_glas095.png": "梦星时分",
-  "f_glas097.png": "魔仙女王",
-  "f_glas099.png": "软萌兔",
-  "f_glas101.png": "紫月星宿",
-  "f_glas103.png": "星途女瞳",
-  "f_glas103_Animate.png": "星途女瞳",
-  "f_glas105.png": "晴之穹苍",
-  "f_glas107.png": "水蓝彼岸女瞳",
-  "f_glas107_Animate.png": "水蓝彼岸女瞳",
-  "f_glas108.png": "鲷鱼烧猫猫脸型",
-  "f_glas119.png": "雨落眼眸（女）",
-  "f_glas119_Animate.png": "雨落眼眸（女）",
-  "f_glas126.png": "凝然香蕊",
-  "f_glas126_Animate.png": "凝然香蕊",
-  "f_glas131.png": "奶昔泡泡眼瞳（女）",
-  "f_glas131_Animate.png": "奶昔泡泡眼瞳（女）",
-  "f_glas140.png": "粉裘枫糖眼瞳（女）",
-  "f_glas140_Animate.png": "粉裘枫糖眼瞳（女）",
-  "f_glas144.png": "澄明舒星（女）",
-  "f_glas144_Animate.png": "澄明舒星（女）",
-  "f_glas231.png": "酸奶不郁郁女眸",
-  "f_glas231_Animate.png": "酸奶不郁郁女眸"
+  "f_glas023.png": {
+    "name": "电力十足",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas025.png": {
+    "name": "喵胡子眼镜（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas027.png": {
+    "name": "独眼异族(女)",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas029.png": {
+    "name": "荧光烁烁美瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas031.png": {
+    "name": "柔情似水",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas033.png": {
+    "name": "碧眼盈波",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas035.png": {
+    "name": "眼闪秋波",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas037.png": {
+    "name": "完美新娘眼眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas039.png": {
+    "name": "心心眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas041.png": {
+    "name": "心眸相望",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas043.png": {
+    "name": "绿莹莹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas045.png": {
+    "name": "簪星曳月",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas047.png": {
+    "name": "夏日青柠",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas049.png": {
+    "name": "冰晶盈盈",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas051.png": {
+    "name": "紫幽清梦",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas053.png": {
+    "name": "赤血幽魄",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas055.png": {
+    "name": "暮夜流萤",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas057.png": {
+    "name": "星彤明眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas058.png": {
+    "name": "霜天雪地",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas061.png": {
+    "name": "月胧星淡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas064.png": {
+    "name": "蜜桃星瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas066.png": {
+    "name": "草莓绿瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas067.png": {
+    "name": "蓝莓紫瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas069.png": {
+    "name": "静谧女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas070.png": {
+    "name": "骄阳似火",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas072.png": {
+    "name": "波斯异瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas074.png": {
+    "name": "萌露粉瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas076.png": {
+    "name": "魅瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas078.png": {
+    "name": "金秋女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas081.png": {
+    "name": "蝶舞森林",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas083.png": {
+    "name": "豆花眼",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas085.png": {
+    "name": "点点星星",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas087.png": {
+    "name": "紫蝶碧波",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas089.png": {
+    "name": "瞌睡兔兔惺忪",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas090.png": {
+    "name": "萌心青青",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas092.png": {
+    "name": "五星红瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas095.png": {
+    "name": "梦星时分",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas097.png": {
+    "name": "魔仙女王",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas099.png": {
+    "name": "软萌兔",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas101.png": {
+    "name": "紫月星宿",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas103.png": {
+    "name": "星途女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas103_Animate.png": {
+    "name": "星途女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas105.png": {
+    "name": "晴之穹苍",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas107.png": {
+    "name": "水蓝彼岸女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas107_Animate.png": {
+    "name": "水蓝彼岸女瞳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas108.png": {
+    "name": "鲷鱼烧猫猫脸型",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_glas119.png": {
+    "name": "雨落眼眸（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas119_Animate.png": {
+    "name": "雨落眼眸（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas126.png": {
+    "name": "凝然香蕊",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas126_Animate.png": {
+    "name": "凝然香蕊",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas131.png": {
+    "name": "奶昔泡泡眼瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas131_Animate.png": {
+    "name": "奶昔泡泡眼瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas140.png": {
+    "name": "粉裘枫糖眼瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas140_Animate.png": {
+    "name": "粉裘枫糖眼瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas144.png": {
+    "name": "澄明舒星（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas144_Animate.png": {
+    "name": "澄明舒星（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas231.png": {
+    "name": "酸奶不郁郁女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "f_glas231_Animate.png": {
+    "name": "酸奶不郁郁女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  }
 }

@@ -1,75 +1,294 @@
 {
-  "m_clot001.png": "蓝色T恤",
-  "m_clot002.png": "红色POLO衫",
-  "m_clot003.png": "背心小T",
-  "m_clot004.png": "藏青无袖衫",
-  "m_clot005.png": "鸡心领灰T恤",
-  "m_clot006.png": "翻领夹克",
-  "m_clot007.png": "黑色三扣西装",
-  "m_clot008.png": "围脖灰T恤",
-  "m_clot009.png": "古典白色唐装",
-  "m_clot010.png": "条纹假两件套",
-  "m_clot011.png": "红马夹羽绒衣",
-  "m_clot012.png": "星星知我心",
-  "m_clot013.png": "绿军装",
-  "m_clot014.png": "蓝围巾牛仔装",
-  "m_clot015.png": "紫围巾纯白上衣",
-  "m_clot017.png": "蓝色燕尾上衣",
-  "m_clot018.png": "卯兔吉祥男上装",
-  "m_clot020.png": "乐动休闲上衣",
-  "m_clot021.png": "书香金星短袖",
-  "m_clot022.png": "红领巾（男）",
-  "m_clot023.png": "男军训上衣",
-  "m_clot024.png": "红火夏季",
-  "m_clot025.png": "美国男上衣",
-  "m_clot026.png": "星梦彩虹短衫",
-  "m_clot027.png": "英伦时尚约会衬衫",
-  "m_clot028.png": "热浪连帽T恤",
-  "m_clot029.png": "成熟型男墨兰外套",
-  "m_clot030.png": "夏日无尽衬衫",
-  "m_clot031.png": "粉色爱恋雨衣",
-  "m_clot032.png": "苗木诚上装",
-  "m_clot033.png": "法国贵族校服",
-  "m_clot034.png": "蓝色酷炫上衣",
-  "m_clot035.png": "英伦风尚马甲",
-  "m_clot036.png": "暖冬舞会衬衫",
-  "m_clot037.png": "帅气越野男装",
-  "m_clot038.png": "湖蓝领结衬衫",
-  "m_clot039.png": "青龙汗衫",
-  "m_clot040.png": "星光灿烂卫衣",
-  "m_clot041.png": "唯爱动物印花T恤",
-  "m_clot042.png": "复古领结上衣",
-  "m_clot043.png": "汤圆约会外套",
-  "m_clot044.png": "温雅男爵披风",
-  "m_clot045.png": "快乐春游夹克",
-  "m_clot046.png": "帅气男神外套",
-  "m_clot047.png": "氧气印花西装",
-  "m_clot048.png": "狂野魔法师礼服",
-  "m_clot049.png": "功夫学院男装",
-  "m_clot050.png": "酒醉探戈男装",
-  "m_clot051.png": "盛夏风情男装",
-  "m_clot052.png": "暗喵水手服上衣",
-  "m_clot053.png": "莱迪迪棒球衫",
-  "m_clot054.png": "嘻哈男孩上装",
-  "m_clot055.png": "星缘国王男装",
-  "m_clot056.png": "冷酷校草男装",
-  "m_clot057.png": "荧星撞色马甲",
-  "m_clot058.png": "蓝色心情卫衣",
-  "m_clot060.png": "红蓝拼色马甲",
-  "m_clot061.png": "蓝冰套装",
-  "m_clot062.png": "彩虹羊上衣",
-  "m_clot063.png": "早秋背心装",
-  "m_clot064.png": "DG红条卫衣",
-  "m_clot065.png": "黑色燕尾服西装",
-  "m_clot066.png": "红果果男上衣",
-  "m_clot067.png": "绿绿小斗篷",
-  "m_clot068.png": "清凉T恤",
-  "m_clot069.png": "墨镜马甲上衣",
-  "m_clot070.png": "橘子汽水男装",
-  "m_clot071.png": "牛仔蓝上衣",
-  "m_clot072.png": "香檬汪连帽衫",
-  "m_clot073.png": "红色马甲上衣",
-  "m_clot074.png": "蓝爵马甲装",
-  "m_clot075.png": "红意男装",
-  "m_clot076.png": "月光骑士上装"
+  "m_clot001.png": {
+    "name": "蓝色T恤",
+    "hideBaseLayer": false
+  },
+  "m_clot002.png": {
+    "name": "红色POLO衫",
+    "hideBaseLayer": false
+  },
+  "m_clot003.png": {
+    "name": "背心小T",
+    "hideBaseLayer": false
+  },
+  "m_clot004.png": {
+    "name": "藏青无袖衫",
+    "hideBaseLayer": false
+  },
+  "m_clot005.png": {
+    "name": "鸡心领灰T恤",
+    "hideBaseLayer": false
+  },
+  "m_clot006.png": {
+    "name": "翻领夹克",
+    "hideBaseLayer": false
+  },
+  "m_clot007.png": {
+    "name": "黑色三扣西装",
+    "hideBaseLayer": false
+  },
+  "m_clot008.png": {
+    "name": "围脖灰T恤",
+    "hideBaseLayer": false
+  },
+  "m_clot009.png": {
+    "name": "古典白色唐装",
+    "hideBaseLayer": false
+  },
+  "m_clot010.png": {
+    "name": "条纹假两件套",
+    "hideBaseLayer": false
+  },
+  "m_clot011.png": {
+    "name": "红马夹羽绒衣",
+    "hideBaseLayer": false
+  },
+  "m_clot012.png": {
+    "name": "星星知我心",
+    "hideBaseLayer": false
+  },
+  "m_clot013.png": {
+    "name": "绿军装",
+    "hideBaseLayer": false
+  },
+  "m_clot014.png": {
+    "name": "蓝围巾牛仔装",
+    "hideBaseLayer": false
+  },
+  "m_clot015.png": {
+    "name": "紫围巾纯白上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot017.png": {
+    "name": "蓝色燕尾上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot018.png": {
+    "name": "卯兔吉祥男上装",
+    "hideBaseLayer": false
+  },
+  "m_clot020.png": {
+    "name": "乐动休闲上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot021.png": {
+    "name": "书香金星短袖",
+    "hideBaseLayer": false
+  },
+  "m_clot022.png": {
+    "name": "红领巾（男）",
+    "hideBaseLayer": false
+  },
+  "m_clot023.png": {
+    "name": "男军训上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot024.png": {
+    "name": "红火夏季",
+    "hideBaseLayer": false
+  },
+  "m_clot025.png": {
+    "name": "美国男上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot026.png": {
+    "name": "星梦彩虹短衫",
+    "hideBaseLayer": false
+  },
+  "m_clot027.png": {
+    "name": "英伦时尚约会衬衫",
+    "hideBaseLayer": false
+  },
+  "m_clot028.png": {
+    "name": "热浪连帽T恤",
+    "hideBaseLayer": false
+  },
+  "m_clot029.png": {
+    "name": "成熟型男墨兰外套",
+    "hideBaseLayer": false
+  },
+  "m_clot030.png": {
+    "name": "夏日无尽衬衫",
+    "hideBaseLayer": false
+  },
+  "m_clot031.png": {
+    "name": "粉色爱恋雨衣",
+    "hideBaseLayer": false
+  },
+  "m_clot032.png": {
+    "name": "苗木诚上装",
+    "hideBaseLayer": false
+  },
+  "m_clot033.png": {
+    "name": "法国贵族校服",
+    "hideBaseLayer": false
+  },
+  "m_clot034.png": {
+    "name": "蓝色酷炫上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot035.png": {
+    "name": "英伦风尚马甲",
+    "hideBaseLayer": false
+  },
+  "m_clot036.png": {
+    "name": "暖冬舞会衬衫",
+    "hideBaseLayer": false
+  },
+  "m_clot037.png": {
+    "name": "帅气越野男装",
+    "hideBaseLayer": false
+  },
+  "m_clot038.png": {
+    "name": "湖蓝领结衬衫",
+    "hideBaseLayer": false
+  },
+  "m_clot039.png": {
+    "name": "青龙汗衫",
+    "hideBaseLayer": false
+  },
+  "m_clot040.png": {
+    "name": "星光灿烂卫衣",
+    "hideBaseLayer": false
+  },
+  "m_clot041.png": {
+    "name": "唯爱动物印花T恤",
+    "hideBaseLayer": false
+  },
+  "m_clot042.png": {
+    "name": "复古领结上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot043.png": {
+    "name": "汤圆约会外套",
+    "hideBaseLayer": false
+  },
+  "m_clot044.png": {
+    "name": "温雅男爵披风",
+    "hideBaseLayer": false
+  },
+  "m_clot045.png": {
+    "name": "快乐春游夹克",
+    "hideBaseLayer": false
+  },
+  "m_clot046.png": {
+    "name": "帅气男神外套",
+    "hideBaseLayer": false
+  },
+  "m_clot047.png": {
+    "name": "氧气印花西装",
+    "hideBaseLayer": false
+  },
+  "m_clot048.png": {
+    "name": "狂野魔法师礼服",
+    "hideBaseLayer": false
+  },
+  "m_clot049.png": {
+    "name": "功夫学院男装",
+    "hideBaseLayer": false
+  },
+  "m_clot050.png": {
+    "name": "酒醉探戈男装",
+    "hideBaseLayer": false
+  },
+  "m_clot051.png": {
+    "name": "盛夏风情男装",
+    "hideBaseLayer": false
+  },
+  "m_clot052.png": {
+    "name": "暗喵水手服上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot053.png": {
+    "name": "莱迪迪棒球衫",
+    "hideBaseLayer": false
+  },
+  "m_clot054.png": {
+    "name": "嘻哈男孩上装",
+    "hideBaseLayer": false
+  },
+  "m_clot055.png": {
+    "name": "星缘国王男装",
+    "hideBaseLayer": false
+  },
+  "m_clot056.png": {
+    "name": "冷酷校草男装",
+    "hideBaseLayer": false
+  },
+  "m_clot057.png": {
+    "name": "荧星撞色马甲",
+    "hideBaseLayer": false
+  },
+  "m_clot058.png": {
+    "name": "蓝色心情卫衣",
+    "hideBaseLayer": false
+  },
+  "m_clot060.png": {
+    "name": "红蓝拼色马甲",
+    "hideBaseLayer": false
+  },
+  "m_clot061.png": {
+    "name": "蓝冰套装",
+    "hideBaseLayer": false
+  },
+  "m_clot062.png": {
+    "name": "彩虹羊上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot063.png": {
+    "name": "早秋背心装",
+    "hideBaseLayer": false
+  },
+  "m_clot064.png": {
+    "name": "DG红条卫衣",
+    "hideBaseLayer": false
+  },
+  "m_clot065.png": {
+    "name": "黑色燕尾服西装",
+    "hideBaseLayer": false
+  },
+  "m_clot066.png": {
+    "name": "红果果男上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot067.png": {
+    "name": "绿绿小斗篷",
+    "hideBaseLayer": false
+  },
+  "m_clot068.png": {
+    "name": "清凉T恤",
+    "hideBaseLayer": false
+  },
+  "m_clot069.png": {
+    "name": "墨镜马甲上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot070.png": {
+    "name": "橘子汽水男装",
+    "hideBaseLayer": false
+  },
+  "m_clot071.png": {
+    "name": "牛仔蓝上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot072.png": {
+    "name": "香檬汪连帽衫",
+    "hideBaseLayer": false
+  },
+  "m_clot073.png": {
+    "name": "红色马甲上衣",
+    "hideBaseLayer": false
+  },
+  "m_clot074.png": {
+    "name": "蓝爵马甲装",
+    "hideBaseLayer": false
+  },
+  "m_clot075.png": {
+    "name": "红意男装",
+    "hideBaseLayer": false
+  },
+  "m_clot076.png": {
+    "name": "月光骑士上装",
+    "hideBaseLayer": false
+  }
 }

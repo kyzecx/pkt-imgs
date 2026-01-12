@@ -1,3 +1,6 @@
 {
-  "u_coat010.png": "三级甲"
+  "u_coat010.png": {
+    "name": "三级甲",
+    "hideBaseLayer": false
+  }
 }

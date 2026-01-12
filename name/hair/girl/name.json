@@ -1,921 +1,3678 @@
 {
-  "f_hair001.png": "清爽OL",
-  "f_hair002.png": "粉红小可爱",
-  "f_hair003.png": "蝴蝶结",
-  "f_hair004.png": "金色长发",
-  "f_hair005.png": "清爽一夏",
-  "f_hair006.png": "罗莉塔",
-  "f_hair007.png": "邻家小妹",
-  "f_hair008.png": "小丫头",
-  "f_hair009.png": "崛起",
-  "f_hair010.png": "粉紫",
-  "f_hair011.png": "金色长发",
-  "f_hair012.png": "银色卷发",
-  "f_hair013.png": "黑色阳光发型",
-  "f_hair014.png": "红色短发",
-  "f_hair015.png": "蓝色短发",
-  "f_hair016.png": "可爱短发",
-  "f_hair017.png": "高贵金发",
-  "f_hair018.png": "猫耳红色短发",
-  "f_hair019.png": "绿色短发",
-  "f_hair020.png": "咖啡色卷发",
-  "f_hair022.png": "粉粉帽",
-  "f_hair023.png": "俏皮小辫",
-  "f_hair024.png": "浪漫一身",
-  "f_hair025.png": "绿色小可爱",
-  "f_hair026.png": "小红帽",
-  "f_hair027.png": "飘逸长发",
-  "f_hair028.png": "尊贵金发",
-  "f_hair029.png": "女武神",
-  "f_hair030.png": "火影发型之小樱",
-  "f_hair031.png": "火影发型之雏田",
-  "f_hair032.png": "火影发型之手鞠",
-  "f_hair034.png": "魔术女帽",
-  "f_hair035.png": "女恶魔",
-  "f_hair036.png": "粉色面罩",
-  "f_hair037.png": "小鬼当家女帽",
-  "f_hair038.png": "女生粉色睡帽",
-  "f_hair039.png": "樱姬发型",
-  "f_hair040.png": "女美发师发型",
-  "f_hair041.png": "铅笔头",
-  "f_hair042.png": "书本头",
-  "f_hair043.png": "楚楚动人",
-  "f_hair044.png": "棕色花包头",
-  "f_hair045.png": "黑色盘头",
-  "f_hair046.png": "绿色偏马尾",
-  "f_hair047.png": "粉色红头绳发型",
-  "f_hair048.png": "清纯长发",
-  "f_hair049.png": "紫色BOBO头",
-  "f_hair050.png": "粉色棉花糖",
-  "f_hair051.png": "清爽短发",
-  "f_hair052.png": "成熟美",
-  "f_hair054.png": "皇后金冠发型",
-  "f_hair055.png": "织女发型",
-  "f_hair056.png": "迷糊小粉帽",
-  "f_hair057.png": "米奇红帽",
-  "f_hair058.png": "泡泡青蛙",
-  "f_hair059.png": "萝丝发型",
-  "f_hair060.png": "樱发型",
-  "f_hair061.png": "春丽发型",
-  "f_hair062.png": "爱丽丝发型",
-  "f_hair063.png": "神秘星占发型",
-  "f_hair064.png": "俏皮青春女发型",
-  "f_hair065.png": "糖心发型",
-  "f_hair066.png": "粉色朋克短发",
-  "f_hair067.png": "格格发型",
-  "f_hair068.png": "金色绒绒发型",
-  "f_hair069.png": "可爱花苞头",
-  "f_hair070.png": "金色圣洁长发",
-  "f_hair071.png": "金之舞动",
-  "f_hair072.png": "金色风情卷发",
-  "f_hair073.png": "芭比大小姐",
-  "f_hair074.png": "清爽包包头",
-  "f_hair075.png": "桃红短发",
-  "f_hair076.png": "金色小天使",
-  "f_hair077.png": "女扎库米发型",
-  "f_hair078.png": "草莓樱樱",
-  "f_hair079.png": "御姐银发",
-  "f_hair080.png": "橙色咔哇",
-  "f_hair081.png": "瑰红魔力",
-  "f_hair082.png": "皮可红红",
-  "f_hair083.png": "爆裂梦玛",
-  "f_hair084.png": "高贵皇妃",
-  "f_hair085.png": "梨花头",
-  "f_hair086.png": "咪尔梦梦",
-  "f_hair087.png": "布鲁喵喵",
-  "f_hair088.png": "纽拉包包",
-  "f_hair089.png": "金拉比",
-  "f_hair090.png": "雅典娜",
-  "f_hair091.png": "弥兰莎丽发型",
-  "f_hair092.png": "雪比莉咪发型",
-  "f_hair093.png": "波灵莉喵发型",
-  "f_hair094.png": "吉拉宠宠发型",
-  "f_hair095.png": "咕咕橙橙",
-  "f_hair096.png": "尼嘟卷卷",
-  "f_hair097.png": "兰蝶幻幻",
-  "f_hair098.png": "青青呱呱头",
-  "f_hair099.png": "梦蝶卷发",
-  "f_hair100.png": "蓝星银发",
-  "f_hair101.png": "红奇卷发",
-  "f_hair102.png": "红红帽帽",
-  "f_hair103.png": "青青绵绵发型",
-  "f_hair104.png": "波喱发型",
-  "f_hair105.png": "清凉短发",
-  "f_hair106.png": "甜甜圈圈发型",
-  "f_hair107.png": "天使发型",
-  "f_hair108.png": "溜溜兔耳发型",
-  "f_hair109.png": "拉丝金奇发型",
-  "f_hair110.png": "冰冰卷发",
-  "f_hair111.png": "草莓糖果金发",
-  "f_hair112.png": "蝉月发型",
-  "f_hair113.png": "绅士公主发型",
-  "f_hair114.png": "萌动包包头",
-  "f_hair115.png": "魔女银发",
-  "f_hair1152.png": "雨落蛙蛙女发",
-  "f_hair116.png": "缤纷星星卷发",
-  "f_hair117.png": "嘟嘟喱",
-  "f_hair118.png": "鼓鼓白棉发",
-  "f_hair119.png": "喜美绘心蓝",
-  "f_hair120.png": "蝶曦曦",
-  "f_hair121.png": "菲灵发型",
-  "f_hair122.png": "圣圣南瓜发型",
-  "f_hair123.png": "苏格兰卷卷",
-  "f_hair124.png": "女包青天发型",
-  "f_hair125.png": "女展昭发型",
-  "f_hair126.png": "女张龙赵虎帽",
-  "f_hair127.png": "女王朝马汉帽",
-  "f_hair128.png": "女公孙策发型",
-  "f_hair129.png": "米修嘭嘭发型",
-  "f_hair131.png": "女衙役发型",
-  "f_hair132.png": "圣诞包包头",
-  "f_hair1322.png": "狂奔猪猪女发",
-  "f_hair133.png": "飘盈金丝发",
-  "f_hair134.png": "莓莓蓝",
-  "f_hair135.png": "卯兔财神女发型",
-  "f_hair136.png": "莹之飘雪",
-  "f_hair137.png": "卡咪梦露发型",
-  "f_hair138.png": "花润发型",
-  "f_hair139.png": "蓝莓芯长发",
-  "f_hair140.png": "蛋糕卷卷",
-  "f_hair141.png": "花花语长发",
-  "f_hair142.png": "蓝幂金发",
-  "f_hair143.png": "橘色玫瑰",
-  "f_hair144.png": "春香发型",
-  "f_hair145.png": "梅芳发型",
-  "f_hair146.png": "秋菊发型",
-  "f_hair1462.png": "奶昔泡泡女发",
-  "f_hair147.png": "魅舞之影",
-  "f_hair148.png": "樱花飘飘",
-  "f_hair149.png": "咪乖猫猫发型",
-  "f_hair150.png": "旗莎棕卷发",
-  "f_hair151.png": "海盗少女发型",
-  "f_hair152.png": "金色糖果发型",
-  "f_hair153.png": "碧波长发",
-  "f_hair154.png": "魔法少女发型",
-  "f_hair155.png": "黄莺卷发",
-  "f_hair156.png": "小熊灵动发型",
-  "f_hair157.png": "蝴蝶结女发",
-  "f_hair158.png": "梦露露",
-  "f_hair159.png": "青青长发",
-  "f_hair160.png": "天使之翼",
-  "f_hair161.png": "莉莉小猫",
-  "f_hair162.png": "蕾蕾娃娃头",
-  "f_hair163.png": "星星麦穗头",
-  "f_hair164.png": "蜜桃花蝴蝶",
-  "f_hair165.png": "夜翼小魔女",
-  "f_hair166.png": "芒果圣代",
-  "f_hair167.png": "皮卡皮卡",
-  "f_hair168.png": "爱音发型",
-  "f_hair169.png": "海洋之心",
-  "f_hair170.png": "萌萌头",
-  "f_hair171.png": "球球猫",
-  "f_hair172.png": "甜心兔",
-  "f_hair1724.png": "粉裘枫糖女发",
-  "f_hair173.png": "夏威夷露露",
-  "f_hair174.png": "香芒橙子",
-  "f_hair175.png": "香草薇琪",
-  "f_hair176.png": "夏日花瓣",
-  "f_hair177.png": "公主之心",
-  "f_hair178.png": "蛋卷甜甜",
-  "f_hair179.png": "朵朵小蜜蜂",
-  "f_hair180.png": "魔光白雪",
-  "f_hair181.png": "蔚蓝卷卷发",
-  "f_hair182.png": "萤萤藤蔓",
-  "f_hair183.png": "魔幻紫卷发",
-  "f_hair184.png": "古典王姬",
-  "f_hair185.png": "幻幻星空",
-  "f_hair186.png": "淡白小可爱",
-  "f_hair187.png": "蓝帽小雨",
-  "f_hair188.png": "苹果短发",
-  "f_hair189.png": "日风樱花",
-  "f_hair190.png": "糖糖兔发型",
-  "f_hair191.png": "魔导小蝙蝠",
-  "f_hair1912.png": "抱抱熊女发",
-  "f_hair192.png": "哆哆拉魔女",
-  "f_hair193.png": "草莓奶昔发型",
-  "f_hair194.png": "飘蓝星星发型",
-  "f_hair195.png": "夏香百合发型",
-  "f_hair196.png": "天使之恋",
-  "f_hair197.png": "女科学家发型",
-  "f_hair198.png": "萝莉小星星",
-  "f_hair199.png": "清凉运动短发",
-  "f_hair200.png": "薄雾长发",
-  "f_hair201.png": "牛仔金色长发",
-  "f_hair2018.png": "心碎信号女发",
-  "f_hair202.png": "樱光卷发",
-  "f_hair203.png": "墨绿复古长发",
-  "f_hair204.png": "菇菇短发",
-  "f_hair205.png": "棕色小玫瑰",
-  "f_hair206.png": "桐乃金发",
-  "f_hair207.png": "月影飞仙发型",
-  "f_hair208.png": "蓝色雾气长发",
-  "f_hair209.png": "冰晶长发",
-  "f_hair210.png": "蔷薇长发",
-  "f_hair211.png": "莉莉安长发",
-  "f_hair212.png": "小樱桃长发",
-  "f_hair213.png": "粉色空姐发型",
-  "f_hair214.png": "白色洋洋发型",
-  "f_hair215.png": "樱红棕色短发",
-  "f_hair216.png": "南瓜糖果发型",
-  "f_hair217.png": "安娜公主发型",
-  "f_hair218.png": "海洋波浪长发",
-  "f_hair219.png": "蓝色花语发型",
-  "f_hair221.png": "喵喵酱发型",
-  "f_hair222.png": "香榭发型",
-  "f_hair223.png": "魔仙金发",
-  "f_hair224.png": "果酱发型",
-  "f_hair225.png": "金铃发型",
-  "f_hair226.png": "晨曦发型",
-  "f_hair227.png": "王女发型",
-  "f_hair228.png": "晓美焰发型",
-  "f_hair229.png": "温柔蔷薇女发",
-  "f_hair230.png": "龙梅发型",
-  "f_hair231.png": "纤纤发型",
-  "f_hair232.png": "寒梅发型",
-  "f_hair233.png": "布偶麻花辫",
-  "f_hair2330.png": "时尚之汐女发",
-  "f_hair234.png": "花开发型",
-  "f_hair235.png": "春漾银发",
-  "f_hair236.png": "寒雪发型",
-  "f_hair238.png": "俄风女发",
-  "f_hair239.png": "霓裳发型",
-  "f_hair240.png": "粉翘翘发型",
-  "f_hair241.png": "夜魅发型",
-  "f_hair242.png": "粉梦发型",
-  "f_hair243.png": "雪国公主发型",
-  "f_hair244.png": "古韩女发",
-  "f_hair245.png": "朵儿金发",
-  "f_hair246.png": "囡囡麻花辫",
-  "f_hair247.png": "精灵女发",
-  "f_hair248.png": "沐兰婵娟女发",
-  "f_hair249.png": "意式女发",
-  "f_hair250.png": "蝴蝶结双马尾",
-  "f_hair251.png": "卷卷蝴蝶结",
-  "f_hair252.png": "绿野仙踪",
-  "f_hair253.png": "粉色初恋",
-  "f_hair254.png": "魔幻粉紫发型",
-  "f_hair255.png": "殇涩回忆",
-  "f_hair256.png": "樱雪纷飞",
-  "f_hair257.png": "淡墨画情",
-  "f_hair258.png": "泡沫之恋",
-  "f_hair259.png": "日式女发",
-  "f_hair260.png": "风儿轻扬",
-  "f_hair261.png": "童话梦女发",
-  "f_hair262.png": "百炼成仙女发",
-  "f_hair263.png": "香橙卷卷",
-  "f_hair264.png": "红白挑染",
-  "f_hair265.png": "埃及女发",
-  "f_hair266.png": "初秋金发",
-  "f_hair267.png": "嫩芽花苞",
-  "f_hair268.png": "新星女孩",
-  "f_hair269.png": "翘翘鱼小姐",
-  "f_hair270.png": "巴西女发",
-  "f_hair271.png": "万圣节夜宴发型",
-  "f_hair272.png": "万圣节魅仆发型",
-  "f_hair273.png": "金色女郎发型",
-  "f_hair274.png": "粉紫发髻",
-  "f_hair275.png": "兔小姐金发",
-  "f_hair276.png": "泰式女发",
-  "f_hair277.png": "蓬蓬双马尾",
-  "f_hair278.png": "轻盈浅发",
-  "f_hair279.png": "布偶女发",
-  "f_hair280.png": "绿叶精灵发型",
-  "f_hair281.png": "侍女长发",
-  "f_hair282.png": "金丽娜丝发型",
-  "f_hair283.png": "加拿大女发",
-  "f_hair284.png": "田园少女发型",
-  "f_hair2846.png": "甜辣冬日女发",
-  "f_hair285.png": "粉莹飞舞发型",
-  "f_hair286.png": "恶魔银发",
-  "f_hair287.png": "雪绒小发絮",
-  "f_hair288.png": "绿绸带麻花辫",
-  "f_hair289.png": "娟秀长发",
-  "f_hair290.png": "宫廷秀女发型",
-  "f_hair291.png": "澳大利亚女发",
-  "f_hair292.png": "缥帙长发",
-  "f_hair293.png": "晚宴女王短发",
-  "f_hair294.png": "雪倾城长发",
-  "f_hair295.png": "路西菲尔的蛊惑发型",
-  "f_hair296.png": "仙灵女巫薇薇安发型",
-  "f_hair297.png": "粉色包包头",
-  "f_hair298.png": "草莓糖糖女发",
-  "f_hair299.png": "花涧长发",
-  "f_hair300.png": "韩式小狐仙长发",
-  "f_hair301.png": "清凉盛夏女发",
-  "f_hair302.png": "黑色大丽花发型",
-  "f_hair303.png": "蓝色圆舞曲发型",
-  "f_hair304.png": "法式女发",
-  "f_hair305.png": "剑士发型",
-  "f_hair306.png": "安妮金发",
-  "f_hair307.png": "清凉盘发",
-  "f_hair308.png": "奶油洛丽塔",
-  "f_hair309.png": "香草可丽饼",
-  "f_hair310.png": "玉子蛋筒",
-  "f_hair311.png": "西柚双马尾",
-  "f_hair312.png": "琉璃兔发型",
-  "f_hair313.png": "白雪姬",
-  "f_hair314.png": "雪洞鬼灯",
-  "f_hair315.png": "我妻由乃",
-  "f_hair316.png": "红玛利亚",
-  "f_hair317.png": "萤火金发",
-  "f_hair318.png": "倚虹学士发型",
-  "f_hair319.png": "新区女装发型",
-  "f_hair320.png": "粉蔷薇卷发",
-  "f_hair321.png": "粉粉蛋糕发型",
-  "f_hair322.png": "candy短发",
-  "f_hair323.png": "织梦发型",
-  "f_hair324.png": "浮生银发",
-  "f_hair325.png": "可可花苞",
-  "f_hair326.png": "踏云发型",
-  "f_hair327.png": "紫阳发髻",
-  "f_hair328.png": "牡丹发型",
-  "f_hair329.png": "罗马女神红发",
-  "f_hair330.png": "桃心银发",
-  "f_hair331.png": "卷尾金发",
-  "f_hair332.png": "兰馨发型",
-  "f_hair333.png": "水晶金发",
-  "f_hair334.png": "慕斯长发",
-  "f_hair335.png": "西莉卡发型",
-  "f_hair336.png": "粉粉天使",
-  "f_hair337.png": "摇滚天后女发",
-  "f_hair338.png": "碧蝶银发",
-  "f_hair339.png": "粉企鹅小辫",
-  "f_hair340.png": "冰雪女发",
-  "f_hair341.png": "红茶发型",
-  "f_hair342.png": "糖沁发型",
-  "f_hair343.png": "浅金女发",
-  "f_hair344.png": "叮铃发型",
-  "f_hair345.png": "落樱发型",
-  "f_hair346.png": "蓝樱夜梦发型",
-  "f_hair347.png": "拼布盘发",
-  "f_hair348.png": "小蘑女发型",
-  "f_hair349.png": "彩虹兔（女）",
-  "f_hair350.png": "古逸朱钗",
-  "f_hair3503.png": "蜜糖之甜女发",
-  "f_hair351.png": "韩式小揪揪",
-  "f_hair352.png": "花苞妹",
-  "f_hair353.png": "金倪蜜语",
-  "f_hair354.png": "蓝雨暮光",
-  "f_hair355.png": "梨花精灵",
-  "f_hair356.png": "俏皮翠",
-  "f_hair357.png": "樱桃子发型",
-  "f_hair358.png": "花都发型",
-  "f_hair359.png": "丰收祭祀女发",
-  "f_hair360.png": "月华女发",
-  "f_hair3600.png": "甜心猫猫拳女发",
-  "f_hair361.png": "洛可可女发",
-  "f_hair362.png": "璨梦发型",
-  "f_hair363.png": "皇后恋歌发型",
-  "f_hair364.png": "星星女发",
-  "f_hair365.png": "发条娃娃发型",
-  "f_hair366.png": "歌月流莹",
-  "f_hair367.png": "樱桃发型",
-  "f_hair368.png": "藏蓝女发",
-  "f_hair369.png": "玛奇朵发型",
-  "f_hair370.png": "僵尸女发",
-  "f_hair371.png": "练白瑛发型",
-  "f_hair372.png": "森林精灵卷发",
-  "f_hair3723.png": "惬意一夏女发",
-  "f_hair373.png": "蝴蝶结花苞女发",
-  "f_hair374.png": "魅瞳脸谱女发",
-  "f_hair375.png": "清新初夏",
-  "f_hair376.png": "倾城记忆",
-  "f_hair377.png": "时间兔子发型",
-  "f_hair378.png": "桂子飘香发簪",
-  "f_hair379.png": "布偶小野",
-  "f_hair380.png": "轻舞飞扬",
-  "f_hair381.png": "新手女发",
-  "f_hair3817.png": "沁心夏日女发",
-  "f_hair382.png": "恶魔蝴蝶结",
-  "f_hair3824.png": "邂逅亚特兰女发",
-  "f_hair383.png": "红梅傲雪",
-  "f_hair384.png": "美国女发型",
-  "f_hair385.png": "红簪发髻",
-  "f_hair386.png": "紫罗兰复古盘发",
-  "f_hair387.png": "浪漫花语",
-  "f_hair388.png": "星愿心语",
-  "f_hair389.png": "普罗旺斯之恋",
-  "f_hair390.png": "星梦月明",
-  "f_hair391.png": "碧海麻花",
-  "f_hair392.png": "浪漫维他命",
-  "f_hair393.png": "玉露云髻",
-  "f_hair394.png": "热浪包子头",
-  "f_hair395.png": "淡紫莹莹",
-  "f_hair396.png": "蒂娜小熊",
-  "f_hair397.png": "草色原野",
-  "f_hair398.png": "软兔咩咩",
-  "f_hair399.png": "小精灵",
-  "f_hair400.png": "小巫仙",
-  "f_hair401.png": "呆萌萝莉",
-  "f_hair4016.png": "精灵时花女发",
-  "f_hair402.png": "粉粉蝴蝶结",
-  "f_hair403.png": "青藤初夏",
-  "f_hair4036.png": "酸奶不郁郁女发",
-  "f_hair404.png": "托帕",
-  "f_hair405.png": "香草冰淇淋",
-  "f_hair406.png": "馨色幻想",
-  "f_hair407.png": "月光大波浪",
-  "f_hair408.png": "淡紫旋花",
-  "f_hair409.png": "麦穗灿灿",
-  "f_hair410.png": "淡粉小酱",
-  "f_hair411.png": "火炎雪",
-  "f_hair412.png": "金桔柠檬",
-  "f_hair413.png": "可爱棉絮",
-  "f_hair414.png": "蜜桃狐",
-  "f_hair415.png": "风情绿萝",
-  "f_hair416.png": "莫斯小爱",
-  "f_hair417.png": "木之誓",
-  "f_hair418.png": "萝莉之心",
-  "f_hair419.png": "纯梦",
-  "f_hair420.png": "萌鬼来袭",
-  "f_hair421.png": "水云小卷浪",
-  "f_hair422.png": "园艺馨馨",
-  "f_hair423.png": "青春无敌",
-  "f_hair424.png": "小仙女",
-  "f_hair425.png": "花仙",
-  "f_hair4250.png": "恋感偶像女发",
-  "f_hair426.png": "罗兰飘雪",
-  "f_hair427.png": "萌兔铃铛",
-  "f_hair428.png": "炫紫萝莉",
-  "f_hair429.png": "忆纷飞",
-  "f_hair430.png": "甜蜜心思",
-  "f_hair431.png": "响子发型",
-  "f_hair432.png": "阿拉丁发型",
-  "f_hair433.png": "英伦风情",
-  "f_hair434.png": "芭芭拉优雅蝴蝶结",
-  "f_hair435.png": "热舞甜心",
-  "f_hair436.png": "铃音少女",
-  "f_hair437.png": "可爱萌主",
-  "f_hair438.png": "星月彩虹发型",
-  "f_hair439.png": "玲珑编发",
-  "f_hair440.png": "蝙蝠王后",
-  "f_hair441.png": "天使恶魔心",
-  "f_hair442.png": "梦里年华",
-  "f_hair443.png": "黑喵小姐",
-  "f_hair444.png": "南瓜少女",
-  "f_hair445.png": "花房姑娘",
-  "f_hair446.png": "莹秋暖蓝",
-  "f_hair447.png": "灵动青春",
-  "f_hair448.png": "热舞甜心",
-  "f_hair449.png": "庆典狂欢兔",
-  "f_hair4490.png": "红丝带蛋糕女发",
-  "f_hair450.png": "悠悠我心",
-  "f_hair451.png": "银光女发",
-  "f_hair452.png": "馨蓝茉莉",
-  "f_hair453.png": "丹麦女发",
-  "f_hair454.png": "时尚芭比",
-  "f_hair455.png": "圣诞女发",
-  "f_hair456.png": "朱丝麻花",
-  "f_hair457.png": "云霞",
-  "f_hair458.png": "樱花蝴蝶结",
-  "f_hair459.png": "爱的朱丽叶",
-  "f_hair460.png": "叶阑珊",
-  "f_hair461.png": "世纪之约",
-  "f_hair462.png": "古堡公主",
-  "f_hair463.png": "流金岁月",
-  "f_hair464.png": "黄色喵咪发型",
-  "f_hair465.png": "童话兔兔",
-  "f_hair466.png": "莉莉娅女郎",
-  "f_hair467.png": "粉紫麻花小辫",
-  "f_hair468.png": "次元冷萌女发",
-  "f_hair469.png": "汤圆约会女发",
-  "f_hair470.png": "穿越爱恋女发",
-  "f_hair471.png": "完美新娘盘发",
-  "f_hair472.png": "魅影红玉女发",
-  "f_hair473.png": "战争之王女发",
-  "f_hair474.png": "樱桃红红女发",
-  "f_hair475.png": "春暖花开花苞头",
-  "f_hair476.png": "活力萌妹发型",
-  "f_hair477.png": "灰姑娘发型",
-  "f_hair478.png": "氧气盘发",
-  "f_hair479.png": "纯爱洛丽塔长发",
-  "f_hair480.png": "灵风女发",
-  "f_hair481.png": "挽月流霞女发",
-  "f_hair482.png": "春樱海滩女发",
-  "f_hair483.png": "萌兔娃娃发型",
-  "f_hair484.png": "茶艺学童双马尾",
-  "f_hair485.png": "海湾恋人女发",
-  "f_hair486.png": "花儿朵朵发型",
-  "f_hair487.png": "华尔兹女发",
-  "f_hair488.png": "九天美人女发",
-  "f_hair489.png": "凤舞精灵女发",
-  "f_hair490.png": "暗金玫瑰发型",
-  "f_hair491.png": "盛夏风情女发",
-  "f_hair492.png": "橙馨微影",
-  "f_hair493.png": "一菲发束",
-  "f_hair494.png": "夏日迷情",
-  "f_hair495.png": "战争之王S2女发",
-  "f_hair496.png": "花玲珑",
-  "f_hair497.png": "爱音恋夏",
-  "f_hair498.png": "莫愁挑染女发",
-  "f_hair499.png": "爱音漫卷",
-  "f_hair500.png": "盛夏西瓜女发",
-  "f_hair501.png": "海浪沙滩女发",
-  "f_hair502.png": "糖果甜心女发",
-  "f_hair503.png": "熊熊兔女发",
-  "f_hair504.png": "树莓女发",
-  "f_hair505.png": "白露为霜女发",
-  "f_hair506.png": "南有乔木女发",
-  "f_hair507.png": "魔法天使",
-  "f_hair508.png": "米洛洛马尾",
-  "f_hair509.png": "海的女儿",
-  "f_hair510.png": "遥远星空女发",
-  "f_hair511.png": "关关雎鸠女发",
-  "f_hair512.png": "彼美孟姜女发",
-  "f_hair513.png": "天竺女发",
-  "f_hair514.png": "真真发型",
-  "f_hair515.png": "紫夜凝香女发",
-  "f_hair516.png": "格斗女发",
-  "f_hair517.png": "星缘王后",
-  "f_hair518.png": "糖果女发",
-  "f_hair519.png": "高冷校花",
-  "f_hair520.png": "灼灼其华女发",
-  "f_hair521.png": "绿丝絺绤女发",
-  "f_hair522.png": "青萝女发",
-  "f_hair523.png": "江之岛女发",
-  "f_hair524.png": "红莓女发",
-  "f_hair525.png": "小狸猫萝莉女发",
-  "f_hair526.png": "翠湖约会女发",
-  "f_hair527.png": "花月女发",
-  "f_hair528.png": "黑喵物语女发",
-  "f_hair529.png": "小红帽女发",
-  "f_hair530.png": "小红帽连帽短发",
-  "f_hair531.png": "红颜知己女发",
-  "f_hair532.png": "蓝企鹅女发",
-  "f_hair533.png": "旋转木马女发",
-  "f_hair534.png": "小花仙女发",
-  "f_hair535.png": "星际王后长卷发",
-  "f_hair536.png": "邻家少女发型",
-  "f_hair537.png": "学院派舞会女发",
-  "f_hair538.png": "AH婚礼红毯女发",
-  "f_hair539.png": "南瓜公主发型",
-  "f_hair540.png": "彩虹天堂",
-  "f_hair542.png": "沁蓝女发",
-  "f_hair543.png": "暗夜女发",
-  "f_hair544.png": "冰蓝女发",
-  "f_hair546.png": "粉粉女发",
-  "f_hair547.png": "蓝纱发型",
-  "f_hair548.png": "咎儿女发",
-  "f_hair549.png": "莫妮卡女发",
-  "f_hair550.png": "叮当女发",
-  "f_hair551.png": "神隐女发",
-  "f_hair552.png": "水母女发",
-  "f_hair553.png": "梦璃女发",
-  "f_hair554.png": "彩虹咩女发",
-  "f_hair555.png": "凤蝶女发",
-  "f_hair556.png": "紫姬发型",
-  "f_hair557.png": "兔宝发型",
-  "f_hair558.png": "红袄发型",
-  "f_hair559.png": "女王帅气的短发",
-  "f_hair560.png": "蓝魅发型",
-  "f_hair561.png": "拜占庭女发",
-  "f_hair562.png": "古典深秋女发",
-  "f_hair564.png": "红果果发型",
-  "f_hair565.png": "黑色燕尾服女发",
-  "f_hair566.png": "白梅发型",
-  "f_hair567.png": "水手裙发型",
-  "f_hair568.png": "花园爱丽丝女发",
-  "f_hair569.png": "蓝色长发",
-  "f_hair570.png": "夏末轻纱女发",
-  "f_hair571.png": "魔幻心灵女发",
-  "f_hair572.png": "软心芭蕾女发",
-  "f_hair573.png": "嘻哈兔妹女发",
-  "f_hair574.png": "紫藤琉璃女发",
-  "f_hair575.png": "奶油栗子女发",
-  "f_hair576.png": "露米娅",
-  "f_hair577.png": "圣诞冬卷女发",
-  "f_hair578.png": "红袄女发",
-  "f_hair579.png": "新年玫瑰裙女发",
-  "f_hair580.png": "巧克力糖果女发",
-  "f_hair581.png": "冰冻之心女发",
-  "f_hair582.png": "果茶女发",
-  "f_hair583.png": "彩蝶萦绕女发",
-  "f_hair584.png": "波比兔女发",
-  "f_hair585.png": "虎斑喵女发",
-  "f_hair586.png": "金桔女发",
-  "f_hair587.png": "清凉兔女发",
-  "f_hair588.png": "草莓甜心派女发",
-  "f_hair589.png": "天使魔幻女发",
-  "f_hair590.png": "红锦鲤女发",
-  "f_hair591.png": "战争之王S3女发",
-  "f_hair592.png": "猴猴暖冬女发",
-  "f_hair593.png": "心舞会女发",
-  "f_hair594.png": "锦葵紫女发",
-  "f_hair595.png": "宫廷萌草女发",
-  "f_hair596.png": "羽毛婚纱女发",
-  "f_hair597.png": "心情女发",
-  "f_hair598.png": "雅米女发",
-  "f_hair599.png": "魅影女发",
-  "f_hair600.png": "金色富小姐女发",
-  "f_hair601.png": "红菱女发",
-  "f_hair602.png": "粉飘飘发型",
-  "f_hair603.png": "冰雪少女发型",
-  "f_hair604.png": "粉兔发型",
-  "f_hair605.png": "毛绒粉粉女发",
-  "f_hair606.png": "淡花女发",
-  "f_hair607.png": "蓝意女发",
-  "f_hair608.png": "金色双马尾",
-  "f_hair609.png": "恋恋魔法使女发",
-  "f_hair610.png": "哈莉奎因",
-  "f_hair611.png": "朝阳淑女女发",
-  "f_hair612.png": "星光女爵发型",
-  "f_hair613.png": "冰蓝女发",
-  "f_hair614.png": "草绿发辫",
-  "f_hair615.png": "大蝴蝶结卷发",
-  "f_hair616.png": "橘子汽水女发",
-  "f_hair617.png": "蔷薇红莲女发",
-  "f_hair618.png": "魔女女发",
-  "f_hair619.png": "粉粉熊女发",
-  "f_hair620.png": "莉紫女发",
-  "f_hair621.png": "紫夜歌女发",
-  "f_hair622.png": "风铃女发",
-  "f_hair623.png": "撒豆鬼女发",
-  "f_hair624.png": "樱之女巫发型",
-  "f_hair625.png": "紫罗兰雨滴",
-  "f_hair626.png": "泡沫蓝蔷薇",
-  "f_hair627.png": "大道寺知世",
-  "f_hair628.png": "日系蝴蝶结短发",
-  "f_hair629.png": "紫色喵喵女发",
-  "f_hair630.png": "玛丽亚之光",
-  "f_hair631.png": "清灵荷韵女发",
-  "f_hair632.png": "矢羽柄女发",
-  "f_hair633.png": "满天星女发",
-  "f_hair634.png": "俏皮丸子头",
-  "f_hair635.png": "暮烟女发",
-  "f_hair636.png": "莉莉的头发",
-  "f_hair637.png": "草莓棉花糖女发",
-  "f_hair638.png": "摇曳女发",
-  "f_hair639.png": "听花女发",
-  "f_hair640.png": "去春游女发",
-  "f_hair641.png": "珍尼佛的金发",
-  "f_hair642.png": "曼舞女发",
-  "f_hair643.png": "银霜女发",
-  "f_hair644.png": "时尚大方发型",
-  "f_hair645.png": "乐高小象女发",
-  "f_hair646.png": "蓝星粉粉女发",
-  "f_hair647.png": "红茶女发",
-  "f_hair648.png": "花季少女女发",
-  "f_hair649.png": "时尚酷酷发型",
-  "f_hair650.png": "薄荷香草女发",
-  "f_hair651.png": "赤槿女发",
-  "f_hair652.png": "初夏恋恋冰女发",
-  "f_hair653.png": "栗栗熊熊女发",
-  "f_hair654.png": "萌星星女发",
-  "f_hair655.png": "安吉尔的金发",
-  "f_hair656.png": "秋月女发",
-  "f_hair657.png": "金色闪闪女发",
-  "f_hair658.png": "海洋泡沫女发",
-  "f_hair659.png": "草莓女发",
-  "f_hair660.png": "蓝莓女发",
-  "f_hair661.png": "兔子萝卜女发",
-  "f_hair662.png": "月明星稀女发",
-  "f_hair663.png": "暖风女发",
-  "f_hair664.png": "静谧女发",
-  "f_hair665.png": "仙鹿女发",
-  "f_hair666.png": "静谧紫藤女发",
-  "f_hair667.png": "花季少女女发",
-  "f_hair668.png": "笛乐女发",
-  "f_hair669.png": "一起兜兜风女发",
-  "f_hair670.png": "南北极洋装女发",
-  "f_hair671.png": "胡姬女发",
-  "f_hair672.png": "鹏游蝶梦女发",
-  "f_hair673.png": "晨星女发",
-  "f_hair674.png": "瑰丽乐园女发",
-  "f_hair675.png": "流光飞舞女发",
-  "f_hair676.png": "气球喵女发",
-  "f_hair677.png": "水果派对女发",
-  "f_hair678.png": "朵蜜天女发型",
-  "f_hair679.png": "甜心小点女发",
-  "f_hair680.png": "落樱女发",
-  "f_hair681.png": "梦幻星空女发",
-  "f_hair682.png": "牧羊头发",
-  "f_hair683.png": "鲜花头发",
-  "f_hair684.png": "拉媞天女女发",
-  "f_hair685.png": "柯基女发",
-  "f_hair686.png": "粉薇花仙女发",
-  "f_hair687.png": "星幻女发",
-  "f_hair688.png": "冰柠橘子女发",
-  "f_hair689.png": "音乐课代表女发",
-  "f_hair690.png": "南北极蝶舞女发",
-  "f_hair691.png": "南北极豆花女发",
-  "f_hair692.png": "南北极星点女发",
-  "f_hair693.png": "南北极紫蝶女发",
-  "f_hair694.png": "玻璃纱女发",
-  "f_hair695.png": "朝与同歌",
-  "f_hair696.png": "乌丽女发",
-  "f_hair697.png": "法苏天女女发",
-  "f_hair698.png": "元气初秋女发",
-  "f_hair699.png": "玲珑女发",
-  "f_hair700.png": "勇圣女女发",
-  "f_hair701.png": "仁圣女女发",
-  "f_hair702.png": "啾啾阴阳师女发",
-  "f_hair703.png": "琉金女发",
-  "f_hair704.png": "拉姆发型",
-  "f_hair705.png": "蕾姆发型",
-  "f_hair706.png": "瞌睡兔兔女发",
-  "f_hair707.png": "萌心森林女发",
-  "f_hair708.png": "五星红发（女）",
-  "f_hair709.png": "天秤心语女发",
-  "f_hair710.png": "蓝鲸女发",
-  "f_hair711.png": "纡朱女发",
-  "f_hair712.png": "智圣女女发",
-  "f_hair713.png": "鲜花云朵女发",
-  "f_hair714.png": "追风女发",
-  "f_hair715.png": "捧花少女女发",
-  "f_hair716.png": "戏水女发",
-  "f_hair717.png": "蓝莓软糖女发",
-  "f_hair718.png": "南瓜蔷薇女发",
-  "f_hair719.png": "斯卡娣女发",
-  "f_hair720.png": "塔娜托斯女发",
-  "f_hair721.png": "爱蜜女发",
-  "f_hair722.png": "紫流萤女发",
-  "f_hair723.png": "樱花妹妹发型",
-  "f_hair724.png": "天蝎物语女发",
-  "f_hair725.png": "甜心花园女发",
-  "f_hair726.png": "摇滚小哈女发",
-  "f_hair727.png": "萌兔游乐园女发",
-  "f_hair728.png": "云纱梦舞女发",
-  "f_hair729.png": "月如歌女发",
-  "f_hair730.png": "天使恋之街女发",
-  "f_hair731.png": "茸球发啾（女）",
-  "f_hair732.png": "冬雪恋歌女发",
-  "f_hair734.png": "暖心温泉女发",
-  "f_hair735.png": "流星天使女发",
-  "f_hair736.png": "雪花蓬蓬女发",
-  "f_hair737.png": "粉粉饭团女发",
-  "f_hair738.png": "精灵猫女发",
-  "f_hair739.png": "圣诞雪女发",
-  "f_hair740.png": "冬季恋歌女发",
-  "f_hair741.png": "梅子浆果女发",
-  "f_hair742.png": "欢乐雪花女发",
-  "f_hair743.png": "扑克女发",
-  "f_hair744.png": "冬日绵绵女发",
-  "f_hair745.png": "冰晶女发",
-  "f_hair746.png": "蝴蝶糖果女发",
-  "f_hair747.png": "星愿幻梦女发",
-  "f_hair748.png": "冬日暖阳女发",
-  "f_hair749.png": "萌软软女发",
-  "f_hair750.png": "软绵绵女发",
-  "f_hair751.png": "小熊蜜糖女发",
-  "f_hair752.png": "彩虹星星女发",
-  "f_hair753.png": "莉莉的头发（紫色）",
-  "f_hair754.png": "天使街女发（金色）",
-  "f_hair755.png": "骄阳如歌",
-  "f_hair756.png": "浪漫小鸠",
-  "f_hair757.png": "犬神女发",
-  "f_hair758.png": "梓心糖果女发",
-  "f_hair759.png": "清爽格子女发",
-  "f_hair760.png": "白白小天使女发",
-  "f_hair761.png": "草莓软心糖女发",
-  "f_hair762.png": "水畔蓝花女发",
-  "f_hair763.png": "鸟笼女发",
-  "f_hair764.png": "噗噗女发",
-  "f_hair765.png": "蝶恋花女发",
-  "f_hair766.png": "十字路口女发",
-  "f_hair767.png": "蝶絮纷飞女发",
-  "f_hair768.png": "玫瑰心语女发",
-  "f_hair769.png": "甜点女发",
-  "f_hair770.png": "晴天茶会女发",
-  "f_hair771.png": "暖洋洋头发",
-  "f_hair772.png": "恶魔娘头发",
-  "f_hair773.png": "蔓藤女发",
-  "f_hair774.png": "棒棒糖女发",
-  "f_hair775.png": "叽叽叽女发",
-  "f_hair777.png": "绿萝女发",
-  "f_hair779.png": "花嫁女发",
-  "f_hair780.png": "鲜花球球女发",
-  "f_hair781.png": "草莓软糖女发",
-  "f_hair782.png": "学院女发",
-  "f_hair783.png": "粉酥心晴女发",
-  "f_hair784.png": "春季卷卷女发",
-  "f_hair785.png": "藤馨女发",
-  "f_hair786.png": "喵咪蝴蝶结女发",
-  "f_hair787.png": "蘑蘑女发",
-  "f_hair788.png": "星辰女发",
-  "f_hair789.png": "纯白之春女发",
-  "f_hair790.png": "马尔代夫女发",
-  "f_hair791.png": "焦糖女发",
-  "f_hair792.png": "森林谜纱女发",
-  "f_hair793.png": "蛋糕派对纱裙女头发",
-  "f_hair794.png": "串珠女发",
-  "f_hair795.png": "清心泉愿女发",
-  "f_hair796.png": "草莓蛋糕女发",
-  "f_hair797.png": "魔仙女王头发",
-  "f_hair798.png": "软萌兔女发",
-  "f_hair799.png": "紫月星宿女发",
-  "f_hair800.png": "岚晶砂糖女发",
-  "f_hair801.png": "波板糖女发",
-  "f_hair802.png": "绵绵兔几女发",
-  "f_hair803.png": "糖果女孩头发",
-  "f_hair804.png": "尤克里里女发",
-  "f_hair805.png": "樱粉初春女发",
-  "f_hair806.png": "春萌女发",
-  "f_hair807.png": "心心女发",
-  "f_hair808.png": "街拍少女女发",
-  "f_hair809.png": "噗噗围裙女发",
-  "f_hair810.png": "星途女发",
-  "f_hair811.png": "雨中花园女发",
-  "f_hair812.png": "星光魔术师女发",
-  "f_hair813.png": "蓝色月光女发",
-  "f_hair814.png": "可爱背包女发",
-  "f_hair815.png": "梨花头女",
-  "f_hair816.png": "湛蓝心情女发",
-  "f_hair817.png": "淡色羽翼女发",
-  "f_hair818.png": "金蝶女发",
-  "f_hair819.png": "蜜糖女发",
-  "f_hair820.png": "一瞬永恒女发",
-  "f_hair821.png": "软糖果果女发",
-  "f_hair822.png": "蛋黄果酱女发",
-  "f_hair823.png": "甜心背带女发",
-  "f_hair824.png": "艾米的卷发",
-  "f_hair825.png": "迪希的短发",
-  "f_hair826.png": "优雅画框女发",
-  "f_hair828.png": "旅行热气球女发",
-  "f_hair829.png": "方糖咖啡女发",
-  "f_hair830.png": "彼岸女发",
-  "f_hair831.png": "夏日优格女发",
-  "f_hair832.png": "普罗旺斯女发",
-  "f_hair833.png": "萌叽女发",
-  "f_hair834.png": "水果硬糖女发",
-  "f_hair835.png": "节日气球女发",
-  "f_hair836.png": "端午节女发",
-  "f_hair837.png": "冰棱女发",
-  "f_hair838.png": "茶花喵发型",
-  "f_hair839.png": "紫堇女发",
-  "f_hair840.png": "克莉丝汀女发",
-  "f_hair841.png": "牛奶女发",
-  "f_hair842.png": "假日沙滩女发",
-  "f_hair843.png": "红色背带女发",
-  "f_hair844.png": "鹦鹉女发",
-  "f_hair846.png": "叮当小兔女发",
-  "f_hair847.png": "纯色花嫁女发",
-  "f_hair848.png": "云端女发",
-  "f_hair849.png": "清新果茶女发",
-  "f_hair850.png": "香橙蛋糕女发",
-  "f_hair851.png": "零食女发",
-  "f_hair852.png": "蓝色海洋女发",
-  "f_hair853.png": "粉妆女发",
-  "f_hair854.png": "薄荷小熊女发",
-  "f_hair855.png": "涂鸦女发",
-  "f_hair856.png": "珍妮弗的银发",
-  "f_hair857.png": "晴天娃娃女发",
-  "f_hair858.png": "公仔女发",
-  "f_hair859.png": "夏日旅行记女发",
-  "f_hair860.png": "掰玉米女发",
-  "f_hair861.png": "扑克兔女发",
-  "f_hair862.png": "向日葵小熊女发",
-  "f_hair863.png": "星星泳圈女发",
-  "f_hair864.png": "晴空海豚女发",
-  "f_hair865.png": "星草繁花女发",
-  "f_hair866.png": "湛蓝花海女发",
-  "f_hair867.png": "玫瑰女发",
-  "f_hair868.png": "晴阳女发",
-  "f_hair869.png": "蓝色玫瑰女发",
-  "f_hair870.png": "绿藤花女发",
-  "f_hair871.png": "企鹅水手女发",
-  "f_hair872.png": "沁凝女发",
-  "f_hair873.png": "可爱女发",
-  "f_hair874.png": "蓝色海岸女发",
-  "f_hair875.png": "绵绵雪糕女发",
-  "f_hair876.png": "小青蛙女发",
-  "f_hair877.png": "梦幻婚纱女发",
-  "f_hair878.png": "水果棒冰女发",
-  "f_hair879.png": "情书女发",
-  "f_hair880.png": "深海人鱼女发",
-  "f_hair881.png": "水果派女发",
-  "f_hair882.png": "扇舞清云女发",
-  "f_hair883.png": "兔兔蛋糕女发",
-  "f_hair884.png": "吖吖女发",
-  "f_hair885.png": "奶油糖女发",
-  "f_hair886.png": "花好月圆女发",
-  "f_hair887.png": "鲷鱼烧猫猫女发",
-  "f_hair889.png": "小蘑菇女发",
-  "f_hair890.png": "乐柠女发",
-  "f_hair891.png": "雨神女发",
-  "f_hair892.png": "粉晶水手女发",
-  "f_hair893.png": "冰蓝玫瑰女发",
-  "f_hair894.png": "单身汪女发",
-  "f_hair895.png": "糖果派对女发",
-  "f_hair896.png": "幸福沙漏女发",
-  "f_hair897.png": "兔之旅程女发",
-  "f_hair898.png": "下午茶女发",
-  "f_hair899.png": "猫咪超市女发",
-  "f_hair900.png": "砂糖女发",
-  "f_hair901.png": "霜糖蛋糕女发",
-  "f_hair903.png": "花漫礼服女发",
-  "f_hair904.png": "情窦初开女发",
-  "f_hair905.png": "冷艳贵族女发",
-  "f_hair906.png": "小恐龙睡衣女发",
-  "f_hair907.png": "小黄鸡女发",
-  "f_hair908.png": "星月女发",
-  "f_hair909.png": "初冬女发",
-  "f_hair910.png": "企鹅背带裤女发",
-  "f_hair911.png": "秋日礼盒女发",
-  "f_hair912.png": "南瓜晚会女发",
-  "f_hair913.png": "赫赤蝙蝠女发",
-  "f_hair916.png": "狐丸阴阳师女发",
-  "f_hair917.png": "暮色森林女发",
-  "f_hair919.png": "草莓巧克力棒女发",
-  "f_hair921.png": "嘻嘻哈哈女发",
-  "f_hair935.png": "纯白婚纱女发"
+  "f_hair001.png": {
+    "name": "清爽OL",
+    "hideBaseLayer": false
+  },
+  "f_hair002.png": {
+    "name": "粉红小可爱",
+    "hideBaseLayer": false
+  },
+  "f_hair003.png": {
+    "name": "蝴蝶结",
+    "hideBaseLayer": false
+  },
+  "f_hair004.png": {
+    "name": "金色长发",
+    "hideBaseLayer": false
+  },
+  "f_hair005.png": {
+    "name": "清爽一夏",
+    "hideBaseLayer": false
+  },
+  "f_hair006.png": {
+    "name": "罗莉塔",
+    "hideBaseLayer": false
+  },
+  "f_hair007.png": {
+    "name": "邻家小妹",
+    "hideBaseLayer": false
+  },
+  "f_hair008.png": {
+    "name": "小丫头",
+    "hideBaseLayer": false
+  },
+  "f_hair009.png": {
+    "name": "崛起",
+    "hideBaseLayer": false
+  },
+  "f_hair010.png": {
+    "name": "粉紫",
+    "hideBaseLayer": false
+  },
+  "f_hair011.png": {
+    "name": "金色长发",
+    "hideBaseLayer": false
+  },
+  "f_hair012.png": {
+    "name": "银色卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair013.png": {
+    "name": "黑色阳光发型",
+    "hideBaseLayer": false
+  },
+  "f_hair014.png": {
+    "name": "红色短发",
+    "hideBaseLayer": false
+  },
+  "f_hair015.png": {
+    "name": "蓝色短发",
+    "hideBaseLayer": false
+  },
+  "f_hair016.png": {
+    "name": "可爱短发",
+    "hideBaseLayer": false
+  },
+  "f_hair017.png": {
+    "name": "高贵金发",
+    "hideBaseLayer": false
+  },
+  "f_hair018.png": {
+    "name": "猫耳红色短发",
+    "hideBaseLayer": false
+  },
+  "f_hair019.png": {
+    "name": "绿色短发",
+    "hideBaseLayer": false
+  },
+  "f_hair020.png": {
+    "name": "咖啡色卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair022.png": {
+    "name": "粉粉帽",
+    "hideBaseLayer": false
+  },
+  "f_hair023.png": {
+    "name": "俏皮小辫",
+    "hideBaseLayer": false
+  },
+  "f_hair024.png": {
+    "name": "浪漫一身",
+    "hideBaseLayer": false
+  },
+  "f_hair025.png": {
+    "name": "绿色小可爱",
+    "hideBaseLayer": false
+  },
+  "f_hair026.png": {
+    "name": "小红帽",
+    "hideBaseLayer": false
+  },
+  "f_hair027.png": {
+    "name": "飘逸长发",
+    "hideBaseLayer": false
+  },
+  "f_hair028.png": {
+    "name": "尊贵金发",
+    "hideBaseLayer": false
+  },
+  "f_hair029.png": {
+    "name": "女武神",
+    "hideBaseLayer": false
+  },
+  "f_hair030.png": {
+    "name": "火影发型之小樱",
+    "hideBaseLayer": false
+  },
+  "f_hair031.png": {
+    "name": "火影发型之雏田",
+    "hideBaseLayer": false
+  },
+  "f_hair032.png": {
+    "name": "火影发型之手鞠",
+    "hideBaseLayer": false
+  },
+  "f_hair034.png": {
+    "name": "魔术女帽",
+    "hideBaseLayer": false
+  },
+  "f_hair035.png": {
+    "name": "女恶魔",
+    "hideBaseLayer": false
+  },
+  "f_hair036.png": {
+    "name": "粉色面罩",
+    "hideBaseLayer": false
+  },
+  "f_hair037.png": {
+    "name": "小鬼当家女帽",
+    "hideBaseLayer": false
+  },
+  "f_hair038.png": {
+    "name": "女生粉色睡帽",
+    "hideBaseLayer": false
+  },
+  "f_hair039.png": {
+    "name": "樱姬发型",
+    "hideBaseLayer": false
+  },
+  "f_hair040.png": {
+    "name": "女美发师发型",
+    "hideBaseLayer": false
+  },
+  "f_hair041.png": {
+    "name": "铅笔头",
+    "hideBaseLayer": false
+  },
+  "f_hair042.png": {
+    "name": "书本头",
+    "hideBaseLayer": false
+  },
+  "f_hair043.png": {
+    "name": "楚楚动人",
+    "hideBaseLayer": false
+  },
+  "f_hair044.png": {
+    "name": "棕色花包头",
+    "hideBaseLayer": false
+  },
+  "f_hair045.png": {
+    "name": "黑色盘头",
+    "hideBaseLayer": false
+  },
+  "f_hair046.png": {
+    "name": "绿色偏马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair047.png": {
+    "name": "粉色红头绳发型",
+    "hideBaseLayer": false
+  },
+  "f_hair048.png": {
+    "name": "清纯长发",
+    "hideBaseLayer": false
+  },
+  "f_hair049.png": {
+    "name": "紫色BOBO头",
+    "hideBaseLayer": false
+  },
+  "f_hair050.png": {
+    "name": "粉色棉花糖",
+    "hideBaseLayer": false
+  },
+  "f_hair051.png": {
+    "name": "清爽短发",
+    "hideBaseLayer": false
+  },
+  "f_hair052.png": {
+    "name": "成熟美",
+    "hideBaseLayer": false
+  },
+  "f_hair054.png": {
+    "name": "皇后金冠发型",
+    "hideBaseLayer": false
+  },
+  "f_hair055.png": {
+    "name": "织女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair056.png": {
+    "name": "迷糊小粉帽",
+    "hideBaseLayer": false
+  },
+  "f_hair057.png": {
+    "name": "米奇红帽",
+    "hideBaseLayer": false
+  },
+  "f_hair058.png": {
+    "name": "泡泡青蛙",
+    "hideBaseLayer": false
+  },
+  "f_hair059.png": {
+    "name": "萝丝发型",
+    "hideBaseLayer": false
+  },
+  "f_hair060.png": {
+    "name": "樱发型",
+    "hideBaseLayer": false
+  },
+  "f_hair061.png": {
+    "name": "春丽发型",
+    "hideBaseLayer": false
+  },
+  "f_hair062.png": {
+    "name": "爱丽丝发型",
+    "hideBaseLayer": false
+  },
+  "f_hair063.png": {
+    "name": "神秘星占发型",
+    "hideBaseLayer": false
+  },
+  "f_hair064.png": {
+    "name": "俏皮青春女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair065.png": {
+    "name": "糖心发型",
+    "hideBaseLayer": false
+  },
+  "f_hair066.png": {
+    "name": "粉色朋克短发",
+    "hideBaseLayer": false
+  },
+  "f_hair067.png": {
+    "name": "格格发型",
+    "hideBaseLayer": false
+  },
+  "f_hair068.png": {
+    "name": "金色绒绒发型",
+    "hideBaseLayer": false
+  },
+  "f_hair069.png": {
+    "name": "可爱花苞头",
+    "hideBaseLayer": false
+  },
+  "f_hair070.png": {
+    "name": "金色圣洁长发",
+    "hideBaseLayer": false
+  },
+  "f_hair071.png": {
+    "name": "金之舞动",
+    "hideBaseLayer": false
+  },
+  "f_hair072.png": {
+    "name": "金色风情卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair073.png": {
+    "name": "芭比大小姐",
+    "hideBaseLayer": false
+  },
+  "f_hair074.png": {
+    "name": "清爽包包头",
+    "hideBaseLayer": false
+  },
+  "f_hair075.png": {
+    "name": "桃红短发",
+    "hideBaseLayer": false
+  },
+  "f_hair076.png": {
+    "name": "金色小天使",
+    "hideBaseLayer": false
+  },
+  "f_hair077.png": {
+    "name": "女扎库米发型",
+    "hideBaseLayer": false
+  },
+  "f_hair078.png": {
+    "name": "草莓樱樱",
+    "hideBaseLayer": false
+  },
+  "f_hair079.png": {
+    "name": "御姐银发",
+    "hideBaseLayer": false
+  },
+  "f_hair080.png": {
+    "name": "橙色咔哇",
+    "hideBaseLayer": false
+  },
+  "f_hair081.png": {
+    "name": "瑰红魔力",
+    "hideBaseLayer": false
+  },
+  "f_hair082.png": {
+    "name": "皮可红红",
+    "hideBaseLayer": false
+  },
+  "f_hair083.png": {
+    "name": "爆裂梦玛",
+    "hideBaseLayer": false
+  },
+  "f_hair084.png": {
+    "name": "高贵皇妃",
+    "hideBaseLayer": false
+  },
+  "f_hair085.png": {
+    "name": "梨花头",
+    "hideBaseLayer": false
+  },
+  "f_hair086.png": {
+    "name": "咪尔梦梦",
+    "hideBaseLayer": false
+  },
+  "f_hair087.png": {
+    "name": "布鲁喵喵",
+    "hideBaseLayer": false
+  },
+  "f_hair088.png": {
+    "name": "纽拉包包",
+    "hideBaseLayer": false
+  },
+  "f_hair089.png": {
+    "name": "金拉比",
+    "hideBaseLayer": false
+  },
+  "f_hair090.png": {
+    "name": "雅典娜",
+    "hideBaseLayer": false
+  },
+  "f_hair091.png": {
+    "name": "弥兰莎丽发型",
+    "hideBaseLayer": false
+  },
+  "f_hair092.png": {
+    "name": "雪比莉咪发型",
+    "hideBaseLayer": false
+  },
+  "f_hair093.png": {
+    "name": "波灵莉喵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair094.png": {
+    "name": "吉拉宠宠发型",
+    "hideBaseLayer": false
+  },
+  "f_hair095.png": {
+    "name": "咕咕橙橙",
+    "hideBaseLayer": false
+  },
+  "f_hair096.png": {
+    "name": "尼嘟卷卷",
+    "hideBaseLayer": false
+  },
+  "f_hair097.png": {
+    "name": "兰蝶幻幻",
+    "hideBaseLayer": false
+  },
+  "f_hair098.png": {
+    "name": "青青呱呱头",
+    "hideBaseLayer": false
+  },
+  "f_hair099.png": {
+    "name": "梦蝶卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair100.png": {
+    "name": "蓝星银发",
+    "hideBaseLayer": false
+  },
+  "f_hair101.png": {
+    "name": "红奇卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair102.png": {
+    "name": "红红帽帽",
+    "hideBaseLayer": false
+  },
+  "f_hair103.png": {
+    "name": "青青绵绵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair104.png": {
+    "name": "波喱发型",
+    "hideBaseLayer": false
+  },
+  "f_hair105.png": {
+    "name": "清凉短发",
+    "hideBaseLayer": false
+  },
+  "f_hair106.png": {
+    "name": "甜甜圈圈发型",
+    "hideBaseLayer": false
+  },
+  "f_hair107.png": {
+    "name": "天使发型",
+    "hideBaseLayer": false
+  },
+  "f_hair108.png": {
+    "name": "溜溜兔耳发型",
+    "hideBaseLayer": false
+  },
+  "f_hair109.png": {
+    "name": "拉丝金奇发型",
+    "hideBaseLayer": false
+  },
+  "f_hair110.png": {
+    "name": "冰冰卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair111.png": {
+    "name": "草莓糖果金发",
+    "hideBaseLayer": false
+  },
+  "f_hair112.png": {
+    "name": "蝉月发型",
+    "hideBaseLayer": false
+  },
+  "f_hair113.png": {
+    "name": "绅士公主发型",
+    "hideBaseLayer": false
+  },
+  "f_hair114.png": {
+    "name": "萌动包包头",
+    "hideBaseLayer": false
+  },
+  "f_hair115.png": {
+    "name": "魔女银发",
+    "hideBaseLayer": false
+  },
+  "f_hair1152.png": {
+    "name": "雨落蛙蛙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair116.png": {
+    "name": "缤纷星星卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair117.png": {
+    "name": "嘟嘟喱",
+    "hideBaseLayer": false
+  },
+  "f_hair118.png": {
+    "name": "鼓鼓白棉发",
+    "hideBaseLayer": false
+  },
+  "f_hair119.png": {
+    "name": "喜美绘心蓝",
+    "hideBaseLayer": false
+  },
+  "f_hair120.png": {
+    "name": "蝶曦曦",
+    "hideBaseLayer": false
+  },
+  "f_hair121.png": {
+    "name": "菲灵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair122.png": {
+    "name": "圣圣南瓜发型",
+    "hideBaseLayer": false
+  },
+  "f_hair123.png": {
+    "name": "苏格兰卷卷",
+    "hideBaseLayer": false
+  },
+  "f_hair124.png": {
+    "name": "女包青天发型",
+    "hideBaseLayer": false
+  },
+  "f_hair125.png": {
+    "name": "女展昭发型",
+    "hideBaseLayer": false
+  },
+  "f_hair126.png": {
+    "name": "女张龙赵虎帽",
+    "hideBaseLayer": false
+  },
+  "f_hair127.png": {
+    "name": "女王朝马汉帽",
+    "hideBaseLayer": false
+  },
+  "f_hair128.png": {
+    "name": "女公孙策发型",
+    "hideBaseLayer": false
+  },
+  "f_hair129.png": {
+    "name": "米修嘭嘭发型",
+    "hideBaseLayer": false
+  },
+  "f_hair131.png": {
+    "name": "女衙役发型",
+    "hideBaseLayer": false
+  },
+  "f_hair132.png": {
+    "name": "圣诞包包头",
+    "hideBaseLayer": false
+  },
+  "f_hair1322.png": {
+    "name": "狂奔猪猪女发",
+    "hideBaseLayer": false
+  },
+  "f_hair133.png": {
+    "name": "飘盈金丝发",
+    "hideBaseLayer": false
+  },
+  "f_hair134.png": {
+    "name": "莓莓蓝",
+    "hideBaseLayer": false
+  },
+  "f_hair135.png": {
+    "name": "卯兔财神女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair136.png": {
+    "name": "莹之飘雪",
+    "hideBaseLayer": false
+  },
+  "f_hair137.png": {
+    "name": "卡咪梦露发型",
+    "hideBaseLayer": false
+  },
+  "f_hair138.png": {
+    "name": "花润发型",
+    "hideBaseLayer": false
+  },
+  "f_hair139.png": {
+    "name": "蓝莓芯长发",
+    "hideBaseLayer": false
+  },
+  "f_hair140.png": {
+    "name": "蛋糕卷卷",
+    "hideBaseLayer": false
+  },
+  "f_hair141.png": {
+    "name": "花花语长发",
+    "hideBaseLayer": false
+  },
+  "f_hair142.png": {
+    "name": "蓝幂金发",
+    "hideBaseLayer": false
+  },
+  "f_hair143.png": {
+    "name": "橘色玫瑰",
+    "hideBaseLayer": false
+  },
+  "f_hair144.png": {
+    "name": "春香发型",
+    "hideBaseLayer": false
+  },
+  "f_hair145.png": {
+    "name": "梅芳发型",
+    "hideBaseLayer": false
+  },
+  "f_hair146.png": {
+    "name": "秋菊发型",
+    "hideBaseLayer": false
+  },
+  "f_hair1462.png": {
+    "name": "奶昔泡泡女发",
+    "hideBaseLayer": false
+  },
+  "f_hair147.png": {
+    "name": "魅舞之影",
+    "hideBaseLayer": false
+  },
+  "f_hair148.png": {
+    "name": "樱花飘飘",
+    "hideBaseLayer": false
+  },
+  "f_hair149.png": {
+    "name": "咪乖猫猫发型",
+    "hideBaseLayer": false
+  },
+  "f_hair150.png": {
+    "name": "旗莎棕卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair151.png": {
+    "name": "海盗少女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair152.png": {
+    "name": "金色糖果发型",
+    "hideBaseLayer": false
+  },
+  "f_hair153.png": {
+    "name": "碧波长发",
+    "hideBaseLayer": false
+  },
+  "f_hair154.png": {
+    "name": "魔法少女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair155.png": {
+    "name": "黄莺卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair156.png": {
+    "name": "小熊灵动发型",
+    "hideBaseLayer": false
+  },
+  "f_hair157.png": {
+    "name": "蝴蝶结女发",
+    "hideBaseLayer": false
+  },
+  "f_hair158.png": {
+    "name": "梦露露",
+    "hideBaseLayer": false
+  },
+  "f_hair159.png": {
+    "name": "青青长发",
+    "hideBaseLayer": false
+  },
+  "f_hair160.png": {
+    "name": "天使之翼",
+    "hideBaseLayer": false
+  },
+  "f_hair161.png": {
+    "name": "莉莉小猫",
+    "hideBaseLayer": false
+  },
+  "f_hair162.png": {
+    "name": "蕾蕾娃娃头",
+    "hideBaseLayer": false
+  },
+  "f_hair163.png": {
+    "name": "星星麦穗头",
+    "hideBaseLayer": false
+  },
+  "f_hair164.png": {
+    "name": "蜜桃花蝴蝶",
+    "hideBaseLayer": false
+  },
+  "f_hair165.png": {
+    "name": "夜翼小魔女",
+    "hideBaseLayer": false
+  },
+  "f_hair166.png": {
+    "name": "芒果圣代",
+    "hideBaseLayer": false
+  },
+  "f_hair167.png": {
+    "name": "皮卡皮卡",
+    "hideBaseLayer": false
+  },
+  "f_hair168.png": {
+    "name": "爱音发型",
+    "hideBaseLayer": false
+  },
+  "f_hair169.png": {
+    "name": "海洋之心",
+    "hideBaseLayer": false
+  },
+  "f_hair170.png": {
+    "name": "萌萌头",
+    "hideBaseLayer": false
+  },
+  "f_hair171.png": {
+    "name": "球球猫",
+    "hideBaseLayer": false
+  },
+  "f_hair172.png": {
+    "name": "甜心兔",
+    "hideBaseLayer": false
+  },
+  "f_hair1724.png": {
+    "name": "粉裘枫糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair173.png": {
+    "name": "夏威夷露露",
+    "hideBaseLayer": false
+  },
+  "f_hair174.png": {
+    "name": "香芒橙子",
+    "hideBaseLayer": false
+  },
+  "f_hair175.png": {
+    "name": "香草薇琪",
+    "hideBaseLayer": false
+  },
+  "f_hair176.png": {
+    "name": "夏日花瓣",
+    "hideBaseLayer": false
+  },
+  "f_hair177.png": {
+    "name": "公主之心",
+    "hideBaseLayer": false
+  },
+  "f_hair178.png": {
+    "name": "蛋卷甜甜",
+    "hideBaseLayer": false
+  },
+  "f_hair179.png": {
+    "name": "朵朵小蜜蜂",
+    "hideBaseLayer": false
+  },
+  "f_hair180.png": {
+    "name": "魔光白雪",
+    "hideBaseLayer": false
+  },
+  "f_hair181.png": {
+    "name": "蔚蓝卷卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair182.png": {
+    "name": "萤萤藤蔓",
+    "hideBaseLayer": false
+  },
+  "f_hair183.png": {
+    "name": "魔幻紫卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair184.png": {
+    "name": "古典王姬",
+    "hideBaseLayer": false
+  },
+  "f_hair185.png": {
+    "name": "幻幻星空",
+    "hideBaseLayer": false
+  },
+  "f_hair186.png": {
+    "name": "淡白小可爱",
+    "hideBaseLayer": false
+  },
+  "f_hair187.png": {
+    "name": "蓝帽小雨",
+    "hideBaseLayer": false
+  },
+  "f_hair188.png": {
+    "name": "苹果短发",
+    "hideBaseLayer": false
+  },
+  "f_hair189.png": {
+    "name": "日风樱花",
+    "hideBaseLayer": false
+  },
+  "f_hair190.png": {
+    "name": "糖糖兔发型",
+    "hideBaseLayer": false
+  },
+  "f_hair191.png": {
+    "name": "魔导小蝙蝠",
+    "hideBaseLayer": false
+  },
+  "f_hair1912.png": {
+    "name": "抱抱熊女发",
+    "hideBaseLayer": false
+  },
+  "f_hair192.png": {
+    "name": "哆哆拉魔女",
+    "hideBaseLayer": false
+  },
+  "f_hair193.png": {
+    "name": "草莓奶昔发型",
+    "hideBaseLayer": false
+  },
+  "f_hair194.png": {
+    "name": "飘蓝星星发型",
+    "hideBaseLayer": false
+  },
+  "f_hair195.png": {
+    "name": "夏香百合发型",
+    "hideBaseLayer": false
+  },
+  "f_hair196.png": {
+    "name": "天使之恋",
+    "hideBaseLayer": false
+  },
+  "f_hair197.png": {
+    "name": "女科学家发型",
+    "hideBaseLayer": false
+  },
+  "f_hair198.png": {
+    "name": "萝莉小星星",
+    "hideBaseLayer": false
+  },
+  "f_hair199.png": {
+    "name": "清凉运动短发",
+    "hideBaseLayer": false
+  },
+  "f_hair200.png": {
+    "name": "薄雾长发",
+    "hideBaseLayer": false
+  },
+  "f_hair201.png": {
+    "name": "牛仔金色长发",
+    "hideBaseLayer": false
+  },
+  "f_hair2018.png": {
+    "name": "心碎信号女发",
+    "hideBaseLayer": false
+  },
+  "f_hair202.png": {
+    "name": "樱光卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair203.png": {
+    "name": "墨绿复古长发",
+    "hideBaseLayer": false
+  },
+  "f_hair204.png": {
+    "name": "菇菇短发",
+    "hideBaseLayer": false
+  },
+  "f_hair205.png": {
+    "name": "棕色小玫瑰",
+    "hideBaseLayer": false
+  },
+  "f_hair206.png": {
+    "name": "桐乃金发",
+    "hideBaseLayer": false
+  },
+  "f_hair207.png": {
+    "name": "月影飞仙发型",
+    "hideBaseLayer": false
+  },
+  "f_hair208.png": {
+    "name": "蓝色雾气长发",
+    "hideBaseLayer": false
+  },
+  "f_hair209.png": {
+    "name": "冰晶长发",
+    "hideBaseLayer": false
+  },
+  "f_hair210.png": {
+    "name": "蔷薇长发",
+    "hideBaseLayer": false
+  },
+  "f_hair211.png": {
+    "name": "莉莉安长发",
+    "hideBaseLayer": false
+  },
+  "f_hair212.png": {
+    "name": "小樱桃长发",
+    "hideBaseLayer": false
+  },
+  "f_hair213.png": {
+    "name": "粉色空姐发型",
+    "hideBaseLayer": false
+  },
+  "f_hair214.png": {
+    "name": "白色洋洋发型",
+    "hideBaseLayer": false
+  },
+  "f_hair215.png": {
+    "name": "樱红棕色短发",
+    "hideBaseLayer": false
+  },
+  "f_hair216.png": {
+    "name": "南瓜糖果发型",
+    "hideBaseLayer": false
+  },
+  "f_hair217.png": {
+    "name": "安娜公主发型",
+    "hideBaseLayer": false
+  },
+  "f_hair218.png": {
+    "name": "海洋波浪长发",
+    "hideBaseLayer": false
+  },
+  "f_hair219.png": {
+    "name": "蓝色花语发型",
+    "hideBaseLayer": false
+  },
+  "f_hair221.png": {
+    "name": "喵喵酱发型",
+    "hideBaseLayer": false
+  },
+  "f_hair222.png": {
+    "name": "香榭发型",
+    "hideBaseLayer": false
+  },
+  "f_hair223.png": {
+    "name": "魔仙金发",
+    "hideBaseLayer": false
+  },
+  "f_hair224.png": {
+    "name": "果酱发型",
+    "hideBaseLayer": false
+  },
+  "f_hair225.png": {
+    "name": "金铃发型",
+    "hideBaseLayer": false
+  },
+  "f_hair226.png": {
+    "name": "晨曦发型",
+    "hideBaseLayer": false
+  },
+  "f_hair227.png": {
+    "name": "王女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair228.png": {
+    "name": "晓美焰发型",
+    "hideBaseLayer": false
+  },
+  "f_hair229.png": {
+    "name": "温柔蔷薇女发",
+    "hideBaseLayer": false
+  },
+  "f_hair230.png": {
+    "name": "龙梅发型",
+    "hideBaseLayer": false
+  },
+  "f_hair231.png": {
+    "name": "纤纤发型",
+    "hideBaseLayer": false
+  },
+  "f_hair232.png": {
+    "name": "寒梅发型",
+    "hideBaseLayer": false
+  },
+  "f_hair233.png": {
+    "name": "布偶麻花辫",
+    "hideBaseLayer": false
+  },
+  "f_hair2330.png": {
+    "name": "时尚之汐女发",
+    "hideBaseLayer": false
+  },
+  "f_hair234.png": {
+    "name": "花开发型",
+    "hideBaseLayer": false
+  },
+  "f_hair235.png": {
+    "name": "春漾银发",
+    "hideBaseLayer": false
+  },
+  "f_hair236.png": {
+    "name": "寒雪发型",
+    "hideBaseLayer": false
+  },
+  "f_hair238.png": {
+    "name": "俄风女发",
+    "hideBaseLayer": false
+  },
+  "f_hair239.png": {
+    "name": "霓裳发型",
+    "hideBaseLayer": false
+  },
+  "f_hair240.png": {
+    "name": "粉翘翘发型",
+    "hideBaseLayer": false
+  },
+  "f_hair241.png": {
+    "name": "夜魅发型",
+    "hideBaseLayer": false
+  },
+  "f_hair242.png": {
+    "name": "粉梦发型",
+    "hideBaseLayer": false
+  },
+  "f_hair243.png": {
+    "name": "雪国公主发型",
+    "hideBaseLayer": false
+  },
+  "f_hair244.png": {
+    "name": "古韩女发",
+    "hideBaseLayer": false
+  },
+  "f_hair245.png": {
+    "name": "朵儿金发",
+    "hideBaseLayer": false
+  },
+  "f_hair246.png": {
+    "name": "囡囡麻花辫",
+    "hideBaseLayer": false
+  },
+  "f_hair247.png": {
+    "name": "精灵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair248.png": {
+    "name": "沐兰婵娟女发",
+    "hideBaseLayer": false
+  },
+  "f_hair249.png": {
+    "name": "意式女发",
+    "hideBaseLayer": false
+  },
+  "f_hair250.png": {
+    "name": "蝴蝶结双马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair251.png": {
+    "name": "卷卷蝴蝶结",
+    "hideBaseLayer": false
+  },
+  "f_hair252.png": {
+    "name": "绿野仙踪",
+    "hideBaseLayer": false
+  },
+  "f_hair253.png": {
+    "name": "粉色初恋",
+    "hideBaseLayer": false
+  },
+  "f_hair254.png": {
+    "name": "魔幻粉紫发型",
+    "hideBaseLayer": false
+  },
+  "f_hair255.png": {
+    "name": "殇涩回忆",
+    "hideBaseLayer": false
+  },
+  "f_hair256.png": {
+    "name": "樱雪纷飞",
+    "hideBaseLayer": false
+  },
+  "f_hair257.png": {
+    "name": "淡墨画情",
+    "hideBaseLayer": false
+  },
+  "f_hair258.png": {
+    "name": "泡沫之恋",
+    "hideBaseLayer": false
+  },
+  "f_hair259.png": {
+    "name": "日式女发",
+    "hideBaseLayer": false
+  },
+  "f_hair260.png": {
+    "name": "风儿轻扬",
+    "hideBaseLayer": false
+  },
+  "f_hair261.png": {
+    "name": "童话梦女发",
+    "hideBaseLayer": false
+  },
+  "f_hair262.png": {
+    "name": "百炼成仙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair263.png": {
+    "name": "香橙卷卷",
+    "hideBaseLayer": false
+  },
+  "f_hair264.png": {
+    "name": "红白挑染",
+    "hideBaseLayer": false
+  },
+  "f_hair265.png": {
+    "name": "埃及女发",
+    "hideBaseLayer": false
+  },
+  "f_hair266.png": {
+    "name": "初秋金发",
+    "hideBaseLayer": false
+  },
+  "f_hair267.png": {
+    "name": "嫩芽花苞",
+    "hideBaseLayer": false
+  },
+  "f_hair268.png": {
+    "name": "新星女孩",
+    "hideBaseLayer": false
+  },
+  "f_hair269.png": {
+    "name": "翘翘鱼小姐",
+    "hideBaseLayer": false
+  },
+  "f_hair270.png": {
+    "name": "巴西女发",
+    "hideBaseLayer": false
+  },
+  "f_hair271.png": {
+    "name": "万圣节夜宴发型",
+    "hideBaseLayer": false
+  },
+  "f_hair272.png": {
+    "name": "万圣节魅仆发型",
+    "hideBaseLayer": false
+  },
+  "f_hair273.png": {
+    "name": "金色女郎发型",
+    "hideBaseLayer": false
+  },
+  "f_hair274.png": {
+    "name": "粉紫发髻",
+    "hideBaseLayer": false
+  },
+  "f_hair275.png": {
+    "name": "兔小姐金发",
+    "hideBaseLayer": false
+  },
+  "f_hair276.png": {
+    "name": "泰式女发",
+    "hideBaseLayer": false
+  },
+  "f_hair277.png": {
+    "name": "蓬蓬双马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair278.png": {
+    "name": "轻盈浅发",
+    "hideBaseLayer": false
+  },
+  "f_hair279.png": {
+    "name": "布偶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair280.png": {
+    "name": "绿叶精灵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair281.png": {
+    "name": "侍女长发",
+    "hideBaseLayer": false
+  },
+  "f_hair282.png": {
+    "name": "金丽娜丝发型",
+    "hideBaseLayer": false
+  },
+  "f_hair283.png": {
+    "name": "加拿大女发",
+    "hideBaseLayer": false
+  },
+  "f_hair284.png": {
+    "name": "田园少女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair2846.png": {
+    "name": "甜辣冬日女发",
+    "hideBaseLayer": false
+  },
+  "f_hair285.png": {
+    "name": "粉莹飞舞发型",
+    "hideBaseLayer": false
+  },
+  "f_hair286.png": {
+    "name": "恶魔银发",
+    "hideBaseLayer": false
+  },
+  "f_hair287.png": {
+    "name": "雪绒小发絮",
+    "hideBaseLayer": false
+  },
+  "f_hair288.png": {
+    "name": "绿绸带麻花辫",
+    "hideBaseLayer": false
+  },
+  "f_hair289.png": {
+    "name": "娟秀长发",
+    "hideBaseLayer": false
+  },
+  "f_hair290.png": {
+    "name": "宫廷秀女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair291.png": {
+    "name": "澳大利亚女发",
+    "hideBaseLayer": false
+  },
+  "f_hair292.png": {
+    "name": "缥帙长发",
+    "hideBaseLayer": false
+  },
+  "f_hair293.png": {
+    "name": "晚宴女王短发",
+    "hideBaseLayer": false
+  },
+  "f_hair294.png": {
+    "name": "雪倾城长发",
+    "hideBaseLayer": false
+  },
+  "f_hair295.png": {
+    "name": "路西菲尔的蛊惑发型",
+    "hideBaseLayer": false
+  },
+  "f_hair296.png": {
+    "name": "仙灵女巫薇薇安发型",
+    "hideBaseLayer": false
+  },
+  "f_hair297.png": {
+    "name": "粉色包包头",
+    "hideBaseLayer": false
+  },
+  "f_hair298.png": {
+    "name": "草莓糖糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair299.png": {
+    "name": "花涧长发",
+    "hideBaseLayer": false
+  },
+  "f_hair300.png": {
+    "name": "韩式小狐仙长发",
+    "hideBaseLayer": false
+  },
+  "f_hair301.png": {
+    "name": "清凉盛夏女发",
+    "hideBaseLayer": false
+  },
+  "f_hair302.png": {
+    "name": "黑色大丽花发型",
+    "hideBaseLayer": false
+  },
+  "f_hair303.png": {
+    "name": "蓝色圆舞曲发型",
+    "hideBaseLayer": false
+  },
+  "f_hair304.png": {
+    "name": "法式女发",
+    "hideBaseLayer": false
+  },
+  "f_hair305.png": {
+    "name": "剑士发型",
+    "hideBaseLayer": false
+  },
+  "f_hair306.png": {
+    "name": "安妮金发",
+    "hideBaseLayer": false
+  },
+  "f_hair307.png": {
+    "name": "清凉盘发",
+    "hideBaseLayer": false
+  },
+  "f_hair308.png": {
+    "name": "奶油洛丽塔",
+    "hideBaseLayer": false
+  },
+  "f_hair309.png": {
+    "name": "香草可丽饼",
+    "hideBaseLayer": false
+  },
+  "f_hair310.png": {
+    "name": "玉子蛋筒",
+    "hideBaseLayer": false
+  },
+  "f_hair311.png": {
+    "name": "西柚双马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair312.png": {
+    "name": "琉璃兔发型",
+    "hideBaseLayer": false
+  },
+  "f_hair313.png": {
+    "name": "白雪姬",
+    "hideBaseLayer": false
+  },
+  "f_hair314.png": {
+    "name": "雪洞鬼灯",
+    "hideBaseLayer": false
+  },
+  "f_hair315.png": {
+    "name": "我妻由乃",
+    "hideBaseLayer": false
+  },
+  "f_hair316.png": {
+    "name": "红玛利亚",
+    "hideBaseLayer": false
+  },
+  "f_hair317.png": {
+    "name": "萤火金发",
+    "hideBaseLayer": false
+  },
+  "f_hair318.png": {
+    "name": "倚虹学士发型",
+    "hideBaseLayer": false
+  },
+  "f_hair319.png": {
+    "name": "新区女装发型",
+    "hideBaseLayer": false
+  },
+  "f_hair320.png": {
+    "name": "粉蔷薇卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair321.png": {
+    "name": "粉粉蛋糕发型",
+    "hideBaseLayer": false
+  },
+  "f_hair322.png": {
+    "name": "candy短发",
+    "hideBaseLayer": false
+  },
+  "f_hair323.png": {
+    "name": "织梦发型",
+    "hideBaseLayer": false
+  },
+  "f_hair324.png": {
+    "name": "浮生银发",
+    "hideBaseLayer": false
+  },
+  "f_hair325.png": {
+    "name": "可可花苞",
+    "hideBaseLayer": false
+  },
+  "f_hair326.png": {
+    "name": "踏云发型",
+    "hideBaseLayer": false
+  },
+  "f_hair327.png": {
+    "name": "紫阳发髻",
+    "hideBaseLayer": false
+  },
+  "f_hair328.png": {
+    "name": "牡丹发型",
+    "hideBaseLayer": false
+  },
+  "f_hair329.png": {
+    "name": "罗马女神红发",
+    "hideBaseLayer": false
+  },
+  "f_hair330.png": {
+    "name": "桃心银发",
+    "hideBaseLayer": false
+  },
+  "f_hair331.png": {
+    "name": "卷尾金发",
+    "hideBaseLayer": false
+  },
+  "f_hair332.png": {
+    "name": "兰馨发型",
+    "hideBaseLayer": false
+  },
+  "f_hair333.png": {
+    "name": "水晶金发",
+    "hideBaseLayer": false
+  },
+  "f_hair334.png": {
+    "name": "慕斯长发",
+    "hideBaseLayer": false
+  },
+  "f_hair335.png": {
+    "name": "西莉卡发型",
+    "hideBaseLayer": false
+  },
+  "f_hair336.png": {
+    "name": "粉粉天使",
+    "hideBaseLayer": false
+  },
+  "f_hair337.png": {
+    "name": "摇滚天后女发",
+    "hideBaseLayer": false
+  },
+  "f_hair338.png": {
+    "name": "碧蝶银发",
+    "hideBaseLayer": false
+  },
+  "f_hair339.png": {
+    "name": "粉企鹅小辫",
+    "hideBaseLayer": false
+  },
+  "f_hair340.png": {
+    "name": "冰雪女发",
+    "hideBaseLayer": false
+  },
+  "f_hair341.png": {
+    "name": "红茶发型",
+    "hideBaseLayer": false
+  },
+  "f_hair342.png": {
+    "name": "糖沁发型",
+    "hideBaseLayer": false
+  },
+  "f_hair343.png": {
+    "name": "浅金女发",
+    "hideBaseLayer": false
+  },
+  "f_hair344.png": {
+    "name": "叮铃发型",
+    "hideBaseLayer": false
+  },
+  "f_hair345.png": {
+    "name": "落樱发型",
+    "hideBaseLayer": false
+  },
+  "f_hair346.png": {
+    "name": "蓝樱夜梦发型",
+    "hideBaseLayer": false
+  },
+  "f_hair347.png": {
+    "name": "拼布盘发",
+    "hideBaseLayer": false
+  },
+  "f_hair348.png": {
+    "name": "小蘑女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair349.png": {
+    "name": "彩虹兔（女）",
+    "hideBaseLayer": false
+  },
+  "f_hair350.png": {
+    "name": "古逸朱钗",
+    "hideBaseLayer": false
+  },
+  "f_hair3503.png": {
+    "name": "蜜糖之甜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair351.png": {
+    "name": "韩式小揪揪",
+    "hideBaseLayer": false
+  },
+  "f_hair352.png": {
+    "name": "花苞妹",
+    "hideBaseLayer": false
+  },
+  "f_hair353.png": {
+    "name": "金倪蜜语",
+    "hideBaseLayer": false
+  },
+  "f_hair354.png": {
+    "name": "蓝雨暮光",
+    "hideBaseLayer": false
+  },
+  "f_hair355.png": {
+    "name": "梨花精灵",
+    "hideBaseLayer": false
+  },
+  "f_hair356.png": {
+    "name": "俏皮翠",
+    "hideBaseLayer": false
+  },
+  "f_hair357.png": {
+    "name": "樱桃子发型",
+    "hideBaseLayer": false
+  },
+  "f_hair358.png": {
+    "name": "花都发型",
+    "hideBaseLayer": false
+  },
+  "f_hair359.png": {
+    "name": "丰收祭祀女发",
+    "hideBaseLayer": false
+  },
+  "f_hair360.png": {
+    "name": "月华女发",
+    "hideBaseLayer": false
+  },
+  "f_hair3600.png": {
+    "name": "甜心猫猫拳女发",
+    "hideBaseLayer": false
+  },
+  "f_hair361.png": {
+    "name": "洛可可女发",
+    "hideBaseLayer": false
+  },
+  "f_hair362.png": {
+    "name": "璨梦发型",
+    "hideBaseLayer": false
+  },
+  "f_hair363.png": {
+    "name": "皇后恋歌发型",
+    "hideBaseLayer": false
+  },
+  "f_hair364.png": {
+    "name": "星星女发",
+    "hideBaseLayer": false
+  },
+  "f_hair365.png": {
+    "name": "发条娃娃发型",
+    "hideBaseLayer": false
+  },
+  "f_hair366.png": {
+    "name": "歌月流莹",
+    "hideBaseLayer": false
+  },
+  "f_hair367.png": {
+    "name": "樱桃发型",
+    "hideBaseLayer": false
+  },
+  "f_hair368.png": {
+    "name": "藏蓝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair369.png": {
+    "name": "玛奇朵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair370.png": {
+    "name": "僵尸女发",
+    "hideBaseLayer": false
+  },
+  "f_hair371.png": {
+    "name": "练白瑛发型",
+    "hideBaseLayer": false
+  },
+  "f_hair372.png": {
+    "name": "森林精灵卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair3723.png": {
+    "name": "惬意一夏女发",
+    "hideBaseLayer": false
+  },
+  "f_hair373.png": {
+    "name": "蝴蝶结花苞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair374.png": {
+    "name": "魅瞳脸谱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair375.png": {
+    "name": "清新初夏",
+    "hideBaseLayer": false
+  },
+  "f_hair376.png": {
+    "name": "倾城记忆",
+    "hideBaseLayer": false
+  },
+  "f_hair377.png": {
+    "name": "时间兔子发型",
+    "hideBaseLayer": false
+  },
+  "f_hair378.png": {
+    "name": "桂子飘香发簪",
+    "hideBaseLayer": false
+  },
+  "f_hair379.png": {
+    "name": "布偶小野",
+    "hideBaseLayer": false
+  },
+  "f_hair380.png": {
+    "name": "轻舞飞扬",
+    "hideBaseLayer": false
+  },
+  "f_hair381.png": {
+    "name": "新手女发",
+    "hideBaseLayer": false
+  },
+  "f_hair3817.png": {
+    "name": "沁心夏日女发",
+    "hideBaseLayer": false
+  },
+  "f_hair382.png": {
+    "name": "恶魔蝴蝶结",
+    "hideBaseLayer": false
+  },
+  "f_hair3824.png": {
+    "name": "邂逅亚特兰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair383.png": {
+    "name": "红梅傲雪",
+    "hideBaseLayer": false
+  },
+  "f_hair384.png": {
+    "name": "美国女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair385.png": {
+    "name": "红簪发髻",
+    "hideBaseLayer": false
+  },
+  "f_hair386.png": {
+    "name": "紫罗兰复古盘发",
+    "hideBaseLayer": false
+  },
+  "f_hair387.png": {
+    "name": "浪漫花语",
+    "hideBaseLayer": false
+  },
+  "f_hair388.png": {
+    "name": "星愿心语",
+    "hideBaseLayer": false
+  },
+  "f_hair389.png": {
+    "name": "普罗旺斯之恋",
+    "hideBaseLayer": false
+  },
+  "f_hair390.png": {
+    "name": "星梦月明",
+    "hideBaseLayer": false
+  },
+  "f_hair391.png": {
+    "name": "碧海麻花",
+    "hideBaseLayer": false
+  },
+  "f_hair392.png": {
+    "name": "浪漫维他命",
+    "hideBaseLayer": false
+  },
+  "f_hair393.png": {
+    "name": "玉露云髻",
+    "hideBaseLayer": false
+  },
+  "f_hair394.png": {
+    "name": "热浪包子头",
+    "hideBaseLayer": false
+  },
+  "f_hair395.png": {
+    "name": "淡紫莹莹",
+    "hideBaseLayer": false
+  },
+  "f_hair396.png": {
+    "name": "蒂娜小熊",
+    "hideBaseLayer": false
+  },
+  "f_hair397.png": {
+    "name": "草色原野",
+    "hideBaseLayer": false
+  },
+  "f_hair398.png": {
+    "name": "软兔咩咩",
+    "hideBaseLayer": false
+  },
+  "f_hair399.png": {
+    "name": "小精灵",
+    "hideBaseLayer": false
+  },
+  "f_hair400.png": {
+    "name": "小巫仙",
+    "hideBaseLayer": false
+  },
+  "f_hair401.png": {
+    "name": "呆萌萝莉",
+    "hideBaseLayer": false
+  },
+  "f_hair4016.png": {
+    "name": "精灵时花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair402.png": {
+    "name": "粉粉蝴蝶结",
+    "hideBaseLayer": false
+  },
+  "f_hair403.png": {
+    "name": "青藤初夏",
+    "hideBaseLayer": false
+  },
+  "f_hair4036.png": {
+    "name": "酸奶不郁郁女发",
+    "hideBaseLayer": false
+  },
+  "f_hair404.png": {
+    "name": "托帕",
+    "hideBaseLayer": false
+  },
+  "f_hair405.png": {
+    "name": "香草冰淇淋",
+    "hideBaseLayer": false
+  },
+  "f_hair406.png": {
+    "name": "馨色幻想",
+    "hideBaseLayer": false
+  },
+  "f_hair407.png": {
+    "name": "月光大波浪",
+    "hideBaseLayer": false
+  },
+  "f_hair408.png": {
+    "name": "淡紫旋花",
+    "hideBaseLayer": false
+  },
+  "f_hair409.png": {
+    "name": "麦穗灿灿",
+    "hideBaseLayer": false
+  },
+  "f_hair410.png": {
+    "name": "淡粉小酱",
+    "hideBaseLayer": false
+  },
+  "f_hair411.png": {
+    "name": "火炎雪",
+    "hideBaseLayer": false
+  },
+  "f_hair412.png": {
+    "name": "金桔柠檬",
+    "hideBaseLayer": false
+  },
+  "f_hair413.png": {
+    "name": "可爱棉絮",
+    "hideBaseLayer": false
+  },
+  "f_hair414.png": {
+    "name": "蜜桃狐",
+    "hideBaseLayer": false
+  },
+  "f_hair415.png": {
+    "name": "风情绿萝",
+    "hideBaseLayer": false
+  },
+  "f_hair416.png": {
+    "name": "莫斯小爱",
+    "hideBaseLayer": false
+  },
+  "f_hair417.png": {
+    "name": "木之誓",
+    "hideBaseLayer": false
+  },
+  "f_hair418.png": {
+    "name": "萝莉之心",
+    "hideBaseLayer": false
+  },
+  "f_hair419.png": {
+    "name": "纯梦",
+    "hideBaseLayer": false
+  },
+  "f_hair420.png": {
+    "name": "萌鬼来袭",
+    "hideBaseLayer": false
+  },
+  "f_hair421.png": {
+    "name": "水云小卷浪",
+    "hideBaseLayer": false
+  },
+  "f_hair422.png": {
+    "name": "园艺馨馨",
+    "hideBaseLayer": false
+  },
+  "f_hair423.png": {
+    "name": "青春无敌",
+    "hideBaseLayer": false
+  },
+  "f_hair424.png": {
+    "name": "小仙女",
+    "hideBaseLayer": false
+  },
+  "f_hair425.png": {
+    "name": "花仙",
+    "hideBaseLayer": false
+  },
+  "f_hair4250.png": {
+    "name": "恋感偶像女发",
+    "hideBaseLayer": false
+  },
+  "f_hair426.png": {
+    "name": "罗兰飘雪",
+    "hideBaseLayer": false
+  },
+  "f_hair427.png": {
+    "name": "萌兔铃铛",
+    "hideBaseLayer": false
+  },
+  "f_hair428.png": {
+    "name": "炫紫萝莉",
+    "hideBaseLayer": false
+  },
+  "f_hair429.png": {
+    "name": "忆纷飞",
+    "hideBaseLayer": false
+  },
+  "f_hair430.png": {
+    "name": "甜蜜心思",
+    "hideBaseLayer": false
+  },
+  "f_hair431.png": {
+    "name": "响子发型",
+    "hideBaseLayer": false
+  },
+  "f_hair432.png": {
+    "name": "阿拉丁发型",
+    "hideBaseLayer": false
+  },
+  "f_hair433.png": {
+    "name": "英伦风情",
+    "hideBaseLayer": false
+  },
+  "f_hair434.png": {
+    "name": "芭芭拉优雅蝴蝶结",
+    "hideBaseLayer": false
+  },
+  "f_hair435.png": {
+    "name": "热舞甜心",
+    "hideBaseLayer": false
+  },
+  "f_hair436.png": {
+    "name": "铃音少女",
+    "hideBaseLayer": false
+  },
+  "f_hair437.png": {
+    "name": "可爱萌主",
+    "hideBaseLayer": false
+  },
+  "f_hair438.png": {
+    "name": "星月彩虹发型",
+    "hideBaseLayer": false
+  },
+  "f_hair439.png": {
+    "name": "玲珑编发",
+    "hideBaseLayer": false
+  },
+  "f_hair440.png": {
+    "name": "蝙蝠王后",
+    "hideBaseLayer": false
+  },
+  "f_hair441.png": {
+    "name": "天使恶魔心",
+    "hideBaseLayer": false
+  },
+  "f_hair442.png": {
+    "name": "梦里年华",
+    "hideBaseLayer": false
+  },
+  "f_hair443.png": {
+    "name": "黑喵小姐",
+    "hideBaseLayer": false
+  },
+  "f_hair444.png": {
+    "name": "南瓜少女",
+    "hideBaseLayer": false
+  },
+  "f_hair445.png": {
+    "name": "花房姑娘",
+    "hideBaseLayer": false
+  },
+  "f_hair446.png": {
+    "name": "莹秋暖蓝",
+    "hideBaseLayer": false
+  },
+  "f_hair447.png": {
+    "name": "灵动青春",
+    "hideBaseLayer": false
+  },
+  "f_hair448.png": {
+    "name": "热舞甜心",
+    "hideBaseLayer": false
+  },
+  "f_hair449.png": {
+    "name": "庆典狂欢兔",
+    "hideBaseLayer": false
+  },
+  "f_hair4490.png": {
+    "name": "红丝带蛋糕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair450.png": {
+    "name": "悠悠我心",
+    "hideBaseLayer": false
+  },
+  "f_hair451.png": {
+    "name": "银光女发",
+    "hideBaseLayer": false
+  },
+  "f_hair452.png": {
+    "name": "馨蓝茉莉",
+    "hideBaseLayer": false
+  },
+  "f_hair453.png": {
+    "name": "丹麦女发",
+    "hideBaseLayer": false
+  },
+  "f_hair454.png": {
+    "name": "时尚芭比",
+    "hideBaseLayer": false
+  },
+  "f_hair455.png": {
+    "name": "圣诞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair456.png": {
+    "name": "朱丝麻花",
+    "hideBaseLayer": false
+  },
+  "f_hair457.png": {
+    "name": "云霞",
+    "hideBaseLayer": false
+  },
+  "f_hair458.png": {
+    "name": "樱花蝴蝶结",
+    "hideBaseLayer": false
+  },
+  "f_hair459.png": {
+    "name": "爱的朱丽叶",
+    "hideBaseLayer": false
+  },
+  "f_hair460.png": {
+    "name": "叶阑珊",
+    "hideBaseLayer": false
+  },
+  "f_hair461.png": {
+    "name": "世纪之约",
+    "hideBaseLayer": false
+  },
+  "f_hair462.png": {
+    "name": "古堡公主",
+    "hideBaseLayer": false
+  },
+  "f_hair463.png": {
+    "name": "流金岁月",
+    "hideBaseLayer": false
+  },
+  "f_hair464.png": {
+    "name": "黄色喵咪发型",
+    "hideBaseLayer": false
+  },
+  "f_hair465.png": {
+    "name": "童话兔兔",
+    "hideBaseLayer": false
+  },
+  "f_hair466.png": {
+    "name": "莉莉娅女郎",
+    "hideBaseLayer": false
+  },
+  "f_hair467.png": {
+    "name": "粉紫麻花小辫",
+    "hideBaseLayer": false
+  },
+  "f_hair468.png": {
+    "name": "次元冷萌女发",
+    "hideBaseLayer": false
+  },
+  "f_hair469.png": {
+    "name": "汤圆约会女发",
+    "hideBaseLayer": false
+  },
+  "f_hair470.png": {
+    "name": "穿越爱恋女发",
+    "hideBaseLayer": false
+  },
+  "f_hair471.png": {
+    "name": "完美新娘盘发",
+    "hideBaseLayer": false
+  },
+  "f_hair472.png": {
+    "name": "魅影红玉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair473.png": {
+    "name": "战争之王女发",
+    "hideBaseLayer": false
+  },
+  "f_hair474.png": {
+    "name": "樱桃红红女发",
+    "hideBaseLayer": false
+  },
+  "f_hair475.png": {
+    "name": "春暖花开花苞头",
+    "hideBaseLayer": false
+  },
+  "f_hair476.png": {
+    "name": "活力萌妹发型",
+    "hideBaseLayer": false
+  },
+  "f_hair477.png": {
+    "name": "灰姑娘发型",
+    "hideBaseLayer": false
+  },
+  "f_hair478.png": {
+    "name": "氧气盘发",
+    "hideBaseLayer": false
+  },
+  "f_hair479.png": {
+    "name": "纯爱洛丽塔长发",
+    "hideBaseLayer": false
+  },
+  "f_hair480.png": {
+    "name": "灵风女发",
+    "hideBaseLayer": false
+  },
+  "f_hair481.png": {
+    "name": "挽月流霞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair482.png": {
+    "name": "春樱海滩女发",
+    "hideBaseLayer": false
+  },
+  "f_hair483.png": {
+    "name": "萌兔娃娃发型",
+    "hideBaseLayer": false
+  },
+  "f_hair484.png": {
+    "name": "茶艺学童双马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair485.png": {
+    "name": "海湾恋人女发",
+    "hideBaseLayer": false
+  },
+  "f_hair486.png": {
+    "name": "花儿朵朵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair487.png": {
+    "name": "华尔兹女发",
+    "hideBaseLayer": false
+  },
+  "f_hair488.png": {
+    "name": "九天美人女发",
+    "hideBaseLayer": false
+  },
+  "f_hair489.png": {
+    "name": "凤舞精灵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair490.png": {
+    "name": "暗金玫瑰发型",
+    "hideBaseLayer": false
+  },
+  "f_hair491.png": {
+    "name": "盛夏风情女发",
+    "hideBaseLayer": false
+  },
+  "f_hair492.png": {
+    "name": "橙馨微影",
+    "hideBaseLayer": false
+  },
+  "f_hair493.png": {
+    "name": "一菲发束",
+    "hideBaseLayer": false
+  },
+  "f_hair494.png": {
+    "name": "夏日迷情",
+    "hideBaseLayer": false
+  },
+  "f_hair495.png": {
+    "name": "战争之王S2女发",
+    "hideBaseLayer": false
+  },
+  "f_hair496.png": {
+    "name": "花玲珑",
+    "hideBaseLayer": false
+  },
+  "f_hair497.png": {
+    "name": "爱音恋夏",
+    "hideBaseLayer": false
+  },
+  "f_hair498.png": {
+    "name": "莫愁挑染女发",
+    "hideBaseLayer": false
+  },
+  "f_hair499.png": {
+    "name": "爱音漫卷",
+    "hideBaseLayer": false
+  },
+  "f_hair500.png": {
+    "name": "盛夏西瓜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair501.png": {
+    "name": "海浪沙滩女发",
+    "hideBaseLayer": false
+  },
+  "f_hair502.png": {
+    "name": "糖果甜心女发",
+    "hideBaseLayer": false
+  },
+  "f_hair503.png": {
+    "name": "熊熊兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair504.png": {
+    "name": "树莓女发",
+    "hideBaseLayer": false
+  },
+  "f_hair505.png": {
+    "name": "白露为霜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair506.png": {
+    "name": "南有乔木女发",
+    "hideBaseLayer": false
+  },
+  "f_hair507.png": {
+    "name": "魔法天使",
+    "hideBaseLayer": false
+  },
+  "f_hair508.png": {
+    "name": "米洛洛马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair509.png": {
+    "name": "海的女儿",
+    "hideBaseLayer": false
+  },
+  "f_hair510.png": {
+    "name": "遥远星空女发",
+    "hideBaseLayer": false
+  },
+  "f_hair511.png": {
+    "name": "关关雎鸠女发",
+    "hideBaseLayer": false
+  },
+  "f_hair512.png": {
+    "name": "彼美孟姜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair513.png": {
+    "name": "天竺女发",
+    "hideBaseLayer": false
+  },
+  "f_hair514.png": {
+    "name": "真真发型",
+    "hideBaseLayer": false
+  },
+  "f_hair515.png": {
+    "name": "紫夜凝香女发",
+    "hideBaseLayer": false
+  },
+  "f_hair516.png": {
+    "name": "格斗女发",
+    "hideBaseLayer": false
+  },
+  "f_hair517.png": {
+    "name": "星缘王后",
+    "hideBaseLayer": false
+  },
+  "f_hair518.png": {
+    "name": "糖果女发",
+    "hideBaseLayer": false
+  },
+  "f_hair519.png": {
+    "name": "高冷校花",
+    "hideBaseLayer": false
+  },
+  "f_hair520.png": {
+    "name": "灼灼其华女发",
+    "hideBaseLayer": false
+  },
+  "f_hair521.png": {
+    "name": "绿丝絺绤女发",
+    "hideBaseLayer": false
+  },
+  "f_hair522.png": {
+    "name": "青萝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair523.png": {
+    "name": "江之岛女发",
+    "hideBaseLayer": false
+  },
+  "f_hair524.png": {
+    "name": "红莓女发",
+    "hideBaseLayer": false
+  },
+  "f_hair525.png": {
+    "name": "小狸猫萝莉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair526.png": {
+    "name": "翠湖约会女发",
+    "hideBaseLayer": false
+  },
+  "f_hair527.png": {
+    "name": "花月女发",
+    "hideBaseLayer": false
+  },
+  "f_hair528.png": {
+    "name": "黑喵物语女发",
+    "hideBaseLayer": false
+  },
+  "f_hair529.png": {
+    "name": "小红帽女发",
+    "hideBaseLayer": false
+  },
+  "f_hair530.png": {
+    "name": "小红帽连帽短发",
+    "hideBaseLayer": false
+  },
+  "f_hair531.png": {
+    "name": "红颜知己女发",
+    "hideBaseLayer": false
+  },
+  "f_hair532.png": {
+    "name": "蓝企鹅女发",
+    "hideBaseLayer": false
+  },
+  "f_hair533.png": {
+    "name": "旋转木马女发",
+    "hideBaseLayer": false
+  },
+  "f_hair534.png": {
+    "name": "小花仙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair535.png": {
+    "name": "星际王后长卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair536.png": {
+    "name": "邻家少女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair537.png": {
+    "name": "学院派舞会女发",
+    "hideBaseLayer": false
+  },
+  "f_hair538.png": {
+    "name": "AH婚礼红毯女发",
+    "hideBaseLayer": false
+  },
+  "f_hair539.png": {
+    "name": "南瓜公主发型",
+    "hideBaseLayer": false
+  },
+  "f_hair540.png": {
+    "name": "彩虹天堂",
+    "hideBaseLayer": false
+  },
+  "f_hair542.png": {
+    "name": "沁蓝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair543.png": {
+    "name": "暗夜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair544.png": {
+    "name": "冰蓝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair546.png": {
+    "name": "粉粉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair547.png": {
+    "name": "蓝纱发型",
+    "hideBaseLayer": false
+  },
+  "f_hair548.png": {
+    "name": "咎儿女发",
+    "hideBaseLayer": false
+  },
+  "f_hair549.png": {
+    "name": "莫妮卡女发",
+    "hideBaseLayer": false
+  },
+  "f_hair550.png": {
+    "name": "叮当女发",
+    "hideBaseLayer": false
+  },
+  "f_hair551.png": {
+    "name": "神隐女发",
+    "hideBaseLayer": false
+  },
+  "f_hair552.png": {
+    "name": "水母女发",
+    "hideBaseLayer": false
+  },
+  "f_hair553.png": {
+    "name": "梦璃女发",
+    "hideBaseLayer": false
+  },
+  "f_hair554.png": {
+    "name": "彩虹咩女发",
+    "hideBaseLayer": false
+  },
+  "f_hair555.png": {
+    "name": "凤蝶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair556.png": {
+    "name": "紫姬发型",
+    "hideBaseLayer": false
+  },
+  "f_hair557.png": {
+    "name": "兔宝发型",
+    "hideBaseLayer": false
+  },
+  "f_hair558.png": {
+    "name": "红袄发型",
+    "hideBaseLayer": false
+  },
+  "f_hair559.png": {
+    "name": "女王帅气的短发",
+    "hideBaseLayer": false
+  },
+  "f_hair560.png": {
+    "name": "蓝魅发型",
+    "hideBaseLayer": false
+  },
+  "f_hair561.png": {
+    "name": "拜占庭女发",
+    "hideBaseLayer": false
+  },
+  "f_hair562.png": {
+    "name": "古典深秋女发",
+    "hideBaseLayer": false
+  },
+  "f_hair564.png": {
+    "name": "红果果发型",
+    "hideBaseLayer": false
+  },
+  "f_hair565.png": {
+    "name": "黑色燕尾服女发",
+    "hideBaseLayer": false
+  },
+  "f_hair566.png": {
+    "name": "白梅发型",
+    "hideBaseLayer": false
+  },
+  "f_hair567.png": {
+    "name": "水手裙发型",
+    "hideBaseLayer": false
+  },
+  "f_hair568.png": {
+    "name": "花园爱丽丝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair569.png": {
+    "name": "蓝色长发",
+    "hideBaseLayer": false
+  },
+  "f_hair570.png": {
+    "name": "夏末轻纱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair571.png": {
+    "name": "魔幻心灵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair572.png": {
+    "name": "软心芭蕾女发",
+    "hideBaseLayer": false
+  },
+  "f_hair573.png": {
+    "name": "嘻哈兔妹女发",
+    "hideBaseLayer": false
+  },
+  "f_hair574.png": {
+    "name": "紫藤琉璃女发",
+    "hideBaseLayer": false
+  },
+  "f_hair575.png": {
+    "name": "奶油栗子女发",
+    "hideBaseLayer": false
+  },
+  "f_hair576.png": {
+    "name": "露米娅",
+    "hideBaseLayer": false
+  },
+  "f_hair577.png": {
+    "name": "圣诞冬卷女发",
+    "hideBaseLayer": false
+  },
+  "f_hair578.png": {
+    "name": "红袄女发",
+    "hideBaseLayer": false
+  },
+  "f_hair579.png": {
+    "name": "新年玫瑰裙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair580.png": {
+    "name": "巧克力糖果女发",
+    "hideBaseLayer": false
+  },
+  "f_hair581.png": {
+    "name": "冰冻之心女发",
+    "hideBaseLayer": false
+  },
+  "f_hair582.png": {
+    "name": "果茶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair583.png": {
+    "name": "彩蝶萦绕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair584.png": {
+    "name": "波比兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair585.png": {
+    "name": "虎斑喵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair586.png": {
+    "name": "金桔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair587.png": {
+    "name": "清凉兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair588.png": {
+    "name": "草莓甜心派女发",
+    "hideBaseLayer": false
+  },
+  "f_hair589.png": {
+    "name": "天使魔幻女发",
+    "hideBaseLayer": false
+  },
+  "f_hair590.png": {
+    "name": "红锦鲤女发",
+    "hideBaseLayer": false
+  },
+  "f_hair591.png": {
+    "name": "战争之王S3女发",
+    "hideBaseLayer": false
+  },
+  "f_hair592.png": {
+    "name": "猴猴暖冬女发",
+    "hideBaseLayer": false
+  },
+  "f_hair593.png": {
+    "name": "心舞会女发",
+    "hideBaseLayer": false
+  },
+  "f_hair594.png": {
+    "name": "锦葵紫女发",
+    "hideBaseLayer": false
+  },
+  "f_hair595.png": {
+    "name": "宫廷萌草女发",
+    "hideBaseLayer": false
+  },
+  "f_hair596.png": {
+    "name": "羽毛婚纱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair597.png": {
+    "name": "心情女发",
+    "hideBaseLayer": false
+  },
+  "f_hair598.png": {
+    "name": "雅米女发",
+    "hideBaseLayer": false
+  },
+  "f_hair599.png": {
+    "name": "魅影女发",
+    "hideBaseLayer": false
+  },
+  "f_hair600.png": {
+    "name": "金色富小姐女发",
+    "hideBaseLayer": false
+  },
+  "f_hair601.png": {
+    "name": "红菱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair602.png": {
+    "name": "粉飘飘发型",
+    "hideBaseLayer": false
+  },
+  "f_hair603.png": {
+    "name": "冰雪少女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair604.png": {
+    "name": "粉兔发型",
+    "hideBaseLayer": false
+  },
+  "f_hair605.png": {
+    "name": "毛绒粉粉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair606.png": {
+    "name": "淡花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair607.png": {
+    "name": "蓝意女发",
+    "hideBaseLayer": false
+  },
+  "f_hair608.png": {
+    "name": "金色双马尾",
+    "hideBaseLayer": false
+  },
+  "f_hair609.png": {
+    "name": "恋恋魔法使女发",
+    "hideBaseLayer": false
+  },
+  "f_hair610.png": {
+    "name": "哈莉奎因",
+    "hideBaseLayer": false
+  },
+  "f_hair611.png": {
+    "name": "朝阳淑女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair612.png": {
+    "name": "星光女爵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair613.png": {
+    "name": "冰蓝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair614.png": {
+    "name": "草绿发辫",
+    "hideBaseLayer": false
+  },
+  "f_hair615.png": {
+    "name": "大蝴蝶结卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair616.png": {
+    "name": "橘子汽水女发",
+    "hideBaseLayer": false
+  },
+  "f_hair617.png": {
+    "name": "蔷薇红莲女发",
+    "hideBaseLayer": false
+  },
+  "f_hair618.png": {
+    "name": "魔女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair619.png": {
+    "name": "粉粉熊女发",
+    "hideBaseLayer": false
+  },
+  "f_hair620.png": {
+    "name": "莉紫女发",
+    "hideBaseLayer": false
+  },
+  "f_hair621.png": {
+    "name": "紫夜歌女发",
+    "hideBaseLayer": false
+  },
+  "f_hair622.png": {
+    "name": "风铃女发",
+    "hideBaseLayer": false
+  },
+  "f_hair623.png": {
+    "name": "撒豆鬼女发",
+    "hideBaseLayer": false
+  },
+  "f_hair624.png": {
+    "name": "樱之女巫发型",
+    "hideBaseLayer": false
+  },
+  "f_hair625.png": {
+    "name": "紫罗兰雨滴",
+    "hideBaseLayer": false
+  },
+  "f_hair626.png": {
+    "name": "泡沫蓝蔷薇",
+    "hideBaseLayer": false
+  },
+  "f_hair627.png": {
+    "name": "大道寺知世",
+    "hideBaseLayer": false
+  },
+  "f_hair628.png": {
+    "name": "日系蝴蝶结短发",
+    "hideBaseLayer": false
+  },
+  "f_hair629.png": {
+    "name": "紫色喵喵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair630.png": {
+    "name": "玛丽亚之光",
+    "hideBaseLayer": false
+  },
+  "f_hair631.png": {
+    "name": "清灵荷韵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair632.png": {
+    "name": "矢羽柄女发",
+    "hideBaseLayer": false
+  },
+  "f_hair633.png": {
+    "name": "满天星女发",
+    "hideBaseLayer": false
+  },
+  "f_hair634.png": {
+    "name": "俏皮丸子头",
+    "hideBaseLayer": false
+  },
+  "f_hair635.png": {
+    "name": "暮烟女发",
+    "hideBaseLayer": false
+  },
+  "f_hair636.png": {
+    "name": "莉莉的头发",
+    "hideBaseLayer": false
+  },
+  "f_hair637.png": {
+    "name": "草莓棉花糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair638.png": {
+    "name": "摇曳女发",
+    "hideBaseLayer": false
+  },
+  "f_hair639.png": {
+    "name": "听花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair640.png": {
+    "name": "去春游女发",
+    "hideBaseLayer": false
+  },
+  "f_hair641.png": {
+    "name": "珍尼佛的金发",
+    "hideBaseLayer": false
+  },
+  "f_hair642.png": {
+    "name": "曼舞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair643.png": {
+    "name": "银霜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair644.png": {
+    "name": "时尚大方发型",
+    "hideBaseLayer": false
+  },
+  "f_hair645.png": {
+    "name": "乐高小象女发",
+    "hideBaseLayer": false
+  },
+  "f_hair646.png": {
+    "name": "蓝星粉粉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair647.png": {
+    "name": "红茶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair648.png": {
+    "name": "花季少女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair649.png": {
+    "name": "时尚酷酷发型",
+    "hideBaseLayer": false
+  },
+  "f_hair650.png": {
+    "name": "薄荷香草女发",
+    "hideBaseLayer": false
+  },
+  "f_hair651.png": {
+    "name": "赤槿女发",
+    "hideBaseLayer": false
+  },
+  "f_hair652.png": {
+    "name": "初夏恋恋冰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair653.png": {
+    "name": "栗栗熊熊女发",
+    "hideBaseLayer": false
+  },
+  "f_hair654.png": {
+    "name": "萌星星女发",
+    "hideBaseLayer": false
+  },
+  "f_hair655.png": {
+    "name": "安吉尔的金发",
+    "hideBaseLayer": false
+  },
+  "f_hair656.png": {
+    "name": "秋月女发",
+    "hideBaseLayer": false
+  },
+  "f_hair657.png": {
+    "name": "金色闪闪女发",
+    "hideBaseLayer": false
+  },
+  "f_hair658.png": {
+    "name": "海洋泡沫女发",
+    "hideBaseLayer": false
+  },
+  "f_hair659.png": {
+    "name": "草莓女发",
+    "hideBaseLayer": false
+  },
+  "f_hair660.png": {
+    "name": "蓝莓女发",
+    "hideBaseLayer": false
+  },
+  "f_hair661.png": {
+    "name": "兔子萝卜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair662.png": {
+    "name": "月明星稀女发",
+    "hideBaseLayer": false
+  },
+  "f_hair663.png": {
+    "name": "暖风女发",
+    "hideBaseLayer": false
+  },
+  "f_hair664.png": {
+    "name": "静谧女发",
+    "hideBaseLayer": false
+  },
+  "f_hair665.png": {
+    "name": "仙鹿女发",
+    "hideBaseLayer": false
+  },
+  "f_hair666.png": {
+    "name": "静谧紫藤女发",
+    "hideBaseLayer": false
+  },
+  "f_hair667.png": {
+    "name": "花季少女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair668.png": {
+    "name": "笛乐女发",
+    "hideBaseLayer": false
+  },
+  "f_hair669.png": {
+    "name": "一起兜兜风女发",
+    "hideBaseLayer": false
+  },
+  "f_hair670.png": {
+    "name": "南北极洋装女发",
+    "hideBaseLayer": false
+  },
+  "f_hair671.png": {
+    "name": "胡姬女发",
+    "hideBaseLayer": false
+  },
+  "f_hair672.png": {
+    "name": "鹏游蝶梦女发",
+    "hideBaseLayer": false
+  },
+  "f_hair673.png": {
+    "name": "晨星女发",
+    "hideBaseLayer": false
+  },
+  "f_hair674.png": {
+    "name": "瑰丽乐园女发",
+    "hideBaseLayer": false
+  },
+  "f_hair675.png": {
+    "name": "流光飞舞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair676.png": {
+    "name": "气球喵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair677.png": {
+    "name": "水果派对女发",
+    "hideBaseLayer": false
+  },
+  "f_hair678.png": {
+    "name": "朵蜜天女发型",
+    "hideBaseLayer": false
+  },
+  "f_hair679.png": {
+    "name": "甜心小点女发",
+    "hideBaseLayer": false
+  },
+  "f_hair680.png": {
+    "name": "落樱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair681.png": {
+    "name": "梦幻星空女发",
+    "hideBaseLayer": false
+  },
+  "f_hair682.png": {
+    "name": "牧羊头发",
+    "hideBaseLayer": false
+  },
+  "f_hair683.png": {
+    "name": "鲜花头发",
+    "hideBaseLayer": false
+  },
+  "f_hair684.png": {
+    "name": "拉媞天女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair685.png": {
+    "name": "柯基女发",
+    "hideBaseLayer": false
+  },
+  "f_hair686.png": {
+    "name": "粉薇花仙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair687.png": {
+    "name": "星幻女发",
+    "hideBaseLayer": false
+  },
+  "f_hair688.png": {
+    "name": "冰柠橘子女发",
+    "hideBaseLayer": false
+  },
+  "f_hair689.png": {
+    "name": "音乐课代表女发",
+    "hideBaseLayer": false
+  },
+  "f_hair690.png": {
+    "name": "南北极蝶舞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair691.png": {
+    "name": "南北极豆花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair692.png": {
+    "name": "南北极星点女发",
+    "hideBaseLayer": false
+  },
+  "f_hair693.png": {
+    "name": "南北极紫蝶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair694.png": {
+    "name": "玻璃纱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair695.png": {
+    "name": "朝与同歌",
+    "hideBaseLayer": false
+  },
+  "f_hair696.png": {
+    "name": "乌丽女发",
+    "hideBaseLayer": false
+  },
+  "f_hair697.png": {
+    "name": "法苏天女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair698.png": {
+    "name": "元气初秋女发",
+    "hideBaseLayer": false
+  },
+  "f_hair699.png": {
+    "name": "玲珑女发",
+    "hideBaseLayer": false
+  },
+  "f_hair700.png": {
+    "name": "勇圣女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair701.png": {
+    "name": "仁圣女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair702.png": {
+    "name": "啾啾阴阳师女发",
+    "hideBaseLayer": false
+  },
+  "f_hair703.png": {
+    "name": "琉金女发",
+    "hideBaseLayer": false
+  },
+  "f_hair704.png": {
+    "name": "拉姆发型",
+    "hideBaseLayer": false
+  },
+  "f_hair705.png": {
+    "name": "蕾姆发型",
+    "hideBaseLayer": false
+  },
+  "f_hair706.png": {
+    "name": "瞌睡兔兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair707.png": {
+    "name": "萌心森林女发",
+    "hideBaseLayer": false
+  },
+  "f_hair708.png": {
+    "name": "五星红发（女）",
+    "hideBaseLayer": false
+  },
+  "f_hair709.png": {
+    "name": "天秤心语女发",
+    "hideBaseLayer": false
+  },
+  "f_hair710.png": {
+    "name": "蓝鲸女发",
+    "hideBaseLayer": false
+  },
+  "f_hair711.png": {
+    "name": "纡朱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair712.png": {
+    "name": "智圣女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair713.png": {
+    "name": "鲜花云朵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair714.png": {
+    "name": "追风女发",
+    "hideBaseLayer": false
+  },
+  "f_hair715.png": {
+    "name": "捧花少女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair716.png": {
+    "name": "戏水女发",
+    "hideBaseLayer": false
+  },
+  "f_hair717.png": {
+    "name": "蓝莓软糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair718.png": {
+    "name": "南瓜蔷薇女发",
+    "hideBaseLayer": false
+  },
+  "f_hair719.png": {
+    "name": "斯卡娣女发",
+    "hideBaseLayer": false
+  },
+  "f_hair720.png": {
+    "name": "塔娜托斯女发",
+    "hideBaseLayer": false
+  },
+  "f_hair721.png": {
+    "name": "爱蜜女发",
+    "hideBaseLayer": false
+  },
+  "f_hair722.png": {
+    "name": "紫流萤女发",
+    "hideBaseLayer": false
+  },
+  "f_hair723.png": {
+    "name": "樱花妹妹发型",
+    "hideBaseLayer": false
+  },
+  "f_hair724.png": {
+    "name": "天蝎物语女发",
+    "hideBaseLayer": false
+  },
+  "f_hair725.png": {
+    "name": "甜心花园女发",
+    "hideBaseLayer": false
+  },
+  "f_hair726.png": {
+    "name": "摇滚小哈女发",
+    "hideBaseLayer": false
+  },
+  "f_hair727.png": {
+    "name": "萌兔游乐园女发",
+    "hideBaseLayer": false
+  },
+  "f_hair728.png": {
+    "name": "云纱梦舞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair729.png": {
+    "name": "月如歌女发",
+    "hideBaseLayer": false
+  },
+  "f_hair730.png": {
+    "name": "天使恋之街女发",
+    "hideBaseLayer": false
+  },
+  "f_hair731.png": {
+    "name": "茸球发啾（女）",
+    "hideBaseLayer": false
+  },
+  "f_hair732.png": {
+    "name": "冬雪恋歌女发",
+    "hideBaseLayer": false
+  },
+  "f_hair734.png": {
+    "name": "暖心温泉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair735.png": {
+    "name": "流星天使女发",
+    "hideBaseLayer": false
+  },
+  "f_hair736.png": {
+    "name": "雪花蓬蓬女发",
+    "hideBaseLayer": false
+  },
+  "f_hair737.png": {
+    "name": "粉粉饭团女发",
+    "hideBaseLayer": false
+  },
+  "f_hair738.png": {
+    "name": "精灵猫女发",
+    "hideBaseLayer": false
+  },
+  "f_hair739.png": {
+    "name": "圣诞雪女发",
+    "hideBaseLayer": false
+  },
+  "f_hair740.png": {
+    "name": "冬季恋歌女发",
+    "hideBaseLayer": false
+  },
+  "f_hair741.png": {
+    "name": "梅子浆果女发",
+    "hideBaseLayer": false
+  },
+  "f_hair742.png": {
+    "name": "欢乐雪花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair743.png": {
+    "name": "扑克女发",
+    "hideBaseLayer": false
+  },
+  "f_hair744.png": {
+    "name": "冬日绵绵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair745.png": {
+    "name": "冰晶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair746.png": {
+    "name": "蝴蝶糖果女发",
+    "hideBaseLayer": false
+  },
+  "f_hair747.png": {
+    "name": "星愿幻梦女发",
+    "hideBaseLayer": false
+  },
+  "f_hair748.png": {
+    "name": "冬日暖阳女发",
+    "hideBaseLayer": false
+  },
+  "f_hair749.png": {
+    "name": "萌软软女发",
+    "hideBaseLayer": false
+  },
+  "f_hair750.png": {
+    "name": "软绵绵女发",
+    "hideBaseLayer": false
+  },
+  "f_hair751.png": {
+    "name": "小熊蜜糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair752.png": {
+    "name": "彩虹星星女发",
+    "hideBaseLayer": false
+  },
+  "f_hair753.png": {
+    "name": "莉莉的头发（紫色）",
+    "hideBaseLayer": false
+  },
+  "f_hair754.png": {
+    "name": "天使街女发（金色）",
+    "hideBaseLayer": false
+  },
+  "f_hair755.png": {
+    "name": "骄阳如歌",
+    "hideBaseLayer": false
+  },
+  "f_hair756.png": {
+    "name": "浪漫小鸠",
+    "hideBaseLayer": false
+  },
+  "f_hair757.png": {
+    "name": "犬神女发",
+    "hideBaseLayer": false
+  },
+  "f_hair758.png": {
+    "name": "梓心糖果女发",
+    "hideBaseLayer": false
+  },
+  "f_hair759.png": {
+    "name": "清爽格子女发",
+    "hideBaseLayer": false
+  },
+  "f_hair760.png": {
+    "name": "白白小天使女发",
+    "hideBaseLayer": false
+  },
+  "f_hair761.png": {
+    "name": "草莓软心糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair762.png": {
+    "name": "水畔蓝花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair763.png": {
+    "name": "鸟笼女发",
+    "hideBaseLayer": false
+  },
+  "f_hair764.png": {
+    "name": "噗噗女发",
+    "hideBaseLayer": false
+  },
+  "f_hair765.png": {
+    "name": "蝶恋花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair766.png": {
+    "name": "十字路口女发",
+    "hideBaseLayer": false
+  },
+  "f_hair767.png": {
+    "name": "蝶絮纷飞女发",
+    "hideBaseLayer": false
+  },
+  "f_hair768.png": {
+    "name": "玫瑰心语女发",
+    "hideBaseLayer": false
+  },
+  "f_hair769.png": {
+    "name": "甜点女发",
+    "hideBaseLayer": false
+  },
+  "f_hair770.png": {
+    "name": "晴天茶会女发",
+    "hideBaseLayer": false
+  },
+  "f_hair771.png": {
+    "name": "暖洋洋头发",
+    "hideBaseLayer": false
+  },
+  "f_hair772.png": {
+    "name": "恶魔娘头发",
+    "hideBaseLayer": false
+  },
+  "f_hair773.png": {
+    "name": "蔓藤女发",
+    "hideBaseLayer": false
+  },
+  "f_hair774.png": {
+    "name": "棒棒糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair775.png": {
+    "name": "叽叽叽女发",
+    "hideBaseLayer": false
+  },
+  "f_hair777.png": {
+    "name": "绿萝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair779.png": {
+    "name": "花嫁女发",
+    "hideBaseLayer": false
+  },
+  "f_hair780.png": {
+    "name": "鲜花球球女发",
+    "hideBaseLayer": false
+  },
+  "f_hair781.png": {
+    "name": "草莓软糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair782.png": {
+    "name": "学院女发",
+    "hideBaseLayer": false
+  },
+  "f_hair783.png": {
+    "name": "粉酥心晴女发",
+    "hideBaseLayer": false
+  },
+  "f_hair784.png": {
+    "name": "春季卷卷女发",
+    "hideBaseLayer": false
+  },
+  "f_hair785.png": {
+    "name": "藤馨女发",
+    "hideBaseLayer": false
+  },
+  "f_hair786.png": {
+    "name": "喵咪蝴蝶结女发",
+    "hideBaseLayer": false
+  },
+  "f_hair787.png": {
+    "name": "蘑蘑女发",
+    "hideBaseLayer": false
+  },
+  "f_hair788.png": {
+    "name": "星辰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair789.png": {
+    "name": "纯白之春女发",
+    "hideBaseLayer": false
+  },
+  "f_hair790.png": {
+    "name": "马尔代夫女发",
+    "hideBaseLayer": false
+  },
+  "f_hair791.png": {
+    "name": "焦糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair792.png": {
+    "name": "森林谜纱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair793.png": {
+    "name": "蛋糕派对纱裙女头发",
+    "hideBaseLayer": false
+  },
+  "f_hair794.png": {
+    "name": "串珠女发",
+    "hideBaseLayer": false
+  },
+  "f_hair795.png": {
+    "name": "清心泉愿女发",
+    "hideBaseLayer": false
+  },
+  "f_hair796.png": {
+    "name": "草莓蛋糕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair797.png": {
+    "name": "魔仙女王头发",
+    "hideBaseLayer": false
+  },
+  "f_hair798.png": {
+    "name": "软萌兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair799.png": {
+    "name": "紫月星宿女发",
+    "hideBaseLayer": false
+  },
+  "f_hair800.png": {
+    "name": "岚晶砂糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair801.png": {
+    "name": "波板糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair802.png": {
+    "name": "绵绵兔几女发",
+    "hideBaseLayer": false
+  },
+  "f_hair803.png": {
+    "name": "糖果女孩头发",
+    "hideBaseLayer": false
+  },
+  "f_hair804.png": {
+    "name": "尤克里里女发",
+    "hideBaseLayer": false
+  },
+  "f_hair805.png": {
+    "name": "樱粉初春女发",
+    "hideBaseLayer": false
+  },
+  "f_hair806.png": {
+    "name": "春萌女发",
+    "hideBaseLayer": false
+  },
+  "f_hair807.png": {
+    "name": "心心女发",
+    "hideBaseLayer": false
+  },
+  "f_hair808.png": {
+    "name": "街拍少女女发",
+    "hideBaseLayer": false
+  },
+  "f_hair809.png": {
+    "name": "噗噗围裙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair810.png": {
+    "name": "星途女发",
+    "hideBaseLayer": false
+  },
+  "f_hair811.png": {
+    "name": "雨中花园女发",
+    "hideBaseLayer": false
+  },
+  "f_hair812.png": {
+    "name": "星光魔术师女发",
+    "hideBaseLayer": false
+  },
+  "f_hair813.png": {
+    "name": "蓝色月光女发",
+    "hideBaseLayer": false
+  },
+  "f_hair814.png": {
+    "name": "可爱背包女发",
+    "hideBaseLayer": false
+  },
+  "f_hair815.png": {
+    "name": "梨花头女",
+    "hideBaseLayer": false
+  },
+  "f_hair816.png": {
+    "name": "湛蓝心情女发",
+    "hideBaseLayer": false
+  },
+  "f_hair817.png": {
+    "name": "淡色羽翼女发",
+    "hideBaseLayer": false
+  },
+  "f_hair818.png": {
+    "name": "金蝶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair819.png": {
+    "name": "蜜糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair820.png": {
+    "name": "一瞬永恒女发",
+    "hideBaseLayer": false
+  },
+  "f_hair821.png": {
+    "name": "软糖果果女发",
+    "hideBaseLayer": false
+  },
+  "f_hair822.png": {
+    "name": "蛋黄果酱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair823.png": {
+    "name": "甜心背带女发",
+    "hideBaseLayer": false
+  },
+  "f_hair824.png": {
+    "name": "艾米的卷发",
+    "hideBaseLayer": false
+  },
+  "f_hair825.png": {
+    "name": "迪希的短发",
+    "hideBaseLayer": false
+  },
+  "f_hair826.png": {
+    "name": "优雅画框女发",
+    "hideBaseLayer": false
+  },
+  "f_hair828.png": {
+    "name": "旅行热气球女发",
+    "hideBaseLayer": false
+  },
+  "f_hair829.png": {
+    "name": "方糖咖啡女发",
+    "hideBaseLayer": false
+  },
+  "f_hair830.png": {
+    "name": "彼岸女发",
+    "hideBaseLayer": false
+  },
+  "f_hair831.png": {
+    "name": "夏日优格女发",
+    "hideBaseLayer": false
+  },
+  "f_hair832.png": {
+    "name": "普罗旺斯女发",
+    "hideBaseLayer": false
+  },
+  "f_hair833.png": {
+    "name": "萌叽女发",
+    "hideBaseLayer": false
+  },
+  "f_hair834.png": {
+    "name": "水果硬糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair835.png": {
+    "name": "节日气球女发",
+    "hideBaseLayer": false
+  },
+  "f_hair836.png": {
+    "name": "端午节女发",
+    "hideBaseLayer": false
+  },
+  "f_hair837.png": {
+    "name": "冰棱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair838.png": {
+    "name": "茶花喵发型",
+    "hideBaseLayer": false
+  },
+  "f_hair839.png": {
+    "name": "紫堇女发",
+    "hideBaseLayer": false
+  },
+  "f_hair840.png": {
+    "name": "克莉丝汀女发",
+    "hideBaseLayer": false
+  },
+  "f_hair841.png": {
+    "name": "牛奶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair842.png": {
+    "name": "假日沙滩女发",
+    "hideBaseLayer": false
+  },
+  "f_hair843.png": {
+    "name": "红色背带女发",
+    "hideBaseLayer": false
+  },
+  "f_hair844.png": {
+    "name": "鹦鹉女发",
+    "hideBaseLayer": false
+  },
+  "f_hair846.png": {
+    "name": "叮当小兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair847.png": {
+    "name": "纯色花嫁女发",
+    "hideBaseLayer": false
+  },
+  "f_hair848.png": {
+    "name": "云端女发",
+    "hideBaseLayer": false
+  },
+  "f_hair849.png": {
+    "name": "清新果茶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair850.png": {
+    "name": "香橙蛋糕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair851.png": {
+    "name": "零食女发",
+    "hideBaseLayer": false
+  },
+  "f_hair852.png": {
+    "name": "蓝色海洋女发",
+    "hideBaseLayer": false
+  },
+  "f_hair853.png": {
+    "name": "粉妆女发",
+    "hideBaseLayer": false
+  },
+  "f_hair854.png": {
+    "name": "薄荷小熊女发",
+    "hideBaseLayer": false
+  },
+  "f_hair855.png": {
+    "name": "涂鸦女发",
+    "hideBaseLayer": false
+  },
+  "f_hair856.png": {
+    "name": "珍妮弗的银发",
+    "hideBaseLayer": false
+  },
+  "f_hair857.png": {
+    "name": "晴天娃娃女发",
+    "hideBaseLayer": false
+  },
+  "f_hair858.png": {
+    "name": "公仔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair859.png": {
+    "name": "夏日旅行记女发",
+    "hideBaseLayer": false
+  },
+  "f_hair860.png": {
+    "name": "掰玉米女发",
+    "hideBaseLayer": false
+  },
+  "f_hair861.png": {
+    "name": "扑克兔女发",
+    "hideBaseLayer": false
+  },
+  "f_hair862.png": {
+    "name": "向日葵小熊女发",
+    "hideBaseLayer": false
+  },
+  "f_hair863.png": {
+    "name": "星星泳圈女发",
+    "hideBaseLayer": false
+  },
+  "f_hair864.png": {
+    "name": "晴空海豚女发",
+    "hideBaseLayer": false
+  },
+  "f_hair865.png": {
+    "name": "星草繁花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair866.png": {
+    "name": "湛蓝花海女发",
+    "hideBaseLayer": false
+  },
+  "f_hair867.png": {
+    "name": "玫瑰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair868.png": {
+    "name": "晴阳女发",
+    "hideBaseLayer": false
+  },
+  "f_hair869.png": {
+    "name": "蓝色玫瑰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair870.png": {
+    "name": "绿藤花女发",
+    "hideBaseLayer": false
+  },
+  "f_hair871.png": {
+    "name": "企鹅水手女发",
+    "hideBaseLayer": false
+  },
+  "f_hair872.png": {
+    "name": "沁凝女发",
+    "hideBaseLayer": false
+  },
+  "f_hair873.png": {
+    "name": "可爱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair874.png": {
+    "name": "蓝色海岸女发",
+    "hideBaseLayer": false
+  },
+  "f_hair875.png": {
+    "name": "绵绵雪糕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair876.png": {
+    "name": "小青蛙女发",
+    "hideBaseLayer": false
+  },
+  "f_hair877.png": {
+    "name": "梦幻婚纱女发",
+    "hideBaseLayer": false
+  },
+  "f_hair878.png": {
+    "name": "水果棒冰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair879.png": {
+    "name": "情书女发",
+    "hideBaseLayer": false
+  },
+  "f_hair880.png": {
+    "name": "深海人鱼女发",
+    "hideBaseLayer": false
+  },
+  "f_hair881.png": {
+    "name": "水果派女发",
+    "hideBaseLayer": false
+  },
+  "f_hair882.png": {
+    "name": "扇舞清云女发",
+    "hideBaseLayer": false
+  },
+  "f_hair883.png": {
+    "name": "兔兔蛋糕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair884.png": {
+    "name": "吖吖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair885.png": {
+    "name": "奶油糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair886.png": {
+    "name": "花好月圆女发",
+    "hideBaseLayer": false
+  },
+  "f_hair887.png": {
+    "name": "鲷鱼烧猫猫女发",
+    "hideBaseLayer": false
+  },
+  "f_hair889.png": {
+    "name": "小蘑菇女发",
+    "hideBaseLayer": false
+  },
+  "f_hair890.png": {
+    "name": "乐柠女发",
+    "hideBaseLayer": false
+  },
+  "f_hair891.png": {
+    "name": "雨神女发",
+    "hideBaseLayer": false
+  },
+  "f_hair892.png": {
+    "name": "粉晶水手女发",
+    "hideBaseLayer": false
+  },
+  "f_hair893.png": {
+    "name": "冰蓝玫瑰女发",
+    "hideBaseLayer": false
+  },
+  "f_hair894.png": {
+    "name": "单身汪女发",
+    "hideBaseLayer": false
+  },
+  "f_hair895.png": {
+    "name": "糖果派对女发",
+    "hideBaseLayer": false
+  },
+  "f_hair896.png": {
+    "name": "幸福沙漏女发",
+    "hideBaseLayer": false
+  },
+  "f_hair897.png": {
+    "name": "兔之旅程女发",
+    "hideBaseLayer": false
+  },
+  "f_hair898.png": {
+    "name": "下午茶女发",
+    "hideBaseLayer": false
+  },
+  "f_hair899.png": {
+    "name": "猫咪超市女发",
+    "hideBaseLayer": false
+  },
+  "f_hair900.png": {
+    "name": "砂糖女发",
+    "hideBaseLayer": false
+  },
+  "f_hair901.png": {
+    "name": "霜糖蛋糕女发",
+    "hideBaseLayer": false
+  },
+  "f_hair903.png": {
+    "name": "花漫礼服女发",
+    "hideBaseLayer": false
+  },
+  "f_hair904.png": {
+    "name": "情窦初开女发",
+    "hideBaseLayer": false
+  },
+  "f_hair905.png": {
+    "name": "冷艳贵族女发",
+    "hideBaseLayer": false
+  },
+  "f_hair906.png": {
+    "name": "小恐龙睡衣女发",
+    "hideBaseLayer": false
+  },
+  "f_hair907.png": {
+    "name": "小黄鸡女发",
+    "hideBaseLayer": false
+  },
+  "f_hair908.png": {
+    "name": "星月女发",
+    "hideBaseLayer": false
+  },
+  "f_hair909.png": {
+    "name": "初冬女发",
+    "hideBaseLayer": false
+  },
+  "f_hair910.png": {
+    "name": "企鹅背带裤女发",
+    "hideBaseLayer": false
+  },
+  "f_hair911.png": {
+    "name": "秋日礼盒女发",
+    "hideBaseLayer": false
+  },
+  "f_hair912.png": {
+    "name": "南瓜晚会女发",
+    "hideBaseLayer": false
+  },
+  "f_hair913.png": {
+    "name": "赫赤蝙蝠女发",
+    "hideBaseLayer": false
+  },
+  "f_hair916.png": {
+    "name": "狐丸阴阳师女发",
+    "hideBaseLayer": false
+  },
+  "f_hair917.png": {
+    "name": "暮色森林女发",
+    "hideBaseLayer": false
+  },
+  "f_hair919.png": {
+    "name": "草莓巧克力棒女发",
+    "hideBaseLayer": false
+  },
+  "f_hair921.png": {
+    "name": "嘻嘻哈哈女发",
+    "hideBaseLayer": false
+  },
+  "f_hair935.png": {
+    "name": "纯白婚纱女发",
+    "hideBaseLayer": false
+  }
 }

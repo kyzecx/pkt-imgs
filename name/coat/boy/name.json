@@ -1,7 +1,22 @@
 {
-  "m_coat001.png": "灰色卫衣",
-  "m_coat002.png": "双肩条纹运动装",
-  "m_coat003.png": "毛领咖啡外套",
-  "m_coat004.png": "休闲西装",
-  "m_coat005.png": "红色羽绒"
+  "m_coat001.png": {
+    "name": "灰色卫衣",
+    "hideBaseLayer": false
+  },
+  "m_coat002.png": {
+    "name": "双肩条纹运动装",
+    "hideBaseLayer": false
+  },
+  "m_coat003.png": {
+    "name": "毛领咖啡外套",
+    "hideBaseLayer": false
+  },
+  "m_coat004.png": {
+    "name": "休闲西装",
+    "hideBaseLayer": false
+  },
+  "m_coat005.png": {
+    "name": "红色羽绒",
+    "hideBaseLayer": false
+  }
 }
