@@ -222,6 +222,15 @@ async function main() {
                 continue;
             }
 
+            const targetImgDir = path.join(IMGS_DIR, part, sDir);
+            ensureDir(targetImgDir);
+
+            // 查找普通版本和 _Animate 版本
+            // JPEXS 导出的文件名格式: 1_filename.png, 2_filename_Animate.png 等
+            const normalFile = files.find(f => f.includes(filename) && !f.includes('Animate'));
+            const animateFile = files.find(f => f.includes(filename) && f.includes('Animate'));
+
+            // 如果没有按名称找到，回退到选择最大的文件
             let largestFile = files[0];
             let maxSize = 0;
             for (const f of files) {
@@ -232,12 +241,18 @@ async function main() {
                 }
             }
 
-            const targetImgDir = path.join(IMGS_DIR, part, sDir);
-            ensureDir(targetImgDir);
+            // 保存普通版本
+            const mainFile = normalFile || largestFile;
             const targetPngPath = path.join(targetImgDir, `${filename}.png`);
-
-            fs.copyFileSync(path.join(outDir, largestFile), targetPngPath);
+            fs.copyFileSync(path.join(outDir, mainFile), targetPngPath);
             console.log(`  [OK] Saved to ${targetPngPath}`);
+
+            // 对于 glas 和 hats，如果有 _Animate 版本也保存
+            if ((part === 'glas' || part === 'hats') && animateFile) {
+                const animatePngPath = path.join(targetImgDir, `${filename}_Animate.png`);
+                fs.copyFileSync(path.join(outDir, animateFile), animatePngPath);
+                console.log(`  [OK] Saved animated to ${animatePngPath}`);
+            }
 
             const nameJsonDir = path.join(NAMES_DIR, part, sDir);
             ensureDir(nameJsonDir);
@@ -260,12 +275,33 @@ async function main() {
             };
             // glas 和 hats 添加 animate 键
             if (part === 'glas' || part === 'hats') {
-                entry.animate = currentEntry?.animate ?? {
-                    isAnimated: false,
-                    animateFrame: 0
-                };
+                // 如果存在 _Animate 文件，自动设置 isAnimated: true
+                if (animateFile) {
+                    entry.animate = {
+                        isAnimated: true,
+                        animateFrame: currentEntry?.animate?.animateFrame ?? 4  // 默认4帧动画
+                    };
+                } else {
+                    entry.animate = currentEntry?.animate ?? {
+                        isAnimated: false,
+                        animateFrame: 0
+                    };
+                }
             }
             nameData[key] = entry;
+
+            // 对于 glas 和 hats，如果有 _Animate 版本，也添加到 name.json
+            if ((part === 'glas' || part === 'hats') && animateFile) {
+                const animateKey = `${filename}_Animate.png`;
+                nameData[animateKey] = {
+                    name: name,
+                    hideBaseLayer: currentHideBaseLayer,
+                    animate: {
+                        isAnimated: true,
+                        animateFrame: entry.animate.animateFrame
+                    }
+                };
+            }
 
             // Sort keys in descending order (numerical)
             const sortedKeys = Object.keys(nameData).sort((a, b) => {

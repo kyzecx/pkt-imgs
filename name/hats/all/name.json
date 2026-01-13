@@ -979,7 +979,15 @@
     "name": "吹泡泡（女）",
     "hideBaseLayer": false,
     "animate": {
-      "isAnimated": false,
+      "isAnimated": true,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1283_Animate.png": {
+    "name": "吹泡泡（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
       "animateFrame": 0
     }
   },
@@ -1059,7 +1067,15 @@
     "name": "吹泡泡（男）",
     "hideBaseLayer": false,
     "animate": {
-      "isAnimated": false,
+      "isAnimated": true,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1271_Animate.png": {
+    "name": "吹泡泡（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
       "animateFrame": 0
     }
   },
