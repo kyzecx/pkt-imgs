@@ -254,10 +254,18 @@ async function main() {
             const currentHideBaseLayer = typeof currentEntry === 'object' ? (currentEntry.hideBaseLayer ?? false) : false;
 
             // 使用新格式
-            nameData[key] = {
+            const entry = {
                 name: name,
                 hideBaseLayer: currentHideBaseLayer
             };
+            // glas 和 hats 添加 animate 键
+            if (part === 'glas' || part === 'hats') {
+                entry.animate = currentEntry?.animate ?? {
+                    isAnimated: false,
+                    animateFrame: 0
+                };
+            }
+            nameData[key] = entry;
 
             // Sort keys in descending order (numerical)
             const sortedKeys = Object.keys(nameData).sort((a, b) => {

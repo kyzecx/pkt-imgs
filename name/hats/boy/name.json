@@ -1,914 +1,1826 @@
 {
   "m_hats027.png": {
     "name": "蓝色礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats031.png": {
     "name": "男保镖黑色礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats033.png": {
     "name": "医生头镜",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats036.png": {
     "name": "博士帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats102.png": {
     "name": "彬彬雅士帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats103.png": {
     "name": "黑色鸭舌帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats104.png": {
     "name": "复古摩卡帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats105.png": {
     "name": "夜叉红角",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats1057.png": {
     "name": "甜心猫猫拳男猫耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats110.png": {
     "name": "红炎礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats1107.png": {
     "name": "惬意一夏男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats118.png": {
     "name": "绿野冲锋帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats121.png": {
     "name": "战士头盔",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats122.png": {
     "name": "布衣红色包头",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats124.png": {
     "name": "洛奇小草帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats125.png": {
     "name": "狮奥弥耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats127.png": {
     "name": "赤牛魔王角",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats1284.png": {
     "name": "恋感偶像男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats132.png": {
     "name": "浣浣熊面具",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats136.png": {
     "name": "冰爵礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats1381.png": {
     "name": "红丝带蛋糕发卡",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats139.png": {
     "name": "青衣头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats140.png": {
     "name": "绅士王子礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats142.png": {
     "name": "恶魔骑士帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats144.png": {
     "name": "何军军帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats147.png": {
     "name": "骷髅牛角帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats148.png": {
     "name": "嘻哈小鬼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats149.png": {
     "name": "南瓜魔法帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats152.png": {
     "name": "冰心礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats155.png": {
     "name": "波兰头巾",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats156.png": {
     "name": "玛尼小礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats159.png": {
     "name": "圣诞小雪人",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats167.png": {
     "name": "圣诞帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats170.png": {
     "name": "犀利黑棉帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats173.png": {
     "name": "星夜王冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats174.png": {
     "name": "帝释珠冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats179.png": {
     "name": "泉泽发髻",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats181.png": {
     "name": "冥炎王冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats183.png": {
     "name": "爱斯基摩男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats187.png": {
     "name": "顶戴花翎",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats188.png": {
     "name": "皇帝帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats190.png": {
     "name": "叮当蓝蓝帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats192.png": {
     "name": "乐动耳麦",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats193.png": {
     "name": "寒冰礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats195.png": {
     "name": "随风警官帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats196.png": {
     "name": "基德礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats197.png": {
     "name": "衙役帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats200.png": {
     "name": "占卜小熊",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats209.png": {
     "name": "棒球帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats210.png": {
     "name": "买买提帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats213.png": {
     "name": "夏日运动帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats214.png": {
     "name": "发呆浣熊帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats216.png": {
     "name": "魔法师犄角",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats222.png": {
     "name": "银光皓月头盔",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats223.png": {
     "name": "童话小礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats226.png": {
     "name": "嘻哈红樱帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats228.png": {
     "name": "爱心配饰帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats230.png": {
     "name": "小鹦鹉礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats234.png": {
     "name": "藏蓝星星帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats236.png": {
     "name": "幽灵南瓜头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats238.png": {
     "name": "蓝色风铃配饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats239.png": {
     "name": "香槟球球帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats243.png": {
     "name": "樱红耳暖",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats244.png": {
     "name": "雪夜星斗帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats246.png": {
     "name": "折耳兔（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats251.png": {
     "name": "金龙角（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats252.png": {
     "name": "栗色龙角（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats254.png": {
     "name": "机械帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats256.png": {
     "name": "状元帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats258.png": {
     "name": "宝石王冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats259.png": {
     "name": "十字皇冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats264.png": {
     "name": "爵士礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats265.png": {
     "name": "浪漫歌手帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats266.png": {
     "name": "仔仔立耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats267.png": {
     "name": "布带礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats271.png": {
     "name": "冬雪帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats273.png": {
     "name": "小蚁哥",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats275.png": {
     "name": "卷尾喵喵",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats277.png": {
     "name": "猫头鹰精灵",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats280.png": {
     "name": "兔兔垂耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats283.png": {
     "name": "熊熊布偶男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats285.png": {
     "name": "蓝星机车帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats288.png": {
     "name": "恶魔金角",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats291.png": {
     "name": "天使光环",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats297.png": {
     "name": "蔚蓝绅士礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats299.png": {
     "name": "云豆",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats301.png": {
     "name": "果酱多拿滋帽子",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats304.png": {
     "name": "沐雨学士帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats309.png": {
     "name": "小老鼠头套",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats310.png": {
     "name": "蓝玉发冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats312.png": {
     "name": "蓝边鸭舌帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats314.png": {
     "name": "条纹贝雷帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats316.png": {
     "name": "萌犬耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats317.png": {
     "name": "写意江湖",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats319.png": {
     "name": "巫灵黑角帽男",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats324.png": {
     "name": "玻璃泡泡",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats329.png": {
     "name": "驯鹿暖冬帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats331.png": {
     "name": "叮咚圣诞帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats333.png": {
     "name": "萌猴暖冬帽（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats335.png": {
     "name": "幸福男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats337.png": {
     "name": "绿叶",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats338.png": {
     "name": "腹黑萌马帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats341.png": {
     "name": "唱歌的菠萝帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats345.png": {
     "name": "浣熊趴趴顶（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats347.png": {
     "name": "白色薄荷皇冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats348.png": {
     "name": "慕斯礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats350.png": {
     "name": "春暖花开（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats352.png": {
     "name": "榛果礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats354.png": {
     "name": "学院黑礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats356.png": {
     "name": "萌叽加个油",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats359.png": {
     "name": "天堂之爱",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats362.png": {
     "name": "时光旅帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats363.png": {
     "name": "蓝莓果礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats365.png": {
     "name": "玫瑰丝带礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats367.png": {
     "name": "童梦米奇发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats368.png": {
     "name": "浪漫紫薰礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats370.png": {
     "name": "喵咪音乐耳麦",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats372.png": {
     "name": "士兵迷彩头盔",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats376.png": {
     "name": "银缘花冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats377.png": {
     "name": "金缘花冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats378.png": {
     "name": "钻石缘花冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats382.png": {
     "name": "炸弹狂人帽（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats384.png": {
     "name": "猫叔",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats386.png": {
     "name": "酒鬼帽（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats388.png": {
     "name": "鹦鹉咕咕",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats391.png": {
     "name": "雪人头罩（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats394.png": {
     "name": "雪狼男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats396.png": {
     "name": "圣诞男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats397.png": {
     "name": "可爱折耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats401.png": {
     "name": "世纪婚礼礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats402.png": {
     "name": "耳暖",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats404.png": {
     "name": "汤圆约会男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats409.png": {
     "name": "氧气男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats413.png": {
     "name": "魅蓝骑士帽饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats416.png": {
     "name": "斯比折耳帽（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats419.png": {
     "name": "小可萌帽（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats421.png": {
     "name": "妖冶明星男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats422.png": {
     "name": "在么~",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats424.png": {
     "name": "蔚蓝海岸礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats426.png": {
     "name": "清夏圆礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats428.png": {
     "name": "嘻哈潮帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats432.png": {
     "name": "叮叮当当兔",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats435.png": {
     "name": "旋转木马男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats437.png": {
     "name": "小王子礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats440.png": {
     "name": "AH婚礼红毯礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats445.png": {
     "name": "叮当男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats449.png": {
     "name": "古典深秋毛绒帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats450.png": {
     "name": "黑色燕尾服小礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats451.png": {
     "name": "盼盼男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats454.png": {
     "name": "青竹发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats457.png": {
     "name": "蓝魅男装礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats462.png": {
     "name": "粉色羊毛耳罩",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats464.png": {
     "name": "草莓蜜糖派男发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats468.png": {
     "name": "斗篷小帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats470.png": {
     "name": "小画家男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats473.png": {
     "name": "宫廷萌兔礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats474.png": {
     "name": "奥利奥男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats477.png": {
     "name": "紫爵皇冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats478.png": {
     "name": "蓝领结礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats479.png": {
     "name": "清凉贝雷帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats480.png": {
     "name": "清凉T帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats482.png": {
     "name": "月光骑士发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats494.png": {
     "name": "樱之巫师帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats495.png": {
     "name": "士兵高帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats500.png": {
     "name": "满天星墨镜",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats504.png": {
     "name": "衣袂发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats506.png": {
     "name": "腾讯企鹅帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats508.png": {
     "name": "乐高发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats512.png": {
     "name": "动感炫蓝耳机",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats516.png": {
     "name": "月明星稀帽子",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats518.png": {
     "name": "花样男孩帽子",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats521.png": {
     "name": "波斯帽饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats525.png": {
     "name": "瑰丽乐园狗耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats532.png": {
     "name": "糖心蜜果小礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats533.png": {
     "name": "南北极蝶舞礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats534.png": {
     "name": "南北极豆豆发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats536.png": {
     "name": "南北极星点礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats539.png": {
     "name": "南北极紫蝶礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats544.png": {
     "name": "飘逸阴阳师帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats548.png": {
     "name": "瞌睡兔兔男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats550.png": {
     "name": "天秤星语男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats554.png": {
     "name": "咔恰礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats555.png": {
     "name": "南瓜蔷薇男巫帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats562.png": {
     "name": "天蝎物语礼帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats563.png": {
     "name": "摇滚小哈男头巾",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats564.png": {
     "name": "萌兔游乐园男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats567.png": {
     "name": "流星天使环",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats569.png": {
     "name": "精灵鼠发耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats575.png": {
     "name": "扑克男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats578.png": {
     "name": "星星糖果发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats582.png": {
     "name": "犬神男耳朵",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats583.png": {
     "name": "鸟笼男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats586.png": {
     "name": "十字路口男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats588.png": {
     "name": "倾心紫颜男耳",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats594.png": {
     "name": "羊咩咩帽（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats597.png": {
     "name": "绿萝男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats600.png": {
     "name": "拿小锤锤",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats602.png": {
     "name": "草莓软糖头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats605.png": {
     "name": "彩色铅笔（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats607.png": {
     "name": "蘑蘑男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats610.png": {
     "name": "焦糖男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats613.png": {
     "name": "森林谜纱男发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats615.png": {
     "name": "蛋糕派对西装男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats616.png": {
     "name": "纸牌王冠",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats619.png": {
     "name": "魔灵宿主头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats621.png": {
     "name": "绅士兔男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats623.png": {
     "name": "星宿使徒男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats629.png": {
     "name": "糖果男孩帽子",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats631.png": {
     "name": "尤克里里男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats633.png": {
     "name": "星途发圈",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats644.png": {
     "name": "普罗旺斯男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats647.png": {
     "name": "节日气球小蓝鲸",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats650.png": {
     "name": "端午节男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats652.png": {
     "name": "叮咚喵喵耳饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats657.png": {
     "name": "假日沙滩男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats661.png": {
     "name": "纯色花嫁男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats662.png": {
     "name": "冰雪兔发饰（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats665.png": {
     "name": "清新果茶男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats667.png": {
     "name": "香橙蛋糕男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats669.png": {
     "name": "夏日旅行记男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats673.png": {
     "name": "扑克兔男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats674.png": {
     "name": "春意盎然男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats678.png": {
     "name": "企鹅水手男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats679.png": {
     "name": "冷凝西瓜帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats690.png": {
     "name": "霜糖蛋糕奶油",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats695.png": {
     "name": "赫赤蝙蝠男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats697.png": {
     "name": "狐丸阴阳师男头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_hats705.png": {
     "name": "嘻嘻哈哈男帽",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   }
 }
