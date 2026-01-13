@@ -1,178 +1,354 @@
 {
-  "m_mask108.png": {
-    "name": "云鹤狐仙面具",
-    "hideBaseLayer": false
-  },
-  "m_mask111.png": {
-    "name": "王系面具（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask114.png": {
-    "name": "棕棕熊眼罩",
-    "hideBaseLayer": false
-  },
-  "m_mask1158.png": {
-    "name": "沁心夏日男发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask1186.png": {
-    "name": "精灵时花男发饰",
-    "hideBaseLayer": false
+  "m_mask1332.png": {
+    "name": "红丝带蛋糕耳饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_mask1190.png": {
     "name": "酸奶不郁郁饰品",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
-  "m_mask120.png": {
-    "name": "时尚防辐射眼镜",
-    "hideBaseLayer": false
+  "m_mask1186.png": {
+    "name": "精灵时花男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
-  "m_mask129.png": {
-    "name": "黑小兔",
-    "hideBaseLayer": false
-  },
-  "m_mask1332.png": {
-    "name": "红丝带蛋糕耳饰",
-    "hideBaseLayer": false
-  },
-  "m_mask134.png": {
-    "name": "绷带兔面具",
-    "hideBaseLayer": false
-  },
-  "m_mask137.png": {
-    "name": "帅气男神发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask138.png": {
-    "name": "樱花发饰（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask150.png": {
-    "name": "午夜假面",
-    "hideBaseLayer": false
-  },
-  "m_mask153.png": {
-    "name": "学院派舞会眼罩",
-    "hideBaseLayer": false
-  },
-  "m_mask157.png": {
-    "name": "阿凡达面孔",
-    "hideBaseLayer": false
-  },
-  "m_mask160.png": {
-    "name": "坠天使发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask162.png": {
-    "name": "孤傲战士眼罩",
-    "hideBaseLayer": false
-  },
-  "m_mask164.png": {
-    "name": "琉月发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask166.png": {
-    "name": "彩虹羊发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask170.png": {
-    "name": "书生呆萌眼镜",
-    "hideBaseLayer": false
-  },
-  "m_mask173.png": {
-    "name": "玻璃糖纸发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask181.png": {
-    "name": "橘子小蘑菇",
-    "hideBaseLayer": false
-  },
-  "m_mask182.png": {
-    "name": "骷髅红莲眼罩",
-    "hideBaseLayer": false
-  },
-  "m_mask184.png": {
-    "name": "懒懒熊发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask188.png": {
-    "name": "阿修罗的耳朵",
-    "hideBaseLayer": false
-  },
-  "m_mask189.png": {
-    "name": "鹏游蝶梦假面",
-    "hideBaseLayer": false
-  },
-  "m_mask191.png": {
-    "name": "蓝兔子面饰",
-    "hideBaseLayer": false
-  },
-  "m_mask194.png": {
-    "name": "电音恍惚",
-    "hideBaseLayer": false
-  },
-  "m_mask198.png": {
-    "name": "软绵绵发卡",
-    "hideBaseLayer": false
-  },
-  "m_mask202.png": {
-    "name": "我爱草莓（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask205.png": {
-    "name": "书呆子眼镜（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask207.png": {
-    "name": "夏日棒冰（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask208.png": {
-    "name": "星宿使徒面具",
-    "hideBaseLayer": false
-  },
-  "m_mask212.png": {
-    "name": "水果硬糖发卡",
-    "hideBaseLayer": false
-  },
-  "m_mask214.png": {
-    "name": "拳王争霸男面饰",
-    "hideBaseLayer": false
-  },
-  "m_mask215.png": {
-    "name": "冷凝亮片",
-    "hideBaseLayer": false
-  },
-  "m_mask217.png": {
-    "name": "蓝色海岸眼镜",
-    "hideBaseLayer": false
-  },
-  "m_mask220.png": {
-    "name": "情书男发饰",
-    "hideBaseLayer": false
-  },
-  "m_mask224.png": {
-    "name": "小蘑菇头饰（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask226.png": {
-    "name": "乐柠头饰（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask228.png": {
-    "name": "祈雨头饰（男）",
-    "hideBaseLayer": false
-  },
-  "m_mask230.png": {
-    "name": "天妇罗猫猫头饰",
-    "hideBaseLayer": false
-  },
-  "m_mask232.png": {
-    "name": "星月男头饰",
-    "hideBaseLayer": false
+  "m_mask1158.png": {
+    "name": "沁心夏日男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "m_mask854.png": {
     "name": "甜辣冬日男发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask232.png": {
+    "name": "星月男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask230.png": {
+    "name": "天妇罗猫猫头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask228.png": {
+    "name": "祈雨头饰（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask226.png": {
+    "name": "乐柠头饰（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask224.png": {
+    "name": "小蘑菇头饰（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask220.png": {
+    "name": "情书男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask217.png": {
+    "name": "蓝色海岸眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask215.png": {
+    "name": "冷凝亮片",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask214.png": {
+    "name": "拳王争霸男面饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask212.png": {
+    "name": "水果硬糖发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask208.png": {
+    "name": "星宿使徒面具",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask207.png": {
+    "name": "夏日棒冰（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask205.png": {
+    "name": "书呆子眼镜（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask202.png": {
+    "name": "我爱草莓（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask198.png": {
+    "name": "软绵绵发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask194.png": {
+    "name": "电音恍惚",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask191.png": {
+    "name": "蓝兔子面饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask189.png": {
+    "name": "鹏游蝶梦假面",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask188.png": {
+    "name": "阿修罗的耳朵",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask184.png": {
+    "name": "懒懒熊发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask182.png": {
+    "name": "骷髅红莲眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask181.png": {
+    "name": "橘子小蘑菇",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask173.png": {
+    "name": "玻璃糖纸发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask170.png": {
+    "name": "书生呆萌眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask166.png": {
+    "name": "彩虹羊发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask164.png": {
+    "name": "琉月发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask162.png": {
+    "name": "孤傲战士眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask160.png": {
+    "name": "坠天使发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask157.png": {
+    "name": "阿凡达面孔",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask153.png": {
+    "name": "学院派舞会眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask150.png": {
+    "name": "午夜假面",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask138.png": {
+    "name": "樱花发饰（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask137.png": {
+    "name": "帅气男神发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask134.png": {
+    "name": "绷带兔面具",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask129.png": {
+    "name": "黑小兔",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask120.png": {
+    "name": "时尚防辐射眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask114.png": {
+    "name": "棕棕熊眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask111.png": {
+    "name": "王系面具（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "m_mask108.png": {
+    "name": "云鹤狐仙面具",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   }
 }

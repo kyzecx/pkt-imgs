@@ -1,294 +1,586 @@
 {
-  "f_mask106.png": {
-    "name": "琉璃兔发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask107.png": {
-    "name": "粉粉蛋糕发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask109.png": {
-    "name": "红菱狐仙面具",
-    "hideBaseLayer": false
-  },
-  "f_mask1097.png": {
-    "name": "蜜糖之甜发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask112.png": {
-    "name": "王系面具（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask115.png": {
-    "name": "粉粉熊眼罩",
-    "hideBaseLayer": false
-  },
-  "f_mask1159.png": {
-    "name": "沁心夏日女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask116.png": {
-    "name": "皇后恋歌发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask1187.png": {
-    "name": "精灵时花女发饰",
-    "hideBaseLayer": false
+  "f_mask1333.png": {
+    "name": "红丝带蛋糕发带",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "f_mask1193.png": {
     "name": "酸奶不郁郁头饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
-  "f_mask121.png": {
-    "name": "经典欧美太阳镜",
-    "hideBaseLayer": false
+  "f_mask1187.png": {
+    "name": "精灵时花女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
-  "f_mask128.png": {
-    "name": "浪漫紫薰发带",
-    "hideBaseLayer": false
+  "f_mask1159.png": {
+    "name": "沁心夏日女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
-  "f_mask132.png": {
-    "name": "湖蓝发卡",
-    "hideBaseLayer": false
-  },
-  "f_mask133.png": {
-    "name": "圣诞女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask1333.png": {
-    "name": "红丝带蛋糕发带",
-    "hideBaseLayer": false
-  },
-  "f_mask135.png": {
-    "name": "绷带兔假面",
-    "hideBaseLayer": false
-  },
-  "f_mask136.png": {
-    "name": "蕾丝花饰",
-    "hideBaseLayer": false
-  },
-  "f_mask139.png": {
-    "name": "樱花发饰（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask140.png": {
-    "name": "氧气蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask141.png": {
-    "name": "挽月流霞发簪",
-    "hideBaseLayer": false
-  },
-  "f_mask142.png": {
-    "name": "茶艺学童樱花发夹",
-    "hideBaseLayer": false
-  },
-  "f_mask143.png": {
-    "name": "花儿朵朵发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask144.png": {
-    "name": "华尔兹发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask145.png": {
-    "name": "凤舞精灵发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask146.png": {
-    "name": "暗金玫瑰发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask147.png": {
-    "name": "糖果甜心发带",
-    "hideBaseLayer": false
-  },
-  "f_mask148.png": {
-    "name": "熊熊兔发夹",
-    "hideBaseLayer": false
-  },
-  "f_mask149.png": {
-    "name": "遥远星空蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask151.png": {
-    "name": "红莓女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask152.png": {
-    "name": "小花仙花环",
-    "hideBaseLayer": false
-  },
-  "f_mask154.png": {
-    "name": "学院派舞会发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask155.png": {
-    "name": "AH婚礼红毯蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask156.png": {
-    "name": "彩虹天堂发珠",
-    "hideBaseLayer": false
-  },
-  "f_mask158.png": {
-    "name": "阿凡达容貌",
-    "hideBaseLayer": false
-  },
-  "f_mask159.png": {
-    "name": "沁蓝蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask161.png": {
-    "name": "蔷薇发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask165.png": {
-    "name": "彩虹咩发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask167.png": {
-    "name": "凤蝶发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask168.png": {
-    "name": "红袄发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask169.png": {
-    "name": "拜占庭女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask172.png": {
-    "name": "羽毛婚纱发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask174.png": {
-    "name": "紫色兔儿头饰",
-    "hideBaseLayer": false
-  },
-  "f_mask175.png": {
-    "name": "粉飘飘蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask176.png": {
-    "name": "冰雪少女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask178.png": {
-    "name": "红木镜框",
-    "hideBaseLayer": false
-  },
-  "f_mask179.png": {
-    "name": "粉绿大蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask180.png": {
-    "name": "橘子蝴蝶夹",
-    "hideBaseLayer": false
-  },
-  "f_mask183.png": {
-    "name": "粉粉熊发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask185.png": {
-    "name": "风铃发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask190.png": {
-    "name": "粉玉兔面饰",
-    "hideBaseLayer": false
-  },
-  "f_mask192.png": {
-    "name": "天秤心语发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask193.png": {
-    "name": "戏水发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask195.png": {
-    "name": "电音迷幻",
-    "hideBaseLayer": false
-  },
-  "f_mask196.png": {
-    "name": "樱花妹妹发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask197.png": {
-    "name": "软绵绵头绳",
-    "hideBaseLayer": false
-  },
-  "f_mask199.png": {
-    "name": "清爽格子发带",
-    "hideBaseLayer": false
-  },
-  "f_mask200.png": {
-    "name": "鸟笼发夹",
-    "hideBaseLayer": false
-  },
-  "f_mask203.png": {
-    "name": "我爱草莓（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask204.png": {
-    "name": "书呆子眼镜（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask206.png": {
-    "name": "夏日棒冰（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask210.png": {
-    "name": "紫堇发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask211.png": {
-    "name": "水果硬糖蝴蝶结",
-    "hideBaseLayer": false
-  },
-  "f_mask213.png": {
-    "name": "拳王争霸女面饰",
-    "hideBaseLayer": false
-  },
-  "f_mask216.png": {
-    "name": "沁凝亮片",
-    "hideBaseLayer": false
-  },
-  "f_mask218.png": {
-    "name": "蓝色海岸发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask221.png": {
-    "name": "情书女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask222.png": {
-    "name": "花好月圆女发饰",
-    "hideBaseLayer": false
-  },
-  "f_mask223.png": {
-    "name": "鲷鱼烧猫猫头饰",
-    "hideBaseLayer": false
-  },
-  "f_mask225.png": {
-    "name": "小蘑菇头饰（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask227.png": {
-    "name": "乐柠头饰（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask229.png": {
-    "name": "祈雨头饰（女）",
-    "hideBaseLayer": false
-  },
-  "f_mask233.png": {
-    "name": "星月女发饰",
-    "hideBaseLayer": false
+  "f_mask1097.png": {
+    "name": "蜜糖之甜发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   },
   "f_mask788.png": {
     "name": "甜辣冬日女发饰",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask233.png": {
+    "name": "星月女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask229.png": {
+    "name": "祈雨头饰（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask227.png": {
+    "name": "乐柠头饰（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask225.png": {
+    "name": "小蘑菇头饰（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask223.png": {
+    "name": "鲷鱼烧猫猫头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask222.png": {
+    "name": "花好月圆女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask221.png": {
+    "name": "情书女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask218.png": {
+    "name": "蓝色海岸发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask216.png": {
+    "name": "沁凝亮片",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask213.png": {
+    "name": "拳王争霸女面饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask211.png": {
+    "name": "水果硬糖蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask210.png": {
+    "name": "紫堇发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask206.png": {
+    "name": "夏日棒冰（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask204.png": {
+    "name": "书呆子眼镜（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask203.png": {
+    "name": "我爱草莓（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask200.png": {
+    "name": "鸟笼发夹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask199.png": {
+    "name": "清爽格子发带",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask197.png": {
+    "name": "软绵绵头绳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask196.png": {
+    "name": "樱花妹妹发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask195.png": {
+    "name": "电音迷幻",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask193.png": {
+    "name": "戏水发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask192.png": {
+    "name": "天秤心语发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask190.png": {
+    "name": "粉玉兔面饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask185.png": {
+    "name": "风铃发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask183.png": {
+    "name": "粉粉熊发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask180.png": {
+    "name": "橘子蝴蝶夹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask179.png": {
+    "name": "粉绿大蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask178.png": {
+    "name": "红木镜框",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask176.png": {
+    "name": "冰雪少女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask175.png": {
+    "name": "粉飘飘蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask174.png": {
+    "name": "紫色兔儿头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask172.png": {
+    "name": "羽毛婚纱发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask169.png": {
+    "name": "拜占庭女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask168.png": {
+    "name": "红袄发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask167.png": {
+    "name": "凤蝶发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask165.png": {
+    "name": "彩虹咩发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask161.png": {
+    "name": "蔷薇发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask159.png": {
+    "name": "沁蓝蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask158.png": {
+    "name": "阿凡达容貌",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask156.png": {
+    "name": "彩虹天堂发珠",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask155.png": {
+    "name": "AH婚礼红毯蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask154.png": {
+    "name": "学院派舞会发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask152.png": {
+    "name": "小花仙花环",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask151.png": {
+    "name": "红莓女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask149.png": {
+    "name": "遥远星空蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask148.png": {
+    "name": "熊熊兔发夹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask147.png": {
+    "name": "糖果甜心发带",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask146.png": {
+    "name": "暗金玫瑰发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask145.png": {
+    "name": "凤舞精灵发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask144.png": {
+    "name": "华尔兹发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask143.png": {
+    "name": "花儿朵朵发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask142.png": {
+    "name": "茶艺学童樱花发夹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask141.png": {
+    "name": "挽月流霞发簪",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask140.png": {
+    "name": "氧气蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask139.png": {
+    "name": "樱花发饰（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask136.png": {
+    "name": "蕾丝花饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask135.png": {
+    "name": "绷带兔假面",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask133.png": {
+    "name": "圣诞女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask132.png": {
+    "name": "湖蓝发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask128.png": {
+    "name": "浪漫紫薰发带",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask121.png": {
+    "name": "经典欧美太阳镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask116.png": {
+    "name": "皇后恋歌发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask115.png": {
+    "name": "粉粉熊眼罩",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask112.png": {
+    "name": "王系面具（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask109.png": {
+    "name": "红菱狐仙面具",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask107.png": {
+    "name": "粉粉蛋糕发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "f_mask106.png": {
+    "name": "琉璃兔发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
   }
 }

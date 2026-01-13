@@ -980,7 +980,7 @@
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": true,
-      "animateFrame": 0
+      "animateFrame": 4
     }
   },
   "u_hats1283_Animate.png": {
@@ -988,7 +988,7 @@
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": true,
-      "animateFrame": 0
+      "animateFrame": 4
     }
   },
   "u_hats1282.png": {
@@ -1068,7 +1068,7 @@
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": true,
-      "animateFrame": 0
+      "animateFrame": 4
     }
   },
   "u_hats1271_Animate.png": {
@@ -1076,7 +1076,7 @@
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": true,
-      "animateFrame": 0
+      "animateFrame": 4
     }
   },
   "u_hats1270.png": {

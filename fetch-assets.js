@@ -247,8 +247,9 @@ async function main() {
             fs.copyFileSync(path.join(outDir, mainFile), targetPngPath);
             console.log(`  [OK] Saved to ${targetPngPath}`);
 
-            // 对于 glas 和 hats，如果有 _Animate 版本也保存
-            if ((part === 'glas' || part === 'hats') && animateFile) {
+            // 对于 glas、hats 和 mask，如果有 _Animate 版本也保存
+            const animateParts = ['glas', 'hats', 'mask'];
+            if (animateParts.includes(part) && animateFile) {
                 const animatePngPath = path.join(targetImgDir, `${filename}_Animate.png`);
                 fs.copyFileSync(path.join(outDir, animateFile), animatePngPath);
                 console.log(`  [OK] Saved animated to ${animatePngPath}`);
@@ -273,8 +274,8 @@ async function main() {
                 name: name,
                 hideBaseLayer: currentHideBaseLayer
             };
-            // glas 和 hats 添加 animate 键
-            if (part === 'glas' || part === 'hats') {
+            // glas、hats 和 mask 添加 animate 键
+            if (animateParts.includes(part)) {
                 // 如果存在 _Animate 文件，自动设置 isAnimated: true
                 if (animateFile) {
                     entry.animate = {
@@ -290,8 +291,8 @@ async function main() {
             }
             nameData[key] = entry;
 
-            // 对于 glas 和 hats，如果有 _Animate 版本，也添加到 name.json
-            if ((part === 'glas' || part === 'hats') && animateFile) {
+            // 对于 glas、hats 和 mask，如果有 _Animate 版本，也添加到 name.json
+            if (animateParts.includes(part) && animateFile) {
                 const animateKey = `${filename}_Animate.png`;
                 nameData[animateKey] = {
                     name: name,
