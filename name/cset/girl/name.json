@@ -21,51 +21,87 @@
   },
   "f_cset007.png": {
     "name": "水瓶座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset008.png": {
     "name": "双鱼座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset009.png": {
     "name": "牡羊座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset010.png": {
     "name": "金牛座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset011.png": {
     "name": "双子座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset012.png": {
     "name": "巨蟹座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset013.png": {
     "name": "狮子座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset014.png": {
     "name": "处女座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset015.png": {
     "name": "天秤座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset016.png": {
     "name": "蝎子座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset017.png": {
     "name": "射手座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset018.png": {
     "name": "摩羯座女装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset020.png": {
     "name": "贵族礼服",
@@ -225,7 +261,10 @@
   },
   "f_cset062.png": {
     "name": "猫猫套装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset063.png": {
     "name": "福神女套装",
@@ -425,7 +464,10 @@
   },
   "f_cset114.png": {
     "name": "图图兔",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset115.png": {
     "name": "溜溜粉裙",
@@ -537,7 +579,10 @@
   },
   "f_cset141.png": {
     "name": "囚犯（女）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset142.png": {
     "name": "哔哔圣诞套裙",
@@ -817,7 +862,10 @@
   },
   "f_cset209.png": {
     "name": "吸血喵喵酱",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset210.png": {
     "name": "香榭黄昏套装",

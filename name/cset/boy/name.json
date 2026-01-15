@@ -25,51 +25,87 @@
   },
   "m_cset007.png": {
     "name": "水平座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset008.png": {
     "name": "双鱼座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset009.png": {
     "name": "牡羊座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset010.png": {
     "name": "金牛座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset011.png": {
     "name": "双子座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset012.png": {
     "name": "巨蟹座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset013.png": {
     "name": "狮子座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset014.png": {
     "name": "处女座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset015.png": {
     "name": "天秤座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset016.png": {
     "name": "蝎子座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset017.png": {
     "name": "射手座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset018.png": {
     "name": "摩羯座男装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset019.png": {
     "name": "黄色运动服",
@@ -245,7 +281,10 @@
   },
   "m_cset062.png": {
     "name": "狗狗套装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset063.png": {
     "name": "福神男套装",
@@ -277,11 +316,17 @@
   },
   "m_cset071.png": {
     "name": "狮头（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset072.png": {
     "name": "狮尾（男）",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset073.png": {
     "name": "春之亮洁套装",
@@ -501,7 +546,10 @@
   },
   "m_cset130.png": {
     "name": "囚犯套装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset131.png": {
     "name": "紫色棉棉衣",
