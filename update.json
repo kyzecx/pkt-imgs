@@ -5,167 +5,35 @@
     "hotfixUpdateTimestamp": 1768480012
   },
   "categories": {
-    "hair": {
-      "name": "发型",
-      "items": [
-        {
-          "type": 304164,
-          "sex": 0,
-          "serial": 4807,
-          "fileName": "u_hair4807.png",
-          "name": "花意漾漾男发"
-        },
-        {
-          "type": 304165,
-          "sex": 0,
-          "serial": 4808,
-          "fileName": "u_hair4808.png",
-          "name": "花意漾漾女发"
-        },
-        {
-          "type": 304187,
-          "sex": 0,
-          "serial": 4815,
-          "fileName": "u_hair4815.png",
-          "name": "音叛甜心女发"
-        },
-        {
-          "type": 304188,
-          "sex": 0,
-          "serial": 4816,
-          "fileName": "u_hair4816.png",
-          "name": "音叛甜心男发"
-        },
-        {
-          "type": 304216,
-          "sex": 0,
-          "serial": 4826,
-          "fileName": "u_hair4826.png",
-          "name": "莓莓生巧男发"
-        },
-        {
-          "type": 304217,
-          "sex": 0,
-          "serial": 4827,
-          "fileName": "u_hair4827.png",
-          "name": "莓莓生巧女发"
-        }
-      ]
-    },
-    "hats": {
-      "name": "帽子",
-      "items": [
-        {
-          "type": 304189,
-          "sex": 0,
-          "serial": 1496,
-          "fileName": "u_hats1496.png",
-          "name": "音叛甜心女耳机"
-        },
-        {
-          "type": 304190,
-          "sex": 0,
-          "serial": 1497,
-          "fileName": "u_hats1497.png",
-          "name": "音叛甜心男耳机"
-        },
-        {
-          "type": 304220,
-          "sex": 0,
-          "serial": 1503,
-          "fileName": "u_hats1503.png",
-          "name": "莓莓生巧男帽"
-        },
-        {
-          "type": 304221,
-          "sex": 0,
-          "serial": 1504,
-          "fileName": "u_hats1504.png",
-          "name": "莓莓生巧女帽"
-        }
-      ]
-    },
-    "glas": {
-      "name": "眼镜/眼瞳",
-      "items": []
-    },
-    "mask": {
-      "name": "面具",
-      "items": []
-    },
-    "bear": {
-      "name": "胡须",
-      "items": []
-    },
-    "coat": {
-      "name": "外套",
-      "items": []
-    },
-    "clot": {
-      "name": "上衣",
-      "items": []
-    },
-    "cset": {
-      "name": "套装",
-      "items": [
-        {
-          "type": 304166,
-          "sex": 0,
-          "serial": 4446,
-          "fileName": "u_cset4446.png",
-          "name": "花意漾漾男装"
-        },
-        {
-          "type": 304167,
-          "sex": 0,
-          "serial": 4447,
-          "fileName": "u_cset4447.png",
-          "name": "花意漾漾女装"
-        },
-        {
-          "type": 304185,
-          "sex": 0,
-          "serial": 4454,
-          "fileName": "u_cset4454.png",
-          "name": "音叛甜心女装"
-        },
-        {
-          "type": 304186,
-          "sex": 0,
-          "serial": 4455,
-          "fileName": "u_cset4455.png",
-          "name": "音叛甜心男装"
-        },
-        {
-          "type": 304218,
-          "sex": 0,
-          "serial": 4463,
-          "fileName": "u_cset4463.png",
-          "name": "莓莓生巧男装"
-        },
-        {
-          "type": 304219,
-          "sex": 0,
-          "serial": 4464,
-          "fileName": "u_cset4464.png",
-          "name": "莓莓生巧女装"
-        },
-        {
-          "type": 304222,
-          "sex": 0,
-          "serial": 4465,
-          "fileName": "u_cset4465.png",
-          "name": "测试用衣服"
-        }
-      ]
-    },
-    "pant": {
-      "name": "裤子",
-      "items": []
-    },
-    "wing": {
-      "name": "翅膀",
-      "items": []
-    }
+    "hair": [
+      "花意漾漾男发",
+      "花意漾漾女发",
+      "音叛甜心女发",
+      "音叛甜心男发",
+      "莓莓生巧男发",
+      "莓莓生巧女发"
+    ],
+    "hats": [
+      "音叛甜心女耳机",
+      "音叛甜心男耳机",
+      "莓莓生巧男帽",
+      "莓莓生巧女帽"
+    ],
+    "glas": [],
+    "mask": [],
+    "bear": [],
+    "coat": [],
+    "clot": [],
+    "cset": [
+      "花意漾漾男装",
+      "花意漾漾女装",
+      "音叛甜心女装",
+      "音叛甜心男装",
+      "莓莓生巧男装",
+      "莓莓生巧女装",
+      "测试用衣服"
+    ],
+    "pant": [],
+    "wing": []
   }
 }
