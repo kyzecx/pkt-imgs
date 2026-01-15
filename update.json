@@ -1,27 +1,13 @@
 {
   "meta": {
     "description": "2026年1月15日更新",
-    "weeklyUpdateTimestamp": 1768212000,
-    "hotfixUpdateTimestamp": 1768478896
+    "weeklyUpdateTimestamp": 1768471200,
+    "hotfixUpdateTimestamp": 1768480012
   },
   "categories": {
     "hair": {
       "name": "发型",
       "items": [
-        {
-          "type": 304162,
-          "sex": 0,
-          "serial": 4805,
-          "fileName": "u_hair4805.png",
-          "name": "霜华白马女发"
-        },
-        {
-          "type": 304163,
-          "sex": 0,
-          "serial": 4806,
-          "fileName": "u_hair4806.png",
-          "name": "爆爆红鬃男发"
-        },
         {
           "type": 304164,
           "sex": 0,
@@ -37,48 +23,6 @@
           "name": "花意漾漾女发"
         },
         {
-          "type": 304168,
-          "sex": 0,
-          "serial": 4809,
-          "fileName": "u_hair4809.png",
-          "name": "甜心曲奇男发"
-        },
-        {
-          "type": 304169,
-          "sex": 0,
-          "serial": 4810,
-          "fileName": "u_hair4810.png",
-          "name": "甜心曲奇女发"
-        },
-        {
-          "type": 304175,
-          "sex": 0,
-          "serial": 4811,
-          "fileName": "u_hair4811.png",
-          "name": "暖蔷花园男发"
-        },
-        {
-          "type": 304176,
-          "sex": 0,
-          "serial": 4812,
-          "fileName": "u_hair4812.png",
-          "name": "暖蔷花园女发"
-        },
-        {
-          "type": 304179,
-          "sex": 0,
-          "serial": 4813,
-          "fileName": "u_hair4813.png",
-          "name": "案头花女发"
-        },
-        {
-          "type": 304180,
-          "sex": 0,
-          "serial": 4814,
-          "fileName": "u_hair4814.png",
-          "name": "砚中月男发"
-        },
-        {
           "type": 304187,
           "sex": 0,
           "serial": 4815,
@@ -91,69 +35,6 @@
           "serial": 4816,
           "fileName": "u_hair4816.png",
           "name": "音叛甜心男发"
-        },
-        {
-          "type": 304196,
-          "sex": 0,
-          "serial": 4817,
-          "fileName": "u_hair4817.png",
-          "name": "古董画框女发"
-        },
-        {
-          "type": 304198,
-          "sex": 0,
-          "serial": 4818,
-          "fileName": "u_hair4818.png",
-          "name": "喵喵糖女发"
-        },
-        {
-          "type": 304199,
-          "sex": 0,
-          "serial": 4819,
-          "fileName": "u_hair4819.png",
-          "name": "喵喵糖男发"
-        },
-        {
-          "type": 304202,
-          "sex": 0,
-          "serial": 4820,
-          "fileName": "u_hair4820.png",
-          "name": "萌想小羊女发"
-        },
-        {
-          "type": 304203,
-          "sex": 0,
-          "serial": 4821,
-          "fileName": "u_hair4821.png",
-          "name": "清风典雅男发"
-        },
-        {
-          "type": 304206,
-          "sex": 0,
-          "serial": 4822,
-          "fileName": "u_hair4822.png",
-          "name": "紫糖地雷男发"
-        },
-        {
-          "type": 304207,
-          "sex": 0,
-          "serial": 4823,
-          "fileName": "u_hair4823.png",
-          "name": "紫糖地雷女发"
-        },
-        {
-          "type": 304212,
-          "sex": 0,
-          "serial": 4824,
-          "fileName": "u_hair4824.png",
-          "name": "红绒小袄男发"
-        },
-        {
-          "type": 304213,
-          "sex": 0,
-          "serial": 4825,
-          "fileName": "u_hair4825.png",
-          "name": "红绒小袄女发"
         },
         {
           "type": 304216,
@@ -175,20 +56,6 @@
       "name": "帽子",
       "items": [
         {
-          "type": 304181,
-          "sex": 0,
-          "serial": 1494,
-          "fileName": "u_hats1494.png",
-          "name": "案头花女发饰"
-        },
-        {
-          "type": 304182,
-          "sex": 0,
-          "serial": 1495,
-          "fileName": "u_hats1495.png",
-          "name": "砚中月男发饰"
-        },
-        {
           "type": 304189,
           "sex": 0,
           "serial": 1496,
@@ -201,41 +68,6 @@
           "serial": 1497,
           "fileName": "u_hats1497.png",
           "name": "音叛甜心男耳机"
-        },
-        {
-          "type": 304197,
-          "sex": 0,
-          "serial": 1498,
-          "fileName": "u_hats1498.png",
-          "name": "古董画框发饰"
-        },
-        {
-          "type": 304208,
-          "sex": 0,
-          "serial": 1499,
-          "fileName": "u_hats1499.png",
-          "name": "紫糖地雷男帽子"
-        },
-        {
-          "type": 304209,
-          "sex": 0,
-          "serial": 1500,
-          "fileName": "u_hats1500.png",
-          "name": "紫糖地雷女帽子"
-        },
-        {
-          "type": 304214,
-          "sex": 0,
-          "serial": 1501,
-          "fileName": "u_hats1501.png",
-          "name": "红绒小袄男帽子"
-        },
-        {
-          "type": 304215,
-          "sex": 0,
-          "serial": 1502,
-          "fileName": "u_hats1502.png",
-          "name": "红绒小袄女帽子"
         },
         {
           "type": 304220,
@@ -255,62 +87,11 @@
     },
     "glas": {
       "name": "眼镜/眼瞳",
-      "items": [
-        {
-          "type": 304193,
-          "sex": 0,
-          "serial": 293,
-          "fileName": "u_glas293.png",
-          "name": "清澈糖心女眸"
-        },
-        {
-          "type": 304194,
-          "sex": 0,
-          "serial": 294,
-          "fileName": "u_glas294.png",
-          "name": "清澈糖心男眸"
-        }
-      ]
+      "items": []
     },
     "mask": {
       "name": "面具",
-      "items": [
-        {
-          "type": 304172,
-          "sex": 0,
-          "serial": 1404,
-          "fileName": "u_mask1404.png",
-          "name": "甜心曲奇发饰"
-        },
-        {
-          "type": 304173,
-          "sex": 0,
-          "serial": 1405,
-          "fileName": "u_mask1405.png",
-          "name": "暖蔷花园耳钉"
-        },
-        {
-          "type": 304174,
-          "sex": 0,
-          "serial": 1406,
-          "fileName": "u_mask1406.png",
-          "name": "暖蔷花园蝴蝶结"
-        },
-        {
-          "type": 304191,
-          "sex": 0,
-          "serial": 1407,
-          "fileName": "u_mask1407.png",
-          "name": "废除"
-        },
-        {
-          "type": 304192,
-          "sex": 0,
-          "serial": 1408,
-          "fileName": "u_mask1408.png",
-          "name": "音叛甜心男发饰（废除）"
-        }
-      ]
+      "items": []
     },
     "bear": {
       "name": "胡须",
@@ -342,48 +123,6 @@
           "name": "花意漾漾女装"
         },
         {
-          "type": 304170,
-          "sex": 0,
-          "serial": 4448,
-          "fileName": "u_cset4448.png",
-          "name": "甜心曲奇男装"
-        },
-        {
-          "type": 304171,
-          "sex": 0,
-          "serial": 4449,
-          "fileName": "u_cset4449.png",
-          "name": "甜心曲奇女装"
-        },
-        {
-          "type": 304177,
-          "sex": 0,
-          "serial": 4450,
-          "fileName": "u_cset4450.png",
-          "name": "暖蔷花园男装"
-        },
-        {
-          "type": 304178,
-          "sex": 0,
-          "serial": 4451,
-          "fileName": "u_cset4451.png",
-          "name": "暖蔷花园女装"
-        },
-        {
-          "type": 304183,
-          "sex": 0,
-          "serial": 4452,
-          "fileName": "u_cset4452.png",
-          "name": "案头花女装"
-        },
-        {
-          "type": 304184,
-          "sex": 0,
-          "serial": 4453,
-          "fileName": "u_cset4453.png",
-          "name": "砚中月男装"
-        },
-        {
           "type": 304185,
           "sex": 0,
           "serial": 4454,
@@ -396,55 +135,6 @@
           "serial": 4455,
           "fileName": "u_cset4455.png",
           "name": "音叛甜心男装"
-        },
-        {
-          "type": 304195,
-          "sex": 0,
-          "serial": 4456,
-          "fileName": "u_cset4456.png",
-          "name": "古董画框女装"
-        },
-        {
-          "type": 304200,
-          "sex": 0,
-          "serial": 4457,
-          "fileName": "u_cset4457.png",
-          "name": "喵喵糖女装"
-        },
-        {
-          "type": 304201,
-          "sex": 0,
-          "serial": 4458,
-          "fileName": "u_cset4458.png",
-          "name": "喵喵糖男装"
-        },
-        {
-          "type": 304204,
-          "sex": 0,
-          "serial": 4459,
-          "fileName": "u_cset4459.png",
-          "name": "紫糖地雷男装"
-        },
-        {
-          "type": 304205,
-          "sex": 0,
-          "serial": 4460,
-          "fileName": "u_cset4460.png",
-          "name": "紫糖地雷女装"
-        },
-        {
-          "type": 304210,
-          "sex": 0,
-          "serial": 4461,
-          "fileName": "u_cset4461.png",
-          "name": "红绒小袄男装"
-        },
-        {
-          "type": 304211,
-          "sex": 0,
-          "serial": 4462,
-          "fileName": "u_cset4462.png",
-          "name": "红绒小袄女装"
         },
         {
           "type": 304218,
