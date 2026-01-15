@@ -1,4 +1,36 @@
 {
+  "u_hats1504.png": {
+    "name": "莓莓生巧女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1503.png": {
+    "name": "莓莓生巧男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1497.png": {
+    "name": "音叛甜心男耳机",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1496.png": {
+    "name": "音叛甜心女耳机",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1490.png": {
     "name": "雪人帽",
     "hideBaseLayer": false,
