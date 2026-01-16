@@ -637,7 +637,10 @@
   },
   "m_cset151.png": {
     "name": "红兜兜小熊",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset152.png": {
     "name": "乔乔西套装",
@@ -809,7 +812,10 @@
   },
   "m_cset192.png": {
     "name": "草莓小熊套装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset193.png": {
     "name": "藏蓝星星套装",
@@ -837,7 +843,10 @@
   },
   "m_cset199.png": {
     "name": "卡其喵喵装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset200.png": {
     "name": "香槟摩卡套装",
@@ -1137,7 +1146,10 @@
   },
   "m_cset273.png": {
     "name": "小恐龙睡衣",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset274.png": {
     "name": "艳阳草帽套装",
@@ -1697,7 +1709,10 @@
   },
   "m_cset405.png": {
     "name": "小埋的大喵套装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "m_cset406.png": {
     "name": "马卡龙糖果男装",
