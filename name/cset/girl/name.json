@@ -1257,7 +1257,10 @@
   },
   "f_cset306.png": {
     "name": "粉恐龙睡衣",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset307.png": {
     "name": "candy粉裙套装",
@@ -1909,7 +1912,10 @@
   },
   "f_cset460.png": {
     "name": "干物妹小埋套装",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "hideParts": [
+      "hair"
+    ]
   },
   "f_cset461.png": {
     "name": "马卡龙糖果女装",
