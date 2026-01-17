@@ -6,5 +6,29 @@
     "f_face003.png": {
         "name": "表情3",
         "hideBaseLayer": false
+    },
+    "f_face004.png": {
+        "name": "表情4",
+        "hideBaseLayer": false
+    },
+    "f_face005.png": {
+        "name": "表情5",
+        "hideBaseLayer": false
+    },
+    "f_face006.png": {
+        "name": "表情6",
+        "hideBaseLayer": false
+    },
+    "f_face007.png": {
+        "name": "表情7",
+        "hideBaseLayer": false
+    },
+    "f_face008.png": {
+        "name": "表情8",
+        "hideBaseLayer": false
+    },
+    "f_face009.png": {
+        "name": "表情9",
+        "hideBaseLayer": false
     }
 }
