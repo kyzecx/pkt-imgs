@@ -30,5 +30,57 @@
     "m_face009.png": {
         "name": "表情9",
         "hideBaseLayer": false
+    },
+    "m_face010.png": {
+        "name": "表情10",
+        "hideBaseLayer": false
+    },
+    "m_face011.png": {
+        "name": "表情11",
+        "hideBaseLayer": false
+    },
+    "m_face012.png": {
+        "name": "表情12",
+        "hideBaseLayer": false
+    },
+    "m_face013.png": {
+        "name": "表情13",
+        "hideBaseLayer": false
+    },
+    "m_face014.png": {
+        "name": "表情14",
+        "hideBaseLayer": false
+    },
+    "m_face015.png": {
+        "name": "表情15",
+        "hideBaseLayer": false
+    },
+    "m_face016.png": {
+        "name": "表情16",
+        "hideBaseLayer": false
+    },
+    "m_face017.png": {
+        "name": "表情17",
+        "hideBaseLayer": false
+    },
+    "m_face018.png": {
+        "name": "表情18",
+        "hideBaseLayer": false
+    },
+    "m_face019.png": {
+        "name": "表情19",
+        "hideBaseLayer": false
+    },
+    "m_face020.png": {
+        "name": "表情20",
+        "hideBaseLayer": false
+    },
+    "m_face021.png": {
+        "name": "表情19",
+        "hideBaseLayer": false
+    },
+    "m_face022.png": {
+        "name": "表情20",
+        "hideBaseLayer": false
     }
 }
