@@ -2129,11 +2129,23 @@
   },
   "u_hair4014.png": {
     "name": "甜甜圈圈蛇女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1571,
+      "files": [
+        "u_cset3715.png"
+      ]
+    }
   },
   "u_hair4013.png": {
     "name": "甜甜圈圈蛇男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1571,
+      "files": [
+        "u_cset3714.png"
+      ]
+    }
   },
   "u_hair4012.png": {
     "name": "炸毛小狼女发",
@@ -2249,11 +2261,25 @@
   },
   "u_hair3984.png": {
     "name": "圣诞礼物盒女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1569,
+      "files": [
+        "u_cset3687.png",
+        "u_hats1185.png"
+      ]
+    }
   },
   "u_hair3983.png": {
     "name": "圣诞礼物盒男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1569,
+      "files": [
+        "u_cset3686.png",
+        "u_hats1184.png"
+      ]
+    }
   },
   "u_hair3982.png": {
     "name": "彩灯礼物女发",
@@ -4025,11 +4051,25 @@
   },
   "u_hair3493.png": {
     "name": "招财龙宝女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1564,
+      "files": [
+        "u_mask1091.png",
+        "u_cset3266.png"
+      ]
+    }
   },
   "u_hair3492.png": {
     "name": "招财龙宝男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1564,
+      "files": [
+        "u_mask1090.png",
+        "u_cset3265.png"
+      ]
+    }
   },
   "u_hair3491.png": {
     "name": "许愿流星女发",
@@ -4233,11 +4273,25 @@
   },
   "u_hair3439.png": {
     "name": "圣诞麋鹿女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1563,
+      "files": [
+        "u_cset3212.png",
+        "u_hats1018.png"
+      ]
+    }
   },
   "u_hair3438.png": {
     "name": "圣诞麋鹿男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1563,
+      "files": [
+        "u_cset3211.png",
+        "u_hats1017.png"
+      ]
+    }
   },
   "u_hair3437.png": {
     "name": "轻踏秋意女发",
@@ -5441,11 +5495,24 @@
   },
   "u_hair3114.png": {
     "name": "兔宝背带女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1561,
+      "files": [
+        "u_cset2954.png",
+        "u_mask876.png"
+      ]
+    }
   },
   "u_hair3113.png": {
     "name": "兔宝背带男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1561,
+      "files": [
+        "u_cset2953.png"
+      ]
+    }
   },
   "u_hair3112.png": {
     "name": "酷跑服饰女发",
@@ -11517,11 +11584,23 @@
   },
   "u_hair1508.png": {
     "name": "心动汪崽玩偶男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1505,
+      "files": [
+        "u_cset1413.png"
+      ]
+    }
   },
   "u_hair1507.png": {
     "name": "心动汪崽玩偶女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "transformation": {
+      "num": 1505,
+      "files": [
+        "u_cset1412.png"
+      ]
+    }
   },
   "u_hair1506.png": {
     "name": "天晴呱女发",
