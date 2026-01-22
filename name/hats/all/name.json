@@ -31,6 +31,22 @@
       "animateFrame": 0
     }
   },
+  "u_hats1492.png": {
+    "name": "彩虹糖女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1491.png": {
+    "name": "彩虹糖男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1490.png": {
     "name": "雪人帽",
     "hideBaseLayer": false,
@@ -97,6 +113,22 @@
   },
   "u_hats1448.png": {
     "name": "绮罗剧幕男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1447.png": {
+    "name": "苹果乐园女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1446.png": {
+    "name": "苹果乐园男帽",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -1257,6 +1289,22 @@
   },
   "u_hats1248.png": {
     "name": "乌鸦寓言男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1245.png": {
+    "name": "弦间蝶冷帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1244.png": {
+    "name": "弦间蝶眼镜",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

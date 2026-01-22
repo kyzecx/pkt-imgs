@@ -7,9 +7,8 @@ const jpexs = require('jpexs-flash-decompiler');
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 // --- Configuration ---
-const HELPER_DIR = path.resolve(__dirname, '../pkt-helper');
-const PROP_CONFIG_PATH = path.join(HELPER_DIR, 'pkt-config-updater/as/propConfig.as');
-const COSTUME_CONFIG_PATH = path.join(HELPER_DIR, 'pkt-config-updater/as/costumeConfig.as');
+const PROP_CONFIG_PATH = path.join(__dirname, './as/propConfig.as');
+const COSTUME_CONFIG_PATH = path.join(__dirname, './as/costumeConfig.as');
 const NEED_JSON_PATH = path.join(__dirname, 'need.json');
 const IMGS_DIR = path.join(__dirname, 'img');
 const NAMES_DIR = path.join(__dirname, 'name');
