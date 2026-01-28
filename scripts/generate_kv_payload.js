@@ -53,8 +53,14 @@ function generatePayload() {
                 // No, user said 'base' folder exists.
                 // So everything should be prepended with category.
 
+                // If the frameName doesn't already start with the category (some might?), prepend it.
                 if (!fullKey.startsWith(`${category}/`)) {
                     fullKey = `${category}/${fullKey}`;
+                }
+
+                // URL key needs 'img/' prefix to match https://img.pktgf.top/img/...
+                if (!fullKey.startsWith('img/')) {
+                    fullKey = `img/${fullKey}`;
                 }
 
                 kvPairs.push({
