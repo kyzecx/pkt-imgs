@@ -11,10 +11,12 @@ function generatePayload() {
     const kvPairs = [];
 
     files.forEach(file => {
-        // Skip previously generated bulk file if it ends in json
         if (file === 'kv_bulk.json') return;
 
         const filePath = path.join(DIST_DIR, file);
+        // "clot.json" -> "clot"
+        const category = path.basename(file, '.json');
+
         try {
             const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
             const meta = content.meta;
@@ -25,7 +27,7 @@ function generatePayload() {
                 return;
             }
 
-            console.log(`Processing ${file} (${Object.keys(frames).length} frames)...`);
+            console.log(`Processing ${file} (Category: ${category})...`);
 
             for (const [frameName, frameData] of Object.entries(frames)) {
                 // Determine atlas filename
@@ -34,21 +36,29 @@ function generatePayload() {
 
                 if (atlasName.includes('{page}')) {
                     atlasName = atlasName.replace('{page}', pageIdx);
-                } else {
-                    // Start of fallback logic if meta.image doesn't use {page} specific syntax 
-                    // but we know we have pages.
-                    // pack_grid.js logic:
-                    // if (chunks.length > 1) meta.image = `${dirName}_{page}.png`
-                    // else meta.image = `${dirName}.png`
-                    // So relying on meta.image replacement is correct.
                 }
 
                 // Construct Key-Value pair
-                // Key: Original Path (e.g. "cset/boy/m_cset001.png")
-                // Value: Atlas Filename (e.g. "cset_0.png")
+                // frameName is usually like "boy/m_clot001.png" or "boy.png" relative to category
+                // We need the FULL URL path: "clot/boy/m_clot001.png"
+
+                let fullKey = frameName;
+
+                // If the frameName doesn't already start with the category (some might?), prepend it.
+                // Safest check: does it start with the category string?
+                // Actually, let's just assume we need to prepend unless it's strictly root.
+                // But in this project structure, json is per folder.
+
+                // Special case: 'base.json' might correspond to root? 
+                // No, user said 'base' folder exists.
+                // So everything should be prepended with category.
+
+                if (!fullKey.startsWith(`${category}/`)) {
+                    fullKey = `${category}/${fullKey}`;
+                }
 
                 kvPairs.push({
-                    key: frameName,
+                    key: fullKey,
                     value: atlasName
                 });
             }
@@ -67,13 +77,7 @@ function generatePayload() {
     const REDIRECTS_FILE = path.join(DIST_DIR, '_redirects');
     console.log(`Generating ${REDIRECTS_FILE}...`);
 
-    // Format: /source /destination 200
-    // 200 means "Rewrite" (URL bar doesn't change, but serves content from dist)
-    // If you want 302 Redirect, change 200 to 302
-
     let redirectsContent = kvPairs.map(item => {
-        // Source: /cset/boy/m_cset001.png
-        // Dest:   /dist/cset_0.png
         return `/${item.key} /dist/${item.value} 200`;
     }).join('\n');
 
