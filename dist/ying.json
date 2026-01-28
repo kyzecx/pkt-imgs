@@ -1,0 +1,603 @@
+{
+  "frames": {
+    "all/u_ying001.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying002.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying003.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying004.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying005.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying006.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying007.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying008.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying009.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying010.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying011.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying012.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying013.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying014.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying015.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying016.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_ying017.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying018.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying019.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying020.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying021.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying022.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying023.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying024.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying025.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying026.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying027.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_ying028.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    }
+  },
+  "meta": {
+    "app": "pkt-imgs-grid-packer",
+    "version": "1.0",
+    "image": "ying_{page}.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 0,
+      "h": 0
+    },
+    "scale": 1
+  }
+}

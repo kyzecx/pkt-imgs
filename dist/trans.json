@@ -1,0 +1,267 @@
+{
+  "frames": {
+    "all/u_trans1505.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1505_back.png": {
+      "frame": {
+        "x": 40,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1561.png": {
+      "frame": {
+        "x": 80,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1561_back.png": {
+      "frame": {
+        "x": 120,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1563.png": {
+      "frame": {
+        "x": 0,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1563_back.png": {
+      "frame": {
+        "x": 40,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1564.png": {
+      "frame": {
+        "x": 80,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1564_back.png": {
+      "frame": {
+        "x": 120,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1569.png": {
+      "frame": {
+        "x": 0,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1569_back.png": {
+      "frame": {
+        "x": 40,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1571.png": {
+      "frame": {
+        "x": 80,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    },
+    "all/u_trans1571_back.png": {
+      "frame": {
+        "x": 120,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 60
+      },
+      "page": 0
+    }
+  },
+  "meta": {
+    "app": "pkt-imgs-grid-packer",
+    "version": "1.0",
+    "image": "trans.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 0,
+      "h": 0
+    },
+    "scale": 1
+  }
+}

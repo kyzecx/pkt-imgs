@@ -1,0 +1,3018 @@
+{
+  "frames": {
+    "boy/m_clot001.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot002.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot003.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot004.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot005.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot006.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot007.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot008.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot009.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot010.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot011.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot012.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot013.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot014.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot015.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot017.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_clot018.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot020.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot021.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot022.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot023.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot024.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot025.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot026.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot027.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot028.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot029.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot030.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot031.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot032.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot033.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot034.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "boy/m_clot035.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot036.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot037.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot038.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot039.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot040.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot041.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot042.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot043.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot044.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot045.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot046.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot047.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot048.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot049.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot050.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "boy/m_clot051.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot052.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot053.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot054.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot055.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot056.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot057.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot058.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot060.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot061.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot062.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot063.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot064.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot065.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot066.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot067.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "boy/m_clot068.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot069.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot070.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot071.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot072.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot073.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot074.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot075.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "boy/m_clot076.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot001.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot002.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot003.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot004.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot005.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot006.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot007.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "girl/f_clot008.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot009.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot010.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot011.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot012.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot013.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot014.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot015.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot016.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot017.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot018.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot019.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot020.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot021.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot023.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot024.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "girl/f_clot026.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot027.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot028.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot029.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot030.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot031.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot032.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot033.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot034.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot035.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot036.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot037.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot038.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot039.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot040.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot041.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "girl/f_clot042.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot043.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot044.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot045.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot046.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot047.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot048.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot049.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot050.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot051.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot052.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot053.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot054.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot055.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot056.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot057.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "girl/f_clot058.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot059.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot060.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot061.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot062.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot063.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot064.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot065.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot066.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot067.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot068.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot069.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot070.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot071.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "girl/f_clot072.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    }
+  },
+  "meta": {
+    "app": "pkt-imgs-grid-packer",
+    "version": "1.0",
+    "image": "clot_{page}.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 0,
+      "h": 0
+    },
+    "scale": 1
+  }
+}

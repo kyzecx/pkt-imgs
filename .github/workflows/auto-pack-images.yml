@@ -1,0 +1,50 @@
+name: Auto Pack Images
+
+on:
+  push:
+    paths:
+      - 'img/**'  # Trigger on changes to images
+
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Need permission to push back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Grid Packer
+        run: npm run pack
+
+      - name: Generate KV Bulk Payload
+        run: node scripts/generate_kv_payload.js
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/
+          if git diff --staged --quiet; then
+            echo "No changes in dist directory"
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and Push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git commit -m "chore: auto-pack images (grid layout + kv payload)"
+          git push

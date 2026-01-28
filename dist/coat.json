@@ -1,0 +1,246 @@
+{
+  "frames": {
+    "all/u_coat010.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_coat001.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_coat002.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_coat003.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_coat004.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "boy/m_coat005.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "girl/f_coat001.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "girl/f_coat002.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "girl/f_coat003.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "girl/f_coat004.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "girl/f_coat005.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    }
+  },
+  "meta": {
+    "app": "pkt-imgs-grid-packer",
+    "version": "1.0",
+    "image": "coat.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 0,
+      "h": 0
+    },
+    "scale": 1
+  }
+}

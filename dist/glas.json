@@ -1,0 +1,6126 @@
+{
+  "frames": {
+    "all/u_glas001.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas002.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas003.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas004.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas005.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas006.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas007.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas008.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas009.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas010.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas011.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas012.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas013.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas014.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas015.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas016.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 0
+    },
+    "all/u_glas017.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas018.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas019.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas020.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas021.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas111.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas112.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas113.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas114.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas115.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas116.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas117.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas120.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas121.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas122.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas123.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 1
+    },
+    "all/u_glas124.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas127.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas128.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas129.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas132.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas133.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas134.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas135.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas137.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas138.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas141.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 2
+    },
+    "all/u_glas141_Animate.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 2
+    },
+    "all/u_glas142.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 2
+    },
+    "all/u_glas142_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 2
+    },
+    "all/u_glas145.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas146.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 2
+    },
+    "all/u_glas147.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas148.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas149.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas150.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas151.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas152.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas153.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas154.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas155.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 3
+    },
+    "all/u_glas155_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 3
+    },
+    "all/u_glas156.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 3
+    },
+    "all/u_glas156_Animate.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 3
+    },
+    "all/u_glas157.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas158.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas159.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas160.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 3
+    },
+    "all/u_glas161.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "all/u_glas162.png": {
+      "frame": {
+        "x": 800,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "all/u_glas163.png": {
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 320,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 60
+      },
+      "page": 4
+    },
+    "all/u_glas163_Animate.png": {
+      "frame": {
+        "x": 2400,
+        "y": 0,
+        "w": 800,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 800,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 150
+      },
+      "page": 4
+    },
+    "all/u_glas164.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 320,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 60
+      },
+      "page": 4
+    },
+    "all/u_glas164_Animate.png": {
+      "frame": {
+        "x": 800,
+        "y": 840,
+        "w": 800,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 800,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 150
+      },
+      "page": 4
+    },
+    "all/u_glas165.png": {
+      "frame": {
+        "x": 1600,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "all/u_glas166.png": {
+      "frame": {
+        "x": 2400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 4
+    },
+    "all/u_glas167.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 4
+    },
+    "all/u_glas167_Animate.png": {
+      "frame": {
+        "x": 800,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 4
+    },
+    "all/u_glas168.png": {
+      "frame": {
+        "x": 1600,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 4
+    },
+    "all/u_glas168_Animate.png": {
+      "frame": {
+        "x": 2400,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 4
+    },
+    "all/u_glas169.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 4
+    },
+    "all/u_glas169_Animate.png": {
+      "frame": {
+        "x": 800,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 4
+    },
+    "all/u_glas170.png": {
+      "frame": {
+        "x": 1600,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 4
+    },
+    "all/u_glas170_Animate.png": {
+      "frame": {
+        "x": 2400,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 4
+    },
+    "all/u_glas171.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas172.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas173.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 5
+    },
+    "all/u_glas173_Animate.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 5
+    },
+    "all/u_glas174.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 5
+    },
+    "all/u_glas174_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 5
+    },
+    "all/u_glas175.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas176.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas177.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas178.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas179.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas180.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 5
+    },
+    "all/u_glas181.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 5
+    },
+    "all/u_glas181_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 5
+    },
+    "all/u_glas182.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 5
+    },
+    "all/u_glas182_Animate.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 5
+    },
+    "all/u_glas183.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas184.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas185.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas187.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas188.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas189.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas190.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas191.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 6
+    },
+    "all/u_glas191_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 6
+    },
+    "all/u_glas192.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 6
+    },
+    "all/u_glas192_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 6
+    },
+    "all/u_glas193.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas194.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 6
+    },
+    "all/u_glas195.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 6
+    },
+    "all/u_glas195_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 6
+    },
+    "all/u_glas196.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 6
+    },
+    "all/u_glas196_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 7
+    },
+    "all/u_glas199.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 7
+    },
+    "all/u_glas199_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 7
+    },
+    "all/u_glas200.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 7
+    },
+    "all/u_glas200_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 7
+    },
+    "all/u_glas201.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas202.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas203.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas204.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas207.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas208.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas209.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas210.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas211.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas212.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 7
+    },
+    "all/u_glas215.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 7
+    },
+    "all/u_glas215_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 8
+    },
+    "all/u_glas216.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 8
+    },
+    "all/u_glas216_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 8
+    },
+    "all/u_glas219.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas220.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas223.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas224.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas225.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas226.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas227.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas228.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas236.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 8
+    },
+    "all/u_glas236_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 8
+    },
+    "all/u_glas237.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 8
+    },
+    "all/u_glas237_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 8
+    },
+    "all/u_glas238.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 8
+    },
+    "all/u_glas239.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas240.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas241.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas247.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 9
+    },
+    "all/u_glas247_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 9
+    },
+    "all/u_glas248_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 9
+    },
+    "all/u_glas249.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 9
+    },
+    "all/u_glas249_Animate.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 9
+    },
+    "all/u_glas250.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 9
+    },
+    "all/u_glas250_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 9
+    },
+    "all/u_glas253.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas254.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas261.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas262.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas263.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 9
+    },
+    "all/u_glas264.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "all/u_glas267.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 10
+    },
+    "all/u_glas267_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 10
+    },
+    "all/u_glas268.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 10
+    },
+    "all/u_glas268_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 10
+    },
+    "all/u_glas271.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "all/u_glas272.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "all/u_glas279.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 10
+    },
+    "all/u_glas279_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 10
+    },
+    "all/u_glas280.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 10
+    },
+    "all/u_glas280_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 10
+    },
+    "all/u_glas285.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "all/u_glas286.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "all/u_glas289.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "all/u_glas290.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "boy/m_glas022.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 10
+    },
+    "boy/m_glas024.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas026.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas028.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas030.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas032.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas034.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas036.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas038.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas040.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas042.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas044.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas046.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas048.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas050.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas052.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas054.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 11
+    },
+    "boy/m_glas056.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas059.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas060.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas062.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas063.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas065.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas068.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas071.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas073.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas075.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas077.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas079.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas080.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas082.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas084.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas086.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 12
+    },
+    "boy/m_glas088.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas091.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas093.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas094.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas096.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas098.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas100.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas102_Animate.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 13
+    },
+    "boy/m_glas104.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas106.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 13
+    },
+    "boy/m_glas106_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 13
+    },
+    "boy/m_glas110.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 13
+    },
+    "boy/m_glas118.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 240,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 60
+      },
+      "page": 13
+    },
+    "boy/m_glas118_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 595,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 150
+      },
+      "page": 13
+    },
+    "boy/m_glas125.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 13
+    },
+    "boy/m_glas125_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 14
+    },
+    "boy/m_glas130.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 14
+    },
+    "boy/m_glas130_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 14
+    },
+    "boy/m_glas139.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 14
+    },
+    "boy/m_glas139_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 14
+    },
+    "boy/m_glas143.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 14
+    },
+    "boy/m_glas143_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 14
+    },
+    "boy/m_glas230.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 14
+    },
+    "boy/m_glas230_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 14
+    },
+    "girl/f_glas023.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas025.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas027.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas029.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas031.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas033.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas035.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 14
+    },
+    "girl/f_glas037.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas039.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas041.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas043.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas045.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas047.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas049.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas051.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas053.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas055.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas057.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas058.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas061.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas064.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas066.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas067.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 15
+    },
+    "girl/f_glas069.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas070.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas072.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas074.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas076.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas078.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas081.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas083.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas085.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas087.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas089.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas090.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas092.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas095.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas097.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas099.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 16
+    },
+    "girl/f_glas101.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 17
+    },
+    "girl/f_glas103.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas103_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 17
+    },
+    "girl/f_glas105.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 17
+    },
+    "girl/f_glas107.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas107_Animate.png": {
+      "frame": {
+        "x": 700,
+        "y": 840,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 17
+    },
+    "girl/f_glas108.png": {
+      "frame": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 17
+    },
+    "girl/f_glas119.png": {
+      "frame": {
+        "x": 2100,
+        "y": 840,
+        "w": 240,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas119_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 1680,
+        "w": 595,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 150
+      },
+      "page": 17
+    },
+    "girl/f_glas126.png": {
+      "frame": {
+        "x": 700,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas126_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 1680,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 17
+    },
+    "girl/f_glas131.png": {
+      "frame": {
+        "x": 2100,
+        "y": 1680,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas131_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 17
+    },
+    "girl/f_glas140.png": {
+      "frame": {
+        "x": 700,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas140_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 2520,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 17
+    },
+    "girl/f_glas144.png": {
+      "frame": {
+        "x": 2100,
+        "y": 2520,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 17
+    },
+    "girl/f_glas144_Animate.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 18
+    },
+    "girl/f_glas231.png": {
+      "frame": {
+        "x": 700,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 60
+      },
+      "page": 18
+    },
+    "girl/f_glas231_Animate.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 150
+      },
+      "page": 18
+    },
+    "girl/u_glas116.png": {
+      "frame": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 18
+    },
+    "girl/u_glas117.png": {
+      "frame": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      },
+      "sourceSize": {
+        "w": 700,
+        "h": 840
+      },
+      "page": 18
+    }
+  },
+  "meta": {
+    "app": "pkt-imgs-grid-packer",
+    "version": "1.0",
+    "image": "glas_{page}.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 0,
+      "h": 0
+    },
+    "scale": 1
+  }
+}
