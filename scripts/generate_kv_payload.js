@@ -2,11 +2,20 @@ const fs = require('fs');
 const path = require('path');
 
 const DIST_DIR = path.resolve(__dirname, '../dist');
-const OUT_FILE = path.resolve(__dirname, '../dist/kv_bulk.json');
+// Output JSON to dist (for data persistence)
+const JSON_OUT_FILE = path.resolve(__dirname, '../dist/kv_bulk.json');
+// Output _redirects to ROOT (for Vercel/EdgeOne/Netlify auto-detection)
+const REDIRECTS_OUT_FILE = path.resolve(__dirname, '../_redirects');
 
 function generatePayload() {
     console.log('Scanning JSON files in dist/...');
     const files = fs.readdirSync(DIST_DIR).filter(f => f.endsWith('.json'));
+
+    // Check if dist exists
+    if (!fs.existsSync(DIST_DIR)) {
+        console.error("Dist directory missing!");
+        return;
+    }
 
     const kvPairs = [];
 
@@ -23,14 +32,13 @@ function generatePayload() {
             const frames = content.frames;
 
             if (!meta || !frames) {
-                console.warn(`Skipping ${file}: Invalid format (missing meta or frames)`);
+                console.warn(`Skipping ${file}: Invalid format`);
                 return;
             }
 
             console.log(`Processing ${file} (Category: ${category})...`);
 
             for (const [frameName, frameData] of Object.entries(frames)) {
-                // Determine atlas filename
                 let atlasName = meta.image;
                 const pageIdx = frameData.page || 0;
 
@@ -38,33 +46,15 @@ function generatePayload() {
                     atlasName = atlasName.replace('{page}', pageIdx);
                 }
 
-                // Construct Key-Value pair
-                // frameName is usually like "boy/m_clot001.png" or "boy.png" relative to category
-                // We need the FULL URL path: "clot/boy/m_clot001.png"
-
-                let fullKey = frameName;
-
-                // If the frameName doesn't already start with the category (some might?), prepend it.
-                // Safest check: does it start with the category string?
-                // Actually, let's just assume we need to prepend unless it's strictly root.
-                // But in this project structure, json is per folder.
-
-                // Special case: 'base.json' might correspond to root? 
-                // No, user said 'base' folder exists.
-                // So everything should be prepended with category.
-
-                // If the frameName doesn't already start with the category (some might?), prepend it.
-                if (!fullKey.startsWith(`${category}/`)) {
-                    fullKey = `${category}/${fullKey}`;
+                // Construct Key: "clot/boy/m_clot001.png"
+                let keyPath = frameName;
+                if (!keyPath.startsWith(`${category}/`)) {
+                    keyPath = `${category}/${keyPath}`;
                 }
 
-                // URL key needs 'img/' prefix to match https://img.pktgf.top/img/...
-                if (!fullKey.startsWith('img/')) {
-                    fullKey = `img/${fullKey}`;
-                }
-
+                // Add to list
                 kvPairs.push({
-                    key: fullKey,
+                    key: keyPath,
                     value: atlasName
                 });
             }
@@ -74,21 +64,24 @@ function generatePayload() {
         }
     });
 
-    console.log(`Total KV pairs generated: ${kvPairs.length}`);
+    console.log(`\nTotal entries found: ${kvPairs.length}`);
 
-    fs.writeFileSync(OUT_FILE, JSON.stringify(kvPairs, null, 2));
-    console.log(`Saved payload to ${OUT_FILE}`);
+    // 1. Save JSON Payload (Backing data)
+    fs.writeFileSync(JSON_OUT_FILE, JSON.stringify(kvPairs, null, 2));
+    console.log(`Saved kv_bulk.json to ${JSON_OUT_FILE}`);
 
-    // --- Generate _redirects for EdgeOne/Netlify ---
-    const REDIRECTS_FILE = path.join(DIST_DIR, '_redirects');
-    console.log(`Generating ${REDIRECTS_FILE}...`);
+    // 2. Generate _redirects (The Static Solution)
+    console.log(`Generating _redirects to ROOT: ${REDIRECTS_OUT_FILE}...`);
+
+    // Rule Format: /img/<path> /dist/<atlas> 200
+    // Example: /img/cset/girl/001.png -> /dist/cset_0.png
 
     let redirectsContent = kvPairs.map(item => {
-        return `/${item.key} /dist/${item.value} 200`;
+        return `/img/${item.key} /dist/${item.value} 200`;
     }).join('\n');
 
-    fs.writeFileSync(REDIRECTS_FILE, redirectsContent);
-    console.log(`Saved _redirects (${kvPairs.length} rules)`);
+    fs.writeFileSync(REDIRECTS_OUT_FILE, redirectsContent);
+    console.log(`Success! Saved _redirects to root.`);
 }
 
 generatePayload();
