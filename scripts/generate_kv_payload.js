@@ -62,8 +62,23 @@ function generatePayload() {
 
     fs.writeFileSync(OUT_FILE, JSON.stringify(kvPairs, null, 2));
     console.log(`Saved payload to ${OUT_FILE}`);
-    console.log('\nTo upload to Cloudflare KV, run:');
-    console.log('wrangler kv:bulk put --binding SPRITE_MAP dist/kv_bulk.json');
+
+    // --- Generate _redirects for EdgeOne/Netlify ---
+    const REDIRECTS_FILE = path.join(DIST_DIR, '_redirects');
+    console.log(`Generating ${REDIRECTS_FILE}...`);
+
+    // Format: /source /destination 200
+    // 200 means "Rewrite" (URL bar doesn't change, but serves content from dist)
+    // If you want 302 Redirect, change 200 to 302
+
+    let redirectsContent = kvPairs.map(item => {
+        // Source: /cset/boy/m_cset001.png
+        // Dest:   /dist/cset_0.png
+        return `/${item.key} /dist/${item.value} 200`;
+    }).join('\n');
+
+    fs.writeFileSync(REDIRECTS_FILE, redirectsContent);
+    console.log(`Saved _redirects (${kvPairs.length} rules)`);
 }
 
 generatePayload();

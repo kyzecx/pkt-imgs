@@ -71,8 +71,15 @@ app.get('*', (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`\n--- Image Server Running ---`);
-    console.log(`Listening at http://localhost:${PORT}`);
-    console.log(`Try accessing: http://localhost:${PORT}/cset/boy/m_cset001.png`);
-});
+// 4. Export for Vercel
+// Vercel turns this into a serverless function automatically
+module.exports = app;
+
+// Only listen if running locally (not imported as a module)
+if (require.main === module) {
+    app.listen(PORT, () => {
+        console.log(`\n--- Image Server Running ---`);
+        console.log(`Listening at http://localhost:${PORT}`);
+        console.log(`Try accessing: http://localhost:${PORT}/cset/boy/m_cset001.png`);
+    });
+}
