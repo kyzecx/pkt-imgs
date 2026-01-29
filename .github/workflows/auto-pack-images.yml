@@ -26,8 +26,7 @@ jobs:
       - name: Run Grid Packer
         run: npm run pack
 
-      - name: Generate KV Bulk Payload
-        run: node scripts/generate_kv_payload.js
+
 
       - name: Check for changes
         id: git-check
