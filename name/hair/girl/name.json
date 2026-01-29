@@ -239,7 +239,7 @@
     "bundle": {
       "atlas": "hair_325.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 0,
         "w": 700,
         "h": 840
@@ -252,7 +252,7 @@
     "bundle": {
       "atlas": "hair_325.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840

@@ -460,6 +460,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "cset_304.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4389_Animate.png": {
@@ -476,6 +485,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "cset_304.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4388_Animate.png": {
