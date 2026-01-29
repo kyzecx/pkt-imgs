@@ -2,7 +2,7 @@
   "meta": {
     "description": "2026年1月29日更新",
     "weeklyUpdateTimestamp": 1769657400,
-    "hotfixUpdateTimestamp": 1769657400
+    "hotfixUpdateTimestamp": 1769657800
   },
   "categories": {
     "hair": [
@@ -77,7 +77,9 @@
     ],
     "glas": [
       "绒绒心意美瞳（男）",
-      "绒绒心意美瞳（女）"
+      "绒绒心意美瞳（女）",
+      "清澈糖心女眸",
+      "清澈糖心男眸"
     ],
     "mask": [],
     "bear": [],

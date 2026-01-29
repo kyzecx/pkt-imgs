@@ -1,4 +1,36 @@
 {
+  "u_glas294.png": {
+    "name": "清澈糖心男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas294_Animate.png": {
+    "name": "清澈糖心男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas293.png": {
+    "name": "清澈糖心女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas293_Animate.png": {
+    "name": "清澈糖心女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
   "u_glas292.png": {
     "name": "绒绒心意美瞳（女）",
     "hideBaseLayer": false,
