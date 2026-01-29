@@ -2847,6 +2847,22 @@
       "animateFrame": 0
     }
   },
+  "u_mask852.png": {
+    "name": "悦心之音女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask851.png": {
+    "name": "悦心之音男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask850.png": {
     "name": "重逢之时发饰",
     "hideBaseLayer": false,
@@ -3257,6 +3273,14 @@
   },
   "u_mask791.png": {
     "name": "姜饼甜语发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask790.png": {
+    "name": "冬日校服发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

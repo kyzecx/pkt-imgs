@@ -16522,6 +16522,14 @@
       }
     }
   },
+  "u_cset2892.png": {
+    "name": "悦心之音女装",
+    "hideBaseLayer": false
+  },
+  "u_cset2891.png": {
+    "name": "悦心之音男装",
+    "hideBaseLayer": false
+  },
   "u_cset2890.png": {
     "name": "软萌兔熊女装",
     "hideBaseLayer": false,
@@ -18497,6 +18505,14 @@
         "h": 840
       }
     }
+  },
+  "u_cset2724.png": {
+    "name": "冬日校服男装",
+    "hideBaseLayer": false
+  },
+  "u_cset2723.png": {
+    "name": "冬日校服女装",
+    "hideBaseLayer": false
   },
   "u_cset2722.png": {
     "name": "秋日喜柿男装",
