@@ -68,6 +68,14 @@ jobs:
           rclone copyto ./blacklist.json r2:${R2_BUCKET_NAME}/blacklist.json \
             --progress
 
+          # 同步 bundle 目录到 R2
+          rclone sync ./bundle r2:${R2_BUCKET_NAME}/bundle \
+            --transfers 32 \
+            --checkers 16 \
+            --progress \
+            --stats 10s \
+            --stats-one-line
+
       - name: Verify sync
         run: |
           echo "Listing synced files in R2..."

@@ -41,21 +41,60 @@ function getFilesRecursively(dir, fileList = [], relativePath = '') {
 }
 
 async function processDirectory(dirName) {
-    // Optimization: Skip if bundle already exists
-    // Check for standard single-page name OR page 0 name
-    const possibleBundle1 = path.join(BUNDLE_DIR, `${dirName}.png`);
-    const possibleBundle2 = path.join(BUNDLE_DIR, `${dirName}_0.png`);
-
-    if (fs.existsSync(possibleBundle1) || fs.existsSync(possibleBundle2)) {
-        console.log(`Skipping ${dirName} (Bundle exists)...`);
-        return;
-    }
-
-    console.log(`Processing ${dirName}...`);
     const inputDir = path.join(IMG_DIR, dirName);
     const allFiles = getFilesRecursively(inputDir);
 
     if (allFiles.length === 0) return;
+
+    // Sort files to ensure deterministic order (fixes "shifting" on different file systems)
+    allFiles.sort((a, b) => a.relativePath.localeCompare(b.relativePath));
+
+    // --- Incremental Check ---
+    // Check if we need to repack. conditions:
+    // 1. No bundle exists.
+    // 2. Any source file is NEWER than the bundle.
+    // 3. Force rebuild (not implemented via flag yet, but logic allows it)
+
+    // Find latest bundle time
+    let bundleMtime = 0;
+    const bundleFiles = fs.readdirSync(BUNDLE_DIR).filter(f => f.startsWith(dirName) && f.endsWith('.png'));
+
+    // Check if it's strictly this directory's bundle (e.g. 'hats' vs 'hats_off')
+    // The previous logic named files `${dirName}.png` or `${dirName}_${i}.png`
+    const relevantBundles = bundleFiles.filter(f => {
+        const name = f.replace('.png', '');
+        if (name === dirName) return true;
+        if (name.startsWith(`${dirName}_`) && !isNaN(parseInt(name.split('_').pop()))) return true;
+        return false;
+    });
+
+    if (relevantBundles.length > 0) {
+        // Get max bundle mtime
+        relevantBundles.forEach(f => {
+            const stat = fs.statSync(path.join(BUNDLE_DIR, f));
+            bundleMtime = Math.max(bundleMtime, stat.mtimeMs);
+        });
+    }
+
+    // Get max source mtime
+    let srcMtime = 0;
+    allFiles.forEach(f => {
+        const stat = fs.statSync(f.fullPath);
+        srcMtime = Math.max(srcMtime, stat.mtimeMs);
+    });
+
+    // If bundles exist and are newer than all source files, skip
+    if (relevantBundles.length > 0 && bundleMtime >= srcMtime) {
+        console.log(`Skipping ${dirName} (Up to date)...`);
+        return;
+    }
+
+    console.log(`Processing ${dirName} (Changes detected or fresh build)...`);
+
+    // Cleanup old bundles for this directory to handle shrinking/renaming
+    relevantBundles.forEach(f => {
+        fs.unlinkSync(path.join(BUNDLE_DIR, f));
+    });
 
     // chunk images
     const chunks = [];
@@ -222,7 +261,14 @@ async function main() {
         fs.mkdirSync(BUNDLE_DIR, { recursive: true });
     }
 
-    const dirs = getDirectories(IMG_DIR);
+    let dirs = getDirectories(IMG_DIR);
+
+    // If args provided, filter dirs
+    const args = process.argv.slice(2);
+    if (args.length > 0) {
+        dirs = dirs.filter(d => args.includes(d));
+    }
+
     for (const dir of dirs) {
         await processDirectory(dir);
     }

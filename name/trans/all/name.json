@@ -1,50 +1,158 @@
 {
-    "u_trans1561.png": {
-        "name": "兔宝",
-        "hideBaseLayer": true
-    },
-    "u_trans1561_back.png": {
-        "name": "兔宝",
-        "hideBaseLayer": true
-    },
-    "u_trans1505.png": {
-        "name": "蠢萌狗",
-        "hideBaseLayer": true
-    },
-    "u_trans1505_back.png": {
-        "name": "蠢萌狗",
-        "hideBaseLayer": true
-    },
-    "u_trans1563.png": {
-        "name": "麋鹿",
-        "hideBaseLayer": true
-    },
-    "u_trans1563_back.png": {
-        "name": "麋鹿",
-        "hideBaseLayer": true
-    },
-    "u_trans1564.png": {
-        "name": "龙宝",
-        "hideBaseLayer": true
-    },
-    "u_trans1564_back.png": {
-        "name": "龙宝",
-        "hideBaseLayer": true
-    },
-    "u_trans1569.png": {
-        "name": "圣诞变身",
-        "hideBaseLayer": true
-    },
-    "u_trans1569_back.png": {
-        "name": "圣诞变身",
-        "hideBaseLayer": true
-    },
-    "u_trans1571.png": {
-        "name": "新年变身",
-        "hideBaseLayer": true
-    },
-    "u_trans1571_back.png": {
-        "name": "新年变身",
-        "hideBaseLayer": true
+  "u_trans1561.png": {
+    "name": "兔宝",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 120,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      }
     }
+  },
+  "u_trans1561_back.png": {
+    "name": "兔宝",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 80,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1505.png": {
+    "name": "蠢萌狗",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 40,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1505_back.png": {
+    "name": "蠢萌狗",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1563.png": {
+    "name": "麋鹿",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 40,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1563_back.png": {
+    "name": "麋鹿",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 0,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1564.png": {
+    "name": "龙宝",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 120,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1564_back.png": {
+    "name": "龙宝",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 80,
+        "y": 60,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1569.png": {
+    "name": "圣诞变身",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 40,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1569_back.png": {
+    "name": "圣诞变身",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 0,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1571.png": {
+    "name": "新年变身",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 120,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      }
+    }
+  },
+  "u_trans1571_back.png": {
+    "name": "新年变身",
+    "hideBaseLayer": true,
+    "bundle": {
+      "atlas": "trans.png",
+      "position": {
+        "x": 80,
+        "y": 120,
+        "w": 40,
+        "h": 60
+      }
+    }
+  }
 }

@@ -4,7 +4,6 @@ need.json
 temp/
 as/
 node_modules/
-package.json
 package-lock.json
 *.swf
 .gitignore

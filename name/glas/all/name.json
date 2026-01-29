@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_11.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas294_Animate.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_11.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas293.png": {
@@ -21,6 +39,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_11.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas293_Animate.png": {
@@ -29,6 +56,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_11.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas292.png": {
@@ -37,6 +73,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_11.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas291.png": {
@@ -45,6 +90,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas290.png": {
@@ -125,7 +179,7 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -142,7 +196,7 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -159,8 +213,8 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 2100,
-        "y": 840,
+        "x": 0,
+        "y": 1680,
         "w": 700,
         "h": 840
       }
@@ -176,8 +230,8 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 0,
-        "y": 1680,
+        "x": 2100,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -227,8 +281,8 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 2100,
-        "y": 0,
+        "x": 0,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -244,8 +298,8 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 0,
-        "y": 840,
+        "x": 2100,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -261,7 +315,7 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 0,
         "w": 700,
         "h": 840
@@ -278,7 +332,7 @@
     "bundle": {
       "atlas": "glas_10.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840
@@ -397,7 +451,7 @@
     "bundle": {
       "atlas": "glas_9.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -414,7 +468,7 @@
     "bundle": {
       "atlas": "glas_9.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -431,7 +485,7 @@
     "bundle": {
       "atlas": "glas_9.png",
       "position": {
-        "x": 1400,
+        "x": 2100,
         "y": 840,
         "w": 700,
         "h": 840
@@ -448,7 +502,7 @@
     "bundle": {
       "atlas": "glas_9.png",
       "position": {
-        "x": 2100,
+        "x": 1400,
         "y": 840,
         "w": 700,
         "h": 840
@@ -490,8 +544,8 @@
     "bundle": {
       "atlas": "glas_9.png",
       "position": {
-        "x": 2100,
-        "y": 0,
+        "x": 0,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -507,8 +561,8 @@
     "bundle": {
       "atlas": "glas_9.png",
       "position": {
-        "x": 0,
-        "y": 840,
+        "x": 2100,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -592,7 +646,7 @@
     "bundle": {
       "atlas": "glas_8.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -609,7 +663,7 @@
     "bundle": {
       "atlas": "glas_8.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -626,8 +680,8 @@
     "bundle": {
       "atlas": "glas_8.png",
       "position": {
-        "x": 2100,
-        "y": 1680,
+        "x": 0,
+        "y": 2520,
         "w": 700,
         "h": 840
       }
@@ -643,8 +697,8 @@
     "bundle": {
       "atlas": "glas_8.png",
       "position": {
-        "x": 0,
-        "y": 2520,
+        "x": 2100,
+        "y": 1680,
         "w": 700,
         "h": 840
       }
@@ -796,7 +850,7 @@
     "bundle": {
       "atlas": "glas_8.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 0,
         "w": 700,
         "h": 840
@@ -813,7 +867,7 @@
     "bundle": {
       "atlas": "glas_8.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840
@@ -828,10 +882,10 @@
       "animateFrame": 4
     },
     "bundle": {
-      "atlas": "glas_7.png",
+      "atlas": "glas_8.png",
       "position": {
-        "x": 2100,
-        "y": 2520,
+        "x": 0,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -845,10 +899,10 @@
       "animateFrame": 4
     },
     "bundle": {
-      "atlas": "glas_8.png",
+      "atlas": "glas_7.png",
       "position": {
-        "x": 0,
-        "y": 0,
+        "x": 2100,
+        "y": 2520,
         "w": 700,
         "h": 840
       }
@@ -1034,8 +1088,8 @@
     "bundle": {
       "atlas": "glas_7.png",
       "position": {
-        "x": 2100,
-        "y": 0,
+        "x": 0,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -1051,8 +1105,8 @@
     "bundle": {
       "atlas": "glas_7.png",
       "position": {
-        "x": 0,
-        "y": 840,
+        "x": 2100,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -1068,7 +1122,7 @@
     "bundle": {
       "atlas": "glas_7.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 0,
         "w": 700,
         "h": 840
@@ -1085,7 +1139,7 @@
     "bundle": {
       "atlas": "glas_7.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840
@@ -1093,23 +1147,6 @@
     }
   },
   "u_glas196.png": {
-    "name": "月之朔美瞳（女）",
-    "hideBaseLayer": false,
-    "animate": {
-      "isAnimated": true,
-      "animateFrame": 4
-    },
-    "bundle": {
-      "atlas": "glas_6.png",
-      "position": {
-        "x": 2100,
-        "y": 2520,
-        "w": 700,
-        "h": 840
-      }
-    }
-  },
-  "u_glas196_Animate.png": {
     "name": "月之朔美瞳（女）",
     "hideBaseLayer": false,
     "animate": {
@@ -1126,6 +1163,23 @@
       }
     }
   },
+  "u_glas196_Animate.png": {
+    "name": "月之朔美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
+  },
   "u_glas195.png": {
     "name": "月之朔美瞳（男）",
     "hideBaseLayer": false,
@@ -1136,7 +1190,7 @@
     "bundle": {
       "atlas": "glas_6.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -1153,7 +1207,7 @@
     "bundle": {
       "atlas": "glas_6.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -1204,7 +1258,7 @@
     "bundle": {
       "atlas": "glas_6.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -1221,7 +1275,7 @@
     "bundle": {
       "atlas": "glas_6.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -1238,8 +1292,8 @@
     "bundle": {
       "atlas": "glas_6.png",
       "position": {
-        "x": 2100,
-        "y": 840,
+        "x": 0,
+        "y": 1680,
         "w": 700,
         "h": 840
       }
@@ -1255,8 +1309,8 @@
     "bundle": {
       "atlas": "glas_6.png",
       "position": {
-        "x": 0,
-        "y": 1680,
+        "x": 2100,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -1391,7 +1445,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 1400,
+        "x": 2100,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -1408,7 +1462,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 2100,
+        "x": 1400,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -1425,7 +1479,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -1442,7 +1496,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -1561,7 +1615,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 840,
         "w": 700,
         "h": 840
@@ -1578,7 +1632,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 840,
         "w": 700,
         "h": 840
@@ -1595,7 +1649,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 1400,
+        "x": 2100,
         "y": 0,
         "w": 700,
         "h": 840
@@ -1612,7 +1666,7 @@
     "bundle": {
       "atlas": "glas_5.png",
       "position": {
-        "x": 2100,
+        "x": 1400,
         "y": 0,
         "w": 700,
         "h": 840
@@ -1663,7 +1717,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 1600,
+        "x": 2400,
         "y": 2520,
         "w": 800,
         "h": 840
@@ -1680,7 +1734,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 2400,
+        "x": 1600,
         "y": 2520,
         "w": 800,
         "h": 840
@@ -1697,7 +1751,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 0,
+        "x": 800,
         "y": 2520,
         "w": 800,
         "h": 840
@@ -1714,7 +1768,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 800,
+        "x": 0,
         "y": 2520,
         "w": 800,
         "h": 840
@@ -1731,7 +1785,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 1600,
+        "x": 2400,
         "y": 1680,
         "w": 800,
         "h": 840
@@ -1748,7 +1802,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 2400,
+        "x": 1600,
         "y": 1680,
         "w": 800,
         "h": 840
@@ -1765,7 +1819,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 0,
+        "x": 800,
         "y": 1680,
         "w": 800,
         "h": 840
@@ -1782,7 +1836,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 800,
+        "x": 0,
         "y": 1680,
         "w": 800,
         "h": 840
@@ -1833,7 +1887,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 0,
+        "x": 800,
         "y": 840,
         "w": 800,
         "h": 840
@@ -1850,7 +1904,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 800,
+        "x": 0,
         "y": 840,
         "w": 800,
         "h": 840
@@ -1867,7 +1921,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 1600,
+        "x": 2400,
         "y": 0,
         "w": 800,
         "h": 840
@@ -1884,7 +1938,7 @@
     "bundle": {
       "atlas": "glas_4.png",
       "position": {
-        "x": 2400,
+        "x": 1600,
         "y": 0,
         "w": 800,
         "h": 840
@@ -2003,7 +2057,7 @@
     "bundle": {
       "atlas": "glas_3.png",
       "position": {
-        "x": 1400,
+        "x": 2100,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -2020,7 +2074,7 @@
     "bundle": {
       "atlas": "glas_3.png",
       "position": {
-        "x": 2100,
+        "x": 1400,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -2037,7 +2091,7 @@
     "bundle": {
       "atlas": "glas_3.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -2054,7 +2108,7 @@
     "bundle": {
       "atlas": "glas_3.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -2241,7 +2295,7 @@
     "bundle": {
       "atlas": "glas_2.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -2258,7 +2312,7 @@
     "bundle": {
       "atlas": "glas_2.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 2520,
         "w": 700,
         "h": 840
@@ -2275,7 +2329,7 @@
     "bundle": {
       "atlas": "glas_2.png",
       "position": {
-        "x": 1400,
+        "x": 2100,
         "y": 1680,
         "w": 700,
         "h": 840
@@ -2292,7 +2346,7 @@
     "bundle": {
       "atlas": "glas_2.png",
       "position": {
-        "x": 2100,
+        "x": 1400,
         "y": 1680,
         "w": 700,
         "h": 840

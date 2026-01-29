@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jpexs-flash-decompiler": "^0.0.4"
+  },
+  "devDependencies": {
+    "jimp": "^1.6.0",
+    "maxrects-packer": "^2.7.3",
+    "wrangler": "^4.61.0"
+  },
+  "scripts": {
+    "pack": "node scripts/pack_grid.js"
+  }
+}
