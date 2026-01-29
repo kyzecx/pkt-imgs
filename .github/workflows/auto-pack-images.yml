@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'img/**'  # Trigger on changes to images
+  workflow_dispatch:
 
 jobs:
   pack:
@@ -33,7 +34,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dist/
+          git add bundle/ name/
           if git diff --staged --quiet; then
             echo "No changes in dist directory"
             echo "changes=false" >> $GITHUB_OUTPUT

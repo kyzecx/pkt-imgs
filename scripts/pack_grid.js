@@ -6,8 +6,7 @@ const IMG_DIR = path.resolve(__dirname, '../img');
 const BUNDLE_DIR = path.resolve(__dirname, '../bundle'); // Output directory
 const NAME_DIR = path.resolve(__dirname, '../name');     // Name directory
 
-// Grid settings from previous context
-// 4x4 grid = 16 images per chunk
+// Grid settings
 const GRID_COLS = 4;
 const GRID_ROWS = 4;
 const IMAGES_PER_CHUNK = GRID_COLS * GRID_ROWS;
@@ -22,6 +21,7 @@ function getDirectories(srcPath) {
 
 // Helper to get all png files recursively
 function getFilesRecursively(dir, fileList = [], relativePath = '') {
+    if (!fs.existsSync(dir)) return [];
     const files = fs.readdirSync(dir);
     files.forEach(file => {
         const filePath = path.join(dir, file);
@@ -29,7 +29,11 @@ function getFilesRecursively(dir, fileList = [], relativePath = '') {
         if (stat.isDirectory()) {
             getFilesRecursively(filePath, fileList, path.join(relativePath, file));
         } else {
-            if (file.toLowerCase().endsWith('.png')) {
+            if (file.toLowerCase().endsWith('.png') && !file.toLowerCase().endsWith('_animate.png')) {
+                // Note: Explicitly excluding _Animate.png from packing if they are source files? 
+                // Actually the packer packs whatever is in the folder. 
+                // Assuming source structure is cleaned. 
+                // Standard logic: just pack .pngs.
                 fileList.push({
                     fullPath: filePath,
                     relativePath: path.join(relativePath, file).replace(/\\/g, '/') // Ensure forward slashes
@@ -40,97 +44,167 @@ function getFilesRecursively(dir, fileList = [], relativePath = '') {
     return fileList;
 }
 
+// Helper to parse bundle filename to index
+function getBundleIndex(filename, dirName) {
+    if (filename === `${dirName}.png`) return 0;
+    const regex = new RegExp(`^${dirName}_(\\d+)\\.png$`);
+    const match = filename.match(regex);
+    return match ? parseInt(match[1]) : -1;
+}
+
+// Scan existing name.json files to find what is already packed
+function getExistingState(dirName) {
+    const packedFiles = new Set(); // Set<relativePath>
+    const itemsByAtlas = new Map(); // Map<atlasName, List<relativePath>>
+
+    const catNameDir = path.join(NAME_DIR, dirName);
+    if (fs.existsSync(catNameDir)) {
+        const subDirs = fs.readdirSync(catNameDir).filter(d => fs.statSync(path.join(catNameDir, d)).isDirectory());
+        for (const sub of subDirs) {
+            const jsonPath = path.join(catNameDir, sub, 'name.json');
+            if (fs.existsSync(jsonPath)) {
+                try {
+                    const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+                    for (const [filename, val] of Object.entries(data)) {
+                        if (val.bundle && val.bundle.atlas) {
+                            const relPath = `${sub}/${filename}`;
+                            packedFiles.add(relPath);
+
+                            const atlas = val.bundle.atlas;
+                            if (!itemsByAtlas.has(atlas)) {
+                                itemsByAtlas.set(atlas, []);
+                            }
+                            itemsByAtlas.get(atlas).push(relPath);
+                        }
+                    }
+                } catch (e) {
+                    console.error(`Warning: Failed to parse ${jsonPath}`);
+                }
+            }
+        }
+    }
+    return { packedFiles, itemsByAtlas };
+}
+
 async function processDirectory(dirName) {
+    console.log(`Analyzing ${dirName}...`);
+
+    // 1. Get current state
+    const { packedFiles, itemsByAtlas } = getExistingState(dirName);
+
+    // 2. Identify new files
     const inputDir = path.join(IMG_DIR, dirName);
     const allFiles = getFilesRecursively(inputDir);
-
-    if (allFiles.length === 0) return;
-
-    // Sort files to ensure deterministic order (fixes "shifting" on different file systems)
+    // Sort for determinism
     allFiles.sort((a, b) => a.relativePath.localeCompare(b.relativePath));
 
-    // --- Incremental Check ---
-    // Check if we need to repack. conditions:
-    // 1. No bundle exists.
-    // 2. Any source file is NEWER than the bundle.
-    // 3. Force rebuild (not implemented via flag yet, but logic allows it)
+    // Filter existing
+    // Note: packedFiles uses relativePath
+    const newFiles = allFiles.filter(f => !packedFiles.has(f.relativePath));
 
-    // Find latest bundle time
-    let bundleMtime = 0;
-    const bundleFiles = fs.readdirSync(BUNDLE_DIR).filter(f => f.startsWith(dirName) && f.endsWith('.png'));
-
-    // Check if it's strictly this directory's bundle (e.g. 'hats' vs 'hats_off')
-    // The previous logic named files `${dirName}.png` or `${dirName}_${i}.png`
-    const relevantBundles = bundleFiles.filter(f => {
-        const name = f.replace('.png', '');
-        if (name === dirName) return true;
-        if (name.startsWith(`${dirName}_`) && !isNaN(parseInt(name.split('_').pop()))) return true;
-        return false;
-    });
-
-    if (relevantBundles.length > 0) {
-        // Get max bundle mtime
-        relevantBundles.forEach(f => {
-            const stat = fs.statSync(path.join(BUNDLE_DIR, f));
-            bundleMtime = Math.max(bundleMtime, stat.mtimeMs);
-        });
-    }
-
-    // Get max source mtime
-    let srcMtime = 0;
-    allFiles.forEach(f => {
-        const stat = fs.statSync(f.fullPath);
-        srcMtime = Math.max(srcMtime, stat.mtimeMs);
-    });
-
-    // If bundles exist and are newer than all source files, skip
-    if (relevantBundles.length > 0 && bundleMtime >= srcMtime) {
-        console.log(`Skipping ${dirName} (Up to date)...`);
+    if (newFiles.length === 0) {
+        console.log(`  Skipping ${dirName} (Up to date, ${packedFiles.size} keys packed)...`);
         return;
     }
 
-    console.log(`Processing ${dirName} (Changes detected or fresh build)...`);
+    console.log(`  Processing ${dirName}: ${newFiles.length} new items found.`);
 
-    // Cleanup old bundles for this directory to handle shrinking/renaming
-    relevantBundles.forEach(f => {
-        fs.unlinkSync(path.join(BUNDLE_DIR, f));
-    });
+    // 3. Determine Starting Point (Last Page)
+    let maxPageIdx = -1;
+    let lastBundleName = null;
 
-    // chunk images
-    const chunks = [];
-    for (let i = 0; i < allFiles.length; i += IMAGES_PER_CHUNK) {
-        chunks.push(allFiles.slice(i, i + IMAGES_PER_CHUNK));
+    // Check physical bundle files to match against our JSON knowledge
+    // to ensure we don't accidentally append to a deleted bundle
+    const physicalBundles = fs.readdirSync(BUNDLE_DIR).filter(f => f.startsWith(dirName) && f.endsWith('.png'));
+
+    for (const b of physicalBundles) {
+        const idx = getBundleIndex(b, dirName);
+        if (idx > maxPageIdx) {
+            maxPageIdx = idx;
+            lastBundleName = b;
+        }
     }
 
-    const allFrameData = {};
+    // Default if no bundles exist
+    if (maxPageIdx === -1) {
+        maxPageIdx = 0;
+        lastBundleName = `${dirName}.png`;
+    }
 
-    for (let i = 0; i < chunks.length; i++) {
-        const chunk = chunks[i];
+    // 4. Prepare Pending Files List
+    // We want to repack the LAST page just in case it's not full, 
+    // AND to allow the grid size to adjust if new images are larger.
 
-        // 1. Calculate max dimensions for cells in this chunk
+    let pendingFiles = [];
+    let startPageIdx = maxPageIdx;
+
+    // If the last bundle exists and has items known in name.json
+    if (lastBundleName && itemsByAtlas.has(lastBundleName)) {
+        const existingRelPaths = itemsByAtlas.get(lastBundleName);
+
+        // Skip repack if that page is already full? 
+        // If existingRelPaths.length >= 16, we simply start at next page.
+        // This is an optimization.
+        if (existingRelPaths.length >= IMAGES_PER_CHUNK) {
+            console.log(`  Last bundle ${lastBundleName} is full (${existingRelPaths.length} items). Starting new page.`);
+            startPageIdx = maxPageIdx + 1;
+            // No existing items to add to pending, just new files
+            pendingFiles = newFiles.map(f => ({ file: f, isNew: true }));
+        } else {
+            console.log(`  Appending to ${lastBundleName} (${existingRelPaths.length} existing items)...`);
+            // We need to re-pack this page. 
+            // Find the file objects for these existing paths
+            // We can look them up in 'allFiles' (since we scanned the folder)
+            const mapRelPathToFile = new Map(allFiles.map(f => [f.relativePath, f]));
+
+            for (const rel of existingRelPaths) {
+                const f = mapRelPathToFile.get(rel);
+                if (f) {
+                    pendingFiles.push({ file: f, isNew: false });
+                } else {
+                    console.warn(`  Warning: Existing item ${rel} not found on disk! Skipping from repack.`);
+                }
+            }
+
+            // Add new files
+            for (const f of newFiles) {
+                pendingFiles.push({ file: f, isNew: true });
+            }
+        }
+    } else {
+        // No valid existing bundle (or it was empty/deleted/not in json), treat as fresh start for this page index
+        pendingFiles = newFiles.map(f => ({ file: f, isNew: true }));
+    }
+
+    // 5. Pack Loop
+    // Chunk pendingFiles
+    const chunks = [];
+    for (let i = 0; i < pendingFiles.length; i += IMAGES_PER_CHUNK) {
+        chunks.push(pendingFiles.slice(i, i + IMAGES_PER_CHUNK));
+    }
+
+    const updates = {}; // Metadata updates
+
+    for (let c = 0; c < chunks.length; c++) {
+        const chunk = chunks[c];
+        const pageIdx = startPageIdx + c;
+
+        // 1. Calculate max dimensions
         let maxWidth = 0;
         let maxHeight = 0;
-
-        // We need to load images to get dimensions
         const loadedImages = [];
-        for (const file of chunk) {
-            try {
-                // Read file as buffer
-                let buffer = fs.readFileSync(file.fullPath);
 
-                // Sanitize: Trim garbage after IEND chunk (Run-length encoded: 49 45 4E 44)
-                // This fixes "unrecognised content at end of stream" for renamed/corrupted PNGs
+        for (const item of chunk) {
+            try {
+                let buffer = fs.readFileSync(item.file.fullPath);
+
+                // Sanitize IEND (Copy from original script logic)
                 const iendHex = '49454E44';
                 let bufHex = buffer.toString('hex').toUpperCase();
                 const iendIndex = bufHex.lastIndexOf(iendHex);
-
                 if (iendIndex !== -1) {
-                    // IEND chunk is 4 bytes "IEND" + 4 bytes CRC = 8 bytes total
-                    // Hex representation has 2 chars per byte.
-                    // So end of valid PNG is iendIndex (start of IEND) + 8 chars (IEND) + 8 chars (CRC) = + 16 chars
                     const hexEnd = iendIndex + 16;
                     if (hexEnd < bufHex.length) {
-                        // console.log(`  Sanitizing ${file.relativePath}: trimming trailing bytes...`);
                         const byteEnd = hexEnd / 2;
                         buffer = buffer.subarray(0, byteEnd);
                     }
@@ -139,93 +213,102 @@ async function processDirectory(dirName) {
                 const image = await Jimp.read(buffer);
                 maxWidth = Math.max(maxWidth, image.bitmap.width);
                 maxHeight = Math.max(maxHeight, image.bitmap.height);
-                loadedImages.push({
-                    file: file,
-                    image: image
-                });
+                loadedImages.push({ item, image });
             } catch (err) {
-                console.error(`ERROR reading file: ${file.fullPath}`);
-                console.error(`  ${err.message}`);
-                // Skip this file
+                console.error(`Error reading ${item.file.relativePath}: ${err.message}`);
             }
         }
 
         if (loadedImages.length === 0) continue;
 
-        // 2. Create canvas
+        // 2. Create Canvas
         const canvasWidth = maxWidth * GRID_COLS;
         const canvasHeight = maxHeight * GRID_ROWS;
+        const canvas = new Jimp({ width: canvasWidth, height: canvasHeight, color: 0x00000000 });
 
-        // Create new Jimp image (transparent background)
-        // Jimp v1.x uses object signature for constructor
-        const canvas = new Jimp({
-            width: canvasWidth,
-            height: canvasHeight,
-            color: 0x00000000
-        });
-
-        // 3. Blit images
-        loadedImages.forEach((item, index) => {
+        // 3. Composite
+        loadedImages.forEach((obj, index) => {
             const col = index % GRID_COLS;
             const row = Math.floor(index / GRID_COLS);
             const x = col * maxWidth;
             const y = row * maxHeight;
 
-            // Use composite for safer transparency handling
-            canvas.composite(item.image, x, y);
+            canvas.composite(obj.image, x, y);
 
-            // Store frame data (relative to category dir)
-            // item.file.relativePath is like "boy/m_bear001.png"
-            allFrameData[item.file.relativePath] = {
-                frame: { x, y, w: maxWidth, h: maxHeight },
-                page: i
+            // Record metadata
+            updates[obj.item.file.relativePath] = {
+                frame: { x, y, w: maxWidth, h: maxHeight }, // Sprite size (actually cell size, user logic used maxWidth)
+                page: pageIdx
             };
         });
 
-        // 4. Save Atlas Image
-        // If multiple chunks, append _{page}
-        const atlasFilename = (chunks.length > 1) ? `${dirName}_${i}.png` : `${dirName}.png`;
-        const atlasPath = path.join(BUNDLE_DIR, atlasFilename);
+        // 4. Save
+        // Naming logic:
+        // Page 0: Prefer dirName.png IF dirName_0.png does not exist.
+        // But if we are overwriting, we should stick to what it WAS.
+        // We know 'lastBundleName' was the target for 'startPageIdx'.
+        // Why not reuse lastBundleName if pageIdx == startPageIdx?
+        // Ah, lastBundleName might be null if new.
 
-        // Jimp v1.x: .write() returns a promise, .writeAsync() is removed
-        await canvas.write(atlasPath);
-        console.log(`  Saved ${atlasFilename}`);
-    }
+        let atlasName = `${dirName}_${pageIdx}.png`;
 
-    // --- Inject Metadata into name/**/*.json ---
-    console.log(`  Injecting metadata into name JSONs...`);
+        if (pageIdx === 0) {
+            const legacyName = `${dirName}.png`;
+            const batchName = `${dirName}_0.png`;
 
-    // Group by SubDir to efficiently load/save name.json
-    // Map<SubDir, Array<Item>>
-    const subDirItems = new Map();
-
-    for (const [relPath, data] of Object.entries(allFrameData)) {
-        // relPath: "boy/m_bear001.png"
-        const parts = relPath.split('/');
-        if (parts.length < 2) continue; // Skip if root file? (Assuming structure is category/subdir/file)
-
-        const subDir = parts[0]; // "boy"
-        const fileName = parts[1]; // "m_bear001.png"
-
-        if (!subDirItems.has(subDir)) {
-            subDirItems.set(subDir, []);
+            // If we are replacing the bundle we identified as lastBundleName, use that name
+            if (pageIdx === startPageIdx && lastBundleName) {
+                atlasName = lastBundleName;
+            }
+            // Else check existence
+            else if (fs.existsSync(path.join(BUNDLE_DIR, batchName))) {
+                atlasName = batchName;
+            } else {
+                atlasName = legacyName;
+            }
         }
 
-        // Determine nice Atlas Name (no path)
-        const atlasName = (chunks.length > 1) ? `${dirName}_${data.page}.png` : `${dirName}.png`;
+        const atlasPath = path.join(BUNDLE_DIR, atlasName);
+        await canvas.write(atlasPath);
+        console.log(`  Saved ${atlasName} (Page ${pageIdx}, ${loadedImages.length} items)`);
+    }
 
-        subDirItems.get(subDir).push({
+    // 5. Inject Metadata
+    // Note: We need to update existing items too if their position changed (repack)!
+    console.log(`  Updating metadata...`);
+
+    // Group by SubDir
+    const subDirUpdates = new Map();
+    for (const [relPath, data] of Object.entries(updates)) {
+        const parts = relPath.split('/');
+        if (parts.length < 2) continue;
+        const subDir = parts[0];
+        const fileName = parts[1];
+
+        if (!subDirUpdates.has(subDir)) subDirUpdates.set(subDir, []);
+
+        // Determine Atlas Name again (must match what we saved)
+        let atlasName = `${dirName}_${data.page}.png`;
+        if (data.page === 0) {
+            if (data.page === startPageIdx && lastBundleName) {
+                atlasName = lastBundleName;
+            } else if (fs.existsSync(path.join(BUNDLE_DIR, `${dirName}_0.png`))) {
+                atlasName = `${dirName}_0.png`;
+            } else {
+                atlasName = `${dirName}.png`;
+            }
+        }
+
+        subDirUpdates.get(subDir).push({
             filename: fileName,
             atlas: atlasName,
             position: data.frame
         });
     }
 
-    // Process each name.json
-    for (const [subDir, items] of subDirItems) {
-        // Path: name/CATEGORY/SUBDIR/name.json
+    // Write
+    for (const [subDir, items] of subDirUpdates) {
         const nameJsonPath = path.join(NAME_DIR, dirName, subDir, 'name.json');
-
         if (fs.existsSync(nameJsonPath)) {
             try {
                 const nameConfig = JSON.parse(fs.readFileSync(nameJsonPath, 'utf8'));
@@ -233,7 +316,6 @@ async function processDirectory(dirName) {
 
                 for (const item of items) {
                     if (nameConfig[item.filename]) {
-                        // Inject bundle object
                         nameConfig[item.filename].bundle = {
                             atlas: item.atlas,
                             position: item.position
@@ -244,13 +326,9 @@ async function processDirectory(dirName) {
 
                 if (modified) {
                     fs.writeFileSync(nameJsonPath, JSON.stringify(nameConfig, null, 2));
-                    console.log(`    Updated ${dirName}/${subDir}/name.json`);
+                    // console.log(`    Updated ${subDir}/name.json`);
                 }
-            } catch (err) {
-                console.error(`    Error updating ${nameJsonPath}: ${err.message}`);
-            }
-        } else {
-            // console.warn(`    Warning: name.json not found at ${nameJsonPath}`);
+            } catch (e) { console.error(e); }
         }
     }
 }
@@ -270,7 +348,11 @@ async function main() {
     }
 
     for (const dir of dirs) {
-        await processDirectory(dir);
+        try {
+            await processDirectory(dir);
+        } catch (e) {
+            console.error(`Failed to process ${dir}:`, e);
+        }
     }
 }
 
