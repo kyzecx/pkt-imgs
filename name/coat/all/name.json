@@ -1,6 +1,15 @@
 {
   "u_coat010.png": {
     "name": "三级甲",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "coat.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   }
 }

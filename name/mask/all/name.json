@@ -1,4 +1,20 @@
 {
+  "u_mask1400.png": {
+    "name": "耶耶学院女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1399.png": {
+    "name": "耶耶学院男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1388.png": {
     "name": "栗色小兔男头饰",
     "hideBaseLayer": false,
@@ -25,6 +41,22 @@
   },
   "u_mask1385.png": {
     "name": "春日序曲女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1381.png": {
+    "name": "绒绒心意女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1380.png": {
+    "name": "绒绒心意男发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -681,6 +713,22 @@
   },
   "u_mask1260.png": {
     "name": "荧星呼唤发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1257.png": {
+    "name": "告白兔兔女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1256.png": {
+    "name": "告白兔兔男发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

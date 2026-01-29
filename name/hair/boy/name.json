@@ -1,3110 +1,3114 @@
 {
-  "m_hair001.png": {
-    "name": "小刺猬",
-    "hideBaseLayer": false
-  },
-  "m_hair002.png": {
-    "name": "风吹凉",
-    "hideBaseLayer": false
-  },
-  "m_hair003.png": {
-    "name": "英俊小生",
-    "hideBaseLayer": false
-  },
-  "m_hair004.png": {
-    "name": "金色年华",
-    "hideBaseLayer": false
-  },
-  "m_hair005.png": {
-    "name": "暗夜诱惑",
-    "hideBaseLayer": false
-  },
-  "m_hair006.png": {
-    "name": "有志青年",
-    "hideBaseLayer": false
-  },
-  "m_hair007.png": {
-    "name": "呼呼",
-    "hideBaseLayer": false
-  },
-  "m_hair008.png": {
-    "name": "几年不见",
-    "hideBaseLayer": false
-  },
-  "m_hair009.png": {
-    "name": "活力充沛",
-    "hideBaseLayer": false
-  },
-  "m_hair010.png": {
-    "name": "绿头道",
-    "hideBaseLayer": false
-  },
-  "m_hair011.png": {
-    "name": "红色长发",
-    "hideBaseLayer": false
-  },
-  "m_hair012.png": {
-    "name": "咖啡色短发",
-    "hideBaseLayer": false
-  },
-  "m_hair013.png": {
-    "name": "银色超短发",
-    "hideBaseLayer": false
-  },
-  "m_hair014.png": {
-    "name": "黑色卷发",
-    "hideBaseLayer": false
-  },
-  "m_hair015.png": {
-    "name": "银色卷发",
-    "hideBaseLayer": false
-  },
-  "m_hair016.png": {
-    "name": "红色超短发",
-    "hideBaseLayer": false
-  },
-  "m_hair017.png": {
-    "name": "黑色",
-    "hideBaseLayer": false
-  },
-  "m_hair018.png": {
-    "name": "黄色短发",
-    "hideBaseLayer": false
-  },
-  "m_hair019.png": {
-    "name": "咖啡色短发",
-    "hideBaseLayer": false
-  },
-  "m_hair020.png": {
-    "name": "还是短发",
-    "hideBaseLayer": false
-  },
-  "m_hair022.png": {
-    "name": "冒险家",
-    "hideBaseLayer": false
-  },
-  "m_hair023.png": {
-    "name": "一头金黄",
-    "hideBaseLayer": false
-  },
-  "m_hair024.png": {
-    "name": "怒发冲冠",
-    "hideBaseLayer": false
-  },
-  "m_hair025.png": {
-    "name": "老板头",
-    "hideBaseLayer": false
-  },
-  "m_hair026.png": {
-    "name": "机车帽",
-    "hideBaseLayer": false
-  },
-  "m_hair027.png": {
-    "name": "朋克头",
-    "hideBaseLayer": false
-  },
-  "m_hair028.png": {
-    "name": "黄色运动服发型",
-    "hideBaseLayer": false
-  },
-  "m_hair029.png": {
-    "name": "浪子侠客",
-    "hideBaseLayer": false
-  },
-  "m_hair030.png": {
-    "name": "路飞草帽",
-    "hideBaseLayer": false
-  },
-  "m_hair031.png": {
-    "name": "火影发型之鸣人",
-    "hideBaseLayer": false
-  },
-  "m_hair032.png": {
-    "name": "火影发型之佐助",
-    "hideBaseLayer": false
-  },
-  "m_hair033.png": {
-    "name": "火影发型之鹿丸",
-    "hideBaseLayer": false
-  },
-  "m_hair034.png": {
-    "name": "魔术男帽",
-    "hideBaseLayer": false
-  },
-  "m_hair035.png": {
-    "name": "男恶魔",
-    "hideBaseLayer": false
-  },
-  "m_hair036.png": {
-    "name": "棕色面罩",
-    "hideBaseLayer": false
-  },
-  "m_hair037.png": {
-    "name": "小鬼当家男帽",
-    "hideBaseLayer": false
-  },
-  "m_hair038.png": {
-    "name": "男生蓝色睡帽",
-    "hideBaseLayer": false
-  },
-  "m_hair039.png": {
-    "name": "黑龙发型",
-    "hideBaseLayer": false
-  },
-  "m_hair040.png": {
-    "name": "男美发师发型",
-    "hideBaseLayer": false
-  },
-  "m_hair041.png": {
-    "name": "爱因斯坦发型",
-    "hideBaseLayer": false
-  },
-  "m_hair042.png": {
-    "name": "莫西干发型",
-    "hideBaseLayer": false
-  },
-  "m_hair043.png": {
-    "name": "花美男",
-    "hideBaseLayer": false
-  },
-  "m_hair044.png": {
-    "name": "帅气金发",
-    "hideBaseLayer": false
-  },
-  "m_hair045.png": {
-    "name": "古灵精喵",
-    "hideBaseLayer": false
-  },
-  "m_hair046.png": {
-    "name": "地中海",
-    "hideBaseLayer": false
-  },
-  "m_hair047.png": {
-    "name": "酷劲十足",
-    "hideBaseLayer": false
-  },
-  "m_hair048.png": {
-    "name": "灰色马尾",
-    "hideBaseLayer": false
-  },
-  "m_hair049.png": {
-    "name": "拖把头",
-    "hideBaseLayer": false
-  },
-  "m_hair050.png": {
-    "name": "金色小淘气",
-    "hideBaseLayer": false
-  },
-  "m_hair051.png": {
-    "name": "宫城良田发型",
-    "hideBaseLayer": false
-  },
-  "m_hair052.png": {
-    "name": "骷髅头",
-    "hideBaseLayer": false
-  },
-  "m_hair054.png": {
-    "name": "国王金冠发型",
-    "hideBaseLayer": false
-  },
-  "m_hair055.png": {
-    "name": "牛郎发型",
-    "hideBaseLayer": false
-  },
-  "m_hair056.png": {
-    "name": "罗密欧发型",
-    "hideBaseLayer": false
-  },
-  "m_hair057.png": {
-    "name": "隆发型",
-    "hideBaseLayer": false
-  },
-  "m_hair058.png": {
-    "name": "古烈发型",
-    "hideBaseLayer": false
-  },
-  "m_hair059.png": {
-    "name": "丹发型",
-    "hideBaseLayer": false
-  },
-  "m_hair060.png": {
-    "name": "吴刚发型",
-    "hideBaseLayer": false
-  },
-  "m_hair061.png": {
-    "name": "兔先生发型",
-    "hideBaseLayer": false
-  },
-  "m_hair062.png": {
-    "name": "俏皮青春男发型",
-    "hideBaseLayer": false
-  },
-  "m_hair063.png": {
-    "name": "金色抹茶发型",
-    "hideBaseLayer": false
-  },
-  "m_hair064.png": {
-    "name": "活力棕红发型",
-    "hideBaseLayer": false
-  },
-  "m_hair065.png": {
-    "name": "清朝辫子",
-    "hideBaseLayer": false
-  },
-  "m_hair066.png": {
-    "name": "黑色型男发型",
-    "hideBaseLayer": false
-  },
-  "m_hair067.png": {
-    "name": "帅气灰色短发",
-    "hideBaseLayer": false
-  },
-  "m_hair068.png": {
-    "name": "男生飘逸长发",
-    "hideBaseLayer": false
-  },
-  "m_hair069.png": {
-    "name": "金之灿烂",
-    "hideBaseLayer": false
-  },
-  "m_hair070.png": {
-    "name": "蓝之深邃",
-    "hideBaseLayer": false
-  },
-  "m_hair071.png": {
-    "name": "摩卡摩卡",
-    "hideBaseLayer": false
-  },
-  "m_hair072.png": {
-    "name": "炫色白白",
-    "hideBaseLayer": false
-  },
-  "m_hair073.png": {
-    "name": "夏日游泳短发",
-    "hideBaseLayer": false
-  },
-  "m_hair074.png": {
-    "name": "王子银发",
-    "hideBaseLayer": false
-  },
-  "m_hair075.png": {
-    "name": "男扎库米发型",
-    "hideBaseLayer": false
-  },
-  "m_hair076.png": {
-    "name": "摩西金色",
-    "hideBaseLayer": false
-  },
-  "m_hair077.png": {
-    "name": "冲锋包包头",
-    "hideBaseLayer": false
-  },
-  "m_hair078.png": {
-    "name": "雷雷姆",
-    "hideBaseLayer": false
-  },
-  "m_hair079.png": {
-    "name": "波士太郎",
-    "hideBaseLayer": false
-  },
-  "m_hair080.png": {
-    "name": "奈亚歌迪",
-    "hideBaseLayer": false
-  },
-  "m_hair081.png": {
-    "name": "阿勃梭鲁",
-    "hideBaseLayer": false
-  },
-  "m_hair082.png": {
-    "name": "魔音烈炎",
-    "hideBaseLayer": false
-  },
-  "m_hair083.png": {
-    "name": "咕咕丁奇",
-    "hideBaseLayer": false
-  },
-  "m_hair084.png": {
-    "name": "基古波波",
-    "hideBaseLayer": false
-  },
-  "m_hair085.png": {
-    "name": "奥奈西奇",
-    "hideBaseLayer": false
-  },
-  "m_hair086.png": {
-    "name": "曼纽包包",
-    "hideBaseLayer": false
-  },
-  "m_hair087.png": {
-    "name": "悟空发型",
-    "hideBaseLayer": false
-  },
-  "m_hair088.png": {
-    "name": "洛奇纳斯小短发",
-    "hideBaseLayer": false
-  },
-  "m_hair089.png": {
-    "name": "菲奈狮奥发型",
-    "hideBaseLayer": false
-  },
-  "m_hair090.png": {
-    "name": "赤牛魔王发型",
-    "hideBaseLayer": false
-  },
-  "m_hair091.png": {
-    "name": "跃龙发型",
-    "hideBaseLayer": false
-  },
-  "m_hair092.png": {
-    "name": "浣浣皮棕",
-    "hideBaseLayer": false
-  },
-  "m_hair093.png": {
-    "name": "皮皮哈橙",
-    "hideBaseLayer": false
-  },
-  "m_hair094.png": {
-    "name": "银哒哒",
-    "hideBaseLayer": false
-  },
-  "m_hair095.png": {
-    "name": "黑羽发型",
-    "hideBaseLayer": false
-  },
-  "m_hair096.png": {
-    "name": "蓬松型男",
-    "hideBaseLayer": false
-  },
-  "m_hair097.png": {
-    "name": "伯爵奥蓝发型",
-    "hideBaseLayer": false
-  },
-  "m_hair099.png": {
-    "name": "冰爵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair100.png": {
-    "name": "青衣长发",
-    "hideBaseLayer": false
-  },
-  "m_hair101.png": {
-    "name": "绅士王子发型",
-    "hideBaseLayer": false
-  },
-  "m_hair102.png": {
-    "name": "骑士灿阳",
-    "hideBaseLayer": false
-  },
-  "m_hair103.png": {
-    "name": "太阳天使发型",
-    "hideBaseLayer": false
-  },
-  "m_hair104.png": {
-    "name": "军军白发",
-    "hideBaseLayer": false
-  },
-  "m_hair1040.png": {
-    "name": "彼岸男发",
-    "hideBaseLayer": false
-  },
-  "m_hair105.png": {
-    "name": "藩藩红啾啾",
-    "hideBaseLayer": false
-  },
-  "m_hair106.png": {
-    "name": "拉格西恩",
-    "hideBaseLayer": false
-  },
-  "m_hair107.png": {
-    "name": "战神狂发",
-    "hideBaseLayer": false
-  },
-  "m_hair108.png": {
-    "name": "嘻哈帝奇",
-    "hideBaseLayer": false
-  },
-  "m_hair109.png": {
-    "name": "冰雪之心",
-    "hideBaseLayer": false
-  },
-  "m_hair110.png": {
-    "name": "包青天发型",
-    "hideBaseLayer": false
-  },
-  "m_hair111.png": {
-    "name": "展昭发型",
-    "hideBaseLayer": false
-  },
-  "m_hair112.png": {
-    "name": "张龙赵虎帽",
-    "hideBaseLayer": false
-  },
-  "m_hair113.png": {
-    "name": "王朝马汉帽",
-    "hideBaseLayer": false
-  },
-  "m_hair114.png": {
-    "name": "公孙策发型",
-    "hideBaseLayer": false
-  },
-  "m_hair115.png": {
-    "name": "波兰卡卡",
-    "hideBaseLayer": false
-  },
-  "m_hair1151.png": {
-    "name": "雨落蛙蛙男发",
-    "hideBaseLayer": false
-  },
-  "m_hair116.png": {
-    "name": "刺刺玛发型",
-    "hideBaseLayer": false
-  },
-  "m_hair118.png": {
-    "name": "衙役发型",
-    "hideBaseLayer": false
-  },
-  "m_hair119.png": {
-    "name": "欧比亚斯发型",
-    "hideBaseLayer": false
-  },
-  "m_hair120.png": {
-    "name": "莱奥球球发型",
-    "hideBaseLayer": false
-  },
-  "m_hair121.png": {
-    "name": "圣诞莫斯",
-    "hideBaseLayer": false
-  },
-  "m_hair122.png": {
-    "name": "哈路亚发型",
-    "hideBaseLayer": false
-  },
-  "m_hair123.png": {
-    "name": "卯兔财神男发型",
-    "hideBaseLayer": false
-  },
-  "m_hair124.png": {
-    "name": "帝释之银",
-    "hideBaseLayer": false
-  },
-  "m_hair125.png": {
-    "name": "使者之星",
-    "hideBaseLayer": false
-  },
-  "m_hair126.png": {
-    "name": "泉泽发型",
-    "hideBaseLayer": false
-  },
-  "m_hair127.png": {
-    "name": "风之沙影",
-    "hideBaseLayer": false
-  },
-  "m_hair128.png": {
-    "name": "冥炎泣心",
-    "hideBaseLayer": false
-  },
-  "m_hair129.png": {
-    "name": "花灿灿金发",
-    "hideBaseLayer": false
-  },
-  "m_hair130.png": {
-    "name": "金克雷",
-    "hideBaseLayer": false
-  },
-  "m_hair131.png": {
-    "name": "燕尾绅士",
-    "hideBaseLayer": false
-  },
-  "m_hair132.png": {
-    "name": "阿哥小辫子",
-    "hideBaseLayer": false
-  },
-  "m_hair1321.png": {
-    "name": "狂奔猪猪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair133.png": {
-    "name": "叮叮噹噹",
-    "hideBaseLayer": false
-  },
-  "m_hair134.png": {
-    "name": "熊熊棕",
-    "hideBaseLayer": false
-  },
-  "m_hair135.png": {
-    "name": "乐动猫咪",
-    "hideBaseLayer": false
-  },
-  "m_hair136.png": {
-    "name": "孤心波动发型",
-    "hideBaseLayer": false
-  },
-  "m_hair137.png": {
-    "name": "书香小金狐",
-    "hideBaseLayer": false
-  },
-  "m_hair138.png": {
-    "name": "随风飘动",
-    "hideBaseLayer": false
-  },
-  "m_hair139.png": {
-    "name": "阳光晴朗发型",
-    "hideBaseLayer": false
-  },
-  "m_hair140.png": {
-    "name": "蓝色波动发型",
-    "hideBaseLayer": false
-  },
-  "m_hair141.png": {
-    "name": "海盗头巾发型",
-    "hideBaseLayer": false
-  },
-  "m_hair142.png": {
-    "name": "盛夏金灿灿",
-    "hideBaseLayer": false
-  },
-  "m_hair143.png": {
-    "name": "金色光芒",
-    "hideBaseLayer": false
-  },
-  "m_hair144.png": {
-    "name": "红色乐动",
-    "hideBaseLayer": false
-  },
-  "m_hair145.png": {
-    "name": "金色海浪",
-    "hideBaseLayer": false
-  },
-  "m_hair146.png": {
-    "name": "自由铛铛",
-    "hideBaseLayer": false
-  },
-  "m_hair1461.png": {
-    "name": "奶昔泡泡男发",
-    "hideBaseLayer": false
-  },
-  "m_hair147.png": {
-    "name": "躁动部落",
-    "hideBaseLayer": false
-  },
-  "m_hair148.png": {
-    "name": "天真无邪",
-    "hideBaseLayer": false
-  },
-  "m_hair149.png": {
-    "name": "杰克船长",
-    "hideBaseLayer": false
-  },
-  "m_hair150.png": {
-    "name": "丛林之王",
-    "hideBaseLayer": false
-  },
-  "m_hair151.png": {
-    "name": "忧郁炯炯",
-    "hideBaseLayer": false
-  },
-  "m_hair152.png": {
-    "name": "金色战影",
-    "hideBaseLayer": false
-  },
-  "m_hair153.png": {
-    "name": "时尚潮人",
-    "hideBaseLayer": false
-  },
-  "m_hair154.png": {
-    "name": "占卜师短发",
-    "hideBaseLayer": false
-  },
-  "m_hair155.png": {
-    "name": "假面骑士",
-    "hideBaseLayer": false
-  },
-  "m_hair156.png": {
-    "name": "酷酷繁星发型",
-    "hideBaseLayer": false
-  },
-  "m_hair157.png": {
-    "name": "蓝色刨冰",
-    "hideBaseLayer": false
-  },
-  "m_hair158.png": {
-    "name": "索哆哆法师",
-    "hideBaseLayer": false
-  },
-  "m_hair159.png": {
-    "name": "蓬蓬的奋斗",
-    "hideBaseLayer": false
-  },
-  "m_hair160.png": {
-    "name": "棒球少年发型",
-    "hideBaseLayer": false
-  },
-  "m_hair161.png": {
-    "name": "潮流买买提",
-    "hideBaseLayer": false
-  },
-  "m_hair162.png": {
-    "name": "科学家短发",
-    "hideBaseLayer": false
-  },
-  "m_hair163.png": {
-    "name": "萌兔兔",
-    "hideBaseLayer": false
-  },
-  "m_hair164.png": {
-    "name": "夏日运动短发",
-    "hideBaseLayer": false
-  },
-  "m_hair165.png": {
-    "name": "魔法师银发",
-    "hideBaseLayer": false
-  },
-  "m_hair166.png": {
-    "name": "朋克金星",
-    "hideBaseLayer": false
-  },
-  "m_hair167.png": {
-    "name": "牛仔金色短发",
-    "hideBaseLayer": false
-  },
-  "m_hair168.png": {
-    "name": "巫师墨绿短发",
-    "hideBaseLayer": false
-  },
-  "m_hair169.png": {
-    "name": "小霸王短发",
-    "hideBaseLayer": false
-  },
-  "m_hair170.png": {
-    "name": "神枪手短发",
-    "hideBaseLayer": false
-  },
-  "m_hair171.png": {
-    "name": "苏格兰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair172.png": {
-    "name": "京介短发",
-    "hideBaseLayer": false
-  },
-  "m_hair1723.png": {
-    "name": "粉裘枫糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair173.png": {
-    "name": "滑头鬼发型",
-    "hideBaseLayer": false
-  },
-  "m_hair174.png": {
-    "name": "童话王子发型",
-    "hideBaseLayer": false
-  },
-  "m_hair175.png": {
-    "name": "摇滚主唱发型",
-    "hideBaseLayer": false
-  },
-  "m_hair176.png": {
-    "name": "血之伯爵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair177.png": {
-    "name": "嘻哈红樱发型",
-    "hideBaseLayer": false
-  },
-  "m_hair178.png": {
-    "name": "爱心棕色发型",
-    "hideBaseLayer": false
-  },
-  "m_hair179.png": {
-    "name": "藏蓝色短发",
-    "hideBaseLayer": false
-  },
-  "m_hair180.png": {
-    "name": "草莓熊金发",
-    "hideBaseLayer": false
-  },
-  "m_hair181.png": {
-    "name": "南瓜幽灵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair182.png": {
-    "name": "威廉王子发型",
-    "hideBaseLayer": false
-  },
-  "m_hair183.png": {
-    "name": "美国星旗金发",
-    "hideBaseLayer": false
-  },
-  "m_hair184.png": {
-    "name": "蓝色风铃发型",
-    "hideBaseLayer": false
-  },
-  "m_hair186.png": {
-    "name": "喵喵装发型",
-    "hideBaseLayer": false
-  },
-  "m_hair187.png": {
-    "name": "香槟发型",
-    "hideBaseLayer": false
-  },
-  "m_hair188.png": {
-    "name": "青灰银丝",
-    "hideBaseLayer": false
-  },
-  "m_hair189.png": {
-    "name": "薄荷果酱",
-    "hideBaseLayer": false
-  },
-  "m_hair190.png": {
-    "name": "星斗发型",
-    "hideBaseLayer": false
-  },
-  "m_hair191.png": {
-    "name": "星微发型",
-    "hideBaseLayer": false
-  },
-  "m_hair1911.png": {
-    "name": "抱抱熊男发",
-    "hideBaseLayer": false
-  },
-  "m_hair192.png": {
-    "name": "晶钻发型",
-    "hideBaseLayer": false
-  },
-  "m_hair193.png": {
-    "name": "绅士发型",
-    "hideBaseLayer": false
-  },
-  "m_hair194.png": {
-    "name": "使者金发",
-    "hideBaseLayer": false
-  },
-  "m_hair195.png": {
-    "name": "金龙发型",
-    "hideBaseLayer": false
-  },
-  "m_hair196.png": {
-    "name": "情结发型",
-    "hideBaseLayer": false
-  },
-  "m_hair197.png": {
-    "name": "红袍发型",
-    "hideBaseLayer": false
-  },
-  "m_hair198.png": {
-    "name": "布偶娃发型",
-    "hideBaseLayer": false
-  },
-  "m_hair199.png": {
-    "name": "锦玉发型",
-    "hideBaseLayer": false
-  },
-  "m_hair200.png": {
-    "name": "骑士王发型",
-    "hideBaseLayer": false
-  },
-  "m_hair201.png": {
-    "name": "绿茵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair2017.png": {
-    "name": "心碎信号男发",
-    "hideBaseLayer": false
-  },
-  "m_hair203.png": {
-    "name": "俄风男发",
-    "hideBaseLayer": false
-  },
-  "m_hair204.png": {
-    "name": "仙履发型",
-    "hideBaseLayer": false
-  },
-  "m_hair205.png": {
-    "name": "爵士发型",
-    "hideBaseLayer": false
-  },
-  "m_hair206.png": {
-    "name": "天泣发型",
-    "hideBaseLayer": false
-  },
-  "m_hair207.png": {
-    "name": "蓝梦发型",
-    "hideBaseLayer": false
-  },
-  "m_hair208.png": {
-    "name": "星国王子发型",
-    "hideBaseLayer": false
-  },
-  "m_hair209.png": {
-    "name": "古韩男发",
-    "hideBaseLayer": false
-  },
-  "m_hair210.png": {
-    "name": "蓝色浪漫发型",
-    "hideBaseLayer": false
-  },
-  "m_hair211.png": {
-    "name": "仔仔碎发",
-    "hideBaseLayer": false
-  },
-  "m_hair212.png": {
-    "name": "精灵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair213.png": {
-    "name": "意式男发",
-    "hideBaseLayer": false
-  },
-  "m_hair214.png": {
-    "name": "爽朗发型",
-    "hideBaseLayer": false
-  },
-  "m_hair215.png": {
-    "name": "秋本明",
-    "hideBaseLayer": false
-  },
-  "m_hair216.png": {
-    "name": "魔幻淡紫发型",
-    "hideBaseLayer": false
-  },
-  "m_hair217.png": {
-    "name": "青蜂之翼",
-    "hideBaseLayer": false
-  },
-  "m_hair218.png": {
-    "name": "阳光法兰奇",
-    "hideBaseLayer": false
-  },
-  "m_hair219.png": {
-    "name": "日式男发",
-    "hideBaseLayer": false
-  },
-  "m_hair220.png": {
-    "name": "金羽发型",
-    "hideBaseLayer": false
-  },
-  "m_hair221.png": {
-    "name": "童话梦男发",
-    "hideBaseLayer": false
-  },
-  "m_hair222.png": {
-    "name": "埃及男发",
-    "hideBaseLayer": false
-  },
-  "m_hair223.png": {
-    "name": "冬雪发型",
-    "hideBaseLayer": false
-  },
-  "m_hair224.png": {
-    "name": "百炼成仙男发",
-    "hideBaseLayer": false
-  },
-  "m_hair225.png": {
-    "name": "新星男孩",
-    "hideBaseLayer": false
-  },
-  "m_hair226.png": {
-    "name": "枫叶红发",
-    "hideBaseLayer": false
-  },
-  "m_hair227.png": {
-    "name": "翘翘猫先生",
-    "hideBaseLayer": false
-  },
-  "m_hair228.png": {
-    "name": "巴西男发",
-    "hideBaseLayer": false
-  },
-  "m_hair229.png": {
-    "name": "万圣节礼赞发型",
-    "hideBaseLayer": false
-  },
-  "m_hair230.png": {
-    "name": "兔先生金发",
-    "hideBaseLayer": false
-  },
-  "m_hair231.png": {
-    "name": "泰式男发",
-    "hideBaseLayer": false
-  },
-  "m_hair232.png": {
-    "name": "布偶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair233.png": {
-    "name": "幽蓝梦魇发型",
-    "hideBaseLayer": false
-  },
-  "m_hair2331.png": {
-    "name": "时尚之汐男发",
-    "hideBaseLayer": false
-  },
-  "m_hair234.png": {
-    "name": "加拿大男发",
-    "hideBaseLayer": false
-  },
-  "m_hair235.png": {
-    "name": "天使卷发",
-    "hideBaseLayer": false
-  },
-  "m_hair236.png": {
-    "name": "书生发髻",
-    "hideBaseLayer": false
-  },
-  "m_hair237.png": {
-    "name": "幸运四叶草发型",
-    "hideBaseLayer": false
-  },
-  "m_hair238.png": {
-    "name": "澳大利亚男发",
-    "hideBaseLayer": false
-  },
-  "m_hair239.png": {
-    "name": "秋叶源男发",
-    "hideBaseLayer": false
-  },
-  "m_hair240.png": {
-    "name": "夏日蔚蓝发型",
-    "hideBaseLayer": false
-  },
-  "m_hair241.png": {
-    "name": "斗篷喵星人发型",
-    "hideBaseLayer": false
-  },
-  "m_hair242.png": {
-    "name": "清凉盛夏男发",
-    "hideBaseLayer": false
-  },
-  "m_hair243.png": {
-    "name": "法式男发",
-    "hideBaseLayer": false
-  },
-  "m_hair244.png": {
-    "name": "金灿灿发型",
-    "hideBaseLayer": false
-  },
-  "m_hair245.png": {
-    "name": "云雀发型",
-    "hideBaseLayer": false
-  },
-  "m_hair246.png": {
-    "name": "薄荷短发",
-    "hideBaseLayer": false
-  },
-  "m_hair247.png": {
-    "name": "花轮卷发",
-    "hideBaseLayer": false
-  },
-  "m_hair248.png": {
-    "name": "幽墨绿藻",
-    "hideBaseLayer": false
-  },
-  "m_hair249.png": {
-    "name": "多拿滋发型",
-    "hideBaseLayer": false
-  },
-  "m_hair250.png": {
-    "name": "漆原半藏",
-    "hideBaseLayer": false
-  },
-  "m_hair251.png": {
-    "name": "匹诺曹",
-    "hideBaseLayer": false
-  },
-  "m_hair252.png": {
-    "name": "仁太发型",
-    "hideBaseLayer": false
-  },
-  "m_hair253.png": {
-    "name": "沐雨学士发型",
-    "hideBaseLayer": false
-  },
-  "m_hair254.png": {
-    "name": "新区男装发型",
-    "hideBaseLayer": false
-  },
-  "m_hair255.png": {
-    "name": "黑礼服长发",
-    "hideBaseLayer": false
-  },
-  "m_hair256.png": {
-    "name": "盛夏泳圈发型",
-    "hideBaseLayer": false
-  },
-  "m_hair257.png": {
-    "name": "艳阳发型",
-    "hideBaseLayer": false
-  },
-  "m_hair258.png": {
-    "name": "云隐发型",
-    "hideBaseLayer": false
-  },
-  "m_hair259.png": {
-    "name": "青雪银发",
-    "hideBaseLayer": false
-  },
-  "m_hair260.png": {
-    "name": "青葱岁月",
-    "hideBaseLayer": false
-  },
-  "m_hair261.png": {
-    "name": "冥幽短发",
-    "hideBaseLayer": false
-  },
-  "m_hair262.png": {
-    "name": "萌犬金发",
-    "hideBaseLayer": false
-  },
-  "m_hair263.png": {
-    "name": "银发马尾",
-    "hideBaseLayer": false
-  },
-  "m_hair264.png": {
-    "name": "兰草发型",
-    "hideBaseLayer": false
-  },
-  "m_hair265.png": {
-    "name": "星星金发",
-    "hideBaseLayer": false
-  },
-  "m_hair266.png": {
-    "name": "闲逸发型",
-    "hideBaseLayer": false
-  },
-  "m_hair267.png": {
-    "name": "桐人发型",
-    "hideBaseLayer": false
-  },
-  "m_hair268.png": {
-    "name": "恶魔长发",
-    "hideBaseLayer": false
-  },
-  "m_hair269.png": {
-    "name": "摇滚巨星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair270.png": {
-    "name": "星河银发",
-    "hideBaseLayer": false
-  },
-  "m_hair271.png": {
-    "name": "碎冰银发",
-    "hideBaseLayer": false
-  },
-  "m_hair272.png": {
-    "name": "冰雪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair273.png": {
-    "name": "青璃发型",
-    "hideBaseLayer": false
-  },
-  "m_hair274.png": {
-    "name": "浅金男型",
-    "hideBaseLayer": false
-  },
-  "m_hair275.png": {
-    "name": "叮咚发型",
-    "hideBaseLayer": false
-  },
-  "m_hair276.png": {
-    "name": "冰蓝星辰发型",
-    "hideBaseLayer": false
-  },
-  "m_hair277.png": {
-    "name": "冬袄金发",
-    "hideBaseLayer": false
-  },
-  "m_hair280.png": {
-    "name": "嘉士派",
-    "hideBaseLayer": false
-  },
-  "m_hair281.png": {
-    "name": "奶黄包",
-    "hideBaseLayer": false
-  },
-  "m_hair282.png": {
-    "name": "魔法兔发型",
-    "hideBaseLayer": false
-  },
-  "m_hair283.png": {
-    "name": "指挥家发型",
-    "hideBaseLayer": false
-  },
-  "m_hair284.png": {
-    "name": "丰收祭祀男发",
-    "hideBaseLayer": false
-  },
-  "m_hair2847.png": {
-    "name": "甜辣冬日男发",
-    "hideBaseLayer": false
-  },
-  "m_hair285.png": {
-    "name": "雾霭男发",
-    "hideBaseLayer": false
-  },
-  "m_hair286.png": {
-    "name": "洛可可男发",
-    "hideBaseLayer": false
-  },
-  "m_hair287.png": {
-    "name": "玄冰发型",
-    "hideBaseLayer": false
-  },
-  "m_hair288.png": {
-    "name": "白色薄荷发型",
-    "hideBaseLayer": false
-  },
-  "m_hair289.png": {
-    "name": "星星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair290.png": {
-    "name": "小恶魔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair291.png": {
-    "name": "游游小鱼",
-    "hideBaseLayer": false
-  },
-  "m_hair292.png": {
-    "name": "巧克力慕斯发型",
-    "hideBaseLayer": false
-  },
-  "m_hair293.png": {
-    "name": "藏蓝男发",
-    "hideBaseLayer": false
-  },
-  "m_hair294.png": {
-    "name": "榛果发型",
-    "hideBaseLayer": false
-  },
-  "m_hair295.png": {
-    "name": "僵尸男发",
-    "hideBaseLayer": false
-  },
-  "m_hair296.png": {
-    "name": "练白龙发型",
-    "hideBaseLayer": false
-  },
-  "m_hair297.png": {
-    "name": "俏皮绅士男发",
-    "hideBaseLayer": false
-  },
-  "m_hair298.png": {
-    "name": "宝石蓝王子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair299.png": {
-    "name": "半夏脸谱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair300.png": {
-    "name": "地狱男爵",
-    "hideBaseLayer": false
-  },
-  "m_hair301.png": {
-    "name": "逆光飞翔",
-    "hideBaseLayer": false
-  },
-  "m_hair302.png": {
-    "name": "旅人发型",
-    "hideBaseLayer": false
-  },
-  "m_hair303.png": {
-    "name": "傲骨仙风发带",
-    "hideBaseLayer": false
-  },
-  "m_hair304.png": {
-    "name": "布偶小熊",
-    "hideBaseLayer": false
-  },
-  "m_hair305.png": {
-    "name": "飘零若雪",
-    "hideBaseLayer": false
-  },
-  "m_hair306.png": {
-    "name": "新手男发",
-    "hideBaseLayer": false
-  },
-  "m_hair307.png": {
-    "name": "六月的饭团",
-    "hideBaseLayer": false
-  },
-  "m_hair308.png": {
-    "name": "天涯挽歌",
-    "hideBaseLayer": false
-  },
-  "m_hair309.png": {
-    "name": "美国男发型",
-    "hideBaseLayer": false
-  },
-  "m_hair310.png": {
-    "name": "仙风道骨",
-    "hideBaseLayer": false
-  },
-  "m_hair311.png": {
-    "name": "仙侠情缘长发",
-    "hideBaseLayer": false
-  },
-  "m_hair312.png": {
-    "name": "星梦王子短发",
-    "hideBaseLayer": false
-  },
-  "m_hair313.png": {
-    "name": "玫瑰心语",
-    "hideBaseLayer": false
-  },
-  "m_hair314.png": {
-    "name": "英伦时尚男发",
-    "hideBaseLayer": false
-  },
-  "m_hair315.png": {
-    "name": "童梦无忧",
-    "hideBaseLayer": false
-  },
-  "m_hair316.png": {
-    "name": "碧海银发",
-    "hideBaseLayer": false
-  },
-  "m_hair317.png": {
-    "name": "浪漫维她命",
-    "hideBaseLayer": false
-  },
-  "m_hair318.png": {
-    "name": "金风秋华",
-    "hideBaseLayer": false
-  },
-  "m_hair319.png": {
-    "name": "热浪沙滩秀",
-    "hideBaseLayer": false
-  },
-  "m_hair320.png": {
-    "name": "铃兰高中",
-    "hideBaseLayer": false
-  },
-  "m_hair321.png": {
-    "name": "成熟型男",
-    "hideBaseLayer": false
-  },
-  "m_hair322.png": {
-    "name": "暖阳初秋",
-    "hideBaseLayer": false
-  },
-  "m_hair323.png": {
-    "name": "蓝小呆",
-    "hideBaseLayer": false
-  },
-  "m_hair324.png": {
-    "name": "秘之少年",
-    "hideBaseLayer": false
-  },
-  "m_hair325.png": {
-    "name": "深情曼陀罗",
-    "hideBaseLayer": false
-  },
-  "m_hair326.png": {
-    "name": "夏日无尽",
-    "hideBaseLayer": false
-  },
-  "m_hair327.png": {
-    "name": "月白琉璃",
-    "hideBaseLayer": false
-  },
-  "m_hair328.png": {
-    "name": "奶油啵啵",
-    "hideBaseLayer": false
-  },
-  "m_hair329.png": {
-    "name": "恋爱季节",
-    "hideBaseLayer": false
-  },
-  "m_hair330.png": {
-    "name": "诚发型",
-    "hideBaseLayer": false
-  },
-  "m_hair331.png": {
-    "name": "阿里巴巴发型",
-    "hideBaseLayer": false
-  },
-  "m_hair332.png": {
-    "name": "法式风情",
-    "hideBaseLayer": false
-  },
-  "m_hair333.png": {
-    "name": "芭芭拉韩式直发",
-    "hideBaseLayer": false
-  },
-  "m_hair334.png": {
-    "name": "星辰之光",
-    "hideBaseLayer": false
-  },
-  "m_hair335.png": {
-    "name": "蓝梦少年",
-    "hideBaseLayer": false
-  },
-  "m_hair336.png": {
-    "name": "酷炫达人",
-    "hideBaseLayer": false
-  },
-  "m_hair337.png": {
-    "name": "糖果喵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair338.png": {
-    "name": "一叶发型",
-    "hideBaseLayer": false
-  },
-  "m_hair339.png": {
-    "name": "流浪碎发",
-    "hideBaseLayer": false
-  },
-  "m_hair340.png": {
-    "name": "蝙蝠君主",
-    "hideBaseLayer": false
-  },
-  "m_hair341.png": {
-    "name": "恶魔烙印",
-    "hideBaseLayer": false
-  },
-  "m_hair342.png": {
-    "name": "青涩少年",
-    "hideBaseLayer": false
-  },
-  "m_hair343.png": {
-    "name": "黑喵骑士",
-    "hideBaseLayer": false
-  },
-  "m_hair344.png": {
-    "name": "南瓜少年",
-    "hideBaseLayer": false
-  },
-  "m_hair345.png": {
-    "name": "辛劳花匠",
-    "hideBaseLayer": false
-  },
-  "m_hair346.png": {
-    "name": "自由飞翔",
-    "hideBaseLayer": false
-  },
-  "m_hair347.png": {
-    "name": "绅士的信仰",
-    "hideBaseLayer": false
-  },
-  "m_hair348.png": {
-    "name": "流光溢彩",
-    "hideBaseLayer": false
-  },
-  "m_hair349.png": {
-    "name": "暖冬机灵猴",
-    "hideBaseLayer": false
-  },
-  "m_hair350.png": {
-    "name": "青青子衿",
-    "hideBaseLayer": false
-  },
-  "m_hair3502.png": {
-    "name": "蜜糖之甜男发",
-    "hideBaseLayer": false
-  },
-  "m_hair351.png": {
-    "name": "银光男发",
-    "hideBaseLayer": false
-  },
-  "m_hair352.png": {
-    "name": "丹麦男发",
-    "hideBaseLayer": false
-  },
-  "m_hair353.png": {
-    "name": "成长烦恼",
-    "hideBaseLayer": false
-  },
-  "m_hair354.png": {
-    "name": "圣诞男发",
-    "hideBaseLayer": false
-  },
-  "m_hair355.png": {
-    "name": "青葱短发",
-    "hideBaseLayer": false
-  },
-  "m_hair356.png": {
-    "name": "星光",
-    "hideBaseLayer": false
-  },
-  "m_hair357.png": {
-    "name": "暮光男爵",
-    "hideBaseLayer": false
-  },
-  "m_hair358.png": {
-    "name": "爱的罗密欧",
-    "hideBaseLayer": false
-  },
-  "m_hair359.png": {
-    "name": "叶知秋",
-    "hideBaseLayer": false
-  },
-  "m_hair3599.png": {
-    "name": "甜心猫猫拳男发",
-    "hideBaseLayer": false
-  },
-  "m_hair360.png": {
-    "name": "世纪之恋",
-    "hideBaseLayer": false
-  },
-  "m_hair361.png": {
-    "name": "古堡王子",
-    "hideBaseLayer": false
-  },
-  "m_hair362.png": {
-    "name": "青春无敌",
-    "hideBaseLayer": false
-  },
-  "m_hair363.png": {
-    "name": "灰色猫咪发型",
-    "hideBaseLayer": false
-  },
-  "m_hair364.png": {
-    "name": "童话布偶",
-    "hideBaseLayer": false
-  },
-  "m_hair365.png": {
-    "name": "潘达王子",
-    "hideBaseLayer": false
-  },
-  "m_hair366.png": {
-    "name": "卷福美发",
-    "hideBaseLayer": false
-  },
-  "m_hair367.png": {
-    "name": "次元冷萌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair368.png": {
-    "name": "汤圆约会男发",
-    "hideBaseLayer": false
-  },
-  "m_hair369.png": {
-    "name": "穿越爱恋男发",
-    "hideBaseLayer": false
-  },
-  "m_hair370.png": {
-    "name": "完美新郎男发",
-    "hideBaseLayer": false
-  },
-  "m_hair371.png": {
-    "name": "温雅男爵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair372.png": {
-    "name": "战争之王男发",
-    "hideBaseLayer": false
-  },
-  "m_hair3724.png": {
-    "name": "惬意一夏男发",
-    "hideBaseLayer": false
-  },
-  "m_hair373.png": {
-    "name": "樱桃红红男发",
-    "hideBaseLayer": false
-  },
-  "m_hair374.png": {
-    "name": "快乐春游男发",
-    "hideBaseLayer": false
-  },
-  "m_hair375.png": {
-    "name": "帅气男神发型",
-    "hideBaseLayer": false
-  },
-  "m_hair376.png": {
-    "name": "DJ少年男发",
-    "hideBaseLayer": false
-  },
-  "m_hair377.png": {
-    "name": "氧气男发",
-    "hideBaseLayer": false
-  },
-  "m_hair378.png": {
-    "name": "狂野魔法师男发",
-    "hideBaseLayer": false
-  },
-  "m_hair379.png": {
-    "name": "灵风男发",
-    "hideBaseLayer": false
-  },
-  "m_hair380.png": {
-    "name": "长歌流沙男发",
-    "hideBaseLayer": false
-  },
-  "m_hair381.png": {
-    "name": "春樱海滩男发",
-    "hideBaseLayer": false
-  },
-  "m_hair3816.png": {
-    "name": "沁心夏日男发",
-    "hideBaseLayer": false
-  },
-  "m_hair382.png": {
-    "name": "背带男孩发型",
-    "hideBaseLayer": false
-  },
-  "m_hair3825.png": {
-    "name": "邂逅亚特兰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair383.png": {
-    "name": "功夫学院男发",
-    "hideBaseLayer": false
-  },
-  "m_hair384.png": {
-    "name": "魅蓝骑士男发",
-    "hideBaseLayer": false
-  },
-  "m_hair385.png": {
-    "name": "翩翩少年男发",
-    "hideBaseLayer": false
-  },
-  "m_hair386.png": {
-    "name": "酒醉探戈男发",
-    "hideBaseLayer": false
-  },
-  "m_hair387.png": {
-    "name": "楚辞望江男发",
-    "hideBaseLayer": false
-  },
-  "m_hair388.png": {
-    "name": "妖冶明星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair389.png": {
-    "name": "暗金流彩发型",
-    "hideBaseLayer": false
-  },
-  "m_hair390.png": {
-    "name": "盛夏风情男发",
-    "hideBaseLayer": false
-  },
-  "m_hair391.png": {
-    "name": "不羁色彩",
-    "hideBaseLayer": false
-  },
-  "m_hair392.png": {
-    "name": "炫彩青柠",
-    "hideBaseLayer": false
-  },
-  "m_hair393.png": {
-    "name": "战争之王S2男发",
-    "hideBaseLayer": false
-  },
-  "m_hair394.png": {
-    "name": "花样韶华",
-    "hideBaseLayer": false
-  },
-  "m_hair395.png": {
-    "name": "冰镇西瓜男发",
-    "hideBaseLayer": false
-  },
-  "m_hair396.png": {
-    "name": "悠悠一夏男发",
-    "hideBaseLayer": false
-  },
-  "m_hair397.png": {
-    "name": "蔚蓝海岸卷发",
-    "hideBaseLayer": false
-  },
-  "m_hair398.png": {
-    "name": "暗喵水手男发",
-    "hideBaseLayer": false
-  },
-  "m_hair399.png": {
-    "name": "菠萝男发",
-    "hideBaseLayer": false
-  },
-  "m_hair400.png": {
-    "name": "有匪君子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair401.png": {
-    "name": "魔法骑士",
-    "hideBaseLayer": false
-  },
-  "m_hair4015.png": {
-    "name": "精灵时花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair402.png": {
-    "name": "莱迪迪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair403.png": {
-    "name": "阳光船长男发",
-    "hideBaseLayer": false
-  },
-  "m_hair4035.png": {
-    "name": "酸奶不郁郁男发",
-    "hideBaseLayer": false
-  },
-  "m_hair404.png": {
-    "name": "嘻哈男发",
-    "hideBaseLayer": false
-  },
-  "m_hair405.png": {
-    "name": "夜谭男发",
-    "hideBaseLayer": false
-  },
-  "m_hair406.png": {
-    "name": "蓝天发型",
-    "hideBaseLayer": false
-  },
-  "m_hair407.png": {
-    "name": "沉默飘零男发",
-    "hideBaseLayer": false
-  },
-  "m_hair408.png": {
-    "name": "夜狼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair409.png": {
-    "name": "星缘国王",
-    "hideBaseLayer": false
-  },
-  "m_hair410.png": {
-    "name": "糖果男发",
-    "hideBaseLayer": false
-  },
-  "m_hair411.png": {
-    "name": "冷酷校草",
-    "hideBaseLayer": false
-  },
-  "m_hair412.png": {
-    "name": "假面男发",
-    "hideBaseLayer": false
-  },
-  "m_hair413.png": {
-    "name": "苗木校服男发",
-    "hideBaseLayer": false
-  },
-  "m_hair414.png": {
-    "name": "荧星绿发",
-    "hideBaseLayer": false
-  },
-  "m_hair415.png": {
-    "name": "小狸猫正太男发",
-    "hideBaseLayer": false
-  },
-  "m_hair416.png": {
-    "name": "翠湖约会男发",
-    "hideBaseLayer": false
-  },
-  "m_hair417.png": {
-    "name": "花月男发",
-    "hideBaseLayer": false
-  },
-  "m_hair418.png": {
-    "name": "黑喵物语男发",
-    "hideBaseLayer": false
-  },
-  "m_hair419.png": {
-    "name": "大灰狼头发",
-    "hideBaseLayer": false
-  },
-  "m_hair420.png": {
-    "name": "大灰狼连帽短发",
-    "hideBaseLayer": false
-  },
-  "m_hair421.png": {
-    "name": "蓝颜知己男发",
-    "hideBaseLayer": false
-  },
-  "m_hair422.png": {
-    "name": "蓝企鹅男发",
-    "hideBaseLayer": false
-  },
-  "m_hair423.png": {
-    "name": "旋转木马男发",
-    "hideBaseLayer": false
-  },
-  "m_hair424.png": {
-    "name": "小王子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair4249.png": {
-    "name": "恋感偶像男发",
-    "hideBaseLayer": false
-  },
-  "m_hair425.png": {
-    "name": "星际王者银发",
-    "hideBaseLayer": false
-  },
-  "m_hair426.png": {
-    "name": "小巷男孩男发",
-    "hideBaseLayer": false
-  },
-  "m_hair427.png": {
-    "name": "学院派舞会男发",
-    "hideBaseLayer": false
-  },
-  "m_hair428.png": {
-    "name": "AH婚礼红毯男发",
-    "hideBaseLayer": false
-  },
-  "m_hair429.png": {
-    "name": "南瓜王子发型",
-    "hideBaseLayer": false
-  },
-  "m_hair430.png": {
-    "name": "蓝色心情",
-    "hideBaseLayer": false
-  },
-  "m_hair432.png": {
-    "name": "阿尔法男发",
-    "hideBaseLayer": false
-  },
-  "m_hair433.png": {
-    "name": "坠天使男发",
-    "hideBaseLayer": false
-  },
-  "m_hair435.png": {
-    "name": "七花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair436.png": {
-    "name": "拼色男发",
-    "hideBaseLayer": false
-  },
-  "m_hair437.png": {
-    "name": "孤傲战士发型",
-    "hideBaseLayer": false
-  },
-  "m_hair438.png": {
-    "name": "蓝冰发型",
-    "hideBaseLayer": false
-  },
-  "m_hair439.png": {
-    "name": "神隐男发",
-    "hideBaseLayer": false
-  },
-  "m_hair440.png": {
-    "name": "叮当男发",
-    "hideBaseLayer": false
-  },
-  "m_hair441.png": {
-    "name": "琉月男发",
-    "hideBaseLayer": false
-  },
-  "m_hair442.png": {
-    "name": "彩虹羊男发",
-    "hideBaseLayer": false
-  },
-  "m_hair443.png": {
-    "name": "早秋背心男发",
-    "hideBaseLayer": false
-  },
-  "m_hair444.png": {
-    "name": "凤蝶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair445.png": {
-    "name": "狛枝凪斗白发",
-    "hideBaseLayer": false
-  },
-  "m_hair446.png": {
-    "name": "白发微卷",
-    "hideBaseLayer": false
-  },
-  "m_hair447.png": {
-    "name": "水母男发",
-    "hideBaseLayer": false
-  },
-  "m_hair448.png": {
-    "name": "拜占庭男发",
+  "m_hair4836.png": {
+    "name": "禁则男发",
     "hideBaseLayer": false
   },
   "m_hair4489.png": {
     "name": "红丝带蛋糕男发",
     "hideBaseLayer": false
   },
-  "m_hair449.png": {
-    "name": "俏皮男发",
+  "m_hair4249.png": {
+    "name": "恋感偶像男发",
     "hideBaseLayer": false
   },
-  "m_hair450.png": {
-    "name": "银蓝色男发",
+  "m_hair4035.png": {
+    "name": "酸奶不郁郁男发",
     "hideBaseLayer": false
   },
-  "m_hair451.png": {
-    "name": "古典深秋男发",
+  "m_hair4015.png": {
+    "name": "精灵时花男发",
     "hideBaseLayer": false
   },
-  "m_hair452.png": {
-    "name": "魅族男发",
+  "m_hair3825.png": {
+    "name": "邂逅亚特兰男发",
     "hideBaseLayer": false
   },
-  "m_hair453.png": {
-    "name": "黑色燕尾服男发",
+  "m_hair3816.png": {
+    "name": "沁心夏日男发",
     "hideBaseLayer": false
   },
-  "m_hair454.png": {
-    "name": "青竹发型",
+  "m_hair3724.png": {
+    "name": "惬意一夏男发",
     "hideBaseLayer": false
   },
-  "m_hair455.png": {
-    "name": "水手服发型",
+  "m_hair3599.png": {
+    "name": "甜心猫猫拳男发",
     "hideBaseLayer": false
   },
-  "m_hair456.png": {
-    "name": "蓝魅男发",
+  "m_hair3502.png": {
+    "name": "蜜糖之甜男发",
     "hideBaseLayer": false
   },
-  "m_hair457.png": {
-    "name": "庭院疯帽子男发",
+  "m_hair2847.png": {
+    "name": "甜辣冬日男发",
     "hideBaseLayer": false
   },
-  "m_hair458.png": {
-    "name": "圣诞冬意男发",
+  "m_hair2331.png": {
+    "name": "时尚之汐男发",
     "hideBaseLayer": false
   },
-  "m_hair459.png": {
-    "name": "红果果男发",
+  "m_hair2017.png": {
+    "name": "心碎信号男发",
     "hideBaseLayer": false
   },
-  "m_hair460.png": {
-    "name": "蓝色男发",
+  "m_hair1911.png": {
+    "name": "抱抱熊男发",
     "hideBaseLayer": false
   },
-  "m_hair461.png": {
-    "name": "蓝白男发",
+  "m_hair1723.png": {
+    "name": "粉裘枫糖男发",
     "hideBaseLayer": false
   },
-  "m_hair462.png": {
-    "name": "新年小斗篷男发",
+  "m_hair1461.png": {
+    "name": "奶昔泡泡男发",
     "hideBaseLayer": false
   },
-  "m_hair463.png": {
-    "name": "巧克力糖果男发",
+  "m_hair1321.png": {
+    "name": "狂奔猪猪男发",
     "hideBaseLayer": false
   },
-  "m_hair464.png": {
-    "name": "冰冻之心男发",
+  "m_hair1151.png": {
+    "name": "雨落蛙蛙男发",
     "hideBaseLayer": false
   },
-  "m_hair465.png": {
-    "name": "果茶男发",
+  "m_hair1040.png": {
+    "name": "彼岸男发",
     "hideBaseLayer": false
   },
-  "m_hair466.png": {
-    "name": "青柠装男发",
-    "hideBaseLayer": false
-  },
-  "m_hair467.png": {
-    "name": "阿斯洛",
-    "hideBaseLayer": false
-  },
-  "m_hair468.png": {
-    "name": "波比兔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair469.png": {
-    "name": "斗篷男发",
-    "hideBaseLayer": false
-  },
-  "m_hair470.png": {
-    "name": "草莓蜜糖派男发",
-    "hideBaseLayer": false
-  },
-  "m_hair471.png": {
-    "name": "恶魔魔幻男发",
-    "hideBaseLayer": false
-  },
-  "m_hair472.png": {
-    "name": "魅影男发",
-    "hideBaseLayer": false
-  },
-  "m_hair473.png": {
-    "name": "虎斑喵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair474.png": {
-    "name": "猴猴暖冬男发",
-    "hideBaseLayer": false
-  },
-  "m_hair475.png": {
-    "name": "战争之王S3男发",
-    "hideBaseLayer": false
-  },
-  "m_hair476.png": {
-    "name": "心舞会男发",
-    "hideBaseLayer": false
-  },
-  "m_hair477.png": {
-    "name": "锦葵紫男发",
-    "hideBaseLayer": false
-  },
-  "m_hair478.png": {
-    "name": "绿锦鲤男发",
-    "hideBaseLayer": false
-  },
-  "m_hair479.png": {
-    "name": "玻璃糖纸男发",
-    "hideBaseLayer": false
-  },
-  "m_hair480.png": {
-    "name": "宫廷礼服男发",
-    "hideBaseLayer": false
-  },
-  "m_hair481.png": {
-    "name": "心情男发",
-    "hideBaseLayer": false
-  },
-  "m_hair482.png": {
-    "name": "栗子曲奇男发",
-    "hideBaseLayer": false
-  },
-  "m_hair483.png": {
-    "name": "雅米男发",
-    "hideBaseLayer": false
-  },
-  "m_hair484.png": {
-    "name": "绿色男发",
-    "hideBaseLayer": false
-  },
-  "m_hair485.png": {
-    "name": "金色贵公子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair486.png": {
-    "name": "蓝爵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair487.png": {
-    "name": "紫爵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair488.png": {
-    "name": "蓝领结发型",
-    "hideBaseLayer": false
-  },
-  "m_hair489.png": {
-    "name": "淡花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair490.png": {
-    "name": "清凉短发",
-    "hideBaseLayer": false
-  },
-  "m_hair491.png": {
-    "name": "红意男发",
-    "hideBaseLayer": false
-  },
-  "m_hair492.png": {
-    "name": "牛仔蓝发型",
-    "hideBaseLayer": false
-  },
-  "m_hair493.png": {
-    "name": "清凉T短发",
-    "hideBaseLayer": false
-  },
-  "m_hair494.png": {
-    "name": "墨镜马甲短发",
-    "hideBaseLayer": false
-  },
-  "m_hair495.png": {
-    "name": "然然魔法使男发",
-    "hideBaseLayer": false
-  },
-  "m_hair496.png": {
-    "name": "约瑟夫克尔",
-    "hideBaseLayer": false
-  },
-  "m_hair497.png": {
-    "name": "朝阳公子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair498.png": {
-    "name": "月光骑士发型",
-    "hideBaseLayer": false
-  },
-  "m_hair499.png": {
-    "name": "香檬汪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair500.png": {
-    "name": "橘子汽水男发",
-    "hideBaseLayer": false
-  },
-  "m_hair501.png": {
-    "name": "紫梦纱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair502.png": {
-    "name": "骷髅红莲男发",
-    "hideBaseLayer": false
-  },
-  "m_hair503.png": {
-    "name": "莉紫男发",
-    "hideBaseLayer": false
-  },
-  "m_hair504.png": {
-    "name": "魔士发型",
-    "hideBaseLayer": false
-  },
-  "m_hair505.png": {
-    "name": "懒懒熊男发",
-    "hideBaseLayer": false
-  },
-  "m_hair506.png": {
-    "name": "木荷男发",
-    "hideBaseLayer": false
-  },
-  "m_hair507.png": {
-    "name": "撒豆鬼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair508.png": {
-    "name": "紫夜歌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair509.png": {
-    "name": "樱之男巫发型",
-    "hideBaseLayer": false
-  },
-  "m_hair510.png": {
-    "name": "士兵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair511.png": {
-    "name": "灰色泡沫",
-    "hideBaseLayer": false
-  },
-  "m_hair512.png": {
-    "name": "紫色喵喵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair513.png": {
-    "name": "阿修罗的噩梦",
-    "hideBaseLayer": false
-  },
-  "m_hair514.png": {
-    "name": "路人甲学长",
-    "hideBaseLayer": false
-  },
-  "m_hair515.png": {
-    "name": "紫樱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair516.png": {
-    "name": "茶发男孩",
-    "hideBaseLayer": false
-  },
-  "m_hair517.png": {
-    "name": "木之本学长男发",
-    "hideBaseLayer": false
-  },
-  "m_hair518.png": {
-    "name": "满天星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair519.png": {
-    "name": "棉花糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair520.png": {
-    "name": "时镇男发",
-    "hideBaseLayer": false
-  },
-  "m_hair521.png": {
-    "name": "企鹅礼服男发",
-    "hideBaseLayer": false
-  },
-  "m_hair522.png": {
-    "name": "清灵荷韵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair523.png": {
-    "name": "偃柳男发",
-    "hideBaseLayer": false
-  },
-  "m_hair524.png": {
-    "name": "听花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair525.png": {
-    "name": "紫藤男发",
-    "hideBaseLayer": false
-  },
-  "m_hair526.png": {
-    "name": "衣袂男发",
-    "hideBaseLayer": false
-  },
-  "m_hair527.png": {
-    "name": "银霜男发",
-    "hideBaseLayer": false
-  },
-  "m_hair528.png": {
-    "name": "乐高小象男发",
-    "hideBaseLayer": false
-  },
-  "m_hair529.png": {
-    "name": "去春游男发",
-    "hideBaseLayer": false
-  },
-  "m_hair530.png": {
-    "name": "薄荷香草男发",
-    "hideBaseLayer": false
-  },
-  "m_hair531.png": {
-    "name": "蓝星粉粉男发",
-    "hideBaseLayer": false
-  },
-  "m_hair532.png": {
-    "name": "红茶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair533.png": {
-    "name": "初夏冰冰恋男发",
-    "hideBaseLayer": false
-  },
-  "m_hair534.png": {
-    "name": "栗栗熊熊男发",
-    "hideBaseLayer": false
-  },
-  "m_hair535.png": {
-    "name": "花季海洋男发",
-    "hideBaseLayer": false
-  },
-  "m_hair536.png": {
-    "name": "晴云男发",
-    "hideBaseLayer": false
-  },
-  "m_hair537.png": {
-    "name": "萌星星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair538.png": {
-    "name": "金色闪闪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair539.png": {
-    "name": "海洋泡沫男发",
-    "hideBaseLayer": false
-  },
-  "m_hair540.png": {
-    "name": "阳光海豚男发",
-    "hideBaseLayer": false
-  },
-  "m_hair541.png": {
-    "name": "月明星稀男发",
-    "hideBaseLayer": false
-  },
-  "m_hair542.png": {
-    "name": "静谧男发",
-    "hideBaseLayer": false
-  },
-  "m_hair543.png": {
-    "name": "迪路的金发",
-    "hideBaseLayer": false
-  },
-  "m_hair544.png": {
-    "name": "仙鹿男发",
-    "hideBaseLayer": false
-  },
-  "m_hair545.png": {
-    "name": "春风男发",
-    "hideBaseLayer": false
-  },
-  "m_hair546.png": {
-    "name": "清晨林间男发",
-    "hideBaseLayer": false
-  },
-  "m_hair547.png": {
-    "name": "花样男孩男发",
-    "hideBaseLayer": false
-  },
-  "m_hair548.png": {
-    "name": "笛乐男发",
-    "hideBaseLayer": false
-  },
-  "m_hair549.png": {
-    "name": "一起兜兜风男发",
-    "hideBaseLayer": false
-  },
-  "m_hair550.png": {
-    "name": "波斯男发",
-    "hideBaseLayer": false
-  },
-  "m_hair551.png": {
-    "name": "鹏游蝶梦男发",
-    "hideBaseLayer": false
-  },
-  "m_hair552.png": {
-    "name": "瑰丽乐园男发",
-    "hideBaseLayer": false
-  },
-  "m_hair553.png": {
-    "name": "流光飞舞男发",
-    "hideBaseLayer": false
-  },
-  "m_hair554.png": {
-    "name": "晨星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair555.png": {
-    "name": "气球喵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair556.png": {
-    "name": "水果派对男发",
-    "hideBaseLayer": false
-  },
-  "m_hair557.png": {
-    "name": "百鬼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair558.png": {
-    "name": "梦幻星空男发",
-    "hideBaseLayer": false
-  },
-  "m_hair559.png": {
-    "name": "糖心蜜果男发",
-    "hideBaseLayer": false
-  },
-  "m_hair560.png": {
-    "name": "柯基男发",
-    "hideBaseLayer": false
-  },
-  "m_hair561.png": {
-    "name": "蓝天男发",
-    "hideBaseLayer": false
-  },
-  "m_hair562.png": {
-    "name": "冰柠橘子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair563.png": {
-    "name": "美术课代表男发",
-    "hideBaseLayer": false
-  },
-  "m_hair564.png": {
-    "name": "绿叶小精灵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair565.png": {
-    "name": "南北极蝶舞男发",
-    "hideBaseLayer": false
-  },
-  "m_hair566.png": {
-    "name": "南北极豆豆男发",
-    "hideBaseLayer": false
-  },
-  "m_hair567.png": {
-    "name": "南北极星点男发",
-    "hideBaseLayer": false
-  },
-  "m_hair568.png": {
-    "name": "南北极紫蝶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair569.png": {
-    "name": "暮同酒",
-    "hideBaseLayer": false
-  },
-  "m_hair570.png": {
-    "name": "星幻男发",
-    "hideBaseLayer": false
-  },
-  "m_hair571.png": {
-    "name": "元气初秋男发",
-    "hideBaseLayer": false
-  },
-  "m_hair572.png": {
-    "name": "玲珑短发",
-    "hideBaseLayer": false
-  },
-  "m_hair573.png": {
-    "name": "飘逸阴阳师男发",
-    "hideBaseLayer": false
-  },
-  "m_hair574.png": {
-    "name": "琉金男发",
-    "hideBaseLayer": false
-  },
-  "m_hair575.png": {
-    "name": "瞌睡兔兔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair576.png": {
-    "name": "萌心森林男发",
-    "hideBaseLayer": false
-  },
-  "m_hair577.png": {
-    "name": "五星红发（男）",
-    "hideBaseLayer": false
-  },
-  "m_hair578.png": {
-    "name": "天秤星语男发",
-    "hideBaseLayer": false
-  },
-  "m_hair579.png": {
-    "name": "蓝鲸男发",
-    "hideBaseLayer": false
-  },
-  "m_hair580.png": {
-    "name": "纡朱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair581.png": {
-    "name": "玩偶云朵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair582.png": {
-    "name": "捧花少年男发",
-    "hideBaseLayer": false
-  },
-  "m_hair583.png": {
-    "name": "咔恰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair584.png": {
-    "name": "游鱼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair585.png": {
-    "name": "蓝莓软糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair586.png": {
-    "name": "南瓜蔷薇男发",
-    "hideBaseLayer": false
-  },
-  "m_hair587.png": {
-    "name": "蒂阿兹男发",
-    "hideBaseLayer": false
-  },
-  "m_hair588.png": {
-    "name": "塔纳托斯男发",
-    "hideBaseLayer": false
-  },
-  "m_hair589.png": {
-    "name": "昴男发",
-    "hideBaseLayer": false
-  },
-  "m_hair590.png": {
-    "name": "紫流萤男发",
-    "hideBaseLayer": false
-  },
-  "m_hair591.png": {
-    "name": "天蝎物语男发",
-    "hideBaseLayer": false
-  },
-  "m_hair592.png": {
-    "name": "甜心花园男发",
-    "hideBaseLayer": false
-  },
-  "m_hair593.png": {
-    "name": "摇滚小哈男发",
-    "hideBaseLayer": false
-  },
-  "m_hair594.png": {
-    "name": "萌兔游乐园男发",
-    "hideBaseLayer": false
-  },
-  "m_hair595.png": {
-    "name": "云纱梦舞男发",
-    "hideBaseLayer": false
-  },
-  "m_hair596.png": {
-    "name": "月如歌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair597.png": {
-    "name": "天使恋之街男发",
-    "hideBaseLayer": false
-  },
-  "m_hair598.png": {
-    "name": "茸球发啾（男）",
-    "hideBaseLayer": false
-  },
-  "m_hair599.png": {
-    "name": "冬雪恋歌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair601.png": {
-    "name": "暖心温泉男发",
-    "hideBaseLayer": false
-  },
-  "m_hair602.png": {
-    "name": "流星天使男发",
-    "hideBaseLayer": false
-  },
-  "m_hair603.png": {
-    "name": "雪花蓬蓬男发",
-    "hideBaseLayer": false
-  },
-  "m_hair604.png": {
-    "name": "薄荷饭团男发",
-    "hideBaseLayer": false
-  },
-  "m_hair605.png": {
-    "name": "精灵鼠男发",
-    "hideBaseLayer": false
-  },
-  "m_hair606.png": {
-    "name": "圣诞雪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair607.png": {
-    "name": "冬季恋歌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair608.png": {
-    "name": "海盐宾治男发",
-    "hideBaseLayer": false
-  },
-  "m_hair609.png": {
-    "name": "欢乐雪花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair610.png": {
-    "name": "扑克男发",
-    "hideBaseLayer": false
-  },
-  "m_hair611.png": {
-    "name": "冬日绵绵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair612.png": {
-    "name": "冰晶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair613.png": {
-    "name": "大叔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair614.png": {
-    "name": "星星糖果男发",
-    "hideBaseLayer": false
-  },
-  "m_hair615.png": {
-    "name": "星愿幻梦男发",
-    "hideBaseLayer": false
-  },
-  "m_hair616.png": {
-    "name": "冬日暖阳男发",
-    "hideBaseLayer": false
-  },
-  "m_hair617.png": {
-    "name": "蒙奇奇男发",
-    "hideBaseLayer": false
-  },
-  "m_hair618.png": {
-    "name": "软绵绵男发",
-    "hideBaseLayer": false
-  },
-  "m_hair619.png": {
-    "name": "小熊蜜糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair620.png": {
-    "name": "彩虹星星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair621.png": {
-    "name": "圣诞雪男发（金色）",
-    "hideBaseLayer": false
-  },
-  "m_hair622.png": {
-    "name": "美术课代表男发（橙色）",
-    "hideBaseLayer": false
-  },
-  "m_hair623.png": {
-    "name": "犬神男发",
-    "hideBaseLayer": false
-  },
-  "m_hair624.png": {
-    "name": "梓心糖果男发",
-    "hideBaseLayer": false
-  },
-  "m_hair625.png": {
-    "name": "清爽格子男发",
-    "hideBaseLayer": false
-  },
-  "m_hair626.png": {
-    "name": "草莓软心糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair627.png": {
-    "name": "水畔蓝花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair628.png": {
-    "name": "鸟笼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair629.png": {
-    "name": "咔咔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair630.png": {
-    "name": "花恋蝶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair631.png": {
-    "name": "十字路口男发",
-    "hideBaseLayer": false
-  },
-  "m_hair632.png": {
-    "name": "倾心紫颜男发",
-    "hideBaseLayer": false
-  },
-  "m_hair633.png": {
-    "name": "玫瑰心语男发",
-    "hideBaseLayer": false
-  },
-  "m_hair634.png": {
-    "name": "甜点男发",
-    "hideBaseLayer": false
-  },
-  "m_hair635.png": {
-    "name": "晴天茶会男发",
-    "hideBaseLayer": false
-  },
-  "m_hair636.png": {
-    "name": "蔓藤男发",
-    "hideBaseLayer": false
-  },
-  "m_hair637.png": {
-    "name": "泡泡糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair638.png": {
-    "name": "叽叽叽男发",
-    "hideBaseLayer": false
-  },
-  "m_hair639.png": {
-    "name": "绿萝男发",
-    "hideBaseLayer": false
-  },
-  "m_hair641.png": {
-    "name": "花嫁男发",
-    "hideBaseLayer": false
-  },
-  "m_hair642.png": {
-    "name": "鲜花球球男发",
-    "hideBaseLayer": false
-  },
-  "m_hair643.png": {
-    "name": "草莓软糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair644.png": {
-    "name": "学院男发",
-    "hideBaseLayer": false
-  },
-  "m_hair645.png": {
-    "name": "粉酥心晴男发",
-    "hideBaseLayer": false
-  },
-  "m_hair646.png": {
-    "name": "春季凌乱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair647.png": {
-    "name": "春意男发",
-    "hideBaseLayer": false
-  },
-  "m_hair648.png": {
-    "name": "喵咪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair649.png": {
-    "name": "蘑蘑男发",
-    "hideBaseLayer": false
-  },
-  "m_hair650.png": {
-    "name": "暗夜男发",
-    "hideBaseLayer": false
-  },
-  "m_hair651.png": {
-    "name": "纯白之春男发",
-    "hideBaseLayer": false
-  },
-  "m_hair652.png": {
-    "name": "马尔代夫男发",
-    "hideBaseLayer": false
-  },
-  "m_hair653.png": {
-    "name": "焦糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair654.png": {
-    "name": "森林谜纱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair655.png": {
-    "name": "蛋糕派对西装男头发",
-    "hideBaseLayer": false
-  },
-  "m_hair656.png": {
-    "name": "纸牌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair657.png": {
-    "name": "清心泉愿男发",
-    "hideBaseLayer": false
-  },
-  "m_hair658.png": {
-    "name": "草莓蛋糕男发",
-    "hideBaseLayer": false
-  },
-  "m_hair659.png": {
-    "name": "魔灵宿主头发",
-    "hideBaseLayer": false
-  },
-  "m_hair660.png": {
-    "name": "绅士兔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair661.png": {
-    "name": "星宿使徒男发",
-    "hideBaseLayer": false
-  },
-  "m_hair662.png": {
-    "name": "岚晶砂糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair663.png": {
-    "name": "波板糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair664.png": {
-    "name": "绵绵兔几男发",
-    "hideBaseLayer": false
-  },
-  "m_hair665.png": {
-    "name": "糖果男孩头发",
-    "hideBaseLayer": false
-  },
-  "m_hair666.png": {
-    "name": "尤克里里男发",
-    "hideBaseLayer": false
-  },
-  "m_hair667.png": {
-    "name": "湖蓝初春男发",
-    "hideBaseLayer": false
-  },
-  "m_hair668.png": {
-    "name": "春萌男发",
-    "hideBaseLayer": false
-  },
-  "m_hair669.png": {
-    "name": "星星男发",
-    "hideBaseLayer": false
-  },
-  "m_hair670.png": {
-    "name": "街拍少年男发",
-    "hideBaseLayer": false
-  },
-  "m_hair671.png": {
-    "name": "绿芽背带男发",
-    "hideBaseLayer": false
-  },
-  "m_hair672.png": {
-    "name": "星途男发",
-    "hideBaseLayer": false
-  },
-  "m_hair673.png": {
-    "name": "雨中花园男发",
-    "hideBaseLayer": false
-  },
-  "m_hair674.png": {
-    "name": "星光魔术师男发",
-    "hideBaseLayer": false
-  },
-  "m_hair675.png": {
-    "name": "蓝色月光男发",
-    "hideBaseLayer": false
-  },
-  "m_hair676.png": {
-    "name": "可爱背包男发",
-    "hideBaseLayer": false
-  },
-  "m_hair677.png": {
-    "name": "梨花头男",
-    "hideBaseLayer": false
-  },
-  "m_hair678.png": {
-    "name": "湛蓝心情男发",
-    "hideBaseLayer": false
-  },
-  "m_hair679.png": {
-    "name": "淡色羽翼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair680.png": {
-    "name": "薄荷马甲男发",
-    "hideBaseLayer": false
-  },
-  "m_hair681.png": {
-    "name": "蜜糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair682.png": {
-    "name": "一瞬永恒男发",
-    "hideBaseLayer": false
-  },
-  "m_hair683.png": {
-    "name": "软糖果果男发",
-    "hideBaseLayer": false
-  },
-  "m_hair684.png": {
-    "name": "蛋黄果酱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair685.png": {
-    "name": "薄荷背带男发",
-    "hideBaseLayer": false
-  },
-  "m_hair686.png": {
-    "name": "优雅画框男发",
-    "hideBaseLayer": false
-  },
-  "m_hair688.png": {
-    "name": "旅行热气球男发",
-    "hideBaseLayer": false
-  },
-  "m_hair689.png": {
-    "name": "方糖咖啡男发",
-    "hideBaseLayer": false
-  },
-  "m_hair691.png": {
-    "name": "夏日优格男发",
-    "hideBaseLayer": false
-  },
-  "m_hair692.png": {
-    "name": "普罗旺斯男发",
-    "hideBaseLayer": false
-  },
-  "m_hair693.png": {
-    "name": "萌叽男发",
-    "hideBaseLayer": false
-  },
-  "m_hair694.png": {
-    "name": "水果硬糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair695.png": {
-    "name": "节日气球男发",
-    "hideBaseLayer": false
-  },
-  "m_hair696.png": {
-    "name": "端午节男发",
-    "hideBaseLayer": false
-  },
-  "m_hair697.png": {
-    "name": "扶桑喵发型",
-    "hideBaseLayer": false
-  },
-  "m_hair698.png": {
-    "name": "紫堇男发",
-    "hideBaseLayer": false
-  },
-  "m_hair699.png": {
-    "name": "魅影男发",
-    "hideBaseLayer": false
-  },
-  "m_hair700.png": {
-    "name": "海盐男发",
-    "hideBaseLayer": false
-  },
-  "m_hair701.png": {
-    "name": "假日沙滩男发",
-    "hideBaseLayer": false
-  },
-  "m_hair702.png": {
-    "name": "红色背带男发",
-    "hideBaseLayer": false
-  },
-  "m_hair703.png": {
-    "name": "鹦鹉男发",
-    "hideBaseLayer": false
-  },
-  "m_hair705.png": {
-    "name": "叮当小兔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair706.png": {
-    "name": "纯色花嫁男发",
-    "hideBaseLayer": false
-  },
-  "m_hair707.png": {
-    "name": "云端男发",
-    "hideBaseLayer": false
-  },
-  "m_hair708.png": {
-    "name": "清新果茶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair709.png": {
-    "name": "香橙蛋糕男发",
-    "hideBaseLayer": false
-  },
-  "m_hair710.png": {
-    "name": "零食男发",
-    "hideBaseLayer": false
-  },
-  "m_hair711.png": {
-    "name": "蓝色海洋男发",
-    "hideBaseLayer": false
-  },
-  "m_hair712.png": {
-    "name": "薄荷小熊男发",
-    "hideBaseLayer": false
-  },
-  "m_hair713.png": {
-    "name": "涂鸦男发",
-    "hideBaseLayer": false
-  },
-  "m_hair714.png": {
-    "name": "劳尔的银发",
-    "hideBaseLayer": false
-  },
-  "m_hair715.png": {
-    "name": "晴天娃娃男发",
-    "hideBaseLayer": false
-  },
-  "m_hair716.png": {
-    "name": "公仔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair717.png": {
-    "name": "夏日旅行记男发",
-    "hideBaseLayer": false
-  },
-  "m_hair718.png": {
-    "name": "掰玉米男发",
-    "hideBaseLayer": false
-  },
-  "m_hair719.png": {
-    "name": "扑克兔男发",
-    "hideBaseLayer": false
-  },
-  "m_hair720.png": {
-    "name": "向日葵小熊男发",
-    "hideBaseLayer": false
-  },
-  "m_hair721.png": {
-    "name": "星星泳圈男发",
-    "hideBaseLayer": false
-  },
-  "m_hair722.png": {
-    "name": "晴空海豚男发",
-    "hideBaseLayer": false
-  },
-  "m_hair723.png": {
-    "name": "星草繁花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair724.png": {
-    "name": "湛蓝花海男发",
-    "hideBaseLayer": false
-  },
-  "m_hair725.png": {
-    "name": "玫瑰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair726.png": {
-    "name": "晴阳男发",
-    "hideBaseLayer": false
-  },
-  "m_hair727.png": {
-    "name": "蓝色玫瑰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair728.png": {
-    "name": "绿藤花男发",
-    "hideBaseLayer": false
-  },
-  "m_hair729.png": {
-    "name": "企鹅水手男发",
-    "hideBaseLayer": false
-  },
-  "m_hair730.png": {
-    "name": "冷凝男发",
-    "hideBaseLayer": false
-  },
-  "m_hair731.png": {
-    "name": "优雅男发",
-    "hideBaseLayer": false
-  },
-  "m_hair732.png": {
-    "name": "蓝色海岸男发",
-    "hideBaseLayer": false
-  },
-  "m_hair733.png": {
-    "name": "绵绵雪糕男发",
-    "hideBaseLayer": false
-  },
-  "m_hair734.png": {
-    "name": "小青蛙男发",
-    "hideBaseLayer": false
-  },
-  "m_hair735.png": {
-    "name": "梦幻婚纱男发",
-    "hideBaseLayer": false
-  },
-  "m_hair736.png": {
-    "name": "水果棒冰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair737.png": {
-    "name": "情书男发",
-    "hideBaseLayer": false
-  },
-  "m_hair738.png": {
-    "name": "深海人鱼男发",
-    "hideBaseLayer": false
-  },
-  "m_hair739.png": {
-    "name": "水果派男发",
-    "hideBaseLayer": false
-  },
-  "m_hair740.png": {
-    "name": "扇舞清云男发",
-    "hideBaseLayer": false
-  },
-  "m_hair741.png": {
-    "name": "兔兔粉男发",
-    "hideBaseLayer": false
-  },
-  "m_hair742.png": {
-    "name": "吖吖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair743.png": {
-    "name": "薄荷冰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair744.png": {
-    "name": "花好月圆男发",
-    "hideBaseLayer": false
-  },
-  "m_hair745.png": {
-    "name": "小蘑菇男发",
-    "hideBaseLayer": false
-  },
-  "m_hair746.png": {
-    "name": "乐柠男发",
-    "hideBaseLayer": false
-  },
-  "m_hair747.png": {
-    "name": "雨神男发",
-    "hideBaseLayer": false
-  },
-  "m_hair748.png": {
-    "name": "海蓝水手男发",
-    "hideBaseLayer": false
-  },
-  "m_hair749.png": {
-    "name": "天妇罗猫猫男发",
-    "hideBaseLayer": false
-  },
-  "m_hair750.png": {
-    "name": "冰蓝玫瑰男发",
-    "hideBaseLayer": false
-  },
-  "m_hair751.png": {
-    "name": "单身汪男发",
-    "hideBaseLayer": false
-  },
-  "m_hair752.png": {
-    "name": "糖果派对男发",
-    "hideBaseLayer": false
-  },
-  "m_hair753.png": {
-    "name": "幸福沙漏男发",
-    "hideBaseLayer": false
-  },
-  "m_hair754.png": {
-    "name": "兔之旅程男发",
-    "hideBaseLayer": false
-  },
-  "m_hair755.png": {
-    "name": "下午茶男发",
-    "hideBaseLayer": false
-  },
-  "m_hair756.png": {
-    "name": "猫咪超市男发",
-    "hideBaseLayer": false
-  },
-  "m_hair757.png": {
-    "name": "砂糖男发",
-    "hideBaseLayer": false
-  },
-  "m_hair758.png": {
-    "name": "霜糖蛋糕男发",
-    "hideBaseLayer": false
-  },
-  "m_hair760.png": {
-    "name": "花漫礼服男发",
-    "hideBaseLayer": false
-  },
-  "m_hair761.png": {
-    "name": "情窦初开男发",
-    "hideBaseLayer": false
-  },
-  "m_hair762.png": {
-    "name": "冷艳贵族男发",
-    "hideBaseLayer": false
-  },
-  "m_hair763.png": {
-    "name": "小恐龙睡衣男发",
-    "hideBaseLayer": false
-  },
-  "m_hair764.png": {
-    "name": "小黄鸡男发",
-    "hideBaseLayer": false
-  },
-  "m_hair765.png": {
-    "name": "星月男发",
-    "hideBaseLayer": false
-  },
-  "m_hair766.png": {
-    "name": "初冬男发",
-    "hideBaseLayer": false
-  },
-  "m_hair767.png": {
-    "name": "企鹅背带裤男发",
-    "hideBaseLayer": false
-  },
-  "m_hair768.png": {
-    "name": "秋日礼盒男发",
-    "hideBaseLayer": false
-  },
-  "m_hair769.png": {
-    "name": "南瓜晚会男发",
-    "hideBaseLayer": false
-  },
-  "m_hair770.png": {
-    "name": "赫赤蝙蝠男发",
-    "hideBaseLayer": false
-  },
-  "m_hair773.png": {
-    "name": "狐丸阴阳师男发",
-    "hideBaseLayer": false
-  },
-  "m_hair774.png": {
-    "name": "暮色森林男发",
-    "hideBaseLayer": false
-  },
-  "m_hair776.png": {
-    "name": "草莓巧克力棒男发",
+  "m_hair936.png": {
+    "name": "纯白礼服男发",
     "hideBaseLayer": false
   },
   "m_hair922.png": {
     "name": "嘻嘻哈哈男发",
     "hideBaseLayer": false
   },
-  "m_hair936.png": {
-    "name": "纯白礼服男发",
+  "m_hair776.png": {
+    "name": "草莓巧克力棒男发",
+    "hideBaseLayer": false
+  },
+  "m_hair774.png": {
+    "name": "暮色森林男发",
+    "hideBaseLayer": false
+  },
+  "m_hair773.png": {
+    "name": "狐丸阴阳师男发",
+    "hideBaseLayer": false
+  },
+  "m_hair770.png": {
+    "name": "赫赤蝙蝠男发",
+    "hideBaseLayer": false
+  },
+  "m_hair769.png": {
+    "name": "南瓜晚会男发",
+    "hideBaseLayer": false
+  },
+  "m_hair768.png": {
+    "name": "秋日礼盒男发",
+    "hideBaseLayer": false
+  },
+  "m_hair767.png": {
+    "name": "企鹅背带裤男发",
+    "hideBaseLayer": false
+  },
+  "m_hair766.png": {
+    "name": "初冬男发",
+    "hideBaseLayer": false
+  },
+  "m_hair765.png": {
+    "name": "星月男发",
+    "hideBaseLayer": false
+  },
+  "m_hair764.png": {
+    "name": "小黄鸡男发",
+    "hideBaseLayer": false
+  },
+  "m_hair763.png": {
+    "name": "小恐龙睡衣男发",
+    "hideBaseLayer": false
+  },
+  "m_hair762.png": {
+    "name": "冷艳贵族男发",
+    "hideBaseLayer": false
+  },
+  "m_hair761.png": {
+    "name": "情窦初开男发",
+    "hideBaseLayer": false
+  },
+  "m_hair760.png": {
+    "name": "花漫礼服男发",
+    "hideBaseLayer": false
+  },
+  "m_hair758.png": {
+    "name": "霜糖蛋糕男发",
+    "hideBaseLayer": false
+  },
+  "m_hair757.png": {
+    "name": "砂糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair756.png": {
+    "name": "猫咪超市男发",
+    "hideBaseLayer": false
+  },
+  "m_hair755.png": {
+    "name": "下午茶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair754.png": {
+    "name": "兔之旅程男发",
+    "hideBaseLayer": false
+  },
+  "m_hair753.png": {
+    "name": "幸福沙漏男发",
+    "hideBaseLayer": false
+  },
+  "m_hair752.png": {
+    "name": "糖果派对男发",
+    "hideBaseLayer": false
+  },
+  "m_hair751.png": {
+    "name": "单身汪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair750.png": {
+    "name": "冰蓝玫瑰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair749.png": {
+    "name": "天妇罗猫猫男发",
+    "hideBaseLayer": false
+  },
+  "m_hair748.png": {
+    "name": "海蓝水手男发",
+    "hideBaseLayer": false
+  },
+  "m_hair747.png": {
+    "name": "雨神男发",
+    "hideBaseLayer": false
+  },
+  "m_hair746.png": {
+    "name": "乐柠男发",
+    "hideBaseLayer": false
+  },
+  "m_hair745.png": {
+    "name": "小蘑菇男发",
+    "hideBaseLayer": false
+  },
+  "m_hair744.png": {
+    "name": "花好月圆男发",
+    "hideBaseLayer": false
+  },
+  "m_hair743.png": {
+    "name": "薄荷冰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair742.png": {
+    "name": "吖吖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair741.png": {
+    "name": "兔兔粉男发",
+    "hideBaseLayer": false
+  },
+  "m_hair740.png": {
+    "name": "扇舞清云男发",
+    "hideBaseLayer": false
+  },
+  "m_hair739.png": {
+    "name": "水果派男发",
+    "hideBaseLayer": false
+  },
+  "m_hair738.png": {
+    "name": "深海人鱼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair737.png": {
+    "name": "情书男发",
+    "hideBaseLayer": false
+  },
+  "m_hair736.png": {
+    "name": "水果棒冰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair735.png": {
+    "name": "梦幻婚纱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair734.png": {
+    "name": "小青蛙男发",
+    "hideBaseLayer": false
+  },
+  "m_hair733.png": {
+    "name": "绵绵雪糕男发",
+    "hideBaseLayer": false
+  },
+  "m_hair732.png": {
+    "name": "蓝色海岸男发",
+    "hideBaseLayer": false
+  },
+  "m_hair731.png": {
+    "name": "优雅男发",
+    "hideBaseLayer": false
+  },
+  "m_hair730.png": {
+    "name": "冷凝男发",
+    "hideBaseLayer": false
+  },
+  "m_hair729.png": {
+    "name": "企鹅水手男发",
+    "hideBaseLayer": false
+  },
+  "m_hair728.png": {
+    "name": "绿藤花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair727.png": {
+    "name": "蓝色玫瑰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair726.png": {
+    "name": "晴阳男发",
+    "hideBaseLayer": false
+  },
+  "m_hair725.png": {
+    "name": "玫瑰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair724.png": {
+    "name": "湛蓝花海男发",
+    "hideBaseLayer": false
+  },
+  "m_hair723.png": {
+    "name": "星草繁花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair722.png": {
+    "name": "晴空海豚男发",
+    "hideBaseLayer": false
+  },
+  "m_hair721.png": {
+    "name": "星星泳圈男发",
+    "hideBaseLayer": false
+  },
+  "m_hair720.png": {
+    "name": "向日葵小熊男发",
+    "hideBaseLayer": false
+  },
+  "m_hair719.png": {
+    "name": "扑克兔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair718.png": {
+    "name": "掰玉米男发",
+    "hideBaseLayer": false
+  },
+  "m_hair717.png": {
+    "name": "夏日旅行记男发",
+    "hideBaseLayer": false
+  },
+  "m_hair716.png": {
+    "name": "公仔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair715.png": {
+    "name": "晴天娃娃男发",
+    "hideBaseLayer": false
+  },
+  "m_hair714.png": {
+    "name": "劳尔的银发",
+    "hideBaseLayer": false
+  },
+  "m_hair713.png": {
+    "name": "涂鸦男发",
+    "hideBaseLayer": false
+  },
+  "m_hair712.png": {
+    "name": "薄荷小熊男发",
+    "hideBaseLayer": false
+  },
+  "m_hair711.png": {
+    "name": "蓝色海洋男发",
+    "hideBaseLayer": false
+  },
+  "m_hair710.png": {
+    "name": "零食男发",
+    "hideBaseLayer": false
+  },
+  "m_hair709.png": {
+    "name": "香橙蛋糕男发",
+    "hideBaseLayer": false
+  },
+  "m_hair708.png": {
+    "name": "清新果茶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair707.png": {
+    "name": "云端男发",
+    "hideBaseLayer": false
+  },
+  "m_hair706.png": {
+    "name": "纯色花嫁男发",
+    "hideBaseLayer": false
+  },
+  "m_hair705.png": {
+    "name": "叮当小兔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair703.png": {
+    "name": "鹦鹉男发",
+    "hideBaseLayer": false
+  },
+  "m_hair702.png": {
+    "name": "红色背带男发",
+    "hideBaseLayer": false
+  },
+  "m_hair701.png": {
+    "name": "假日沙滩男发",
+    "hideBaseLayer": false
+  },
+  "m_hair700.png": {
+    "name": "海盐男发",
+    "hideBaseLayer": false
+  },
+  "m_hair699.png": {
+    "name": "魅影男发",
+    "hideBaseLayer": false
+  },
+  "m_hair698.png": {
+    "name": "紫堇男发",
+    "hideBaseLayer": false
+  },
+  "m_hair697.png": {
+    "name": "扶桑喵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair696.png": {
+    "name": "端午节男发",
+    "hideBaseLayer": false
+  },
+  "m_hair695.png": {
+    "name": "节日气球男发",
+    "hideBaseLayer": false
+  },
+  "m_hair694.png": {
+    "name": "水果硬糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair693.png": {
+    "name": "萌叽男发",
+    "hideBaseLayer": false
+  },
+  "m_hair692.png": {
+    "name": "普罗旺斯男发",
+    "hideBaseLayer": false
+  },
+  "m_hair691.png": {
+    "name": "夏日优格男发",
+    "hideBaseLayer": false
+  },
+  "m_hair689.png": {
+    "name": "方糖咖啡男发",
+    "hideBaseLayer": false
+  },
+  "m_hair688.png": {
+    "name": "旅行热气球男发",
+    "hideBaseLayer": false
+  },
+  "m_hair686.png": {
+    "name": "优雅画框男发",
+    "hideBaseLayer": false
+  },
+  "m_hair685.png": {
+    "name": "薄荷背带男发",
+    "hideBaseLayer": false
+  },
+  "m_hair684.png": {
+    "name": "蛋黄果酱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair683.png": {
+    "name": "软糖果果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair682.png": {
+    "name": "一瞬永恒男发",
+    "hideBaseLayer": false
+  },
+  "m_hair681.png": {
+    "name": "蜜糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair680.png": {
+    "name": "薄荷马甲男发",
+    "hideBaseLayer": false
+  },
+  "m_hair679.png": {
+    "name": "淡色羽翼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair678.png": {
+    "name": "湛蓝心情男发",
+    "hideBaseLayer": false
+  },
+  "m_hair677.png": {
+    "name": "梨花头男",
+    "hideBaseLayer": false
+  },
+  "m_hair676.png": {
+    "name": "可爱背包男发",
+    "hideBaseLayer": false
+  },
+  "m_hair675.png": {
+    "name": "蓝色月光男发",
+    "hideBaseLayer": false
+  },
+  "m_hair674.png": {
+    "name": "星光魔术师男发",
+    "hideBaseLayer": false
+  },
+  "m_hair673.png": {
+    "name": "雨中花园男发",
+    "hideBaseLayer": false
+  },
+  "m_hair672.png": {
+    "name": "星途男发",
+    "hideBaseLayer": false
+  },
+  "m_hair671.png": {
+    "name": "绿芽背带男发",
+    "hideBaseLayer": false
+  },
+  "m_hair670.png": {
+    "name": "街拍少年男发",
+    "hideBaseLayer": false
+  },
+  "m_hair669.png": {
+    "name": "星星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair668.png": {
+    "name": "春萌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair667.png": {
+    "name": "湖蓝初春男发",
+    "hideBaseLayer": false
+  },
+  "m_hair666.png": {
+    "name": "尤克里里男发",
+    "hideBaseLayer": false
+  },
+  "m_hair665.png": {
+    "name": "糖果男孩头发",
+    "hideBaseLayer": false
+  },
+  "m_hair664.png": {
+    "name": "绵绵兔几男发",
+    "hideBaseLayer": false
+  },
+  "m_hair663.png": {
+    "name": "波板糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair662.png": {
+    "name": "岚晶砂糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair661.png": {
+    "name": "星宿使徒男发",
+    "hideBaseLayer": false
+  },
+  "m_hair660.png": {
+    "name": "绅士兔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair659.png": {
+    "name": "魔灵宿主头发",
+    "hideBaseLayer": false
+  },
+  "m_hair658.png": {
+    "name": "草莓蛋糕男发",
+    "hideBaseLayer": false
+  },
+  "m_hair657.png": {
+    "name": "清心泉愿男发",
+    "hideBaseLayer": false
+  },
+  "m_hair656.png": {
+    "name": "纸牌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair655.png": {
+    "name": "蛋糕派对西装男头发",
+    "hideBaseLayer": false
+  },
+  "m_hair654.png": {
+    "name": "森林谜纱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair653.png": {
+    "name": "焦糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair652.png": {
+    "name": "马尔代夫男发",
+    "hideBaseLayer": false
+  },
+  "m_hair651.png": {
+    "name": "纯白之春男发",
+    "hideBaseLayer": false
+  },
+  "m_hair650.png": {
+    "name": "暗夜男发",
+    "hideBaseLayer": false
+  },
+  "m_hair649.png": {
+    "name": "蘑蘑男发",
+    "hideBaseLayer": false
+  },
+  "m_hair648.png": {
+    "name": "喵咪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair647.png": {
+    "name": "春意男发",
+    "hideBaseLayer": false
+  },
+  "m_hair646.png": {
+    "name": "春季凌乱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair645.png": {
+    "name": "粉酥心晴男发",
+    "hideBaseLayer": false
+  },
+  "m_hair644.png": {
+    "name": "学院男发",
+    "hideBaseLayer": false
+  },
+  "m_hair643.png": {
+    "name": "草莓软糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair642.png": {
+    "name": "鲜花球球男发",
+    "hideBaseLayer": false
+  },
+  "m_hair641.png": {
+    "name": "花嫁男发",
+    "hideBaseLayer": false
+  },
+  "m_hair639.png": {
+    "name": "绿萝男发",
+    "hideBaseLayer": false
+  },
+  "m_hair638.png": {
+    "name": "叽叽叽男发",
+    "hideBaseLayer": false
+  },
+  "m_hair637.png": {
+    "name": "泡泡糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair636.png": {
+    "name": "蔓藤男发",
+    "hideBaseLayer": false
+  },
+  "m_hair635.png": {
+    "name": "晴天茶会男发",
+    "hideBaseLayer": false
+  },
+  "m_hair634.png": {
+    "name": "甜点男发",
+    "hideBaseLayer": false
+  },
+  "m_hair633.png": {
+    "name": "玫瑰心语男发",
+    "hideBaseLayer": false
+  },
+  "m_hair632.png": {
+    "name": "倾心紫颜男发",
+    "hideBaseLayer": false
+  },
+  "m_hair631.png": {
+    "name": "十字路口男发",
+    "hideBaseLayer": false
+  },
+  "m_hair630.png": {
+    "name": "花恋蝶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair629.png": {
+    "name": "咔咔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair628.png": {
+    "name": "鸟笼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair627.png": {
+    "name": "水畔蓝花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair626.png": {
+    "name": "草莓软心糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair625.png": {
+    "name": "清爽格子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair624.png": {
+    "name": "梓心糖果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair623.png": {
+    "name": "犬神男发",
+    "hideBaseLayer": false
+  },
+  "m_hair622.png": {
+    "name": "美术课代表男发（橙色）",
+    "hideBaseLayer": false
+  },
+  "m_hair621.png": {
+    "name": "圣诞雪男发（金色）",
+    "hideBaseLayer": false
+  },
+  "m_hair620.png": {
+    "name": "彩虹星星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair619.png": {
+    "name": "小熊蜜糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair618.png": {
+    "name": "软绵绵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair617.png": {
+    "name": "蒙奇奇男发",
+    "hideBaseLayer": false
+  },
+  "m_hair616.png": {
+    "name": "冬日暖阳男发",
+    "hideBaseLayer": false
+  },
+  "m_hair615.png": {
+    "name": "星愿幻梦男发",
+    "hideBaseLayer": false
+  },
+  "m_hair614.png": {
+    "name": "星星糖果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair613.png": {
+    "name": "大叔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair612.png": {
+    "name": "冰晶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair611.png": {
+    "name": "冬日绵绵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair610.png": {
+    "name": "扑克男发",
+    "hideBaseLayer": false
+  },
+  "m_hair609.png": {
+    "name": "欢乐雪花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair608.png": {
+    "name": "海盐宾治男发",
+    "hideBaseLayer": false
+  },
+  "m_hair607.png": {
+    "name": "冬季恋歌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair606.png": {
+    "name": "圣诞雪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair605.png": {
+    "name": "精灵鼠男发",
+    "hideBaseLayer": false
+  },
+  "m_hair604.png": {
+    "name": "薄荷饭团男发",
+    "hideBaseLayer": false
+  },
+  "m_hair603.png": {
+    "name": "雪花蓬蓬男发",
+    "hideBaseLayer": false
+  },
+  "m_hair602.png": {
+    "name": "流星天使男发",
+    "hideBaseLayer": false
+  },
+  "m_hair601.png": {
+    "name": "暖心温泉男发",
+    "hideBaseLayer": false
+  },
+  "m_hair599.png": {
+    "name": "冬雪恋歌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair598.png": {
+    "name": "茸球发啾（男）",
+    "hideBaseLayer": false
+  },
+  "m_hair597.png": {
+    "name": "天使恋之街男发",
+    "hideBaseLayer": false
+  },
+  "m_hair596.png": {
+    "name": "月如歌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair595.png": {
+    "name": "云纱梦舞男发",
+    "hideBaseLayer": false
+  },
+  "m_hair594.png": {
+    "name": "萌兔游乐园男发",
+    "hideBaseLayer": false
+  },
+  "m_hair593.png": {
+    "name": "摇滚小哈男发",
+    "hideBaseLayer": false
+  },
+  "m_hair592.png": {
+    "name": "甜心花园男发",
+    "hideBaseLayer": false
+  },
+  "m_hair591.png": {
+    "name": "天蝎物语男发",
+    "hideBaseLayer": false
+  },
+  "m_hair590.png": {
+    "name": "紫流萤男发",
+    "hideBaseLayer": false
+  },
+  "m_hair589.png": {
+    "name": "昴男发",
+    "hideBaseLayer": false
+  },
+  "m_hair588.png": {
+    "name": "塔纳托斯男发",
+    "hideBaseLayer": false
+  },
+  "m_hair587.png": {
+    "name": "蒂阿兹男发",
+    "hideBaseLayer": false
+  },
+  "m_hair586.png": {
+    "name": "南瓜蔷薇男发",
+    "hideBaseLayer": false
+  },
+  "m_hair585.png": {
+    "name": "蓝莓软糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair584.png": {
+    "name": "游鱼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair583.png": {
+    "name": "咔恰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair582.png": {
+    "name": "捧花少年男发",
+    "hideBaseLayer": false
+  },
+  "m_hair581.png": {
+    "name": "玩偶云朵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair580.png": {
+    "name": "纡朱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair579.png": {
+    "name": "蓝鲸男发",
+    "hideBaseLayer": false
+  },
+  "m_hair578.png": {
+    "name": "天秤星语男发",
+    "hideBaseLayer": false
+  },
+  "m_hair577.png": {
+    "name": "五星红发（男）",
+    "hideBaseLayer": false
+  },
+  "m_hair576.png": {
+    "name": "萌心森林男发",
+    "hideBaseLayer": false
+  },
+  "m_hair575.png": {
+    "name": "瞌睡兔兔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair574.png": {
+    "name": "琉金男发",
+    "hideBaseLayer": false
+  },
+  "m_hair573.png": {
+    "name": "飘逸阴阳师男发",
+    "hideBaseLayer": false
+  },
+  "m_hair572.png": {
+    "name": "玲珑短发",
+    "hideBaseLayer": false
+  },
+  "m_hair571.png": {
+    "name": "元气初秋男发",
+    "hideBaseLayer": false
+  },
+  "m_hair570.png": {
+    "name": "星幻男发",
+    "hideBaseLayer": false
+  },
+  "m_hair569.png": {
+    "name": "暮同酒",
+    "hideBaseLayer": false
+  },
+  "m_hair568.png": {
+    "name": "南北极紫蝶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair567.png": {
+    "name": "南北极星点男发",
+    "hideBaseLayer": false
+  },
+  "m_hair566.png": {
+    "name": "南北极豆豆男发",
+    "hideBaseLayer": false
+  },
+  "m_hair565.png": {
+    "name": "南北极蝶舞男发",
+    "hideBaseLayer": false
+  },
+  "m_hair564.png": {
+    "name": "绿叶小精灵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair563.png": {
+    "name": "美术课代表男发",
+    "hideBaseLayer": false
+  },
+  "m_hair562.png": {
+    "name": "冰柠橘子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair561.png": {
+    "name": "蓝天男发",
+    "hideBaseLayer": false
+  },
+  "m_hair560.png": {
+    "name": "柯基男发",
+    "hideBaseLayer": false
+  },
+  "m_hair559.png": {
+    "name": "糖心蜜果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair558.png": {
+    "name": "梦幻星空男发",
+    "hideBaseLayer": false
+  },
+  "m_hair557.png": {
+    "name": "百鬼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair556.png": {
+    "name": "水果派对男发",
+    "hideBaseLayer": false
+  },
+  "m_hair555.png": {
+    "name": "气球喵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair554.png": {
+    "name": "晨星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair553.png": {
+    "name": "流光飞舞男发",
+    "hideBaseLayer": false
+  },
+  "m_hair552.png": {
+    "name": "瑰丽乐园男发",
+    "hideBaseLayer": false
+  },
+  "m_hair551.png": {
+    "name": "鹏游蝶梦男发",
+    "hideBaseLayer": false
+  },
+  "m_hair550.png": {
+    "name": "波斯男发",
+    "hideBaseLayer": false
+  },
+  "m_hair549.png": {
+    "name": "一起兜兜风男发",
+    "hideBaseLayer": false
+  },
+  "m_hair548.png": {
+    "name": "笛乐男发",
+    "hideBaseLayer": false
+  },
+  "m_hair547.png": {
+    "name": "花样男孩男发",
+    "hideBaseLayer": false
+  },
+  "m_hair546.png": {
+    "name": "清晨林间男发",
+    "hideBaseLayer": false
+  },
+  "m_hair545.png": {
+    "name": "春风男发",
+    "hideBaseLayer": false
+  },
+  "m_hair544.png": {
+    "name": "仙鹿男发",
+    "hideBaseLayer": false
+  },
+  "m_hair543.png": {
+    "name": "迪路的金发",
+    "hideBaseLayer": false
+  },
+  "m_hair542.png": {
+    "name": "静谧男发",
+    "hideBaseLayer": false
+  },
+  "m_hair541.png": {
+    "name": "月明星稀男发",
+    "hideBaseLayer": false
+  },
+  "m_hair540.png": {
+    "name": "阳光海豚男发",
+    "hideBaseLayer": false
+  },
+  "m_hair539.png": {
+    "name": "海洋泡沫男发",
+    "hideBaseLayer": false
+  },
+  "m_hair538.png": {
+    "name": "金色闪闪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair537.png": {
+    "name": "萌星星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair536.png": {
+    "name": "晴云男发",
+    "hideBaseLayer": false
+  },
+  "m_hair535.png": {
+    "name": "花季海洋男发",
+    "hideBaseLayer": false
+  },
+  "m_hair534.png": {
+    "name": "栗栗熊熊男发",
+    "hideBaseLayer": false
+  },
+  "m_hair533.png": {
+    "name": "初夏冰冰恋男发",
+    "hideBaseLayer": false
+  },
+  "m_hair532.png": {
+    "name": "红茶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair531.png": {
+    "name": "蓝星粉粉男发",
+    "hideBaseLayer": false
+  },
+  "m_hair530.png": {
+    "name": "薄荷香草男发",
+    "hideBaseLayer": false
+  },
+  "m_hair529.png": {
+    "name": "去春游男发",
+    "hideBaseLayer": false
+  },
+  "m_hair528.png": {
+    "name": "乐高小象男发",
+    "hideBaseLayer": false
+  },
+  "m_hair527.png": {
+    "name": "银霜男发",
+    "hideBaseLayer": false
+  },
+  "m_hair526.png": {
+    "name": "衣袂男发",
+    "hideBaseLayer": false
+  },
+  "m_hair525.png": {
+    "name": "紫藤男发",
+    "hideBaseLayer": false
+  },
+  "m_hair524.png": {
+    "name": "听花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair523.png": {
+    "name": "偃柳男发",
+    "hideBaseLayer": false
+  },
+  "m_hair522.png": {
+    "name": "清灵荷韵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair521.png": {
+    "name": "企鹅礼服男发",
+    "hideBaseLayer": false
+  },
+  "m_hair520.png": {
+    "name": "时镇男发",
+    "hideBaseLayer": false
+  },
+  "m_hair519.png": {
+    "name": "棉花糖男发",
+    "hideBaseLayer": false
+  },
+  "m_hair518.png": {
+    "name": "满天星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair517.png": {
+    "name": "木之本学长男发",
+    "hideBaseLayer": false
+  },
+  "m_hair516.png": {
+    "name": "茶发男孩",
+    "hideBaseLayer": false
+  },
+  "m_hair515.png": {
+    "name": "紫樱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair514.png": {
+    "name": "路人甲学长",
+    "hideBaseLayer": false
+  },
+  "m_hair513.png": {
+    "name": "阿修罗的噩梦",
+    "hideBaseLayer": false
+  },
+  "m_hair512.png": {
+    "name": "紫色喵喵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair511.png": {
+    "name": "灰色泡沫",
+    "hideBaseLayer": false
+  },
+  "m_hair510.png": {
+    "name": "士兵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair509.png": {
+    "name": "樱之男巫发型",
+    "hideBaseLayer": false
+  },
+  "m_hair508.png": {
+    "name": "紫夜歌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair507.png": {
+    "name": "撒豆鬼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair506.png": {
+    "name": "木荷男发",
+    "hideBaseLayer": false
+  },
+  "m_hair505.png": {
+    "name": "懒懒熊男发",
+    "hideBaseLayer": false
+  },
+  "m_hair504.png": {
+    "name": "魔士发型",
+    "hideBaseLayer": false
+  },
+  "m_hair503.png": {
+    "name": "莉紫男发",
+    "hideBaseLayer": false
+  },
+  "m_hair502.png": {
+    "name": "骷髅红莲男发",
+    "hideBaseLayer": false
+  },
+  "m_hair501.png": {
+    "name": "紫梦纱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair500.png": {
+    "name": "橘子汽水男发",
+    "hideBaseLayer": false
+  },
+  "m_hair499.png": {
+    "name": "香檬汪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair498.png": {
+    "name": "月光骑士发型",
+    "hideBaseLayer": false
+  },
+  "m_hair497.png": {
+    "name": "朝阳公子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair496.png": {
+    "name": "约瑟夫克尔",
+    "hideBaseLayer": false
+  },
+  "m_hair495.png": {
+    "name": "然然魔法使男发",
+    "hideBaseLayer": false
+  },
+  "m_hair494.png": {
+    "name": "墨镜马甲短发",
+    "hideBaseLayer": false
+  },
+  "m_hair493.png": {
+    "name": "清凉T短发",
+    "hideBaseLayer": false
+  },
+  "m_hair492.png": {
+    "name": "牛仔蓝发型",
+    "hideBaseLayer": false
+  },
+  "m_hair491.png": {
+    "name": "红意男发",
+    "hideBaseLayer": false
+  },
+  "m_hair490.png": {
+    "name": "清凉短发",
+    "hideBaseLayer": false
+  },
+  "m_hair489.png": {
+    "name": "淡花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair488.png": {
+    "name": "蓝领结发型",
+    "hideBaseLayer": false
+  },
+  "m_hair487.png": {
+    "name": "紫爵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair486.png": {
+    "name": "蓝爵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair485.png": {
+    "name": "金色贵公子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair484.png": {
+    "name": "绿色男发",
+    "hideBaseLayer": false
+  },
+  "m_hair483.png": {
+    "name": "雅米男发",
+    "hideBaseLayer": false
+  },
+  "m_hair482.png": {
+    "name": "栗子曲奇男发",
+    "hideBaseLayer": false
+  },
+  "m_hair481.png": {
+    "name": "心情男发",
+    "hideBaseLayer": false
+  },
+  "m_hair480.png": {
+    "name": "宫廷礼服男发",
+    "hideBaseLayer": false
+  },
+  "m_hair479.png": {
+    "name": "玻璃糖纸男发",
+    "hideBaseLayer": false
+  },
+  "m_hair478.png": {
+    "name": "绿锦鲤男发",
+    "hideBaseLayer": false
+  },
+  "m_hair477.png": {
+    "name": "锦葵紫男发",
+    "hideBaseLayer": false
+  },
+  "m_hair476.png": {
+    "name": "心舞会男发",
+    "hideBaseLayer": false
+  },
+  "m_hair475.png": {
+    "name": "战争之王S3男发",
+    "hideBaseLayer": false
+  },
+  "m_hair474.png": {
+    "name": "猴猴暖冬男发",
+    "hideBaseLayer": false
+  },
+  "m_hair473.png": {
+    "name": "虎斑喵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair472.png": {
+    "name": "魅影男发",
+    "hideBaseLayer": false
+  },
+  "m_hair471.png": {
+    "name": "恶魔魔幻男发",
+    "hideBaseLayer": false
+  },
+  "m_hair470.png": {
+    "name": "草莓蜜糖派男发",
+    "hideBaseLayer": false
+  },
+  "m_hair469.png": {
+    "name": "斗篷男发",
+    "hideBaseLayer": false
+  },
+  "m_hair468.png": {
+    "name": "波比兔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair467.png": {
+    "name": "阿斯洛",
+    "hideBaseLayer": false
+  },
+  "m_hair466.png": {
+    "name": "青柠装男发",
+    "hideBaseLayer": false
+  },
+  "m_hair465.png": {
+    "name": "果茶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair464.png": {
+    "name": "冰冻之心男发",
+    "hideBaseLayer": false
+  },
+  "m_hair463.png": {
+    "name": "巧克力糖果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair462.png": {
+    "name": "新年小斗篷男发",
+    "hideBaseLayer": false
+  },
+  "m_hair461.png": {
+    "name": "蓝白男发",
+    "hideBaseLayer": false
+  },
+  "m_hair460.png": {
+    "name": "蓝色男发",
+    "hideBaseLayer": false
+  },
+  "m_hair459.png": {
+    "name": "红果果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair458.png": {
+    "name": "圣诞冬意男发",
+    "hideBaseLayer": false
+  },
+  "m_hair457.png": {
+    "name": "庭院疯帽子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair456.png": {
+    "name": "蓝魅男发",
+    "hideBaseLayer": false
+  },
+  "m_hair455.png": {
+    "name": "水手服发型",
+    "hideBaseLayer": false
+  },
+  "m_hair454.png": {
+    "name": "青竹发型",
+    "hideBaseLayer": false
+  },
+  "m_hair453.png": {
+    "name": "黑色燕尾服男发",
+    "hideBaseLayer": false
+  },
+  "m_hair452.png": {
+    "name": "魅族男发",
+    "hideBaseLayer": false
+  },
+  "m_hair451.png": {
+    "name": "古典深秋男发",
+    "hideBaseLayer": false
+  },
+  "m_hair450.png": {
+    "name": "银蓝色男发",
+    "hideBaseLayer": false
+  },
+  "m_hair449.png": {
+    "name": "俏皮男发",
+    "hideBaseLayer": false
+  },
+  "m_hair448.png": {
+    "name": "拜占庭男发",
+    "hideBaseLayer": false
+  },
+  "m_hair447.png": {
+    "name": "水母男发",
+    "hideBaseLayer": false
+  },
+  "m_hair446.png": {
+    "name": "白发微卷",
+    "hideBaseLayer": false
+  },
+  "m_hair445.png": {
+    "name": "狛枝凪斗白发",
+    "hideBaseLayer": false
+  },
+  "m_hair444.png": {
+    "name": "凤蝶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair443.png": {
+    "name": "早秋背心男发",
+    "hideBaseLayer": false
+  },
+  "m_hair442.png": {
+    "name": "彩虹羊男发",
+    "hideBaseLayer": false
+  },
+  "m_hair441.png": {
+    "name": "琉月男发",
+    "hideBaseLayer": false
+  },
+  "m_hair440.png": {
+    "name": "叮当男发",
+    "hideBaseLayer": false
+  },
+  "m_hair439.png": {
+    "name": "神隐男发",
+    "hideBaseLayer": false
+  },
+  "m_hair438.png": {
+    "name": "蓝冰发型",
+    "hideBaseLayer": false
+  },
+  "m_hair437.png": {
+    "name": "孤傲战士发型",
+    "hideBaseLayer": false
+  },
+  "m_hair436.png": {
+    "name": "拼色男发",
+    "hideBaseLayer": false
+  },
+  "m_hair435.png": {
+    "name": "七花男发",
+    "hideBaseLayer": false
+  },
+  "m_hair433.png": {
+    "name": "坠天使男发",
+    "hideBaseLayer": false
+  },
+  "m_hair432.png": {
+    "name": "阿尔法男发",
+    "hideBaseLayer": false
+  },
+  "m_hair430.png": {
+    "name": "蓝色心情",
+    "hideBaseLayer": false
+  },
+  "m_hair429.png": {
+    "name": "南瓜王子发型",
+    "hideBaseLayer": false
+  },
+  "m_hair428.png": {
+    "name": "AH婚礼红毯男发",
+    "hideBaseLayer": false
+  },
+  "m_hair427.png": {
+    "name": "学院派舞会男发",
+    "hideBaseLayer": false
+  },
+  "m_hair426.png": {
+    "name": "小巷男孩男发",
+    "hideBaseLayer": false
+  },
+  "m_hair425.png": {
+    "name": "星际王者银发",
+    "hideBaseLayer": false
+  },
+  "m_hair424.png": {
+    "name": "小王子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair423.png": {
+    "name": "旋转木马男发",
+    "hideBaseLayer": false
+  },
+  "m_hair422.png": {
+    "name": "蓝企鹅男发",
+    "hideBaseLayer": false
+  },
+  "m_hair421.png": {
+    "name": "蓝颜知己男发",
+    "hideBaseLayer": false
+  },
+  "m_hair420.png": {
+    "name": "大灰狼连帽短发",
+    "hideBaseLayer": false
+  },
+  "m_hair419.png": {
+    "name": "大灰狼头发",
+    "hideBaseLayer": false
+  },
+  "m_hair418.png": {
+    "name": "黑喵物语男发",
+    "hideBaseLayer": false
+  },
+  "m_hair417.png": {
+    "name": "花月男发",
+    "hideBaseLayer": false
+  },
+  "m_hair416.png": {
+    "name": "翠湖约会男发",
+    "hideBaseLayer": false
+  },
+  "m_hair415.png": {
+    "name": "小狸猫正太男发",
+    "hideBaseLayer": false
+  },
+  "m_hair414.png": {
+    "name": "荧星绿发",
+    "hideBaseLayer": false
+  },
+  "m_hair413.png": {
+    "name": "苗木校服男发",
+    "hideBaseLayer": false
+  },
+  "m_hair412.png": {
+    "name": "假面男发",
+    "hideBaseLayer": false
+  },
+  "m_hair411.png": {
+    "name": "冷酷校草",
+    "hideBaseLayer": false
+  },
+  "m_hair410.png": {
+    "name": "糖果男发",
+    "hideBaseLayer": false
+  },
+  "m_hair409.png": {
+    "name": "星缘国王",
+    "hideBaseLayer": false
+  },
+  "m_hair408.png": {
+    "name": "夜狼男发",
+    "hideBaseLayer": false
+  },
+  "m_hair407.png": {
+    "name": "沉默飘零男发",
+    "hideBaseLayer": false
+  },
+  "m_hair406.png": {
+    "name": "蓝天发型",
+    "hideBaseLayer": false
+  },
+  "m_hair405.png": {
+    "name": "夜谭男发",
+    "hideBaseLayer": false
+  },
+  "m_hair404.png": {
+    "name": "嘻哈男发",
+    "hideBaseLayer": false
+  },
+  "m_hair403.png": {
+    "name": "阳光船长男发",
+    "hideBaseLayer": false
+  },
+  "m_hair402.png": {
+    "name": "莱迪迪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair401.png": {
+    "name": "魔法骑士",
+    "hideBaseLayer": false
+  },
+  "m_hair400.png": {
+    "name": "有匪君子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair399.png": {
+    "name": "菠萝男发",
+    "hideBaseLayer": false
+  },
+  "m_hair398.png": {
+    "name": "暗喵水手男发",
+    "hideBaseLayer": false
+  },
+  "m_hair397.png": {
+    "name": "蔚蓝海岸卷发",
+    "hideBaseLayer": false
+  },
+  "m_hair396.png": {
+    "name": "悠悠一夏男发",
+    "hideBaseLayer": false
+  },
+  "m_hair395.png": {
+    "name": "冰镇西瓜男发",
+    "hideBaseLayer": false
+  },
+  "m_hair394.png": {
+    "name": "花样韶华",
+    "hideBaseLayer": false
+  },
+  "m_hair393.png": {
+    "name": "战争之王S2男发",
+    "hideBaseLayer": false
+  },
+  "m_hair392.png": {
+    "name": "炫彩青柠",
+    "hideBaseLayer": false
+  },
+  "m_hair391.png": {
+    "name": "不羁色彩",
+    "hideBaseLayer": false
+  },
+  "m_hair390.png": {
+    "name": "盛夏风情男发",
+    "hideBaseLayer": false
+  },
+  "m_hair389.png": {
+    "name": "暗金流彩发型",
+    "hideBaseLayer": false
+  },
+  "m_hair388.png": {
+    "name": "妖冶明星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair387.png": {
+    "name": "楚辞望江男发",
+    "hideBaseLayer": false
+  },
+  "m_hair386.png": {
+    "name": "酒醉探戈男发",
+    "hideBaseLayer": false
+  },
+  "m_hair385.png": {
+    "name": "翩翩少年男发",
+    "hideBaseLayer": false
+  },
+  "m_hair384.png": {
+    "name": "魅蓝骑士男发",
+    "hideBaseLayer": false
+  },
+  "m_hair383.png": {
+    "name": "功夫学院男发",
+    "hideBaseLayer": false
+  },
+  "m_hair382.png": {
+    "name": "背带男孩发型",
+    "hideBaseLayer": false
+  },
+  "m_hair381.png": {
+    "name": "春樱海滩男发",
+    "hideBaseLayer": false
+  },
+  "m_hair380.png": {
+    "name": "长歌流沙男发",
+    "hideBaseLayer": false
+  },
+  "m_hair379.png": {
+    "name": "灵风男发",
+    "hideBaseLayer": false
+  },
+  "m_hair378.png": {
+    "name": "狂野魔法师男发",
+    "hideBaseLayer": false
+  },
+  "m_hair377.png": {
+    "name": "氧气男发",
+    "hideBaseLayer": false
+  },
+  "m_hair376.png": {
+    "name": "DJ少年男发",
+    "hideBaseLayer": false
+  },
+  "m_hair375.png": {
+    "name": "帅气男神发型",
+    "hideBaseLayer": false
+  },
+  "m_hair374.png": {
+    "name": "快乐春游男发",
+    "hideBaseLayer": false
+  },
+  "m_hair373.png": {
+    "name": "樱桃红红男发",
+    "hideBaseLayer": false
+  },
+  "m_hair372.png": {
+    "name": "战争之王男发",
+    "hideBaseLayer": false
+  },
+  "m_hair371.png": {
+    "name": "温雅男爵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair370.png": {
+    "name": "完美新郎男发",
+    "hideBaseLayer": false
+  },
+  "m_hair369.png": {
+    "name": "穿越爱恋男发",
+    "hideBaseLayer": false
+  },
+  "m_hair368.png": {
+    "name": "汤圆约会男发",
+    "hideBaseLayer": false
+  },
+  "m_hair367.png": {
+    "name": "次元冷萌男发",
+    "hideBaseLayer": false
+  },
+  "m_hair366.png": {
+    "name": "卷福美发",
+    "hideBaseLayer": false
+  },
+  "m_hair365.png": {
+    "name": "潘达王子",
+    "hideBaseLayer": false
+  },
+  "m_hair364.png": {
+    "name": "童话布偶",
+    "hideBaseLayer": false
+  },
+  "m_hair363.png": {
+    "name": "灰色猫咪发型",
+    "hideBaseLayer": false
+  },
+  "m_hair362.png": {
+    "name": "青春无敌",
+    "hideBaseLayer": false
+  },
+  "m_hair361.png": {
+    "name": "古堡王子",
+    "hideBaseLayer": false
+  },
+  "m_hair360.png": {
+    "name": "世纪之恋",
+    "hideBaseLayer": false
+  },
+  "m_hair359.png": {
+    "name": "叶知秋",
+    "hideBaseLayer": false
+  },
+  "m_hair358.png": {
+    "name": "爱的罗密欧",
+    "hideBaseLayer": false
+  },
+  "m_hair357.png": {
+    "name": "暮光男爵",
+    "hideBaseLayer": false
+  },
+  "m_hair356.png": {
+    "name": "星光",
+    "hideBaseLayer": false
+  },
+  "m_hair355.png": {
+    "name": "青葱短发",
+    "hideBaseLayer": false
+  },
+  "m_hair354.png": {
+    "name": "圣诞男发",
+    "hideBaseLayer": false
+  },
+  "m_hair353.png": {
+    "name": "成长烦恼",
+    "hideBaseLayer": false
+  },
+  "m_hair352.png": {
+    "name": "丹麦男发",
+    "hideBaseLayer": false
+  },
+  "m_hair351.png": {
+    "name": "银光男发",
+    "hideBaseLayer": false
+  },
+  "m_hair350.png": {
+    "name": "青青子衿",
+    "hideBaseLayer": false
+  },
+  "m_hair349.png": {
+    "name": "暖冬机灵猴",
+    "hideBaseLayer": false
+  },
+  "m_hair348.png": {
+    "name": "流光溢彩",
+    "hideBaseLayer": false
+  },
+  "m_hair347.png": {
+    "name": "绅士的信仰",
+    "hideBaseLayer": false
+  },
+  "m_hair346.png": {
+    "name": "自由飞翔",
+    "hideBaseLayer": false
+  },
+  "m_hair345.png": {
+    "name": "辛劳花匠",
+    "hideBaseLayer": false
+  },
+  "m_hair344.png": {
+    "name": "南瓜少年",
+    "hideBaseLayer": false
+  },
+  "m_hair343.png": {
+    "name": "黑喵骑士",
+    "hideBaseLayer": false
+  },
+  "m_hair342.png": {
+    "name": "青涩少年",
+    "hideBaseLayer": false
+  },
+  "m_hair341.png": {
+    "name": "恶魔烙印",
+    "hideBaseLayer": false
+  },
+  "m_hair340.png": {
+    "name": "蝙蝠君主",
+    "hideBaseLayer": false
+  },
+  "m_hair339.png": {
+    "name": "流浪碎发",
+    "hideBaseLayer": false
+  },
+  "m_hair338.png": {
+    "name": "一叶发型",
+    "hideBaseLayer": false
+  },
+  "m_hair337.png": {
+    "name": "糖果喵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair336.png": {
+    "name": "酷炫达人",
+    "hideBaseLayer": false
+  },
+  "m_hair335.png": {
+    "name": "蓝梦少年",
+    "hideBaseLayer": false
+  },
+  "m_hair334.png": {
+    "name": "星辰之光",
+    "hideBaseLayer": false
+  },
+  "m_hair333.png": {
+    "name": "芭芭拉韩式直发",
+    "hideBaseLayer": false
+  },
+  "m_hair332.png": {
+    "name": "法式风情",
+    "hideBaseLayer": false
+  },
+  "m_hair331.png": {
+    "name": "阿里巴巴发型",
+    "hideBaseLayer": false
+  },
+  "m_hair330.png": {
+    "name": "诚发型",
+    "hideBaseLayer": false
+  },
+  "m_hair329.png": {
+    "name": "恋爱季节",
+    "hideBaseLayer": false
+  },
+  "m_hair328.png": {
+    "name": "奶油啵啵",
+    "hideBaseLayer": false
+  },
+  "m_hair327.png": {
+    "name": "月白琉璃",
+    "hideBaseLayer": false
+  },
+  "m_hair326.png": {
+    "name": "夏日无尽",
+    "hideBaseLayer": false
+  },
+  "m_hair325.png": {
+    "name": "深情曼陀罗",
+    "hideBaseLayer": false
+  },
+  "m_hair324.png": {
+    "name": "秘之少年",
+    "hideBaseLayer": false
+  },
+  "m_hair323.png": {
+    "name": "蓝小呆",
+    "hideBaseLayer": false
+  },
+  "m_hair322.png": {
+    "name": "暖阳初秋",
+    "hideBaseLayer": false
+  },
+  "m_hair321.png": {
+    "name": "成熟型男",
+    "hideBaseLayer": false
+  },
+  "m_hair320.png": {
+    "name": "铃兰高中",
+    "hideBaseLayer": false
+  },
+  "m_hair319.png": {
+    "name": "热浪沙滩秀",
+    "hideBaseLayer": false
+  },
+  "m_hair318.png": {
+    "name": "金风秋华",
+    "hideBaseLayer": false
+  },
+  "m_hair317.png": {
+    "name": "浪漫维她命",
+    "hideBaseLayer": false
+  },
+  "m_hair316.png": {
+    "name": "碧海银发",
+    "hideBaseLayer": false
+  },
+  "m_hair315.png": {
+    "name": "童梦无忧",
+    "hideBaseLayer": false
+  },
+  "m_hair314.png": {
+    "name": "英伦时尚男发",
+    "hideBaseLayer": false
+  },
+  "m_hair313.png": {
+    "name": "玫瑰心语",
+    "hideBaseLayer": false
+  },
+  "m_hair312.png": {
+    "name": "星梦王子短发",
+    "hideBaseLayer": false
+  },
+  "m_hair311.png": {
+    "name": "仙侠情缘长发",
+    "hideBaseLayer": false
+  },
+  "m_hair310.png": {
+    "name": "仙风道骨",
+    "hideBaseLayer": false
+  },
+  "m_hair309.png": {
+    "name": "美国男发型",
+    "hideBaseLayer": false
+  },
+  "m_hair308.png": {
+    "name": "天涯挽歌",
+    "hideBaseLayer": false
+  },
+  "m_hair307.png": {
+    "name": "六月的饭团",
+    "hideBaseLayer": false
+  },
+  "m_hair306.png": {
+    "name": "新手男发",
+    "hideBaseLayer": false
+  },
+  "m_hair305.png": {
+    "name": "飘零若雪",
+    "hideBaseLayer": false
+  },
+  "m_hair304.png": {
+    "name": "布偶小熊",
+    "hideBaseLayer": false
+  },
+  "m_hair303.png": {
+    "name": "傲骨仙风发带",
+    "hideBaseLayer": false
+  },
+  "m_hair302.png": {
+    "name": "旅人发型",
+    "hideBaseLayer": false
+  },
+  "m_hair301.png": {
+    "name": "逆光飞翔",
+    "hideBaseLayer": false
+  },
+  "m_hair300.png": {
+    "name": "地狱男爵",
+    "hideBaseLayer": false
+  },
+  "m_hair299.png": {
+    "name": "半夏脸谱男发",
+    "hideBaseLayer": false
+  },
+  "m_hair298.png": {
+    "name": "宝石蓝王子男发",
+    "hideBaseLayer": false
+  },
+  "m_hair297.png": {
+    "name": "俏皮绅士男发",
+    "hideBaseLayer": false
+  },
+  "m_hair296.png": {
+    "name": "练白龙发型",
+    "hideBaseLayer": false
+  },
+  "m_hair295.png": {
+    "name": "僵尸男发",
+    "hideBaseLayer": false
+  },
+  "m_hair294.png": {
+    "name": "榛果发型",
+    "hideBaseLayer": false
+  },
+  "m_hair293.png": {
+    "name": "藏蓝男发",
+    "hideBaseLayer": false
+  },
+  "m_hair292.png": {
+    "name": "巧克力慕斯发型",
+    "hideBaseLayer": false
+  },
+  "m_hair291.png": {
+    "name": "游游小鱼",
+    "hideBaseLayer": false
+  },
+  "m_hair290.png": {
+    "name": "小恶魔男发",
+    "hideBaseLayer": false
+  },
+  "m_hair289.png": {
+    "name": "星星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair288.png": {
+    "name": "白色薄荷发型",
+    "hideBaseLayer": false
+  },
+  "m_hair287.png": {
+    "name": "玄冰发型",
+    "hideBaseLayer": false
+  },
+  "m_hair286.png": {
+    "name": "洛可可男发",
+    "hideBaseLayer": false
+  },
+  "m_hair285.png": {
+    "name": "雾霭男发",
+    "hideBaseLayer": false
+  },
+  "m_hair284.png": {
+    "name": "丰收祭祀男发",
+    "hideBaseLayer": false
+  },
+  "m_hair283.png": {
+    "name": "指挥家发型",
+    "hideBaseLayer": false
+  },
+  "m_hair282.png": {
+    "name": "魔法兔发型",
+    "hideBaseLayer": false
+  },
+  "m_hair281.png": {
+    "name": "奶黄包",
+    "hideBaseLayer": false
+  },
+  "m_hair280.png": {
+    "name": "嘉士派",
+    "hideBaseLayer": false
+  },
+  "m_hair277.png": {
+    "name": "冬袄金发",
+    "hideBaseLayer": false
+  },
+  "m_hair276.png": {
+    "name": "冰蓝星辰发型",
+    "hideBaseLayer": false
+  },
+  "m_hair275.png": {
+    "name": "叮咚发型",
+    "hideBaseLayer": false
+  },
+  "m_hair274.png": {
+    "name": "浅金男型",
+    "hideBaseLayer": false
+  },
+  "m_hair273.png": {
+    "name": "青璃发型",
+    "hideBaseLayer": false
+  },
+  "m_hair272.png": {
+    "name": "冰雪男发",
+    "hideBaseLayer": false
+  },
+  "m_hair271.png": {
+    "name": "碎冰银发",
+    "hideBaseLayer": false
+  },
+  "m_hair270.png": {
+    "name": "星河银发",
+    "hideBaseLayer": false
+  },
+  "m_hair269.png": {
+    "name": "摇滚巨星男发",
+    "hideBaseLayer": false
+  },
+  "m_hair268.png": {
+    "name": "恶魔长发",
+    "hideBaseLayer": false
+  },
+  "m_hair267.png": {
+    "name": "桐人发型",
+    "hideBaseLayer": false
+  },
+  "m_hair266.png": {
+    "name": "闲逸发型",
+    "hideBaseLayer": false
+  },
+  "m_hair265.png": {
+    "name": "星星金发",
+    "hideBaseLayer": false
+  },
+  "m_hair264.png": {
+    "name": "兰草发型",
+    "hideBaseLayer": false
+  },
+  "m_hair263.png": {
+    "name": "银发马尾",
+    "hideBaseLayer": false
+  },
+  "m_hair262.png": {
+    "name": "萌犬金发",
+    "hideBaseLayer": false
+  },
+  "m_hair261.png": {
+    "name": "冥幽短发",
+    "hideBaseLayer": false
+  },
+  "m_hair260.png": {
+    "name": "青葱岁月",
+    "hideBaseLayer": false
+  },
+  "m_hair259.png": {
+    "name": "青雪银发",
+    "hideBaseLayer": false
+  },
+  "m_hair258.png": {
+    "name": "云隐发型",
+    "hideBaseLayer": false
+  },
+  "m_hair257.png": {
+    "name": "艳阳发型",
+    "hideBaseLayer": false
+  },
+  "m_hair256.png": {
+    "name": "盛夏泳圈发型",
+    "hideBaseLayer": false
+  },
+  "m_hair255.png": {
+    "name": "黑礼服长发",
+    "hideBaseLayer": false
+  },
+  "m_hair254.png": {
+    "name": "新区男装发型",
+    "hideBaseLayer": false
+  },
+  "m_hair253.png": {
+    "name": "沐雨学士发型",
+    "hideBaseLayer": false
+  },
+  "m_hair252.png": {
+    "name": "仁太发型",
+    "hideBaseLayer": false
+  },
+  "m_hair251.png": {
+    "name": "匹诺曹",
+    "hideBaseLayer": false
+  },
+  "m_hair250.png": {
+    "name": "漆原半藏",
+    "hideBaseLayer": false
+  },
+  "m_hair249.png": {
+    "name": "多拿滋发型",
+    "hideBaseLayer": false
+  },
+  "m_hair248.png": {
+    "name": "幽墨绿藻",
+    "hideBaseLayer": false
+  },
+  "m_hair247.png": {
+    "name": "花轮卷发",
+    "hideBaseLayer": false
+  },
+  "m_hair246.png": {
+    "name": "薄荷短发",
+    "hideBaseLayer": false
+  },
+  "m_hair245.png": {
+    "name": "云雀发型",
+    "hideBaseLayer": false
+  },
+  "m_hair244.png": {
+    "name": "金灿灿发型",
+    "hideBaseLayer": false
+  },
+  "m_hair243.png": {
+    "name": "法式男发",
+    "hideBaseLayer": false
+  },
+  "m_hair242.png": {
+    "name": "清凉盛夏男发",
+    "hideBaseLayer": false
+  },
+  "m_hair241.png": {
+    "name": "斗篷喵星人发型",
+    "hideBaseLayer": false
+  },
+  "m_hair240.png": {
+    "name": "夏日蔚蓝发型",
+    "hideBaseLayer": false
+  },
+  "m_hair239.png": {
+    "name": "秋叶源男发",
+    "hideBaseLayer": false
+  },
+  "m_hair238.png": {
+    "name": "澳大利亚男发",
+    "hideBaseLayer": false
+  },
+  "m_hair237.png": {
+    "name": "幸运四叶草发型",
+    "hideBaseLayer": false
+  },
+  "m_hair236.png": {
+    "name": "书生发髻",
+    "hideBaseLayer": false
+  },
+  "m_hair235.png": {
+    "name": "天使卷发",
+    "hideBaseLayer": false
+  },
+  "m_hair234.png": {
+    "name": "加拿大男发",
+    "hideBaseLayer": false
+  },
+  "m_hair233.png": {
+    "name": "幽蓝梦魇发型",
+    "hideBaseLayer": false
+  },
+  "m_hair232.png": {
+    "name": "布偶男发",
+    "hideBaseLayer": false
+  },
+  "m_hair231.png": {
+    "name": "泰式男发",
+    "hideBaseLayer": false
+  },
+  "m_hair230.png": {
+    "name": "兔先生金发",
+    "hideBaseLayer": false
+  },
+  "m_hair229.png": {
+    "name": "万圣节礼赞发型",
+    "hideBaseLayer": false
+  },
+  "m_hair228.png": {
+    "name": "巴西男发",
+    "hideBaseLayer": false
+  },
+  "m_hair227.png": {
+    "name": "翘翘猫先生",
+    "hideBaseLayer": false
+  },
+  "m_hair226.png": {
+    "name": "枫叶红发",
+    "hideBaseLayer": false
+  },
+  "m_hair225.png": {
+    "name": "新星男孩",
+    "hideBaseLayer": false
+  },
+  "m_hair224.png": {
+    "name": "百炼成仙男发",
+    "hideBaseLayer": false
+  },
+  "m_hair223.png": {
+    "name": "冬雪发型",
+    "hideBaseLayer": false
+  },
+  "m_hair222.png": {
+    "name": "埃及男发",
+    "hideBaseLayer": false
+  },
+  "m_hair221.png": {
+    "name": "童话梦男发",
+    "hideBaseLayer": false
+  },
+  "m_hair220.png": {
+    "name": "金羽发型",
+    "hideBaseLayer": false
+  },
+  "m_hair219.png": {
+    "name": "日式男发",
+    "hideBaseLayer": false
+  },
+  "m_hair218.png": {
+    "name": "阳光法兰奇",
+    "hideBaseLayer": false
+  },
+  "m_hair217.png": {
+    "name": "青蜂之翼",
+    "hideBaseLayer": false
+  },
+  "m_hair216.png": {
+    "name": "魔幻淡紫发型",
+    "hideBaseLayer": false
+  },
+  "m_hair215.png": {
+    "name": "秋本明",
+    "hideBaseLayer": false
+  },
+  "m_hair214.png": {
+    "name": "爽朗发型",
+    "hideBaseLayer": false
+  },
+  "m_hair213.png": {
+    "name": "意式男发",
+    "hideBaseLayer": false
+  },
+  "m_hair212.png": {
+    "name": "精灵男发",
+    "hideBaseLayer": false
+  },
+  "m_hair211.png": {
+    "name": "仔仔碎发",
+    "hideBaseLayer": false
+  },
+  "m_hair210.png": {
+    "name": "蓝色浪漫发型",
+    "hideBaseLayer": false
+  },
+  "m_hair209.png": {
+    "name": "古韩男发",
+    "hideBaseLayer": false
+  },
+  "m_hair208.png": {
+    "name": "星国王子发型",
+    "hideBaseLayer": false
+  },
+  "m_hair207.png": {
+    "name": "蓝梦发型",
+    "hideBaseLayer": false
+  },
+  "m_hair206.png": {
+    "name": "天泣发型",
+    "hideBaseLayer": false
+  },
+  "m_hair205.png": {
+    "name": "爵士发型",
+    "hideBaseLayer": false
+  },
+  "m_hair204.png": {
+    "name": "仙履发型",
+    "hideBaseLayer": false
+  },
+  "m_hair203.png": {
+    "name": "俄风男发",
+    "hideBaseLayer": false
+  },
+  "m_hair201.png": {
+    "name": "绿茵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair200.png": {
+    "name": "骑士王发型",
+    "hideBaseLayer": false
+  },
+  "m_hair199.png": {
+    "name": "锦玉发型",
+    "hideBaseLayer": false
+  },
+  "m_hair198.png": {
+    "name": "布偶娃发型",
+    "hideBaseLayer": false
+  },
+  "m_hair197.png": {
+    "name": "红袍发型",
+    "hideBaseLayer": false
+  },
+  "m_hair196.png": {
+    "name": "情结发型",
+    "hideBaseLayer": false
+  },
+  "m_hair195.png": {
+    "name": "金龙发型",
+    "hideBaseLayer": false
+  },
+  "m_hair194.png": {
+    "name": "使者金发",
+    "hideBaseLayer": false
+  },
+  "m_hair193.png": {
+    "name": "绅士发型",
+    "hideBaseLayer": false
+  },
+  "m_hair192.png": {
+    "name": "晶钻发型",
+    "hideBaseLayer": false
+  },
+  "m_hair191.png": {
+    "name": "星微发型",
+    "hideBaseLayer": false
+  },
+  "m_hair190.png": {
+    "name": "星斗发型",
+    "hideBaseLayer": false
+  },
+  "m_hair189.png": {
+    "name": "薄荷果酱",
+    "hideBaseLayer": false
+  },
+  "m_hair188.png": {
+    "name": "青灰银丝",
+    "hideBaseLayer": false
+  },
+  "m_hair187.png": {
+    "name": "香槟发型",
+    "hideBaseLayer": false
+  },
+  "m_hair186.png": {
+    "name": "喵喵装发型",
+    "hideBaseLayer": false
+  },
+  "m_hair184.png": {
+    "name": "蓝色风铃发型",
+    "hideBaseLayer": false
+  },
+  "m_hair183.png": {
+    "name": "美国星旗金发",
+    "hideBaseLayer": false
+  },
+  "m_hair182.png": {
+    "name": "威廉王子发型",
+    "hideBaseLayer": false
+  },
+  "m_hair181.png": {
+    "name": "南瓜幽灵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair180.png": {
+    "name": "草莓熊金发",
+    "hideBaseLayer": false
+  },
+  "m_hair179.png": {
+    "name": "藏蓝色短发",
+    "hideBaseLayer": false
+  },
+  "m_hair178.png": {
+    "name": "爱心棕色发型",
+    "hideBaseLayer": false
+  },
+  "m_hair177.png": {
+    "name": "嘻哈红樱发型",
+    "hideBaseLayer": false
+  },
+  "m_hair176.png": {
+    "name": "血之伯爵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair175.png": {
+    "name": "摇滚主唱发型",
+    "hideBaseLayer": false
+  },
+  "m_hair174.png": {
+    "name": "童话王子发型",
+    "hideBaseLayer": false
+  },
+  "m_hair173.png": {
+    "name": "滑头鬼发型",
+    "hideBaseLayer": false
+  },
+  "m_hair172.png": {
+    "name": "京介短发",
+    "hideBaseLayer": false
+  },
+  "m_hair171.png": {
+    "name": "苏格兰男发",
+    "hideBaseLayer": false
+  },
+  "m_hair170.png": {
+    "name": "神枪手短发",
+    "hideBaseLayer": false
+  },
+  "m_hair169.png": {
+    "name": "小霸王短发",
+    "hideBaseLayer": false
+  },
+  "m_hair168.png": {
+    "name": "巫师墨绿短发",
+    "hideBaseLayer": false
+  },
+  "m_hair167.png": {
+    "name": "牛仔金色短发",
+    "hideBaseLayer": false
+  },
+  "m_hair166.png": {
+    "name": "朋克金星",
+    "hideBaseLayer": false
+  },
+  "m_hair165.png": {
+    "name": "魔法师银发",
+    "hideBaseLayer": false
+  },
+  "m_hair164.png": {
+    "name": "夏日运动短发",
+    "hideBaseLayer": false
+  },
+  "m_hair163.png": {
+    "name": "萌兔兔",
+    "hideBaseLayer": false
+  },
+  "m_hair162.png": {
+    "name": "科学家短发",
+    "hideBaseLayer": false
+  },
+  "m_hair161.png": {
+    "name": "潮流买买提",
+    "hideBaseLayer": false
+  },
+  "m_hair160.png": {
+    "name": "棒球少年发型",
+    "hideBaseLayer": false
+  },
+  "m_hair159.png": {
+    "name": "蓬蓬的奋斗",
+    "hideBaseLayer": false
+  },
+  "m_hair158.png": {
+    "name": "索哆哆法师",
+    "hideBaseLayer": false
+  },
+  "m_hair157.png": {
+    "name": "蓝色刨冰",
+    "hideBaseLayer": false
+  },
+  "m_hair156.png": {
+    "name": "酷酷繁星发型",
+    "hideBaseLayer": false
+  },
+  "m_hair155.png": {
+    "name": "假面骑士",
+    "hideBaseLayer": false
+  },
+  "m_hair154.png": {
+    "name": "占卜师短发",
+    "hideBaseLayer": false
+  },
+  "m_hair153.png": {
+    "name": "时尚潮人",
+    "hideBaseLayer": false
+  },
+  "m_hair152.png": {
+    "name": "金色战影",
+    "hideBaseLayer": false
+  },
+  "m_hair151.png": {
+    "name": "忧郁炯炯",
+    "hideBaseLayer": false
+  },
+  "m_hair150.png": {
+    "name": "丛林之王",
+    "hideBaseLayer": false
+  },
+  "m_hair149.png": {
+    "name": "杰克船长",
+    "hideBaseLayer": false
+  },
+  "m_hair148.png": {
+    "name": "天真无邪",
+    "hideBaseLayer": false
+  },
+  "m_hair147.png": {
+    "name": "躁动部落",
+    "hideBaseLayer": false
+  },
+  "m_hair146.png": {
+    "name": "自由铛铛",
+    "hideBaseLayer": false
+  },
+  "m_hair145.png": {
+    "name": "金色海浪",
+    "hideBaseLayer": false
+  },
+  "m_hair144.png": {
+    "name": "红色乐动",
+    "hideBaseLayer": false
+  },
+  "m_hair143.png": {
+    "name": "金色光芒",
+    "hideBaseLayer": false
+  },
+  "m_hair142.png": {
+    "name": "盛夏金灿灿",
+    "hideBaseLayer": false
+  },
+  "m_hair141.png": {
+    "name": "海盗头巾发型",
+    "hideBaseLayer": false
+  },
+  "m_hair140.png": {
+    "name": "蓝色波动发型",
+    "hideBaseLayer": false
+  },
+  "m_hair139.png": {
+    "name": "阳光晴朗发型",
+    "hideBaseLayer": false
+  },
+  "m_hair138.png": {
+    "name": "随风飘动",
+    "hideBaseLayer": false
+  },
+  "m_hair137.png": {
+    "name": "书香小金狐",
+    "hideBaseLayer": false
+  },
+  "m_hair136.png": {
+    "name": "孤心波动发型",
+    "hideBaseLayer": false
+  },
+  "m_hair135.png": {
+    "name": "乐动猫咪",
+    "hideBaseLayer": false
+  },
+  "m_hair134.png": {
+    "name": "熊熊棕",
+    "hideBaseLayer": false
+  },
+  "m_hair133.png": {
+    "name": "叮叮噹噹",
+    "hideBaseLayer": false
+  },
+  "m_hair132.png": {
+    "name": "阿哥小辫子",
+    "hideBaseLayer": false
+  },
+  "m_hair131.png": {
+    "name": "燕尾绅士",
+    "hideBaseLayer": false
+  },
+  "m_hair130.png": {
+    "name": "金克雷",
+    "hideBaseLayer": false
+  },
+  "m_hair129.png": {
+    "name": "花灿灿金发",
+    "hideBaseLayer": false
+  },
+  "m_hair128.png": {
+    "name": "冥炎泣心",
+    "hideBaseLayer": false
+  },
+  "m_hair127.png": {
+    "name": "风之沙影",
+    "hideBaseLayer": false
+  },
+  "m_hair126.png": {
+    "name": "泉泽发型",
+    "hideBaseLayer": false
+  },
+  "m_hair125.png": {
+    "name": "使者之星",
+    "hideBaseLayer": false
+  },
+  "m_hair124.png": {
+    "name": "帝释之银",
+    "hideBaseLayer": false
+  },
+  "m_hair123.png": {
+    "name": "卯兔财神男发型",
+    "hideBaseLayer": false
+  },
+  "m_hair122.png": {
+    "name": "哈路亚发型",
+    "hideBaseLayer": false
+  },
+  "m_hair121.png": {
+    "name": "圣诞莫斯",
+    "hideBaseLayer": false
+  },
+  "m_hair120.png": {
+    "name": "莱奥球球发型",
+    "hideBaseLayer": false
+  },
+  "m_hair119.png": {
+    "name": "欧比亚斯发型",
+    "hideBaseLayer": false
+  },
+  "m_hair118.png": {
+    "name": "衙役发型",
+    "hideBaseLayer": false
+  },
+  "m_hair116.png": {
+    "name": "刺刺玛发型",
+    "hideBaseLayer": false
+  },
+  "m_hair115.png": {
+    "name": "波兰卡卡",
+    "hideBaseLayer": false
+  },
+  "m_hair114.png": {
+    "name": "公孙策发型",
+    "hideBaseLayer": false
+  },
+  "m_hair113.png": {
+    "name": "王朝马汉帽",
+    "hideBaseLayer": false
+  },
+  "m_hair112.png": {
+    "name": "张龙赵虎帽",
+    "hideBaseLayer": false
+  },
+  "m_hair111.png": {
+    "name": "展昭发型",
+    "hideBaseLayer": false
+  },
+  "m_hair110.png": {
+    "name": "包青天发型",
+    "hideBaseLayer": false
+  },
+  "m_hair109.png": {
+    "name": "冰雪之心",
+    "hideBaseLayer": false
+  },
+  "m_hair108.png": {
+    "name": "嘻哈帝奇",
+    "hideBaseLayer": false
+  },
+  "m_hair107.png": {
+    "name": "战神狂发",
+    "hideBaseLayer": false
+  },
+  "m_hair106.png": {
+    "name": "拉格西恩",
+    "hideBaseLayer": false
+  },
+  "m_hair105.png": {
+    "name": "藩藩红啾啾",
+    "hideBaseLayer": false
+  },
+  "m_hair104.png": {
+    "name": "军军白发",
+    "hideBaseLayer": false
+  },
+  "m_hair103.png": {
+    "name": "太阳天使发型",
+    "hideBaseLayer": false
+  },
+  "m_hair102.png": {
+    "name": "骑士灿阳",
+    "hideBaseLayer": false
+  },
+  "m_hair101.png": {
+    "name": "绅士王子发型",
+    "hideBaseLayer": false
+  },
+  "m_hair100.png": {
+    "name": "青衣长发",
+    "hideBaseLayer": false
+  },
+  "m_hair099.png": {
+    "name": "冰爵发型",
+    "hideBaseLayer": false
+  },
+  "m_hair097.png": {
+    "name": "伯爵奥蓝发型",
+    "hideBaseLayer": false
+  },
+  "m_hair096.png": {
+    "name": "蓬松型男",
+    "hideBaseLayer": false
+  },
+  "m_hair095.png": {
+    "name": "黑羽发型",
+    "hideBaseLayer": false
+  },
+  "m_hair094.png": {
+    "name": "银哒哒",
+    "hideBaseLayer": false
+  },
+  "m_hair093.png": {
+    "name": "皮皮哈橙",
+    "hideBaseLayer": false
+  },
+  "m_hair092.png": {
+    "name": "浣浣皮棕",
+    "hideBaseLayer": false
+  },
+  "m_hair091.png": {
+    "name": "跃龙发型",
+    "hideBaseLayer": false
+  },
+  "m_hair090.png": {
+    "name": "赤牛魔王发型",
+    "hideBaseLayer": false
+  },
+  "m_hair089.png": {
+    "name": "菲奈狮奥发型",
+    "hideBaseLayer": false
+  },
+  "m_hair088.png": {
+    "name": "洛奇纳斯小短发",
+    "hideBaseLayer": false
+  },
+  "m_hair087.png": {
+    "name": "悟空发型",
+    "hideBaseLayer": false
+  },
+  "m_hair086.png": {
+    "name": "曼纽包包",
+    "hideBaseLayer": false
+  },
+  "m_hair085.png": {
+    "name": "奥奈西奇",
+    "hideBaseLayer": false
+  },
+  "m_hair084.png": {
+    "name": "基古波波",
+    "hideBaseLayer": false
+  },
+  "m_hair083.png": {
+    "name": "咕咕丁奇",
+    "hideBaseLayer": false
+  },
+  "m_hair082.png": {
+    "name": "魔音烈炎",
+    "hideBaseLayer": false
+  },
+  "m_hair081.png": {
+    "name": "阿勃梭鲁",
+    "hideBaseLayer": false
+  },
+  "m_hair080.png": {
+    "name": "奈亚歌迪",
+    "hideBaseLayer": false
+  },
+  "m_hair079.png": {
+    "name": "波士太郎",
+    "hideBaseLayer": false
+  },
+  "m_hair078.png": {
+    "name": "雷雷姆",
+    "hideBaseLayer": false
+  },
+  "m_hair077.png": {
+    "name": "冲锋包包头",
+    "hideBaseLayer": false
+  },
+  "m_hair076.png": {
+    "name": "摩西金色",
+    "hideBaseLayer": false
+  },
+  "m_hair075.png": {
+    "name": "男扎库米发型",
+    "hideBaseLayer": false
+  },
+  "m_hair074.png": {
+    "name": "王子银发",
+    "hideBaseLayer": false
+  },
+  "m_hair073.png": {
+    "name": "夏日游泳短发",
+    "hideBaseLayer": false
+  },
+  "m_hair072.png": {
+    "name": "炫色白白",
+    "hideBaseLayer": false
+  },
+  "m_hair071.png": {
+    "name": "摩卡摩卡",
+    "hideBaseLayer": false
+  },
+  "m_hair070.png": {
+    "name": "蓝之深邃",
+    "hideBaseLayer": false
+  },
+  "m_hair069.png": {
+    "name": "金之灿烂",
+    "hideBaseLayer": false
+  },
+  "m_hair068.png": {
+    "name": "男生飘逸长发",
+    "hideBaseLayer": false
+  },
+  "m_hair067.png": {
+    "name": "帅气灰色短发",
+    "hideBaseLayer": false
+  },
+  "m_hair066.png": {
+    "name": "黑色型男发型",
+    "hideBaseLayer": false
+  },
+  "m_hair065.png": {
+    "name": "清朝辫子",
+    "hideBaseLayer": false
+  },
+  "m_hair064.png": {
+    "name": "活力棕红发型",
+    "hideBaseLayer": false
+  },
+  "m_hair063.png": {
+    "name": "金色抹茶发型",
+    "hideBaseLayer": false
+  },
+  "m_hair062.png": {
+    "name": "俏皮青春男发型",
+    "hideBaseLayer": false
+  },
+  "m_hair061.png": {
+    "name": "兔先生发型",
+    "hideBaseLayer": false
+  },
+  "m_hair060.png": {
+    "name": "吴刚发型",
+    "hideBaseLayer": false
+  },
+  "m_hair059.png": {
+    "name": "丹发型",
+    "hideBaseLayer": false
+  },
+  "m_hair058.png": {
+    "name": "古烈发型",
+    "hideBaseLayer": false
+  },
+  "m_hair057.png": {
+    "name": "隆发型",
+    "hideBaseLayer": false
+  },
+  "m_hair056.png": {
+    "name": "罗密欧发型",
+    "hideBaseLayer": false
+  },
+  "m_hair055.png": {
+    "name": "牛郎发型",
+    "hideBaseLayer": false
+  },
+  "m_hair054.png": {
+    "name": "国王金冠发型",
+    "hideBaseLayer": false
+  },
+  "m_hair052.png": {
+    "name": "骷髅头",
+    "hideBaseLayer": false
+  },
+  "m_hair051.png": {
+    "name": "宫城良田发型",
+    "hideBaseLayer": false
+  },
+  "m_hair050.png": {
+    "name": "金色小淘气",
+    "hideBaseLayer": false
+  },
+  "m_hair049.png": {
+    "name": "拖把头",
+    "hideBaseLayer": false
+  },
+  "m_hair048.png": {
+    "name": "灰色马尾",
+    "hideBaseLayer": false
+  },
+  "m_hair047.png": {
+    "name": "酷劲十足",
+    "hideBaseLayer": false
+  },
+  "m_hair046.png": {
+    "name": "地中海",
+    "hideBaseLayer": false
+  },
+  "m_hair045.png": {
+    "name": "古灵精喵",
+    "hideBaseLayer": false
+  },
+  "m_hair044.png": {
+    "name": "帅气金发",
+    "hideBaseLayer": false
+  },
+  "m_hair043.png": {
+    "name": "花美男",
+    "hideBaseLayer": false
+  },
+  "m_hair042.png": {
+    "name": "莫西干发型",
+    "hideBaseLayer": false
+  },
+  "m_hair041.png": {
+    "name": "爱因斯坦发型",
+    "hideBaseLayer": false
+  },
+  "m_hair040.png": {
+    "name": "男美发师发型",
+    "hideBaseLayer": false
+  },
+  "m_hair039.png": {
+    "name": "黑龙发型",
+    "hideBaseLayer": false
+  },
+  "m_hair038.png": {
+    "name": "男生蓝色睡帽",
+    "hideBaseLayer": false
+  },
+  "m_hair037.png": {
+    "name": "小鬼当家男帽",
+    "hideBaseLayer": false
+  },
+  "m_hair036.png": {
+    "name": "棕色面罩",
+    "hideBaseLayer": false
+  },
+  "m_hair035.png": {
+    "name": "男恶魔",
+    "hideBaseLayer": false
+  },
+  "m_hair034.png": {
+    "name": "魔术男帽",
+    "hideBaseLayer": false
+  },
+  "m_hair033.png": {
+    "name": "火影发型之鹿丸",
+    "hideBaseLayer": false
+  },
+  "m_hair032.png": {
+    "name": "火影发型之佐助",
+    "hideBaseLayer": false
+  },
+  "m_hair031.png": {
+    "name": "火影发型之鸣人",
+    "hideBaseLayer": false
+  },
+  "m_hair030.png": {
+    "name": "路飞草帽",
+    "hideBaseLayer": false
+  },
+  "m_hair029.png": {
+    "name": "浪子侠客",
+    "hideBaseLayer": false
+  },
+  "m_hair028.png": {
+    "name": "黄色运动服发型",
+    "hideBaseLayer": false
+  },
+  "m_hair027.png": {
+    "name": "朋克头",
+    "hideBaseLayer": false
+  },
+  "m_hair026.png": {
+    "name": "机车帽",
+    "hideBaseLayer": false
+  },
+  "m_hair025.png": {
+    "name": "老板头",
+    "hideBaseLayer": false
+  },
+  "m_hair024.png": {
+    "name": "怒发冲冠",
+    "hideBaseLayer": false
+  },
+  "m_hair023.png": {
+    "name": "一头金黄",
+    "hideBaseLayer": false
+  },
+  "m_hair022.png": {
+    "name": "冒险家",
+    "hideBaseLayer": false
+  },
+  "m_hair020.png": {
+    "name": "还是短发",
+    "hideBaseLayer": false
+  },
+  "m_hair019.png": {
+    "name": "咖啡色短发",
+    "hideBaseLayer": false
+  },
+  "m_hair018.png": {
+    "name": "黄色短发",
+    "hideBaseLayer": false
+  },
+  "m_hair017.png": {
+    "name": "黑色",
+    "hideBaseLayer": false
+  },
+  "m_hair016.png": {
+    "name": "红色超短发",
+    "hideBaseLayer": false
+  },
+  "m_hair015.png": {
+    "name": "银色卷发",
+    "hideBaseLayer": false
+  },
+  "m_hair014.png": {
+    "name": "黑色卷发",
+    "hideBaseLayer": false
+  },
+  "m_hair013.png": {
+    "name": "银色超短发",
+    "hideBaseLayer": false
+  },
+  "m_hair012.png": {
+    "name": "咖啡色短发",
+    "hideBaseLayer": false
+  },
+  "m_hair011.png": {
+    "name": "红色长发",
+    "hideBaseLayer": false
+  },
+  "m_hair010.png": {
+    "name": "绿头道",
+    "hideBaseLayer": false
+  },
+  "m_hair009.png": {
+    "name": "活力充沛",
+    "hideBaseLayer": false
+  },
+  "m_hair008.png": {
+    "name": "几年不见",
+    "hideBaseLayer": false
+  },
+  "m_hair007.png": {
+    "name": "呼呼",
+    "hideBaseLayer": false
+  },
+  "m_hair006.png": {
+    "name": "有志青年",
+    "hideBaseLayer": false
+  },
+  "m_hair005.png": {
+    "name": "暗夜诱惑",
+    "hideBaseLayer": false
+  },
+  "m_hair004.png": {
+    "name": "金色年华",
+    "hideBaseLayer": false
+  },
+  "m_hair003.png": {
+    "name": "英俊小生",
+    "hideBaseLayer": false
+  },
+  "m_hair002.png": {
+    "name": "风吹凉",
+    "hideBaseLayer": false
+  },
+  "m_hair001.png": {
+    "name": "小刺猬",
     "hideBaseLayer": false
   }
 }

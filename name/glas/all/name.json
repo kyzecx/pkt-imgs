@@ -1,10 +1,35 @@
 {
+  "u_glas292.png": {
+    "name": "绒绒心意美瞳（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_glas291.png": {
+    "name": "绒绒心意美瞳（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_glas290.png": {
     "name": "怜怜可爱美瞳（女）",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas289.png": {
@@ -13,6 +38,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas286.png": {
@@ -21,6 +55,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas285.png": {
@@ -29,6 +72,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas280.png": {
@@ -37,6 +89,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas280_Animate.png": {
@@ -45,6 +106,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas279.png": {
@@ -53,6 +123,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas279_Animate.png": {
@@ -61,6 +140,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas272.png": {
@@ -69,6 +157,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas271.png": {
@@ -77,6 +174,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas268.png": {
@@ -85,6 +191,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas268_Animate.png": {
@@ -93,6 +208,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas267.png": {
@@ -101,6 +225,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas267_Animate.png": {
@@ -109,6 +242,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas264.png": {
@@ -117,6 +259,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_10.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas263.png": {
@@ -125,6 +276,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas262.png": {
@@ -133,6 +293,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas261.png": {
@@ -141,6 +310,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas254.png": {
@@ -149,6 +327,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas253.png": {
@@ -157,6 +344,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas250.png": {
@@ -165,6 +361,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas250_Animate.png": {
@@ -173,6 +378,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas249.png": {
@@ -181,6 +395,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas249_Animate.png": {
@@ -189,6 +412,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas248.png": {
@@ -205,6 +437,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas247.png": {
@@ -213,6 +454,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas247_Animate.png": {
@@ -221,6 +471,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas241.png": {
@@ -229,6 +488,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas240.png": {
@@ -237,6 +505,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas239.png": {
@@ -245,6 +522,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_9.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas238.png": {
@@ -253,6 +539,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas237.png": {
@@ -261,6 +556,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas237_Animate.png": {
@@ -269,6 +573,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas236.png": {
@@ -277,6 +590,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas236_Animate.png": {
@@ -285,6 +607,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas228.png": {
@@ -293,6 +624,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas227.png": {
@@ -301,6 +641,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas226.png": {
@@ -309,6 +658,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas225.png": {
@@ -317,6 +675,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas224.png": {
@@ -325,6 +692,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas223.png": {
@@ -333,6 +709,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas220.png": {
@@ -341,6 +726,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas219.png": {
@@ -349,6 +743,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas216.png": {
@@ -357,6 +760,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas216_Animate.png": {
@@ -365,6 +777,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas215.png": {
@@ -373,6 +794,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas215_Animate.png": {
@@ -381,6 +811,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_8.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas212.png": {
@@ -389,6 +828,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas211.png": {
@@ -397,6 +845,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas210.png": {
@@ -405,6 +862,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas209.png": {
@@ -413,6 +879,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas208.png": {
@@ -421,6 +896,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas207.png": {
@@ -429,6 +913,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas204.png": {
@@ -437,6 +930,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas203.png": {
@@ -445,6 +947,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas202.png": {
@@ -453,6 +964,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas201.png": {
@@ -461,6 +981,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas200.png": {
@@ -469,6 +998,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas200_Animate.png": {
@@ -477,6 +1015,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas199.png": {
@@ -485,6 +1032,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas199_Animate.png": {
@@ -493,6 +1049,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas196.png": {
@@ -501,6 +1066,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas196_Animate.png": {
@@ -509,6 +1083,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_7.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas195.png": {
@@ -517,6 +1100,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas195_Animate.png": {
@@ -525,6 +1117,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas194.png": {
@@ -533,6 +1134,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas193.png": {
@@ -541,6 +1151,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas192.png": {
@@ -549,6 +1168,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas192_Animate.png": {
@@ -557,6 +1185,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas191.png": {
@@ -565,6 +1202,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas191_Animate.png": {
@@ -573,6 +1219,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas190.png": {
@@ -581,6 +1236,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas189.png": {
@@ -589,6 +1253,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas188.png": {
@@ -597,6 +1270,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas187.png": {
@@ -605,6 +1287,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas185.png": {
@@ -613,6 +1304,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas184.png": {
@@ -621,6 +1321,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas183.png": {
@@ -629,6 +1338,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_6.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas182.png": {
@@ -637,6 +1355,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas182_Animate.png": {
@@ -645,6 +1372,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas181.png": {
@@ -653,6 +1389,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas181_Animate.png": {
@@ -661,6 +1406,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas180.png": {
@@ -669,6 +1423,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas179.png": {
@@ -677,6 +1440,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas178.png": {
@@ -685,6 +1457,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas177.png": {
@@ -693,6 +1474,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas176.png": {
@@ -701,6 +1491,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas175.png": {
@@ -709,6 +1508,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas174.png": {
@@ -717,6 +1525,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas174_Animate.png": {
@@ -725,6 +1542,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas173.png": {
@@ -733,6 +1559,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas173_Animate.png": {
@@ -741,6 +1576,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas172.png": {
@@ -749,6 +1593,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas171.png": {
@@ -757,6 +1610,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_5.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas170.png": {
@@ -765,6 +1627,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 1600,
+        "y": 2520,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas170_Animate.png": {
@@ -773,6 +1644,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 2400,
+        "y": 2520,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas169.png": {
@@ -781,6 +1661,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas169_Animate.png": {
@@ -789,6 +1678,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 800,
+        "y": 2520,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas168.png": {
@@ -797,6 +1695,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 1600,
+        "y": 1680,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas168_Animate.png": {
@@ -805,6 +1712,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 2400,
+        "y": 1680,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas167.png": {
@@ -813,6 +1729,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas167_Animate.png": {
@@ -821,6 +1746,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 800,
+        "y": 1680,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas166.png": {
@@ -829,6 +1763,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 2400,
+        "y": 840,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas165.png": {
@@ -837,6 +1780,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 1600,
+        "y": 840,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas164.png": {
@@ -845,6 +1797,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas164_Animate.png": {
@@ -853,6 +1814,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 800,
+        "y": 840,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas163.png": {
@@ -861,6 +1831,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 1600,
+        "y": 0,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas163_Animate.png": {
@@ -869,6 +1848,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 2400,
+        "y": 0,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas162.png": {
@@ -877,6 +1865,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 800,
+        "y": 0,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas161.png": {
@@ -885,6 +1882,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_4.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 800,
+        "h": 840
+      }
     }
   },
   "u_glas160.png": {
@@ -893,6 +1899,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas159.png": {
@@ -901,6 +1916,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas158.png": {
@@ -909,6 +1933,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas157.png": {
@@ -917,6 +1950,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas156.png": {
@@ -925,6 +1967,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas156_Animate.png": {
@@ -933,6 +1984,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas155.png": {
@@ -941,6 +2001,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas155_Animate.png": {
@@ -949,6 +2018,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas154.png": {
@@ -957,6 +2035,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas153.png": {
@@ -965,6 +2052,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas152.png": {
@@ -973,6 +2069,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas151.png": {
@@ -981,6 +2086,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas150.png": {
@@ -989,6 +2103,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas149.png": {
@@ -997,6 +2120,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas148.png": {
@@ -1005,6 +2137,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas147.png": {
@@ -1013,6 +2154,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_3.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas146.png": {
@@ -1021,6 +2171,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas145.png": {
@@ -1029,6 +2188,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas142.png": {
@@ -1037,6 +2205,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas142_Animate.png": {
@@ -1045,6 +2222,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas141.png": {
@@ -1053,6 +2239,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas141_Animate.png": {
@@ -1061,6 +2256,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas138.png": {
@@ -1069,6 +2273,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas137.png": {
@@ -1077,6 +2290,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas135.png": {
@@ -1085,6 +2307,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas134.png": {
@@ -1093,6 +2324,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas133.png": {
@@ -1101,6 +2341,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas132.png": {
@@ -1109,6 +2358,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas129.png": {
@@ -1117,6 +2375,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas128.png": {
@@ -1125,6 +2392,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas127.png": {
@@ -1133,6 +2409,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas124.png": {
@@ -1141,6 +2426,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_2.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas123.png": {
@@ -1149,6 +2443,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas122.png": {
@@ -1157,6 +2460,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas121.png": {
@@ -1165,6 +2477,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas120.png": {
@@ -1173,6 +2494,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas117.png": {
@@ -1181,6 +2511,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas116.png": {
@@ -1189,6 +2528,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas115.png": {
@@ -1197,6 +2545,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas114.png": {
@@ -1205,6 +2562,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas113.png": {
@@ -1213,6 +2579,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas112.png": {
@@ -1221,6 +2596,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas111.png": {
@@ -1229,6 +2613,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas021.png": {
@@ -1237,6 +2630,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas020.png": {
@@ -1245,6 +2647,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas019.png": {
@@ -1253,6 +2664,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas018.png": {
@@ -1261,6 +2681,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas017.png": {
@@ -1269,6 +2698,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_1.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas016.png": {
@@ -1277,6 +2715,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas015.png": {
@@ -1285,6 +2732,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas014.png": {
@@ -1293,6 +2749,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas013.png": {
@@ -1301,6 +2766,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas012.png": {
@@ -1309,6 +2783,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas011.png": {
@@ -1317,6 +2800,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas010.png": {
@@ -1325,6 +2817,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas009.png": {
@@ -1333,6 +2834,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas008.png": {
@@ -1341,6 +2851,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas007.png": {
@@ -1349,6 +2868,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas006.png": {
@@ -1357,6 +2885,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas005.png": {
@@ -1365,6 +2902,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas004.png": {
@@ -1373,6 +2919,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas003.png": {
@@ -1381,6 +2936,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas002.png": {
@@ -1389,6 +2953,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas001.png": {
@@ -1397,6 +2970,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "glas_0.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   }
 }

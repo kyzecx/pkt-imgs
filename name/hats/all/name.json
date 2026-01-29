@@ -1,4 +1,20 @@
 {
+  "u_hats1506.png": {
+    "name": "甜莓喵喵卷女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1505.png": {
+    "name": "甜莓喵喵卷男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1504.png": {
     "name": "莓莓生巧女帽",
     "hideBaseLayer": false,
@@ -31,6 +47,22 @@
       "animateFrame": 0
     }
   },
+  "u_hats1495.png": {
+    "name": "砚中月男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1494.png": {
+    "name": "案头花女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1492.png": {
     "name": "彩虹糖女帽",
     "hideBaseLayer": false,
@@ -49,6 +81,38 @@
   },
   "u_hats1490.png": {
     "name": "雪人帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1489.png": {
+    "name": "白色恋人帽饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1488.png": {
+    "name": "古董画框发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1485.png": {
+    "name": "金属风马耳朵",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1484.png": {
+    "name": "彩虹独角兽头饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -95,8 +159,56 @@
       "animateFrame": 0
     }
   },
+  "u_hats1466.png": {
+    "name": "苍茫絮语狼耳",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1465.png": {
+    "name": "苍茫絮语珠链",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1464.png": {
     "name": "轻松白熊帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1459.png": {
+    "name": "微笑天使女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1458.png": {
+    "name": "微笑天使男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1451.png": {
+    "name": "薄巧熊熊杯女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1450.png": {
+    "name": "薄巧熊熊杯男发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -913,6 +1025,14 @@
   },
   "u_hats1306.png": {
     "name": "佩拉的护士帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1305.png": {
+    "name": "星灿店员头饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

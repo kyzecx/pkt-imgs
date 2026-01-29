@@ -1,86 +1,275 @@
 {
-    "f_face002.png": {
-        "name": "表情2",
-        "hideBaseLayer": false
-    },
-    "f_face003.png": {
-        "name": "表情3",
-        "hideBaseLayer": false
-    },
-    "f_face004.png": {
-        "name": "表情4",
-        "hideBaseLayer": false
-    },
-    "f_face005.png": {
-        "name": "表情5",
-        "hideBaseLayer": false
-    },
-    "f_face006.png": {
-        "name": "表情6",
-        "hideBaseLayer": false
-    },
-    "f_face007.png": {
-        "name": "表情7",
-        "hideBaseLayer": false
-    },
-    "f_face008.png": {
-        "name": "表情8",
-        "hideBaseLayer": false
-    },
-    "f_face009.png": {
-        "name": "表情9",
-        "hideBaseLayer": false
-    },
-    "f_face010.png": {
-        "name": "表情10",
-        "hideBaseLayer": false
-    },
-    "f_face011.png": {
-        "name": "表情11",
-        "hideBaseLayer": false
-    },
-    "f_face012.png": {
-        "name": "表情12",
-        "hideBaseLayer": false
-    },
-    "f_face013.png": {
-        "name": "表情13",
-        "hideBaseLayer": false
-    },
-    "f_face014.png": {
-        "name": "表情14",
-        "hideBaseLayer": false
-    },
-    "f_face015.png": {
-        "name": "表情15",
-        "hideBaseLayer": false
-    },
-    "f_face016.png": {
-        "name": "表情16",
-        "hideBaseLayer": false
-    },
-    "f_face017.png": {
-        "name": "表情17",
-        "hideBaseLayer": false
-    },
-    "f_face018.png": {
-        "name": "表情18",
-        "hideBaseLayer": false
-    },
-    "f_face019.png": {
-        "name": "表情19",
-        "hideBaseLayer": false
-    },
-    "f_face020.png": {
-        "name": "表情20",
-        "hideBaseLayer": false
-    },
-    "f_face021.png": {
-        "name": "表情21",
-        "hideBaseLayer": false
-    },
-    "f_face022.png": {
-        "name": "表情22",
-        "hideBaseLayer": false
+  "f_face002.png": {
+    "name": "表情2",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_2.png",
+      "position": {
+        "x": 200,
+        "y": 300,
+        "w": 100,
+        "h": 150
+      }
     }
+  },
+  "f_face003.png": {
+    "name": "表情3",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_2.png",
+      "position": {
+        "x": 300,
+        "y": 300,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face004.png": {
+    "name": "表情4",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_2.png",
+      "position": {
+        "x": 0,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face005.png": {
+    "name": "表情5",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_2.png",
+      "position": {
+        "x": 100,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face006.png": {
+    "name": "表情6",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_2.png",
+      "position": {
+        "x": 200,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face007.png": {
+    "name": "表情7",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_2.png",
+      "position": {
+        "x": 300,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face008.png": {
+    "name": "表情8",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face009.png": {
+    "name": "表情9",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 100,
+        "y": 0,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face010.png": {
+    "name": "表情10",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 200,
+        "y": 0,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face011.png": {
+    "name": "表情11",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 300,
+        "y": 0,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face012.png": {
+    "name": "表情12",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 0,
+        "y": 150,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face013.png": {
+    "name": "表情13",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 100,
+        "y": 150,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face014.png": {
+    "name": "表情14",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 200,
+        "y": 150,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face015.png": {
+    "name": "表情15",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 300,
+        "y": 150,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face016.png": {
+    "name": "表情16",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 0,
+        "y": 300,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face017.png": {
+    "name": "表情17",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 100,
+        "y": 300,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face018.png": {
+    "name": "表情18",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 200,
+        "y": 300,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face019.png": {
+    "name": "表情19",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 300,
+        "y": 300,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face020.png": {
+    "name": "表情20",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 0,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face021.png": {
+    "name": "表情21",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 100,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  },
+  "f_face022.png": {
+    "name": "表情22",
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "emotion_3.png",
+      "position": {
+        "x": 200,
+        "y": 450,
+        "w": 100,
+        "h": 150
+      }
+    }
+  }
 }
