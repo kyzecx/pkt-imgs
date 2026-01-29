@@ -246,8 +246,8 @@ async function main() {
             fs.copyFileSync(path.join(outDir, mainFile), targetPngPath);
             console.log(`  [OK] Saved to ${targetPngPath}`);
 
-            // 对于 glas、hats 和 mask，如果有 _Animate 版本也保存
-            const animateParts = ['glas', 'hats', 'mask'];
+            // 对于 cset、glas、hats 和 mask，如果有 _Animate 版本也保存
+            const animateParts = ['cset', 'glas', 'hats', 'mask'];
             if (animateParts.includes(part) && animateFile) {
                 const animatePngPath = path.join(targetImgDir, `${filename}_Animate.png`);
                 fs.copyFileSync(path.join(outDir, animateFile), animatePngPath);

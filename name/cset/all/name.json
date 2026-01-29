@@ -457,27 +457,33 @@
   "u_cset4389.png": {
     "name": "绒绒心意女装",
     "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "cset_193.png",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_cset4389_Animate.png": {
+    "name": "绒绒心意女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
     }
   },
   "u_cset4388.png": {
     "name": "绒绒心意男装",
     "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "cset_192.png",
-      "position": {
-        "x": 2100,
-        "y": 2520,
-        "w": 700,
-        "h": 840
-      }
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_cset4388_Animate.png": {
+    "name": "绒绒心意男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
     }
   },
   "u_cset4387.png": {
