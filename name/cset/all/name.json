@@ -1,4 +1,52 @@
 {
+  "u_cset4513.png": {
+    "name": "可可麻鼠男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4512.png": {
+    "name": "可可麻鼠女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4505.png": {
+    "name": "心愿花火男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4504.png": {
+    "name": "心愿花火女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4491.png": {
+    "name": "雪天豹抱女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4490.png": {
+    "name": "雪天豹抱男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4479.png": {
     "name": "烛光宴会男装",
     "hideBaseLayer": false,

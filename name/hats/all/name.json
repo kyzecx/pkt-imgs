@@ -1,4 +1,28 @@
 {
+  "u_hats1522.png": {
+    "name": "财神来",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1514.png": {
+    "name": "雪天豹抱女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1513.png": {
+    "name": "雪天豹抱男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1506.png": {
     "name": "甜莓喵喵卷女发饰",
     "hideBaseLayer": false,

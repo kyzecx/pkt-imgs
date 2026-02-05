@@ -1,4 +1,20 @@
 {
+  "u_mask1418.png": {
+    "name": "可可麻鼠男发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1417.png": {
+    "name": "可可麻鼠女发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1400.png": {
     "name": "耶耶学院女发饰",
     "hideBaseLayer": false,
