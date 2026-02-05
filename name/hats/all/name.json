@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1514.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1513.png": {
@@ -21,6 +39,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1506.png": {
@@ -97,6 +124,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1499.png": {
@@ -105,6 +141,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1497.png": {
@@ -385,6 +430,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1475.png": {
@@ -393,6 +447,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1472.png": {
@@ -401,6 +464,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1471.png": {
@@ -409,6 +481,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_86.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1466.png": {

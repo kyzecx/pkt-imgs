@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4512.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4505.png": {
@@ -21,6 +39,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4504.png": {
@@ -29,6 +56,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4491.png": {
@@ -37,6 +73,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4490.png": {
@@ -45,6 +90,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4479.png": {
@@ -105,6 +159,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4470.png": {
@@ -113,6 +176,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4467.png": {
@@ -186,6 +258,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4459.png": {
@@ -194,6 +275,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4455.png": {
@@ -254,6 +344,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4450.png": {
@@ -262,6 +361,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4447.png": {
@@ -426,6 +534,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4418.png": {
@@ -434,6 +551,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4417.png": {
@@ -442,6 +568,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_306.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4416.png": {
@@ -450,6 +585,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4407.png": {
@@ -458,6 +602,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4406.png": {
@@ -466,6 +619,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4405.png": {
@@ -608,7 +770,7 @@
     "bundle": {
       "atlas": "cset_304.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 0,
         "w": 700,
         "h": 840
@@ -621,6 +783,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4388.png": {
@@ -633,7 +804,7 @@
     "bundle": {
       "atlas": "cset_304.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840
@@ -646,6 +817,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4387.png": {
@@ -966,6 +1146,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4332.png": {
@@ -974,6 +1163,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4331.png": {
@@ -1164,6 +1362,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4306.png": {
@@ -1172,6 +1379,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4305.png": {
@@ -14128,6 +14344,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset3125.png": {
@@ -14136,6 +14361,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset3124.png": {
@@ -14248,6 +14482,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset3115.png": {
@@ -14256,6 +14499,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_305.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset3112.png": {
@@ -26042,6 +26294,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_304.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset2165.png": {
@@ -26050,6 +26311,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_304.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset2164.png": {
@@ -28060,6 +28330,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_304.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset2009.png": {
@@ -28068,6 +28347,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_304.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset2008.png": {

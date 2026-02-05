@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1417.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1406.png": {
@@ -21,6 +39,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1405.png": {
@@ -29,6 +56,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1400.png": {
@@ -71,6 +107,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1397.png": {
@@ -79,6 +124,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1396.png": {
@@ -87,6 +141,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1395.png": {
@@ -95,6 +158,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1388.png": {
@@ -256,6 +328,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1372.png": {
@@ -264,6 +345,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1366.png": {
@@ -272,6 +362,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1365.png": {
@@ -280,6 +379,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_73.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1362.png": {
@@ -356,6 +464,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_73.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1357.png": {
@@ -364,6 +481,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_73.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1354.png": {
@@ -4707,6 +4833,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_73.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1048.png": {
@@ -10189,6 +10324,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask599.png": {
@@ -11149,6 +11293,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask538.png": {
@@ -11157,6 +11310,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_74.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask537.png": {
