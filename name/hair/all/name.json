@@ -114,6 +114,14 @@
       }
     }
   },
+  "u_hair4833.png": {
+    "name": "糖霜小袄男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4832.png": {
+    "name": "糖霜小袄女发",
+    "hideBaseLayer": false
+  },
   "u_hair4829.png": {
     "name": "甜莓喵喵卷女发",
     "hideBaseLayer": false,
@@ -165,6 +173,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4823.png": {
+    "name": "紫糖地雷女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4822.png": {
+    "name": "紫糖地雷男发",
+    "hideBaseLayer": false
   },
   "u_hair4821.png": {
     "name": "清风典雅男发",
@@ -243,6 +259,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4812.png": {
+    "name": "暖蔷花园女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4811.png": {
+    "name": "暖蔷花园男发",
+    "hideBaseLayer": false
   },
   "u_hair4808.png": {
     "name": "花意漾漾女发",
@@ -412,6 +436,30 @@
         "h": 840
       }
     }
+  },
+  "u_hair4777.png": {
+    "name": "彩虹象女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4776.png": {
+    "name": "彩虹象男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4775.png": {
+    "name": "缎带木偶女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4774.png": {
+    "name": "缎带木偶男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4765.png": {
+    "name": "脆甜咬印女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4764.png": {
+    "name": "脆甜咬印男发",
+    "hideBaseLayer": false
   },
   "u_hair4763.png": {
     "name": "冬日祈祷女发",
@@ -881,6 +929,14 @@
       }
     }
   },
+  "u_hair4691.png": {
+    "name": "心跳俘获女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4690.png": {
+    "name": "心跳俘获男发",
+    "hideBaseLayer": false
+  },
   "u_hair4689.png": {
     "name": "星星蜜语女发",
     "hideBaseLayer": false,
@@ -1062,6 +1118,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4665.png": {
+    "name": "蔬果果男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4664.png": {
+    "name": "蔬果果女发",
+    "hideBaseLayer": false
   },
   "u_hair4663.png": {
     "name": "微薰的风男发",
@@ -15976,6 +16040,14 @@
       }
     }
   },
+  "u_hair3305.png": {
+    "name": "鲜肉小笼女发",
+    "hideBaseLayer": false
+  },
+  "u_hair3304.png": {
+    "name": "鲜肉小笼男发",
+    "hideBaseLayer": false
+  },
   "u_hair3303.png": {
     "name": "蓝格小调女发",
     "hideBaseLayer": false,
@@ -16079,6 +16151,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair3295.png": {
+    "name": "暖色密语女发",
+    "hideBaseLayer": false
+  },
+  "u_hair3294.png": {
+    "name": "暖色密语男发",
+    "hideBaseLayer": false
   },
   "u_hair3291.png": {
     "name": "芬芳之园女发",
@@ -28677,6 +28757,14 @@
       }
     }
   },
+  "u_hair2263.png": {
+    "name": "薰衣香院男发",
+    "hideBaseLayer": false
+  },
+  "u_hair2262.png": {
+    "name": "薰衣香院女发",
+    "hideBaseLayer": false
+  },
   "u_hair2261.png": {
     "name": "月变狸猫男发",
     "hideBaseLayer": false,
@@ -30808,6 +30896,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair2092.png": {
+    "name": "晚安兔女发",
+    "hideBaseLayer": false
+  },
+  "u_hair2091.png": {
+    "name": "晚安兔男发",
+    "hideBaseLayer": false
   },
   "u_hair2090.png": {
     "name": "优质奶源女发",

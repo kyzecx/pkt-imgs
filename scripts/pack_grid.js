@@ -29,11 +29,8 @@ function getFilesRecursively(dir, fileList = [], relativePath = '') {
         if (stat.isDirectory()) {
             getFilesRecursively(filePath, fileList, path.join(relativePath, file));
         } else {
-            if (file.toLowerCase().endsWith('.png') && !file.toLowerCase().endsWith('_animate.png')) {
-                // Note: Explicitly excluding _Animate.png from packing if they are source files? 
-                // Actually the packer packs whatever is in the folder. 
-                // Assuming source structure is cleaned. 
-                // Standard logic: just pack .pngs.
+            if (file.toLowerCase().endsWith('.png')) {
+                // Pack all PNG files including _Animate.png
                 fileList.push({
                     fullPath: filePath,
                     relativePath: path.join(relativePath, file).replace(/\\/g, '/') // Ensure forward slashes

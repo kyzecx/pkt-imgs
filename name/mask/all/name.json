@@ -15,6 +15,22 @@
       "animateFrame": 0
     }
   },
+  "u_mask1406.png": {
+    "name": "暖蔷花园蝴蝶结",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1405.png": {
+    "name": "暖蔷花园耳钉",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1400.png": {
     "name": "耶耶学院女发饰",
     "hideBaseLayer": false,
@@ -47,6 +63,38 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask1398.png": {
+    "name": "彩虹象女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1397.png": {
+    "name": "彩虹象男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1396.png": {
+    "name": "缎带木偶女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1395.png": {
+    "name": "缎带木偶男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask1388.png": {
@@ -202,6 +250,38 @@
       }
     }
   },
+  "u_mask1373.png": {
+    "name": "紫糖地雷女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1372.png": {
+    "name": "紫糖地雷男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1366.png": {
+    "name": "心跳俘获女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1365.png": {
+    "name": "心跳俘获男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1362.png": {
     "name": "回溯之光女发饰",
     "hideBaseLayer": false,
@@ -268,6 +348,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask1358.png": {
+    "name": "蔬果果男发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1357.png": {
+    "name": "蔬果果女发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask1354.png": {
@@ -4603,6 +4699,14 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask1049.png": {
+    "name": "鲜肉小笼发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask1048.png": {
@@ -10079,6 +10183,14 @@
       }
     }
   },
+  "u_mask600.png": {
+    "name": "薰衣香院头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask599.png": {
     "name": "曲奇芝士挞女发饰",
     "hideBaseLayer": false,
@@ -11029,6 +11141,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask539.png": {
+    "name": "晚安兔女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask538.png": {
+    "name": "晚安兔男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask537.png": {

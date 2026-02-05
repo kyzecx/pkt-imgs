@@ -91,6 +91,22 @@
       }
     }
   },
+  "u_hats1500.png": {
+    "name": "紫糖地雷女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1499.png": {
+    "name": "紫糖地雷男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1497.png": {
     "name": "音叛甜心男耳机",
     "hideBaseLayer": false,
@@ -361,6 +377,38 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_hats1476.png": {
+    "name": "彩虹象女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1475.png": {
+    "name": "彩虹象男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1472.png": {
+    "name": "脆甜咬印女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1471.png": {
+    "name": "脆甜咬印男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_hats1466.png": {
