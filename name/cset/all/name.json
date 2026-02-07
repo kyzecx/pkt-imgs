@@ -914,6 +914,22 @@
       }
     }
   },
+  "u_cset4371.png": {
+    "name": "灰烬体女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4370.png": {
+    "name": "灰烬体男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4369.png": {
     "name": "微笑天使女装",
     "hideBaseLayer": false,

@@ -534,6 +534,22 @@
       }
     }
   },
+  "u_hats1461.png": {
+    "name": "灰烬恶魔女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1460.png": {
+    "name": "灰烬恶魔男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1459.png": {
     "name": "微笑天使女帽子",
     "hideBaseLayer": false,
