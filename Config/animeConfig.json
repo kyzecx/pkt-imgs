@@ -1,0 +1,517 @@
+{
+  "bug": {
+    "code": "bug2",
+    "totalStep": 6,
+    "duration": 50
+  },
+  "elf1": {
+    "code": "elf1",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "elf2": {
+    "code": "elf2",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "elf3": {
+    "code": "elf3",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "elf4": {
+    "code": "elf4",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "elf5": {
+    "code": "elf5",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "elf6": {
+    "code": "elf6",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "wet": {
+    "code": "wet2",
+    "totalStep": 5,
+    "duration": 200
+  },
+  "bless": {
+    "code": "heart",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "tele": {
+    "code": "tele",
+    "totalStep": 7,
+    "duration": 150
+  },
+  "teleok": {
+    "code": "teleok",
+    "totalStep": 2,
+    "duration": 150
+  },
+  "encouraged": {
+    "code": "encouraged",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "lvup": {
+    "code": "lvup",
+    "totalStep": 5,
+    "duration": 100
+  },
+  "bomb": {
+    "code": "bomb",
+    "totalStep": 5,
+    "duration": 100
+  },
+  "happynewyear": {
+    "code": "happynewyear",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "offered": {
+    "code": "offered",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "farmwet": {
+    "code": "farm_wet",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "farmfer": {
+    "code": "farm_fer",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "farmpes": {
+    "code": "farm_pes",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "farmgrown": {
+    "code": "farm_gro",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "farmins": {
+    "code": "farm_insects",
+    "totalStep": 6,
+    "duration": 100
+  },
+  "farmbless": {
+    "code": "farm_bless",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "keyflash": {
+    "code": "keyflash",
+    "totalStep": 2,
+    "duration": 200
+  },
+  "coldbomb": {
+    "code": "coldbomb",
+    "totalStep": 10,
+    "duration": 100
+  },
+  "popoff": {
+    "code": "popoff",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "luckpotions": {
+    "code": "luckpotions",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "power": {
+    "code": "power",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "wudi": {
+    "code": "wudi",
+    "totalStep": 8,
+    "duration": 100
+  },
+  "hushen": {
+    "code": "hushen",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "awardflash": {
+    "code": "awardflash",
+    "totalStep": 2,
+    "duration": 200
+  },
+  "protect": {
+    "code": "protect",
+    "totalStep": 7,
+    "duration": 200
+  },
+  "hushenfu": {
+    "code": "hushenfu",
+    "totalStep": 20,
+    "duration": 100
+  },
+  "signflash": {
+    "code": "sign",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "baoshi0": {
+    "code": "baoshi",
+    "totalStep": 1,
+    "duration": 1000
+  },
+  "baoshi1": {
+    "code": "baoshi",
+    "totalStep": 2,
+    "duration": 500
+  },
+  "baoshi2": {
+    "code": "baoshi",
+    "totalStep": 3,
+    "duration": 300
+  },
+  "baoshi3": {
+    "code": "baoshi",
+    "totalStep": 4,
+    "duration": 200
+  },
+  "baoshi4": {
+    "code": "baoshi",
+    "totalStep": 5,
+    "duration": 200
+  },
+  "baoshi5": {
+    "code": "baoshi",
+    "totalStep": 6,
+    "duration": 200
+  },
+  "baoshi6": {
+    "code": "baoshi",
+    "totalStep": 7,
+    "duration": 200
+  },
+  "baoshi7": {
+    "code": "baoshi",
+    "totalStep": 8,
+    "duration": 200
+  },
+  "baoshi8": {
+    "code": "baoshi",
+    "totalStep": 9,
+    "duration": 200
+  },
+  "baoshi9": {
+    "code": "baoshi",
+    "totalStep": 10,
+    "duration": 200
+  },
+  "baoshi10": {
+    "code": "baoshi",
+    "totalStep": 11,
+    "duration": 200
+  },
+  "elf7": {
+    "code": "elf7",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "elf8": {
+    "code": "elf8",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "elf9": {
+    "code": "elf9",
+    "totalStep": 5,
+    "duration": 100
+  },
+  "elf10": {
+    "code": "elf10",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "stoppass": {
+    "code": "stoppass",
+    "totalStep": 1,
+    "duration": 100
+  },
+  "cuthair": {
+    "code": "cuthair",
+    "totalStep": 2,
+    "duration": 100
+  },
+  "washhair": {
+    "code": "washhair",
+    "totalStep": 6,
+    "duration": 100
+  },
+  "spotlight": {
+    "code": "spotlight",
+    "totalStep": 5,
+    "duration": 100
+  },
+  "changeluck": {
+    "code": "changeluck",
+    "totalStep": 6,
+    "duration": 200
+  },
+  "anjiao": {
+    "code": "anjiao",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "xuanwo": {
+    "code": "xuanwo",
+    "totalStep": 2,
+    "duration": 100
+  },
+  "jiliu": {
+    "code": "jiliu",
+    "totalStep": 2,
+    "duration": 100
+  },
+  "shirenyu": {
+    "code": "shirenyu",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "eyu": {
+    "code": "eyu",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "shayu": {
+    "code": "shayu",
+    "totalStep": 6,
+    "duration": 100
+  },
+  "lifedownto1": {
+    "code": "lifedownto1",
+    "totalStep": 6,
+    "duration": 150
+  },
+  "lifedownto2": {
+    "code": "lifedownto2",
+    "totalStep": 7,
+    "duration": 150
+  },
+  "lifedownto3": {
+    "code": "lifedownto3",
+    "totalStep": 7,
+    "duration": 150
+  },
+  "boatbreak": {
+    "code": "boatbreak",
+    "totalStep": 6,
+    "duration": 100
+  },
+  "palsy": {
+    "code": "palsy",
+    "totalStep": 7,
+    "duration": 100
+  },
+  "getfish": {
+    "code": "getfish",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "flo00421": {
+    "code": "flo0042_1",
+    "totalStep": 12,
+    "duration": 200
+  },
+  "flo00422": {
+    "code": "flo0042_2",
+    "totalStep": 12,
+    "duration": 200
+  },
+  "flo00423": {
+    "code": "flo0042_3",
+    "totalStep": 12,
+    "duration": 200
+  },
+  "flo00424": {
+    "code": "flo0042_4",
+    "totalStep": 12,
+    "duration": 200
+  },
+  "wishtree": {
+    "code": "wishtree",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "npc0453": {
+    "code": "npc0453",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0457": {
+    "code": "npc0457",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0463": {
+    "code": "npc0463",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0467": {
+    "code": "npc0467",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0473": {
+    "code": "npc0473",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0477": {
+    "code": "npc0477",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc049": {
+    "code": "npc049",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "npc050": {
+    "code": "npc050",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "treasure": {
+    "code": "treasure",
+    "totalStep": 2,
+    "duration": 200
+  },
+  "lovehouses": {
+    "code": "lovehouses",
+    "totalStep": 6,
+    "duration": 200
+  },
+  "lovehousef": {
+    "code": "lovehousef",
+    "totalStep": 8,
+    "duration": 200
+  },
+  "npc0713": {
+    "code": "npc0713",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0717": {
+    "code": "npc0717",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0723": {
+    "code": "npc0723",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "npc0727": {
+    "code": "npc0727",
+    "totalStep": 3,
+    "duration": 200
+  },
+  "spotlight1": {
+    "code": "spotlight1",
+    "totalStep": 4,
+    "duration": 100
+  },
+  "spotlight2": {
+    "code": "spotlight2",
+    "totalStep": 6,
+    "duration": 100
+  },
+  "spotlight3": {
+    "code": "spotlight3",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "chaodu": {
+    "code": "chaodu",
+    "totalStep": 9,
+    "duration": 200
+  },
+  "stoprowpass": {
+    "code": "stoprowpass",
+    "totalStep": 2,
+    "duration": 200
+  },
+  "stopcolumnpass": {
+    "code": "stopcolumnpass",
+    "totalStep": 2,
+    "duration": 200
+  },
+  "scarab": {
+    "code": "farm_scarab",
+    "totalStep": 2,
+    "duration": 200
+  },
+  "select": {
+    "code": "select",
+    "totalStep": 8,
+    "duration": 50
+  },
+  "magpiebridge": {
+    "code": "magpiebridge",
+    "totalStep": 35,
+    "duration": 100
+  },
+  "npc0963": {
+    "code": "npc0963",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "npc0967": {
+    "code": "npc0967",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "npc0973": {
+    "code": "npc0973",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "npc0977": {
+    "code": "npc0977",
+    "totalStep": 3,
+    "duration": 100
+  },
+  "bhbomb1": {
+    "code": "bhbomb1",
+    "totalStep": 8,
+    "duration": 50
+  },
+  "bhbomb2": {
+    "code": "bhbomb2",
+    "totalStep": 8,
+    "duration": 50
+  },
+  "bhbomb3": {
+    "code": "bhbomb3",
+    "totalStep": 8,
+    "duration": 50
+  },
+  "show": {
+    "code": "show",
+    "totalStep": 6,
+    "duration": 100
+  },
+  "shirenhua": {
+    "code": "flo0042_1",
+    "totalStep": 12,
+    "duration": 10
+  }
+}

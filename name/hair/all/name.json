@@ -14,29 +14,11 @@
   },
   "u_hair4877.png": {
     "name": "可可麻鼠男发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_327.png",
-      "position": {
-        "x": 2100,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4876.png": {
     "name": "可可麻鼠女发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_327.png",
-      "position": {
-        "x": 1400,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4869.png": {
     "name": "心愿花火男发",
