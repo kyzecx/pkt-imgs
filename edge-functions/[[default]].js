@@ -13,6 +13,9 @@ export default async function onRequest(context) {
 
   const baseResponse = await fetch(request);
   const responseHeaders = new Headers(baseResponse.headers);
+  responseHeaders.delete("content-encoding");
+  responseHeaders.delete("content-length");
+  responseHeaders.delete("transfer-encoding");
   headers.forEach((value, key) => responseHeaders.set(key, value));
 
   return new Response(baseResponse.body, {
