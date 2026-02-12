@@ -2668,6 +2668,22 @@
       }
     }
   },
+  "u_mask1201.png": {
+    "name": "清池韶华女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1200.png": {
+    "name": "清池韶华男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1199.png": {
     "name": "都市之影女头饰",
     "hideBaseLayer": false,
