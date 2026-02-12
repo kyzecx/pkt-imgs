@@ -2674,6 +2674,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_75.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1200.png": {
@@ -2682,6 +2691,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_75.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1199.png": {
