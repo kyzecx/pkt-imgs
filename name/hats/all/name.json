@@ -3627,6 +3627,22 @@
       }
     }
   },
+  "u_hats1219.png": {
+    "name": "清池韶华女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1218.png": {
+    "name": "清池韶华男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1215.png": {
     "name": "壶花春意女头饰",
     "hideBaseLayer": false,

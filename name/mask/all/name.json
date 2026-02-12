@@ -65,6 +65,14 @@
       }
     }
   },
+  "u_mask1401.png": {
+    "name": "舞狮迎春发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1400.png": {
     "name": "耶耶学院女发饰",
     "hideBaseLayer": false,

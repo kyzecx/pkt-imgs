@@ -465,6 +465,22 @@
       }
     }
   },
+  "u_hair4791.png": {
+    "name": "灵马送福女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4790.png": {
+    "name": "灵马送福男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4787.png": {
+    "name": "舞狮迎春女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4786.png": {
+    "name": "舞狮迎春男发",
+    "hideBaseLayer": false
+  },
   "u_hair4785.png": {
     "name": "Hot火辣面男发",
     "hideBaseLayer": false,
@@ -490,6 +506,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4783.png": {
+    "name": "翩翩纷飞女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4782.png": {
+    "name": "翩翩纷飞男发",
+    "hideBaseLayer": false
   },
   "u_hair4781.png": {
     "name": "红鸾夜语女发",
@@ -7029,6 +7053,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4080.png": {
+    "name": "清池韶华女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4079.png": {
+    "name": "清池韶华男发",
+    "hideBaseLayer": false
   },
   "u_hair4076.png": {
     "name": "午夜甜甜女发",
@@ -20551,6 +20583,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair2956.png": {
+    "name": "冬日暖黄女发",
+    "hideBaseLayer": false
+  },
+  "u_hair2955.png": {
+    "name": "冬日暖黄男发",
+    "hideBaseLayer": false
   },
   "u_hair2954.png": {
     "name": "喜迎新年女发",

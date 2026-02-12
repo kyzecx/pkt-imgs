@@ -464,6 +464,38 @@
       }
     }
   },
+  "u_cset4433.png": {
+    "name": "灵马送福女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4432.png": {
+    "name": "灵马送福男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4429.png": {
+    "name": "舞狮迎春女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4428.png": {
+    "name": "舞狮迎春男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4427.png": {
     "name": "Hot火辣面男装",
     "hideBaseLayer": false,
@@ -488,6 +520,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4425.png": {
+    "name": "翩翩纷飞女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4424.png": {
+    "name": "翩翩纷飞男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4423.png": {
@@ -6701,6 +6749,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset3779.png": {
+    "name": "清池韶华女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset3778.png": {
+    "name": "清池韶华男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset3775.png": {
@@ -18170,6 +18234,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset2822.png": {
+    "name": "冬日暖黄女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset2821.png": {
+    "name": "冬日暖黄男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset2820.png": {
