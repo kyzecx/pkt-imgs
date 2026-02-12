@@ -1,4 +1,20 @@
 {
+  "u_mask1426.png": {
+    "name": "律动磁音女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1425.png": {
+    "name": "律动磁音男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1418.png": {
     "name": "可可麻鼠男发卡",
     "hideBaseLayer": false,

@@ -1,4 +1,20 @@
 {
+  "u_hats1528.png": {
+    "name": "爱意传递男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1527.png": {
+    "name": "爱意传递女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1522.png": {
     "name": "财神来",
     "hideBaseLayer": false,

@@ -1,28 +1,33 @@
 {
   "meta": {
-    "description": "2026年2月9日更新",
-    "weeklyUpdateTimestamp": 1770285600,
-    "hotfixUpdateTimestamp": 1770663890
+    "description": "2026年2月12日更新",
+    "weeklyUpdateTimestamp": 1770890400,
+    "hotfixUpdateTimestamp": 1770898857
   },
   "categories": {
     "hair": [
-      "可可麻鼠女发",
-      "可可麻鼠男发"
+      "u_hair4888.png",
+      "u_hair4889.png",
+      "u_hair4890.png",
+      "u_hair4891.png"
     ],
     "hats": [
-      "财神来"
+      "u_hats1527.png",
+      "u_hats1528.png"
     ],
     "glas": [],
     "mask": [
-      "可可麻鼠女发卡",
-      "可可麻鼠男发卡"
+      "u_mask1425.png",
+      "u_mask1426.png"
     ],
     "bear": [],
     "coat": [],
     "clot": [],
     "cset": [
-      "可可麻鼠女装",
-      "可可麻鼠男装"
+      "u_cset4524.png",
+      "u_cset4525.png",
+      "u_cset4526.png",
+      "u_cset4527.png"
     ],
     "pant": [],
     "wing": []

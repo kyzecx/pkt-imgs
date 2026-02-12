@@ -1,4 +1,36 @@
 {
+  "u_cset4527.png": {
+    "name": "爱意传递男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4526.png": {
+    "name": "爱意传递女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4525.png": {
+    "name": "律动磁音女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4524.png": {
+    "name": "律动磁音男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4513.png": {
     "name": "可可麻鼠男装",
     "hideBaseLayer": false,
