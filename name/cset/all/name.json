@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4526.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4525.png": {
@@ -21,6 +39,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4524.png": {
@@ -29,6 +56,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4513.png": {
@@ -37,6 +73,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4512.png": {
@@ -45,6 +90,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4505.png": {
@@ -470,6 +524,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4432.png": {
@@ -478,6 +541,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4429.png": {
@@ -486,6 +558,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4428.png": {
@@ -494,6 +575,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4427.png": {
@@ -528,6 +618,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4424.png": {
@@ -536,6 +635,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset4423.png": {
@@ -6757,6 +6865,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_309.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset3778.png": {
@@ -6765,6 +6882,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_308.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset3775.png": {
@@ -18242,6 +18368,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_308.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset2821.png": {
@@ -18250,6 +18385,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "cset_308.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_cset2820.png": {
