@@ -14,55 +14,19 @@
   },
   "u_hair4891.png": {
     "name": "爱意传递男发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_328.png",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4890.png": {
     "name": "爱意传递女发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_328.png",
-      "position": {
-        "x": 700,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4889.png": {
     "name": "律动磁音女发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_327.png",
-      "position": {
-        "x": 2100,
-        "y": 2520,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4888.png": {
     "name": "律动磁音男发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_327.png",
-      "position": {
-        "x": 1400,
-        "y": 2520,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4877.png": {
     "name": "可可麻鼠男发",
