@@ -14,19 +14,55 @@
   },
   "u_hair4891.png": {
     "name": "爱意传递男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4890.png": {
     "name": "爱意传递女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4889.png": {
     "name": "律动磁音女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4888.png": {
     "name": "律动磁音男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4877.png": {
     "name": "可可麻鼠男发",
@@ -116,11 +152,29 @@
   },
   "u_hair4845.png": {
     "name": "融雪宝贝男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4844.png": {
     "name": "融雪宝贝女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4843.png": {
     "name": "烛光宴会男发",
@@ -280,11 +334,29 @@
   },
   "u_hair4825.png": {
     "name": "红绒小袄女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4824.png": {
     "name": "红绒小袄男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4823.png": {
     "name": "紫糖地雷女发",
