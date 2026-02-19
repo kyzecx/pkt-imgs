@@ -99,6 +99,22 @@
       }
     }
   },
+  "u_cset4501.png": {
+    "name": "暖绒兔宝男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4500.png": {
+    "name": "暖绒兔宝女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4491.png": {
     "name": "雪天豹抱女装",
     "hideBaseLayer": false,

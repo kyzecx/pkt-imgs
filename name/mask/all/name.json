@@ -49,6 +49,22 @@
       }
     }
   },
+  "u_mask1416.png": {
+    "name": "暖绒兔宝眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1415.png": {
+    "name": "暖绒兔宝发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1406.png": {
     "name": "暖蔷花园蝴蝶结",
     "hideBaseLayer": false,
