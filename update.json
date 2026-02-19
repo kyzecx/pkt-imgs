@@ -5,30 +5,14 @@
     "hotfixUpdateTimestamp": 1771501393
   },
   "categories": {
-    "hair": [
-      "u_hair4888.png",
-      "u_hair4889.png",
-      "u_hair4890.png",
-      "u_hair4891.png"
-    ],
-    "hats": [
-      "u_hats1527.png",
-      "u_hats1528.png"
-    ],
+    "hair": ["红绒小袄男发", "红绒小袄女发", "融雪宝贝女发", "融雪宝贝男发"],
+    "hats": ["红绒小袄男帽子", "红绒小袄女帽子"],
     "glas": [],
-    "mask": [
-      "u_mask1425.png",
-      "u_mask1426.png"
-    ],
+    "mask": [],
     "bear": [],
     "coat": [],
     "clot": [],
-    "cset": [
-      "u_cset4524.png",
-      "u_cset4525.png",
-      "u_cset4526.png",
-      "u_cset4527.png"
-    ],
+    "cset": ["红绒小袄男装", "红绒小袄女装", "融雪宝贝女装", "融雪宝贝男装"],
     "pant": [],
     "wing": []
   }

@@ -133,6 +133,22 @@
       }
     }
   },
+  "u_cset4481.png": {
+    "name": "融雪宝贝男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4480.png": {
+    "name": "融雪宝贝女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4479.png": {
     "name": "烛光宴会男装",
     "hideBaseLayer": false,
@@ -282,6 +298,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4462.png": {
+    "name": "红绒小袄女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4461.png": {
+    "name": "红绒小袄男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4460.png": {

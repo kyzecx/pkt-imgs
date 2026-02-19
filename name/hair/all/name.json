@@ -106,6 +106,14 @@
       }
     }
   },
+  "u_hair4845.png": {
+    "name": "融雪宝贝男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4844.png": {
+    "name": "融雪宝贝女发",
+    "hideBaseLayer": false
+  },
   "u_hair4843.png": {
     "name": "烛光宴会男发",
     "hideBaseLayer": false,
@@ -261,6 +269,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4825.png": {
+    "name": "红绒小袄女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4824.png": {
+    "name": "红绒小袄男发",
+    "hideBaseLayer": false
   },
   "u_hair4823.png": {
     "name": "紫糖地雷女发",

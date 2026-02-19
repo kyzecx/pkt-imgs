@@ -134,6 +134,22 @@
       }
     }
   },
+  "u_hats1502.png": {
+    "name": "红绒小袄女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1501.png": {
+    "name": "红绒小袄男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1500.png": {
     "name": "紫糖地雷女帽子",
     "hideBaseLayer": false,
