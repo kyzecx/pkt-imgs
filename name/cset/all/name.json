@@ -5,15 +5,6 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
-    },
-    "bundle": {
-      "atlas": "cset_312.png",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
     }
   },
   "u_cset4526.png": {
@@ -22,15 +13,6 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
-    },
-    "bundle": {
-      "atlas": "cset_312.png",
-      "position": {
-        "x": 700,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
     }
   },
   "u_cset4525.png": {
@@ -39,15 +21,6 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
-    },
-    "bundle": {
-      "atlas": "cset_312.png",
-      "position": {
-        "x": 1400,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
     }
   },
   "u_cset4524.png": {
@@ -56,15 +29,6 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
-    },
-    "bundle": {
-      "atlas": "cset_312.png",
-      "position": {
-        "x": 2100,
-        "y": 0,
-        "w": 700,
-        "h": 840
-      }
     }
   },
   "u_cset4513.png": {
