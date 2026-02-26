@@ -848,6 +848,22 @@
       }
     }
   },
+  "u_cset4409.png": {
+    "name": "甜心兔宝女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4408.png": {
+    "name": "甜心兔宝男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4407.png": {
     "name": "脆甜咬印女装",
     "hideBaseLayer": false,
@@ -958,6 +974,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4395.png": {
+    "name": "瑞雪纷飞女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4394.png": {
+    "name": "瑞雪纷飞男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4393.png": {

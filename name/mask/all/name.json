@@ -304,6 +304,22 @@
       }
     }
   },
+  "u_mask1383.png": {
+    "name": "瑞雪纷飞女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1382.png": {
+    "name": "瑞雪纷飞男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1381.png": {
     "name": "绒绒心意女发饰",
     "hideBaseLayer": false,
