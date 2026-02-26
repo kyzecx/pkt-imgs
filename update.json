@@ -1,33 +1,25 @@
 {
   "meta": {
-    "description": "2026年2月19日更新",
-    "weeklyUpdateTimestamp": 1771495200,
-    "hotfixUpdateTimestamp": 1771503444
+    "description": "2026年2月26日更新",
+    "weeklyUpdateTimestamp": 1772100000,
+    "hotfixUpdateTimestamp": 1772106079
   },
   "categories": {
     "hair": [
-      "u_hair4888.png",
-      "u_hair4889.png",
-      "u_hair4890.png",
-      "u_hair4891.png"
+      "u_hair4902.png",
+      "u_hair4903.png"
     ],
     "hats": [
-      "u_hats1527.png",
-      "u_hats1528.png"
+      "u_hats1535.png"
     ],
     "glas": [],
-    "mask": [
-      "u_mask1425.png",
-      "u_mask1426.png"
-    ],
+    "mask": [],
     "bear": [],
     "coat": [],
     "clot": [],
     "cset": [
-      "u_cset4524.png",
-      "u_cset4525.png",
-      "u_cset4526.png",
-      "u_cset4527.png"
+      "u_cset4538.png",
+      "u_cset4539.png"
     ],
     "pant": [],
     "wing": []

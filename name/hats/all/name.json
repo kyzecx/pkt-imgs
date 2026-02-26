@@ -1,4 +1,12 @@
 {
+  "u_hats1535.png": {
+    "name": "春风蛋糕头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1528.png": {
     "name": "爱意传递男头饰",
     "hideBaseLayer": false,
