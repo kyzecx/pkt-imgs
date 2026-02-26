@@ -14,27 +14,81 @@
   },
   "u_hair4903.png": {
     "name": "春风蛋糕女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4902.png": {
     "name": "春风蛋糕男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4891.png": {
     "name": "爱意传递男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4890.png": {
     "name": "爱意传递女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4889.png": {
     "name": "律动磁音女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4888.png": {
     "name": "律动磁音男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4877.png": {
     "name": "可可麻鼠男发",
@@ -94,8 +148,8 @@
     "bundle": {
       "atlas": "hair_328.png",
       "position": {
-        "x": 700,
-        "y": 1680,
+        "x": 0,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -107,8 +161,8 @@
     "bundle": {
       "atlas": "hair_328.png",
       "position": {
-        "x": 0,
-        "y": 1680,
+        "x": 700,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -146,8 +200,8 @@
     "bundle": {
       "atlas": "hair_328.png",
       "position": {
-        "x": 0,
-        "y": 840,
+        "x": 1400,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -159,8 +213,8 @@
     "bundle": {
       "atlas": "hair_328.png",
       "position": {
-        "x": 700,
-        "y": 840,
+        "x": 2100,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -328,7 +382,7 @@
     "bundle": {
       "atlas": "hair_328.png",
       "position": {
-        "x": 1400,
+        "x": 0,
         "y": 840,
         "w": 700,
         "h": 840
@@ -341,7 +395,7 @@
     "bundle": {
       "atlas": "hair_328.png",
       "position": {
-        "x": 2100,
+        "x": 700,
         "y": 840,
         "w": 700,
         "h": 840
@@ -779,11 +833,29 @@
   },
   "u_hair4767.png": {
     "name": "甜心兔宝女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4766.png": {
     "name": "甜心兔宝男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4765.png": {
     "name": "脆甜咬印女发",
@@ -891,11 +963,29 @@
   },
   "u_hair4753.png": {
     "name": "瑞雪纷飞女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4752.png": {
     "name": "瑞雪纷飞男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4751.png": {
     "name": "伞落情缘女发",
@@ -1965,15 +2055,42 @@
   },
   "u_hair4616.png": {
     "name": "芙芙女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4615.png": {
     "name": "普赛克女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4614.png": {
     "name": "普赛克男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4613.png": {
     "name": "暮蝶寻滢女发",
@@ -2133,23 +2250,68 @@
   },
   "u_hair4595.png": {
     "name": "蝶妘女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4594.png": {
     "name": "蝶意染梦女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4591.png": {
     "name": "绡蝶垂云女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4590.png": {
     "name": "黛翎女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4589.png": {
     "name": "黛翎男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_328.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4588.png": {
     "name": "惊梦女发",
