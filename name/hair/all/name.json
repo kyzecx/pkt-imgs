@@ -14,11 +14,29 @@
   },
   "u_hair4911.png": {
     "name": "纯爱绵绵女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4910.png": {
     "name": "纯爱绵绵男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4903.png": {
     "name": "春风蛋糕女发",
@@ -26,8 +44,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 2100,
-        "y": 840,
+        "x": 0,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -39,8 +57,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 1400,
-        "y": 840,
+        "x": 700,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -52,8 +70,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 700,
-        "y": 840,
+        "x": 1400,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -65,8 +83,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 0,
-        "y": 840,
+        "x": 2100,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -78,8 +96,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 2100,
-        "y": 0,
+        "x": 0,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -91,8 +109,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 1400,
-        "y": 0,
+        "x": 700,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -845,8 +863,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 700,
-        "y": 0,
+        "x": 1400,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -858,8 +876,8 @@
     "bundle": {
       "atlas": "hair_329.png",
       "position": {
-        "x": 0,
-        "y": 0,
+        "x": 2100,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -4585,11 +4603,29 @@
   },
   "u_hair4360.png": {
     "name": "林间花狐女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4359.png": {
     "name": "林间花狐男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_329.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4358.png": {
     "name": "早餐迟迟女发",
