@@ -2199,6 +2199,22 @@
       }
     }
   },
+  "u_hats1330.png": {
+    "name": "林间花狐女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1329.png": {
+    "name": "林间花狐男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1326.png": {
     "name": "甜蜜美梦女头饰",
     "hideBaseLayer": false,

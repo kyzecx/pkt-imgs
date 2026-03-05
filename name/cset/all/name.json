@@ -4204,6 +4204,22 @@
       }
     }
   },
+  "u_cset4050.png": {
+    "name": "林间花狐女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4049.png": {
+    "name": "林间花狐男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4048.png": {
     "name": "早餐迟迟女装",
     "hideBaseLayer": false,
