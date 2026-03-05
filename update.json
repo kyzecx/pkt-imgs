@@ -1,43 +1,23 @@
 {
   "meta": {
-    "description": "2026年2月26日更新",
-    "weeklyUpdateTimestamp": 1772100000,
-    "hotfixUpdateTimestamp": 1772106079
+    "description": "2026年3月5日更新",
+    "weeklyUpdateTimestamp": 1772704800,
+    "hotfixUpdateTimestamp": 1772712472
   },
   "categories": {
     "hair": [
-      "春风蛋糕男发",
-      "春风蛋糕女发",
-      	"甜心兔宝男发",
-	"甜心兔宝女发",
-  "瑞雪纷飞男发",
-	"瑞雪纷飞女发",
-	"蝶意染梦女发",
-	"蝶妘女发",
-	"普赛克男发",
-	"普赛克女发",
-	"芙芙女发",
-	"黛翎男发",
-	"黛翎女发",
-	"绡蝶垂云女发"
+      "u_hair4910.png",
+      "u_hair4911.png"
     ],
-    "hats": [
-      "春风蛋糕头饰",
-      	"瑞雪纷飞男发饰",
-	"瑞雪纷飞女发饰"
-    ],
+    "hats": [],
     "glas": [],
     "mask": [],
     "bear": [],
     "coat": [],
     "clot": [],
     "cset": [
-      "春风蛋糕男装",
-      "春风蛋糕女装",
-      "瑞雪纷飞男装",
-	"瑞雪纷飞女装",
-  "甜心兔宝男装",
-	"甜心兔宝女装"
+      "u_cset4546.png",
+      "u_cset4547.png"
     ],
     "pant": [],
     "wing": []

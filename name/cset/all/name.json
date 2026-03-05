@@ -1,4 +1,20 @@
 {
+  "u_cset4547.png": {
+    "name": "纯爱绵绵女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4546.png": {
+    "name": "纯爱绵绵男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4539.png": {
     "name": "春风蛋糕女装",
     "hideBaseLayer": false,
