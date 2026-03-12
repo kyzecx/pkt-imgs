@@ -67,6 +67,22 @@
       }
     }
   },
+  "u_cset4531.png": {
+    "name": "冰晶玫瑰女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4530.png": {
+    "name": "冰晶玫瑰男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4527.png": {
     "name": "爱意传递男装",
     "hideBaseLayer": false,
@@ -167,6 +183,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4511.png": {
+    "name": "蜂蜜贝贝男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4510.png": {
+    "name": "蜂蜜贝贝女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4505.png": {

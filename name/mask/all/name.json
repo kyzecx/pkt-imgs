@@ -1,4 +1,12 @@
 {
+  "u_mask1429.png": {
+    "name": "冰晶玫瑰发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1426.png": {
     "name": "律动磁音女发饰",
     "hideBaseLayer": false,

@@ -64,6 +64,14 @@
       }
     }
   },
+  "u_hair4895.png": {
+    "name": "冰晶玫瑰女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4894.png": {
+    "name": "冰晶玫瑰男发",
+    "hideBaseLayer": false
+  },
   "u_hair4891.png": {
     "name": "爱意传递男发",
     "hideBaseLayer": false,
@@ -141,6 +149,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4875.png": {
+    "name": "蜂蜜贝贝男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4874.png": {
+    "name": "蜂蜜贝贝女发",
+    "hideBaseLayer": false
   },
   "u_hair4869.png": {
     "name": "心愿花火男发",
