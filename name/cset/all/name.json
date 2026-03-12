@@ -269,6 +269,22 @@
       }
     }
   },
+  "u_cset4499.png": {
+    "name": "落羽小兔男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4498.png": {
+    "name": "落羽小兔女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4491.png": {
     "name": "雪天豹抱女装",
     "hideBaseLayer": false,
@@ -1344,6 +1360,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4379.png": {
+    "name": "半糖主义女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4378.png": {
+    "name": "半糖主义男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4373.png": {
@@ -4418,6 +4450,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4044.png": {
+    "name": "恶魔惑心女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4043.png": {
+    "name": "恶魔惑心男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4040.png": {

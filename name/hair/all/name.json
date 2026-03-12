@@ -210,6 +210,14 @@
       }
     }
   },
+  "u_hair4863.png": {
+    "name": "落羽小兔男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4862.png": {
+    "name": "落羽小兔女发",
+    "hideBaseLayer": false
+  },
   "u_hair4855.png": {
     "name": "雪天豹抱女发",
     "hideBaseLayer": false,
@@ -1184,6 +1192,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4737.png": {
+    "name": "半糖主义女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4736.png": {
+    "name": "半糖主义男发",
+    "hideBaseLayer": false
   },
   "u_hair4731.png": {
     "name": "糕点工坊女发",
@@ -4668,6 +4684,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4354.png": {
+    "name": "恶魔惑心女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4353.png": {
+    "name": "恶魔惑心男发",
+    "hideBaseLayer": false
   },
   "u_hair4350.png": {
     "name": "夜幕降临女发",

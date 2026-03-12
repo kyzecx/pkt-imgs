@@ -432,6 +432,22 @@
       }
     }
   },
+  "u_mask1377.png": {
+    "name": "半糖主义女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1376.png": {
+    "name": "半糖主义男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1375.png": {
     "name": "摩卡风味发饰",
     "hideBaseLayer": false,

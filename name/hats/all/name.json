@@ -67,6 +67,22 @@
       }
     }
   },
+  "u_hats1519.png": {
+    "name": "落羽小兔男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1518.png": {
+    "name": "落羽小兔女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1514.png": {
     "name": "雪天豹抱女帽子",
     "hideBaseLayer": false,
@@ -2258,6 +2274,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_hats1328.png": {
+    "name": "恶魔惑心女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1327.png": {
+    "name": "恶魔惑心男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_hats1326.png": {
