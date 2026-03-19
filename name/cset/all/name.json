@@ -1924,6 +1924,22 @@
       }
     }
   },
+  "u_cset4315.png": {
+    "name": "香草奶芙男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4314.png": {
+    "name": "香草奶芙女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4311.png": {
     "name": "粉墨心动女装",
     "hideBaseLayer": false,
@@ -15204,6 +15220,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset3114.png": {
+    "name": "闪耀恋歌女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset3113.png": {
+    "name": "闪耀恋歌男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset3112.png": {

@@ -670,6 +670,14 @@
       }
     }
   },
+  "u_hair4806.png": {
+    "name": "爆爆红鬃男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4805.png": {
+    "name": "霜华白马女发",
+    "hideBaseLayer": false
+  },
   "u_hair4802.png": {
     "name": "彩虹糖女发",
     "hideBaseLayer": false,
@@ -1722,6 +1730,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4673.png": {
+    "name": "香草奶芙男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4672.png": {
+    "name": "香草奶芙女发",
+    "hideBaseLayer": false
   },
   "u_hair4669.png": {
     "name": "粉墨心动女发",
@@ -17025,6 +17041,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair3293.png": {
+    "name": "闪耀恋歌女发",
+    "hideBaseLayer": false
+  },
+  "u_hair3292.png": {
+    "name": "闪耀恋歌男发",
+    "hideBaseLayer": false
   },
   "u_hair3291.png": {
     "name": "芬芳之园女发",

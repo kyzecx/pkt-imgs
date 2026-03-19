@@ -5116,6 +5116,14 @@
       }
     }
   },
+  "u_mask1044.png": {
+    "name": "闪耀恋歌发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1043.png": {
     "name": "小海军制服男帽",
     "hideBaseLayer": false,
