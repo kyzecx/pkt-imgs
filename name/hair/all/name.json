@@ -14,11 +14,29 @@
   },
   "u_hair4957.png": {
     "name": "浅紫舞会男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4956.png": {
     "name": "浅紫舞会女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4911.png": {
     "name": "纯爱绵绵女发",
@@ -78,8 +96,8 @@
     "bundle": {
       "atlas": "hair_330.png",
       "position": {
-        "x": 700,
-        "y": 840,
+        "x": 0,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -91,8 +109,8 @@
     "bundle": {
       "atlas": "hair_330.png",
       "position": {
-        "x": 0,
-        "y": 840,
+        "x": 700,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -182,7 +200,7 @@
     "bundle": {
       "atlas": "hair_330.png",
       "position": {
-        "x": 2100,
+        "x": 1400,
         "y": 0,
         "w": 700,
         "h": 840
@@ -195,7 +213,7 @@
     "bundle": {
       "atlas": "hair_330.png",
       "position": {
-        "x": 1400,
+        "x": 2100,
         "y": 0,
         "w": 700,
         "h": 840
@@ -260,8 +278,8 @@
     "bundle": {
       "atlas": "hair_330.png",
       "position": {
-        "x": 700,
-        "y": 0,
+        "x": 0,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -273,8 +291,8 @@
     "bundle": {
       "atlas": "hair_330.png",
       "position": {
-        "x": 0,
-        "y": 0,
+        "x": 700,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -672,11 +690,29 @@
   },
   "u_hair4806.png": {
     "name": "爆爆红鬃男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4805.png": {
     "name": "霜华白马女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4802.png": {
     "name": "彩虹糖女发",
@@ -1733,11 +1769,29 @@
   },
   "u_hair4673.png": {
     "name": "香草奶芙男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4672.png": {
     "name": "香草奶芙女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4669.png": {
     "name": "粉墨心动女发",
@@ -17044,11 +17098,29 @@
   },
   "u_hair3293.png": {
     "name": "闪耀恋歌女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair3292.png": {
     "name": "闪耀恋歌男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair3291.png": {
     "name": "芬芳之园女发",
