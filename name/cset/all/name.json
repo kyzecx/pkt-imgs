@@ -1,4 +1,20 @@
 {
+  "u_cset4593.png": {
+    "name": "浅紫舞会男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4592.png": {
+    "name": "浅紫舞会女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4547.png": {
     "name": "纯爱绵绵女装",
     "hideBaseLayer": false,
