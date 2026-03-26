@@ -454,6 +454,14 @@
       }
     }
   },
+  "u_hair4831.png": {
+    "name": "粉梦回忆女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4830.png": {
+    "name": "粉梦回忆男发",
+    "hideBaseLayer": false
+  },
   "u_hair4829.png": {
     "name": "甜莓喵喵卷女发",
     "hideBaseLayer": false,
@@ -5731,6 +5739,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4268.png": {
+    "name": "戏团乐园女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4267.png": {
+    "name": "戏团乐园男发",
+    "hideBaseLayer": false
   },
   "u_hair4266.png": {
     "name": "浮光梦乡女发",

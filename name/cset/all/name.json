@@ -527,6 +527,22 @@
       }
     }
   },
+  "u_cset4469.png": {
+    "name": "粉梦回忆女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4468.png": {
+    "name": "粉梦回忆男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4467.png": {
     "name": "甜莓喵喵卷女装",
     "hideBaseLayer": false,
@@ -5495,6 +5511,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset3958.png": {
+    "name": "戏团乐园女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset3957.png": {
+    "name": "戏团乐园男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset3956.png": {
