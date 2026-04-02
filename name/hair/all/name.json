@@ -14,35 +14,107 @@
   },
   "u_hair4985.png": {
     "name": "汪汪大厨女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4984.png": {
     "name": "汪汪大厨男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4981.png": {
     "name": "森屿赴礼女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4980.png": {
     "name": "森屿赴礼男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4977.png": {
     "name": "苹果乐女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4976.png": {
     "name": "苹果乐男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4963.png": {
     "name": "春日花信女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4962.png": {
     "name": "春日花信男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4957.png": {
     "name": "浅紫舞会男发",
@@ -202,11 +274,29 @@
   },
   "u_hair4879.png": {
     "name": "粉紫心情男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4878.png": {
     "name": "粉紫心情女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 1400,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4877.png": {
     "name": "可可麻鼠男发",
@@ -500,7 +590,7 @@
     "bundle": {
       "atlas": "hair_331.png",
       "position": {
-        "x": 700,
+        "x": 0,
         "y": 0,
         "w": 700,
         "h": 840
@@ -513,7 +603,7 @@
     "bundle": {
       "atlas": "hair_331.png",
       "position": {
-        "x": 0,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840
@@ -1055,11 +1145,29 @@
   },
   "u_hair4769.png": {
     "name": "小兔心绪男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 700,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4768.png": {
     "name": "小兔心绪女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 0,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4767.png": {
     "name": "甜心兔宝女发",
@@ -36113,11 +36221,29 @@
   },
   "u_hair1764.png": {
     "name": "浮生春意男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 2100,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair1763.png": {
     "name": "浮生春意女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 1400,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair1762.png": {
     "name": "茵茵之春男发",
