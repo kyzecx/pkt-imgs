@@ -12,6 +12,38 @@
       }
     }
   },
+  "u_hair4985.png": {
+    "name": "汪汪大厨女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4984.png": {
+    "name": "汪汪大厨男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4981.png": {
+    "name": "森屿赴礼女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4980.png": {
+    "name": "森屿赴礼男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4977.png": {
+    "name": "苹果乐女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4976.png": {
+    "name": "苹果乐男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4963.png": {
+    "name": "春日花信女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4962.png": {
+    "name": "春日花信男发",
+    "hideBaseLayer": false
+  },
   "u_hair4957.png": {
     "name": "浅紫舞会男发",
     "hideBaseLayer": false,
@@ -167,6 +199,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4879.png": {
+    "name": "粉紫心情男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4878.png": {
+    "name": "粉紫心情女发",
+    "hideBaseLayer": false
   },
   "u_hair4877.png": {
     "name": "可可麻鼠男发",

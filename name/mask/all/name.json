@@ -1,4 +1,20 @@
 {
+  "u_mask1449.png": {
+    "name": "森屿赴礼女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1448.png": {
+    "name": "森屿赴礼男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1429.png": {
     "name": "冰晶玫瑰发饰",
     "hideBaseLayer": false,
@@ -48,6 +64,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask1420.png": {
+    "name": "粉紫心情男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1419.png": {
+    "name": "粉紫心情女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask1418.png": {

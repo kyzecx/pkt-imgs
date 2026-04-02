@@ -1,4 +1,68 @@
 {
+  "u_cset4621.png": {
+    "name": "汪汪大厨女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4620.png": {
+    "name": "汪汪大厨男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4617.png": {
+    "name": "森屿赴礼女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4616.png": {
+    "name": "森屿赴礼男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4613.png": {
+    "name": "苹果乐女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4612.png": {
+    "name": "苹果乐男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4599.png": {
+    "name": "春日花信女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4598.png": {
+    "name": "春日花信男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4593.png": {
     "name": "浅紫舞会男装",
     "hideBaseLayer": false,
@@ -201,6 +265,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4515.png": {
+    "name": "粉紫心情男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4514.png": {
+    "name": "粉紫心情女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4513.png": {
