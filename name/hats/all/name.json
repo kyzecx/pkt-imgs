@@ -1,6 +1,54 @@
 {
+  "u_hats1572.png": {
+    "name": "汪汪大厨女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1571.png": {
+    "name": "汪汪大厨男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1570.png": {
+    "name": "苹果乐女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1569.png": {
+    "name": "苹果乐男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1567.png": {
     "name": "奶油草莓头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1566.png": {
+    "name": "春日花信女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1565.png": {
+    "name": "春日花信男帽",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -583,6 +631,14 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_hats1473.png": {
+    "name": "小兔心绪发带",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_hats1472.png": {
