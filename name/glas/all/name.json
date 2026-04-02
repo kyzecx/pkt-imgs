@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_18.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas294_Animate.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": true,
       "animateFrame": 4
+    },
+    "bundle": {
+      "atlas": "glas_18.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_glas293.png": {

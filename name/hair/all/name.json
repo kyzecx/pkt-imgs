@@ -496,11 +496,29 @@
   },
   "u_hair4831.png": {
     "name": "粉梦回忆女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 700,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4830.png": {
     "name": "粉梦回忆男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_331.png",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4829.png": {
     "name": "甜莓喵喵卷女发",
@@ -5790,11 +5808,29 @@
   },
   "u_hair4268.png": {
     "name": "戏团乐园女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4267.png": {
     "name": "戏团乐园男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_330.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4266.png": {
     "name": "浮光梦乡女发",
