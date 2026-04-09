@@ -12,6 +12,14 @@
       }
     }
   },
+  "u_hair4989.png": {
+    "name": "新生萌芽男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4988.png": {
+    "name": "新生萌芽女发",
+    "hideBaseLayer": false
+  },
   "u_hair4985.png": {
     "name": "汪汪大厨女发",
     "hideBaseLayer": false,
@@ -90,6 +98,14 @@
       }
     }
   },
+  "u_hair4971.png": {
+    "name": "织梦时光女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4970.png": {
+    "name": "织梦时光男发",
+    "hideBaseLayer": false
+  },
   "u_hair4963.png": {
     "name": "春日花信女发",
     "hideBaseLayer": false,
@@ -141,6 +157,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4933.png": {
+    "name": "小侦探女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4932.png": {
+    "name": "小侦探男发",
+    "hideBaseLayer": false
   },
   "u_hair4911.png": {
     "name": "纯爱绵绵女发",

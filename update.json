@@ -1,51 +1,34 @@
 {
   "meta": {
-    "description": "2026年4月2日更新",
-    "weeklyUpdateTimestamp": 1775124000,
-    "hotfixUpdateTimestamp": 1775132892
+    "description": "2026年4月9日更新",
+    "weeklyUpdateTimestamp": 1775728800,
+    "hotfixUpdateTimestamp": 1775736891
   },
   "categories": {
     "hair": [
-      "森屿赴礼男发",
-      "森屿赴礼女发",
-      "汪汪大厨男发",
-      "汪汪大厨女发",
-      "u_hair4976.png",
-      "u_hair4977.png",
-      "u_hair4962.png",
-      "u_hair4963.png",
-      "u_hair4878.png",
-      "u_hair4879.png"
+      "u_hair4988.png",
+      "u_hair4989.png",
+      "u_hair4970.png",
+      "u_hair4971.png",
+      "u_hair4932.png",
+      "u_hair4933.png"
     ],
     "hats": [
-      "汪汪大厨男帽子",
-      "汪汪大厨女帽子",
-      "u_hats1569.png",
-      "u_hats1570.png",
-      "u_hats1565.png",
-      "u_hats1566.png"
+      "u_hats1547.png",
+      "u_hats1548.png"
     ],
     "glas": [],
-    "mask": [
-      "森屿赴礼男发饰",
-      "森屿赴礼女发饰",
-      "u_mask1419.png",
-      "u_mask1420.png"
-    ],
+    "mask": [],
     "bear": [],
     "coat": [],
     "clot": [],
     "cset": [
-      "森屿赴礼男装",
-      "森屿赴礼女装",
-      "汪汪大厨男装",
-      "汪汪大厨女装",
-      "u_cset4612.png",
-      "u_cset4613.png",
-      "u_cset4598.png",
-      "u_cset4599.png",
-      "u_cset4514.png",
-      "u_cset4515.png"
+      "u_cset4624.png",
+      "u_cset4625.png",
+      "u_cset4606.png",
+      "u_cset4607.png",
+      "u_cset4568.png",
+      "u_cset4569.png"
     ],
     "pant": [],
     "wing": []

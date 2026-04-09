@@ -118,6 +118,22 @@
       }
     }
   },
+  "u_hats1548.png": {
+    "name": "小侦探女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1547.png": {
+    "name": "小侦探男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1535.png": {
     "name": "春风蛋糕头饰",
     "hideBaseLayer": false,
