@@ -145,7 +145,7 @@
     "bundle": {
       "atlas": "cset_325.png",
       "position": {
-        "x": 2100,
+        "x": 0,
         "y": 0,
         "w": 700,
         "h": 840
@@ -162,7 +162,7 @@
     "bundle": {
       "atlas": "cset_325.png",
       "position": {
-        "x": 1400,
+        "x": 700,
         "y": 0,
         "w": 700,
         "h": 840
@@ -179,7 +179,7 @@
     "bundle": {
       "atlas": "cset_325.png",
       "position": {
-        "x": 700,
+        "x": 1400,
         "y": 0,
         "w": 700,
         "h": 840
@@ -196,7 +196,7 @@
     "bundle": {
       "atlas": "cset_325.png",
       "position": {
-        "x": 0,
+        "x": 2100,
         "y": 0,
         "w": 700,
         "h": 840
