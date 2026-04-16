@@ -118,19 +118,55 @@
   },
   "u_hair4975.png": {
     "name": "闲拾花语男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_332.png",
+      "position": {
+        "x": 2100,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4974.png": {
     "name": "闲拾花语女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_332.png",
+      "position": {
+        "x": 1400,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4973.png": {
     "name": "暖意心间男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_332.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4972.png": {
     "name": "暖意心间女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_332.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4971.png": {
     "name": "织梦时光女发",
@@ -290,11 +326,29 @@
   },
   "u_hair4899.png": {
     "name": "悠悠蓝鲸男发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_332.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4898.png": {
     "name": "悠悠蓝鲸女发",
-    "hideBaseLayer": false
+    "hideBaseLayer": false,
+    "bundle": {
+      "atlas": "hair_332.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
+    }
   },
   "u_hair4895.png": {
     "name": "冰晶玫瑰女发",
@@ -2083,8 +2137,8 @@
     "bundle": {
       "atlas": "hair_332.png",
       "position": {
-        "x": 700,
-        "y": 1680,
+        "x": 1400,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -2096,8 +2150,8 @@
     "bundle": {
       "atlas": "hair_332.png",
       "position": {
-        "x": 0,
-        "y": 1680,
+        "x": 2100,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -3149,8 +3203,8 @@
     "bundle": {
       "atlas": "hair_332.png",
       "position": {
-        "x": 2100,
-        "y": 840,
+        "x": 0,
+        "y": 1680,
         "w": 700,
         "h": 840
       }
@@ -3162,8 +3216,8 @@
     "bundle": {
       "atlas": "hair_332.png",
       "position": {
-        "x": 1400,
-        "y": 840,
+        "x": 700,
+        "y": 1680,
         "w": 700,
         "h": 840
       }
