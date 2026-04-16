@@ -169,6 +169,22 @@
       }
     }
   },
+  "u_hats1532.png": {
+    "name": "悠悠蓝鲸男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1531.png": {
+    "name": "悠悠蓝鲸女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1528.png": {
     "name": "爱意传递男头饰",
     "hideBaseLayer": false,

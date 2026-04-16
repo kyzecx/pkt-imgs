@@ -135,6 +135,38 @@
       }
     }
   },
+  "u_cset4611.png": {
+    "name": "闲拾花语男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4610.png": {
+    "name": "闲拾花语女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4609.png": {
+    "name": "暖意心间男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4608.png": {
+    "name": "暖意心间女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4607.png": {
     "name": "织梦时光女装",
     "hideBaseLayer": false,
@@ -337,6 +369,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4535.png": {
+    "name": "悠悠蓝鲸男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4534.png": {
+    "name": "悠悠蓝鲸女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4531.png": {

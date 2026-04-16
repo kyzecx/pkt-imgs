@@ -33,6 +33,22 @@
       }
     }
   },
+  "u_mask1447.png": {
+    "name": "花语男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1446.png": {
+    "name": "花语女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1429.png": {
     "name": "冰晶玫瑰发饰",
     "hideBaseLayer": false,

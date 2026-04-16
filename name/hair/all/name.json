@@ -116,6 +116,22 @@
       }
     }
   },
+  "u_hair4975.png": {
+    "name": "闲拾花语男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4974.png": {
+    "name": "闲拾花语女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4973.png": {
+    "name": "暖意心间男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4972.png": {
+    "name": "暖意心间女发",
+    "hideBaseLayer": false
+  },
   "u_hair4971.png": {
     "name": "织梦时光女发",
     "hideBaseLayer": false,
@@ -271,6 +287,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4899.png": {
+    "name": "悠悠蓝鲸男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4898.png": {
+    "name": "悠悠蓝鲸女发",
+    "hideBaseLayer": false
   },
   "u_hair4895.png": {
     "name": "冰晶玫瑰女发",
