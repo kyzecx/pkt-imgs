@@ -1138,6 +1138,22 @@
       }
     }
   },
+  "u_hats1433.png": {
+    "name": "童稚时光男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1432.png": {
+    "name": "童稚时光女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1431.png": {
     "name": "落羽画框女发饰",
     "hideBaseLayer": false,

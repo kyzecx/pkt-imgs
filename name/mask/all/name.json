@@ -832,6 +832,22 @@
       }
     }
   },
+  "u_mask1345.png": {
+    "name": "跃动甜心女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1344.png": {
+    "name": "跃动甜心男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1343.png": {
     "name": "未定格相纸耳钉",
     "hideBaseLayer": false,

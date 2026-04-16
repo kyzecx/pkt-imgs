@@ -2316,6 +2316,22 @@
       }
     }
   },
+  "u_cset4313.png": {
+    "name": "童稚时光男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4312.png": {
+    "name": "童稚时光女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4311.png": {
     "name": "粉墨心动女装",
     "hideBaseLayer": false,
@@ -2946,6 +2962,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4232.png": {
+    "name": "跃动甜心女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4231.png": {
+    "name": "跃动甜心男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4230.png": {

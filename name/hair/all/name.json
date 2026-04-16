@@ -2053,6 +2053,14 @@
       }
     }
   },
+  "u_hair4671.png": {
+    "name": "童稚时光男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4670.png": {
+    "name": "童稚时光女发",
+    "hideBaseLayer": false
+  },
   "u_hair4669.png": {
     "name": "粉墨心动女发",
     "hideBaseLayer": false,
@@ -3092,6 +3100,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4542.png": {
+    "name": "跃动甜心女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4541.png": {
+    "name": "跃动甜心男发",
+    "hideBaseLayer": false
   },
   "u_hair4540.png": {
     "name": "莓莓气泡水女发",
