@@ -254,6 +254,22 @@
       }
     }
   },
+  "u_mask1403.png": {
+    "name": "魔药巫师男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1402.png": {
+    "name": "魔药巫师女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1401.png": {
     "name": "舞狮迎春发饰",
     "hideBaseLayer": false,
@@ -2088,6 +2104,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask1259.png": {
+    "name": "琴真倾意女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1258.png": {
+    "name": "琴真倾意男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask1257.png": {

@@ -1264,6 +1264,54 @@
       }
     }
   },
+  "u_cset4439.png": {
+    "name": "魔药巫师男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4438.png": {
+    "name": "魔药巫师女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4437.png": {
+    "name": "治疗厨师男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4436.png": {
+    "name": "治疗厨师女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4435.png": {
+    "name": "刀叉骑士男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4434.png": {
+    "name": "刀叉骑士女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4433.png": {
     "name": "灵马送福女装",
     "hideBaseLayer": false,
@@ -5725,6 +5773,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset3986.png": {
+    "name": "琴真倾意女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset3985.png": {
+    "name": "琴真倾意男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset3984.png": {

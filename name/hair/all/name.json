@@ -1107,6 +1107,30 @@
       }
     }
   },
+  "u_hair4797.png": {
+    "name": "魔药巫师男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4796.png": {
+    "name": "魔药巫师女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4795.png": {
+    "name": "治疗厨师男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4794.png": {
+    "name": "治疗厨师女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4793.png": {
+    "name": "刀叉骑士男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4792.png": {
+    "name": "刀叉骑士女发",
+    "hideBaseLayer": false
+  },
   "u_hair4791.png": {
     "name": "灵马送福女发",
     "hideBaseLayer": false,
@@ -5825,6 +5849,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4296.png": {
+    "name": "琴真倾意女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4295.png": {
+    "name": "琴真倾意男发",
+    "hideBaseLayer": false
   },
   "u_hair4294.png": {
     "name": "奶味熊熊包女发",

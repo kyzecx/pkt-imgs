@@ -627,6 +627,22 @@
       }
     }
   },
+  "u_hats1487.png": {
+    "name": "治疗厨师男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1486.png": {
+    "name": "治疗厨师女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1485.png": {
     "name": "金属风马耳朵",
     "hideBaseLayer": false,
