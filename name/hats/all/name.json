@@ -5,6 +5,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_88.png",
+      "position": {
+        "x": 700,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1581.png": {
@@ -13,6 +22,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_88.png",
+      "position": {
+        "x": 0,
+        "y": 2520,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1572.png": {
@@ -195,8 +213,8 @@
     "bundle": {
       "atlas": "hats_88.png",
       "position": {
-        "x": 700,
-        "y": 1680,
+        "x": 1400,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -212,8 +230,8 @@
     "bundle": {
       "atlas": "hats_88.png",
       "position": {
-        "x": 0,
-        "y": 1680,
+        "x": 2100,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -633,6 +651,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_88.png",
+      "position": {
+        "x": 2100,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1486.png": {
@@ -641,6 +668,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "hats_88.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_hats1485.png": {
@@ -1214,8 +1250,8 @@
     "bundle": {
       "atlas": "hats_88.png",
       "position": {
-        "x": 1400,
-        "y": 840,
+        "x": 0,
+        "y": 1680,
         "w": 700,
         "h": 840
       }
@@ -1231,8 +1267,8 @@
     "bundle": {
       "atlas": "hats_88.png",
       "position": {
-        "x": 2100,
-        "y": 840,
+        "x": 700,
+        "y": 1680,
         "w": 700,
         "h": 840
       }

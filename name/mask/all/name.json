@@ -43,8 +43,8 @@
     "bundle": {
       "atlas": "mask_76.png",
       "position": {
-        "x": 1400,
-        "y": 840,
+        "x": 700,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -60,8 +60,8 @@
     "bundle": {
       "atlas": "mask_76.png",
       "position": {
-        "x": 700,
-        "y": 840,
+        "x": 1400,
+        "y": 0,
         "w": 700,
         "h": 840
       }
@@ -260,6 +260,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_76.png",
+      "position": {
+        "x": 1400,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1402.png": {
@@ -268,6 +277,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_76.png",
+      "position": {
+        "x": 700,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1401.png": {
@@ -892,7 +910,7 @@
     "bundle": {
       "atlas": "mask_76.png",
       "position": {
-        "x": 700,
+        "x": 2100,
         "y": 0,
         "w": 700,
         "h": 840
@@ -909,8 +927,8 @@
     "bundle": {
       "atlas": "mask_76.png",
       "position": {
-        "x": 1400,
-        "y": 0,
+        "x": 0,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -2112,6 +2130,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_76.png",
+      "position": {
+        "x": 0,
+        "y": 1680,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1258.png": {
@@ -2120,6 +2147,15 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    },
+    "bundle": {
+      "atlas": "mask_76.png",
+      "position": {
+        "x": 2100,
+        "y": 840,
+        "w": 700,
+        "h": 840
+      }
     }
   },
   "u_mask1257.png": {
@@ -13794,8 +13830,8 @@
     "bundle": {
       "atlas": "mask_76.png",
       "position": {
-        "x": 2100,
-        "y": 0,
+        "x": 700,
+        "y": 840,
         "w": 700,
         "h": 840
       }
@@ -13811,7 +13847,7 @@
     "bundle": {
       "atlas": "mask_76.png",
       "position": {
-        "x": 0,
+        "x": 1400,
         "y": 840,
         "w": 700,
         "h": 840
