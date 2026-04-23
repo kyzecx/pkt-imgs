@@ -1,4 +1,20 @@
 {
+  "u_cset4659.png": {
+    "name": "牛崽很忙男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4658.png": {
+    "name": "牛崽很忙女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4625.png": {
     "name": "新生萌芽男装",
     "hideBaseLayer": false,
@@ -337,6 +353,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4557.png": {
+    "name": "星星堆男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4556.png": {
+    "name": "星星堆女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4547.png": {

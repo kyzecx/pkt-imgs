@@ -1,4 +1,20 @@
 {
+  "u_hats1582.png": {
+    "name": "牛崽很忙男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1581.png": {
+    "name": "牛崽很忙女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1572.png": {
     "name": "汪汪大厨女帽子",
     "hideBaseLayer": false,

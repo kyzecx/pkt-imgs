@@ -12,6 +12,14 @@
       }
     }
   },
+  "u_hair5023.png": {
+    "name": "牛崽很忙男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5022.png": {
+    "name": "牛崽很忙女发",
+    "hideBaseLayer": false
+  },
   "u_hair4989.png": {
     "name": "新生萌芽男发",
     "hideBaseLayer": false,
@@ -271,6 +279,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4921.png": {
+    "name": "星星堆男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4920.png": {
+    "name": "星星堆女发",
+    "hideBaseLayer": false
   },
   "u_hair4911.png": {
     "name": "纯爱绵绵女发",

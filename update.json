@@ -1,21 +1,19 @@
 {
   "meta": {
-    "description": "2026年4月9日更新",
-    "weeklyUpdateTimestamp": 1775728800,
-    "hotfixUpdateTimestamp": 1775736891
+    "description": "2026-04-23 update",
+    "weeklyUpdateTimestamp": 1776938400,
+    "hotfixUpdateTimestamp": 1776947579
   },
   "categories": {
     "hair": [
-      "u_hair4988.png",
-      "u_hair4989.png",
-      "u_hair4970.png",
-      "u_hair4971.png",
-      "u_hair4932.png",
-      "u_hair4933.png"
+      "牛崽很忙女发",
+      "牛崽很忙男发",
+      "星星堆女发",
+      "星星堆男发"
     ],
     "hats": [
-      "u_hats1547.png",
-      "u_hats1548.png"
+      "牛崽很忙女帽子",
+      "牛崽很忙男帽子"
     ],
     "glas": [],
     "mask": [],
@@ -23,12 +21,10 @@
     "coat": [],
     "clot": [],
     "cset": [
-      "u_cset4624.png",
-      "u_cset4625.png",
-      "u_cset4606.png",
-      "u_cset4607.png",
-      "u_cset4568.png",
-      "u_cset4569.png"
+      "牛崽很忙女装",
+      "牛崽很忙男装",
+      "星星堆女装",
+      "星星堆男装"
     ],
     "pant": [],
     "wing": []
