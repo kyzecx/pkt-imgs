@@ -14,29 +14,11 @@
   },
   "u_hair5023.png": {
     "name": "牛崽很忙男发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_333.png",
-      "position": {
-        "x": 2100,
-        "y": 1680,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair5022.png": {
     "name": "牛崽很忙女发",
-    "hideBaseLayer": false,
-    "bundle": {
-      "atlas": "hair_333.png",
-      "position": {
-        "x": 1400,
-        "y": 1680,
-        "w": 700,
-        "h": 840
-      }
-    }
+    "hideBaseLayer": false
   },
   "u_hair4989.png": {
     "name": "新生萌芽男发",
