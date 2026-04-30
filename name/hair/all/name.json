@@ -20,6 +20,14 @@
     "name": "牛崽很忙女发",
     "hideBaseLayer": false
   },
+  "u_hair5003.png": {
+    "name": "映入眼蝶男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5002.png": {
+    "name": "映入眼蝶女发",
+    "hideBaseLayer": false
+  },
   "u_hair4989.png": {
     "name": "新生萌芽男发",
     "hideBaseLayer": false,
@@ -71,6 +79,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4983.png": {
+    "name": "春知晓女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4982.png": {
+    "name": "春知晓男发",
+    "hideBaseLayer": false
   },
   "u_hair4981.png": {
     "name": "森屿赴礼女发",
@@ -253,6 +269,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4935.png": {
+    "name": "绯红灵狐女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4934.png": {
+    "name": "绯红灵狐男发",
+    "hideBaseLayer": false
   },
   "u_hair4933.png": {
     "name": "小侦探女发",

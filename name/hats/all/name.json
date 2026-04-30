@@ -134,6 +134,22 @@
       }
     }
   },
+  "u_hats1550.png": {
+    "name": "绯红灵狐女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1549.png": {
+    "name": "绯红灵狐男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1548.png": {
     "name": "小侦探女帽",
     "hideBaseLayer": false,

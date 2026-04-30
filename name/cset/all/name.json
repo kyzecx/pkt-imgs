@@ -15,6 +15,22 @@
       "animateFrame": 0
     }
   },
+  "u_cset4639.png": {
+    "name": "映入眼蝶男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4638.png": {
+    "name": "映入眼蝶女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4625.png": {
     "name": "新生萌芽男装",
     "hideBaseLayer": false,
@@ -81,6 +97,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4619.png": {
+    "name": "春知晓女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4618.png": {
+    "name": "春知晓男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4617.png": {
@@ -319,6 +351,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4571.png": {
+    "name": "绯红灵狐女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4570.png": {
+    "name": "绯红灵狐男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4569.png": {
