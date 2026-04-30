@@ -2923,6 +2923,14 @@
       }
     }
   },
+  "u_mask1207.png": {
+    "name": "耀星粉墨头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1206.png": {
     "name": "玫瑰零落男头饰",
     "hideBaseLayer": false,

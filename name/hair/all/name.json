@@ -954,6 +954,14 @@
       }
     }
   },
+  "u_hair4819.png": {
+    "name": "喵喵糖男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4818.png": {
+    "name": "喵喵糖女发",
+    "hideBaseLayer": false
+  },
   "u_hair4816.png": {
     "name": "音叛甜心男发",
     "hideBaseLayer": false,
@@ -2033,6 +2041,10 @@
       }
     }
   },
+  "u_hair4700.png": {
+    "name": "化蝶女发",
+    "hideBaseLayer": false
+  },
   "u_hair4699.png": {
     "name": "扬铃舞蝶女发",
     "hideBaseLayer": false,
@@ -2917,6 +2929,14 @@
       }
     }
   },
+  "u_hair4603.png": {
+    "name": "蝶缀桃丝女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4602.png": {
+    "name": "蝶依粉霞男发",
+    "hideBaseLayer": false
+  },
   "u_hair4601.png": {
     "name": "青雪缎女发",
     "hideBaseLayer": false,
@@ -2955,6 +2975,18 @@
         "h": 840
       }
     }
+  },
+  "u_hair4598.png": {
+    "name": "月下萤火女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4597.png": {
+    "name": "蝶影缱绻女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4596.png": {
+    "name": "蝶隐女发",
+    "hideBaseLayer": false
   },
   "u_hair4595.png": {
     "name": "蝶妘女发",
@@ -3059,6 +3091,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4585.png": {
+    "name": "墨陨蝶女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4584.png": {
+    "name": "白垩蝶男发",
+    "hideBaseLayer": false
   },
   "u_hair4583.png": {
     "name": "爱神闪蝶女发",
@@ -8012,6 +8052,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4102.png": {
+    "name": "耀星粉墨男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4101.png": {
+    "name": "耀星粉墨女发",
+    "hideBaseLayer": false
   },
   "u_hair4100.png": {
     "name": "击鼓传福女发",

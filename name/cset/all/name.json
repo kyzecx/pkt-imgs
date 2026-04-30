@@ -1166,6 +1166,22 @@
       }
     }
   },
+  "u_cset4458.png": {
+    "name": "喵喵糖男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4457.png": {
+    "name": "喵喵糖女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4455.png": {
     "name": "音叛甜心男装",
     "hideBaseLayer": false,
@@ -7885,6 +7901,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset3801.png": {
+    "name": "耀星粉墨男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset3800.png": {
+    "name": "耀星粉墨女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset3799.png": {
