@@ -1,34 +1,29 @@
 {
   "meta": {
-    "description": "2026-04-30 update",
-    "weeklyUpdateTimestamp": 1777543200,
-    "hotfixUpdateTimestamp": 1777550062
+    "description": "2026-05-07 update",
+    "weeklyUpdateTimestamp": 1778148000,
+    "hotfixUpdateTimestamp": 1778160551
   },
   "categories": {
     "hair": [
-      "映入眼蝶女发",
-      "映入眼蝶男发",
-      "春知晓男发",
-      "春知晓女发",
-      "绯红灵狐男发",
-      "绯红灵狐女发"
+      "春野兔叽男发",
+      "春野兔叽女发"
     ],
     "hats": [
-      "绯红灵狐男帽子",
-      "绯红灵狐女帽子"
+      "春野兔叽男帽",
+      "春野兔叽女帽"
     ],
-    "glas": [],
+    "glas": [
+      "迷离女眸",
+      "迷离男眸"
+    ],
     "mask": [],
     "bear": [],
     "coat": [],
     "clot": [],
     "cset": [
-      "映入眼蝶女装",
-      "映入眼蝶男装",
-      "春知晓男装",
-      "春知晓女装",
-      "绯红灵狐男装",
-      "绯红灵狐女装"
+      "春野兔叽男装",
+      "春野兔叽女装"
     ],
     "pant": [],
     "wing": []

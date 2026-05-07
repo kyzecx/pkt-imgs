@@ -64,6 +64,14 @@
       }
     }
   },
+  "u_hair5001.png": {
+    "name": "春野兔叽女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5000.png": {
+    "name": "春野兔叽男发",
+    "hideBaseLayer": false
+  },
   "u_hair4989.png": {
     "name": "新生萌芽男发",
     "hideBaseLayer": false,

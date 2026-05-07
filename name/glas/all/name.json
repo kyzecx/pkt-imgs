@@ -1,4 +1,36 @@
 {
+  "u_glas304.png": {
+    "name": "迷离男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas304_Animate.png": {
+    "name": "迷离男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas303.png": {
+    "name": "迷离女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas303_Animate.png": {
+    "name": "迷离女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
   "u_glas294.png": {
     "name": "清澈糖心男眸",
     "hideBaseLayer": false,

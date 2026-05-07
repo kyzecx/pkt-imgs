@@ -33,6 +33,22 @@
       }
     }
   },
+  "u_hats1576.png": {
+    "name": "春野兔叽女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1575.png": {
+    "name": "春野兔叽男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1572.png": {
     "name": "汪汪大厨女帽子",
     "hideBaseLayer": false,

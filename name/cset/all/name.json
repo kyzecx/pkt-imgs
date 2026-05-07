@@ -67,6 +67,22 @@
       }
     }
   },
+  "u_cset4637.png": {
+    "name": "春野兔叽女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4636.png": {
+    "name": "春野兔叽男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4625.png": {
     "name": "新生萌芽男装",
     "hideBaseLayer": false,
