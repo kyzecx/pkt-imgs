@@ -1,4 +1,12 @@
 {
+  "u_mask1466.png": {
+    "name": "涟生花影发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1449.png": {
     "name": "森屿赴礼女发饰",
     "hideBaseLayer": false,
@@ -65,6 +73,14 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_mask1433.png": {
+    "name": "暖香漫步眼镜",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_mask1429.png": {

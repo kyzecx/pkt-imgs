@@ -1,4 +1,52 @@
 {
+  "u_cset4679.png": {
+    "name": "涟生花影女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4678.png": {
+    "name": "涟生花影男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4673.png": {
+    "name": "轻松游戏男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4672.png": {
+    "name": "轻松游戏女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4663.png": {
+    "name": "小兔茶杯坊女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4662.png": {
+    "name": "小兔茶杯坊男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4659.png": {
     "name": "牛崽很忙男装",
     "hideBaseLayer": false,
@@ -31,6 +79,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4645.png": {
+    "name": "小画家男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4644.png": {
+    "name": "小画家女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4639.png": {
@@ -217,6 +281,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4615.png": {
+    "name": "活力马卡龙女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4614.png": {
+    "name": "活力马卡龙男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4613.png": {
@@ -525,6 +605,22 @@
       }
     }
   },
+  "u_cset4551.png": {
+    "name": "暖香漫步男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4550.png": {
+    "name": "暖香漫步女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4547.png": {
     "name": "纯爱绵绵女装",
     "hideBaseLayer": false,
@@ -829,6 +925,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4507.png": {
+    "name": "晴日教室男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4506.png": {
+    "name": "晴日教室女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4505.png": {

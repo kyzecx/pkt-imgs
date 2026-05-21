@@ -1,4 +1,20 @@
 {
+  "u_hats1586.png": {
+    "name": "小兔茶杯坊女耳朵",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1585.png": {
+    "name": "小兔茶杯坊男耳朵",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1582.png": {
     "name": "牛崽很忙男帽子",
     "hideBaseLayer": false,
@@ -234,6 +250,14 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_hats1542.png": {
+    "name": "暖香漫步头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_hats1535.png": {

@@ -12,6 +12,30 @@
       }
     }
   },
+  "u_hair5043.png": {
+    "name": "涟生花影女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5042.png": {
+    "name": "涟生花影男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5037.png": {
+    "name": "轻松游戏男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5036.png": {
+    "name": "轻松游戏女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5027.png": {
+    "name": "小兔茶杯坊女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5026.png": {
+    "name": "小兔茶杯坊男发",
+    "hideBaseLayer": false
+  },
   "u_hair5023.png": {
     "name": "牛崽很忙男发",
     "hideBaseLayer": false,
@@ -37,6 +61,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair5009.png": {
+    "name": "小画家男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5008.png": {
+    "name": "小画家女发",
+    "hideBaseLayer": false
   },
   "u_hair5003.png": {
     "name": "映入眼蝶男发",
@@ -175,6 +207,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4979.png": {
+    "name": "活力马卡龙女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4978.png": {
+    "name": "活力马卡龙男发",
+    "hideBaseLayer": false
   },
   "u_hair4977.png": {
     "name": "苹果乐女发",
@@ -410,6 +450,14 @@
       }
     }
   },
+  "u_hair4915.png": {
+    "name": "暖香漫步男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4914.png": {
+    "name": "暖香漫步女发",
+    "hideBaseLayer": false
+  },
   "u_hair4911.png": {
     "name": "纯爱绵绵女发",
     "hideBaseLayer": false,
@@ -643,6 +691,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4871.png": {
+    "name": "晴日教室男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4870.png": {
+    "name": "晴日教室女发",
+    "hideBaseLayer": false
   },
   "u_hair4869.png": {
     "name": "心愿花火男发",
