@@ -1,4 +1,36 @@
 {
+  "u_cset4693.png": {
+    "name": "汪趣小园女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4692.png": {
+    "name": "汪趣小园男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4691.png": {
+    "name": "青野萌鼠女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4690.png": {
+    "name": "青野萌鼠男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4679.png": {
     "name": "涟生花影女装",
     "hideBaseLayer": false,
@@ -179,6 +211,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4623.png": {
+    "name": "紫雾星芒女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4622.png": {
+    "name": "紫雾星芒男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4621.png": {

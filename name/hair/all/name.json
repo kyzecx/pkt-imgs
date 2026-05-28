@@ -12,6 +12,22 @@
       }
     }
   },
+  "u_hair5057.png": {
+    "name": "汪趣小园女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5056.png": {
+    "name": "汪趣小园男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5055.png": {
+    "name": "青野萌鼠女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5054.png": {
+    "name": "青野萌鼠男发",
+    "hideBaseLayer": false
+  },
   "u_hair5043.png": {
     "name": "涟生花影女发",
     "hideBaseLayer": false
@@ -129,6 +145,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4987.png": {
+    "name": "紫雾星芒女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4986.png": {
+    "name": "紫雾星芒男发",
+    "hideBaseLayer": false
   },
   "u_hair4985.png": {
     "name": "汪汪大厨女发",

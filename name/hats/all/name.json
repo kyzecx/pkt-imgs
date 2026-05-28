@@ -1,4 +1,36 @@
 {
+  "u_hats1598.png": {
+    "name": "汪趣小园女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1597.png": {
+    "name": "汪趣小园男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1596.png": {
+    "name": "青野萌鼠女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1595.png": {
+    "name": "青野萌鼠男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1586.png": {
     "name": "小兔茶杯坊女耳朵",
     "hideBaseLayer": false,
