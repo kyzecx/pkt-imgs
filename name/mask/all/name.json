@@ -75,6 +75,14 @@
       }
     }
   },
+  "u_mask1445.png": {
+    "name": "玻璃糖罐发卡",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1433.png": {
     "name": "暖香漫步眼镜",
     "hideBaseLayer": false,

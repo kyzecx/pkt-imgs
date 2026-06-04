@@ -1,4 +1,20 @@
 {
+  "u_cset4701.png": {
+    "name": "出游一夏女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4700.png": {
+    "name": "出游一夏男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4693.png": {
     "name": "汪趣小园女装",
     "hideBaseLayer": false,
@@ -25,6 +41,22 @@
   },
   "u_cset4690.png": {
     "name": "青野萌鼠男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4689.png": {
+    "name": "萌兔课间女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4688.png": {
+    "name": "萌兔课间男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -173,6 +205,22 @@
   },
   "u_cset4636.png": {
     "name": "春野兔叽男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4635.png": {
+    "name": "莓果甜心女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4634.png": {
+    "name": "莓果甜心男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -481,6 +529,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4603.png": {
+    "name": "玻璃糖罐女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4602.png": {
+    "name": "玻璃糖罐男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4599.png": {

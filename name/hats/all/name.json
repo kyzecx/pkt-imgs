@@ -165,6 +165,14 @@
       }
     }
   },
+  "u_hats1568.png": {
+    "name": "玻璃糖罐头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1567.png": {
     "name": "奶油草莓头饰",
     "hideBaseLayer": false,

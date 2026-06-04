@@ -12,6 +12,14 @@
       }
     }
   },
+  "u_hair5065.png": {
+    "name": "出游一夏女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5064.png": {
+    "name": "出游一夏男发",
+    "hideBaseLayer": false
+  },
   "u_hair5057.png": {
     "name": "汪趣小园女发",
     "hideBaseLayer": false
@@ -26,6 +34,14 @@
   },
   "u_hair5054.png": {
     "name": "青野萌鼠男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5053.png": {
+    "name": "萌兔课间女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5052.png": {
+    "name": "萌兔课间男发",
     "hideBaseLayer": false
   },
   "u_hair5043.png": {
@@ -118,6 +134,14 @@
   },
   "u_hair5000.png": {
     "name": "春野兔叽男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4999.png": {
+    "name": "莓果甜心女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4998.png": {
+    "name": "莓果甜心男发",
     "hideBaseLayer": false
   },
   "u_hair4989.png": {
@@ -343,6 +367,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4967.png": {
+    "name": "玻璃糖罐女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4966.png": {
+    "name": "玻璃糖罐男发",
+    "hideBaseLayer": false
   },
   "u_hair4963.png": {
     "name": "春日花信女发",
