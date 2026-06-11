@@ -1,4 +1,20 @@
 {
+  "u_hats1609.png": {
+    "name": "青璃女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1608.png": {
+    "name": "青岚男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1598.png": {
     "name": "汪趣小园女头饰",
     "hideBaseLayer": false,

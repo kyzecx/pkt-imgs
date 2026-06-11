@@ -12,6 +12,14 @@
       }
     }
   },
+  "u_hair5079.png": {
+    "name": "青璃女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5078.png": {
+    "name": "青岚男发",
+    "hideBaseLayer": false
+  },
   "u_hair5065.png": {
     "name": "出游一夏女发",
     "hideBaseLayer": false
@@ -58,6 +66,14 @@
   },
   "u_hair5036.png": {
     "name": "轻松游戏女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5031.png": {
+    "name": "运动甜心女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5030.png": {
+    "name": "运动甜心男发",
     "hideBaseLayer": false
   },
   "u_hair5027.png": {

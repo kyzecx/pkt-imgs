@@ -1,4 +1,20 @@
 {
+  "u_cset4715.png": {
+    "name": "青璃女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4714.png": {
+    "name": "青岚男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4701.png": {
     "name": "出游一夏女装",
     "hideBaseLayer": false,
@@ -89,6 +105,22 @@
   },
   "u_cset4672.png": {
     "name": "轻松游戏女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4667.png": {
+    "name": "运动甜心女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4666.png": {
+    "name": "运动甜心男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

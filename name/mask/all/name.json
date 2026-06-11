@@ -1,4 +1,12 @@
 {
+  "u_mask1473.png": {
+    "name": "青璃女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1466.png": {
     "name": "涟生花影发饰",
     "hideBaseLayer": false,
