@@ -12,6 +12,38 @@
       }
     }
   },
+  "u_hair5103.png": {
+    "name": "淡彩涂鸦女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5102.png": {
+    "name": "淡彩涂鸦男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5091.png": {
+    "name": "蓝色羽翼女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5090.png": {
+    "name": "蓝色羽翼男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5089.png": {
+    "name": "开心周末男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5088.png": {
+    "name": "开心周末女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5087.png": {
+    "name": "星云舞会男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5086.png": {
+    "name": "星云舞会女发",
+    "hideBaseLayer": false
+  },
   "u_hair5079.png": {
     "name": "青璃女发",
     "hideBaseLayer": false
@@ -58,6 +90,14 @@
   },
   "u_hair5042.png": {
     "name": "涟生花影男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5039.png": {
+    "name": "樱桃恋曲女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5038.png": {
+    "name": "樱桃恋曲男发",
     "hideBaseLayer": false
   },
   "u_hair5037.png": {
@@ -383,6 +423,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4969.png": {
+    "name": "浪漫讯息男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4968.png": {
+    "name": "浪漫讯息女发",
+    "hideBaseLayer": false
   },
   "u_hair4967.png": {
     "name": "玻璃糖罐女发",

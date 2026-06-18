@@ -1,4 +1,68 @@
 {
+  "u_cset4740.png": {
+    "name": "涂鸦女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4739.png": {
+    "name": "涂鸦男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4728.png": {
+    "name": "蓝色羽翼女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4727.png": {
+    "name": "蓝色羽翼男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4726.png": {
+    "name": "开心周末男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4725.png": {
+    "name": "开心周末女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4724.png": {
+    "name": "星云舞会男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4723.png": {
+    "name": "星云舞会女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4715.png": {
     "name": "青璃女装",
     "hideBaseLayer": false,
@@ -89,6 +153,22 @@
   },
   "u_cset4678.png": {
     "name": "涟生花影男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4675.png": {
+    "name": "樱桃恋曲女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4674.png": {
+    "name": "樱桃恋曲男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -561,6 +641,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4605.png": {
+    "name": "浪漫讯息男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4604.png": {
+    "name": "浪漫讯息女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4603.png": {

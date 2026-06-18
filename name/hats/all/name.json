@@ -1,4 +1,36 @@
 {
+  "u_hats1619.png": {
+    "name": "涂鸦女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_hats1619_Animate.png": {
+    "name": "涂鸦女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_hats1618.png": {
+    "name": "涂鸦男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_hats1618_Animate.png": {
+    "name": "涂鸦男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
   "u_hats1609.png": {
     "name": "青璃女帽",
     "hideBaseLayer": false,

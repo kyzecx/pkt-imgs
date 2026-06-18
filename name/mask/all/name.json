@@ -1,4 +1,20 @@
 {
+  "u_mask1478.png": {
+    "name": "开心周末男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1477.png": {
+    "name": "开心周末女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1473.png": {
     "name": "青璃女头饰",
     "hideBaseLayer": false,
@@ -9,6 +25,14 @@
   },
   "u_mask1466.png": {
     "name": "涟生花影发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1464.png": {
+    "name": "樱桃恋曲发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
