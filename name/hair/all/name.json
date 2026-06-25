@@ -12,6 +12,30 @@
       }
     }
   },
+  "u_hair5109.png": {
+    "name": "鲨鱼水手女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5108.png": {
+    "name": "鲨鱼水手男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5107.png": {
+    "name": "蓝羽幻梦女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5106.png": {
+    "name": "蓝羽幻梦男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5105.png": {
+    "name": "童心兔糖女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5104.png": {
+    "name": "童心兔糖男发",
+    "hideBaseLayer": false
+  },
   "u_hair5103.png": {
     "name": "淡彩涂鸦女发",
     "hideBaseLayer": false
@@ -42,6 +66,14 @@
   },
   "u_hair5086.png": {
     "name": "星云舞会女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5085.png": {
+    "name": "假日慢游女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5084.png": {
+    "name": "假日慢游男发",
     "hideBaseLayer": false
   },
   "u_hair5079.png": {
@@ -149,6 +181,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair5021.png": {
+    "name": "冰柠甜夏女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5020.png": {
+    "name": "冰柠甜夏男发",
+    "hideBaseLayer": false
   },
   "u_hair5009.png": {
     "name": "小画家男发",

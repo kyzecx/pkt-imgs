@@ -1,4 +1,36 @@
 {
+  "u_hats1624.png": {
+    "name": "鲨鱼水手女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1623.png": {
+    "name": "鲨鱼水手男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1622.png": {
+    "name": "童心兔糖女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1621.png": {
+    "name": "童心兔糖男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1619.png": {
     "name": "涂鸦女帽",
     "hideBaseLayer": false,

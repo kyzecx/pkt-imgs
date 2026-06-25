@@ -1,4 +1,52 @@
 {
+  "u_cset4746.png": {
+    "name": "鲨鱼水手女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4745.png": {
+    "name": "鲨鱼水手男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4744.png": {
+    "name": "蓝羽幻梦女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4743.png": {
+    "name": "蓝羽幻梦男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4742.png": {
+    "name": "童心兔糖女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4741.png": {
+    "name": "童心兔糖男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4740.png": {
     "name": "涂鸦女装",
     "hideBaseLayer": false,
@@ -57,6 +105,22 @@
   },
   "u_cset4723.png": {
     "name": "星云舞会女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4722.png": {
+    "name": "假日慢游女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4721.png": {
+    "name": "假日慢游男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -255,6 +319,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4657.png": {
+    "name": "冰柠甜夏女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4656.png": {
+    "name": "冰柠甜夏男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4645.png": {

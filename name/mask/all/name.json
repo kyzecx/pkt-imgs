@@ -1,4 +1,20 @@
 {
+  "u_mask1580.png": {
+    "name": "冰柠甜夏女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1480.png": {
+    "name": "蓝布丁女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1478.png": {
     "name": "开心周末男头饰",
     "hideBaseLayer": false,
@@ -9,6 +25,22 @@
   },
   "u_mask1477.png": {
     "name": "开心周末女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1476.png": {
+    "name": "假日慢游女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1475.png": {
+    "name": "假日慢游男发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
