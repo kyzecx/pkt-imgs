@@ -147,6 +147,22 @@
       "animateFrame": 0
     }
   },
+  "u_mask1438.png": {
+    "name": "清凉柠檬男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1437.png": {
+    "name": "清凉柠檬女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1433.png": {
     "name": "暖香漫步眼镜",
     "hideBaseLayer": false,

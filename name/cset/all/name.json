@@ -1,4 +1,20 @@
 {
+  "u_cset4770.png": {
+    "name": "莓果派对女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4769.png": {
+    "name": "莓果派对男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4746.png": {
     "name": "鲨鱼水手女装",
     "hideBaseLayer": false,
@@ -57,6 +73,22 @@
   },
   "u_cset4739.png": {
     "name": "涂鸦男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4734.png": {
+    "name": "蓝布丁女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4733.png": {
+    "name": "蓝布丁男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -143,6 +175,22 @@
       "animateFrame": 0
     }
   },
+  "u_cset4707.png": {
+    "name": "暖阳百合女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4706.png": {
+    "name": "暖阳百合男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4701.png": {
     "name": "出游一夏女装",
     "hideBaseLayer": false,
@@ -201,6 +249,22 @@
   },
   "u_cset4688.png": {
     "name": "萌兔课间男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4683.png": {
+    "name": "夏风海遇女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4682.png": {
+    "name": "夏风海遇男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -789,6 +853,22 @@
       }
     }
   },
+  "u_cset4597.png": {
+    "name": "浅蓝甜梦女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4596.png": {
+    "name": "浅蓝甜梦男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4593.png": {
     "name": "浅紫舞会男装",
     "hideBaseLayer": false,
@@ -821,6 +901,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4591.png": {
+    "name": "洗白白男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4590.png": {
+    "name": "洗白白女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4571.png": {
@@ -889,6 +985,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4567.png": {
+    "name": "清凉柠檬男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4566.png": {
+    "name": "清凉柠檬女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4557.png": {

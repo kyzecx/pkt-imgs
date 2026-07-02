@@ -1,4 +1,20 @@
 {
+  "u_hats1643.png": {
+    "name": "莓果派对女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1642.png": {
+    "name": "莓果派对男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1624.png": {
     "name": "鲨鱼水手女帽",
     "hideBaseLayer": false,
@@ -63,6 +79,14 @@
       "animateFrame": 4
     }
   },
+  "u_hats1616.png": {
+    "name": "蓝布丁男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1609.png": {
     "name": "青璃女帽",
     "hideBaseLayer": false,
@@ -73,6 +97,22 @@
   },
   "u_hats1608.png": {
     "name": "青岚男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1605.png": {
+    "name": "暖阳百合女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1604.png": {
+    "name": "暖阳百合男帽子",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -302,6 +342,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_hats1562.png": {
+    "name": "洗白白男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1561.png": {
+    "name": "洗白白女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_hats1550.png": {

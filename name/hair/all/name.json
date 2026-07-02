@@ -12,6 +12,14 @@
       }
     }
   },
+  "u_hair5135.png": {
+    "name": "莓果派对女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5134.png": {
+    "name": "莓果派对男发",
+    "hideBaseLayer": false
+  },
   "u_hair5109.png": {
     "name": "鲨鱼水手女发",
     "hideBaseLayer": false
@@ -42,6 +50,14 @@
   },
   "u_hair5102.png": {
     "name": "淡彩涂鸦男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5097.png": {
+    "name": "蓝布丁女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5096.png": {
+    "name": "蓝布丁男发",
     "hideBaseLayer": false
   },
   "u_hair5091.png": {
@@ -84,6 +100,14 @@
     "name": "青岚男发",
     "hideBaseLayer": false
   },
+  "u_hair5071.png": {
+    "name": "暖阳百合女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5070.png": {
+    "name": "暖阳百合男发",
+    "hideBaseLayer": false
+  },
   "u_hair5065.png": {
     "name": "出游一夏女发",
     "hideBaseLayer": false
@@ -114,6 +138,14 @@
   },
   "u_hair5052.png": {
     "name": "萌兔课间男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5047.png": {
+    "name": "夏风海遇女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5046.png": {
+    "name": "夏风海遇男发",
     "hideBaseLayer": false
   },
   "u_hair5043.png": {
@@ -506,6 +538,14 @@
       }
     }
   },
+  "u_hair4961.png": {
+    "name": "浅蓝甜梦女发",
+    "hideBaseLayer": false
+  },
+  "u_hair4960.png": {
+    "name": "浅蓝甜梦男发",
+    "hideBaseLayer": false
+  },
   "u_hair4957.png": {
     "name": "浅紫舞会男发",
     "hideBaseLayer": false,
@@ -531,6 +571,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4955.png": {
+    "name": "洗白白男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4954.png": {
+    "name": "洗白白女发",
+    "hideBaseLayer": false
   },
   "u_hair4935.png": {
     "name": "绯红灵狐女发",
@@ -583,6 +631,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4931.png": {
+    "name": "清凉柠檬男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4930.png": {
+    "name": "清凉柠檬女发",
+    "hideBaseLayer": false
   },
   "u_hair4921.png": {
     "name": "星星堆男发",
