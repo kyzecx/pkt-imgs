@@ -12,6 +12,38 @@
       }
     }
   },
+  "u_hair5151.png": {
+    "name": "奇奇猫崽女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5150.png": {
+    "name": "奇奇猫崽男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5147.png": {
+    "name": "薄荷柠檬饮女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5146.png": {
+    "name": "薄荷柠檬饮男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5145.png": {
+    "name": "耀橘之夏女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5144.png": {
+    "name": "耀橘之夏男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5139.png": {
+    "name": "朋克稚偶女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5138.png": {
+    "name": "朋克稚偶男发",
+    "hideBaseLayer": false
+  },
   "u_hair5135.png": {
     "name": "莓果派对女发",
     "hideBaseLayer": false
@@ -114,6 +146,14 @@
   },
   "u_hair5064.png": {
     "name": "出游一夏男发",
+    "hideBaseLayer": false
+  },
+  "u_hair5063.png": {
+    "name": "游园棉花糖女发",
+    "hideBaseLayer": false
+  },
+  "u_hair5062.png": {
+    "name": "游园棉花糖男发",
     "hideBaseLayer": false
   },
   "u_hair5057.png": {
@@ -699,6 +739,14 @@
         "h": 840
       }
     }
+  },
+  "u_hair4907.png": {
+    "name": "浇浇水男发",
+    "hideBaseLayer": false
+  },
+  "u_hair4906.png": {
+    "name": "浇浇水女发",
+    "hideBaseLayer": false
   },
   "u_hair4903.png": {
     "name": "春风蛋糕女发",

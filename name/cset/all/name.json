@@ -1,4 +1,68 @@
 {
+  "u_cset4786.png": {
+    "name": "奇奇猫崽女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4785.png": {
+    "name": "奇奇猫崽男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4782.png": {
+    "name": "薄荷柠檬饮女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4781.png": {
+    "name": "薄荷柠檬饮男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4780.png": {
+    "name": "耀橘之夏女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4779.png": {
+    "name": "耀橘之夏男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4774.png": {
+    "name": "朋克稚偶女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4773.png": {
+    "name": "朋克稚偶男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4770.png": {
     "name": "莓果派对女装",
     "hideBaseLayer": false,
@@ -201,6 +265,22 @@
   },
   "u_cset4700.png": {
     "name": "出游一夏男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4699.png": {
+    "name": "游园棉花糖女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4698.png": {
+    "name": "游园棉花糖男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -1085,6 +1165,22 @@
         "w": 700,
         "h": 840
       }
+    }
+  },
+  "u_cset4543.png": {
+    "name": "浇浇水男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4542.png": {
+    "name": "浇浇水女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
     }
   },
   "u_cset4539.png": {
