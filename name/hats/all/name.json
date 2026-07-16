@@ -1,4 +1,12 @@
 {
+  "u_hats1654.png": {
+    "name": "舞会惊遇男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1649.png": {
     "name": "奇奇猫崽女发饰",
     "hideBaseLayer": false,
@@ -113,6 +121,22 @@
   },
   "u_hats1616.png": {
     "name": "蓝布丁男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1614.png": {
+    "name": "黑咖薄荷兔女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1613.png": {
+    "name": "黑咖薄荷兔男帽子",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

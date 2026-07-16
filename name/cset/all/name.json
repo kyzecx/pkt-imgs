@@ -1,4 +1,52 @@
 {
+  "u_cset4802.png": {
+    "name": "舞会惊遇女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4801.png": {
+    "name": "舞会惊遇男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4800.png": {
+    "name": "酷夏波点女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4799.png": {
+    "name": "酷夏波点男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4798.png": {
+    "name": "气泡冰女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4797.png": {
+    "name": "气泡冰男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4786.png": {
     "name": "奇奇猫崽女装",
     "hideBaseLayer": false,
@@ -73,6 +121,22 @@
   },
   "u_cset4769.png": {
     "name": "莓果派对男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4760.png": {
+    "name": "酷酷小熊女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4759.png": {
+    "name": "酷酷小熊男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -217,6 +281,22 @@
   },
   "u_cset4721.png": {
     "name": "假日慢游男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4720.png": {
+    "name": "黑咖薄荷兔女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4719.png": {
+    "name": "黑咖薄荷兔男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
