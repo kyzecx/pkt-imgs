@@ -1,4 +1,36 @@
 {
+  "u_glas308.png": {
+    "name": "梅子酱女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas308_Animate.png": {
+    "name": "梅子酱女眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas307.png": {
+    "name": "梅子酱男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_glas307_Animate.png": {
+    "name": "梅子酱男眸",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
   "u_glas304.png": {
     "name": "迷离男眸",
     "hideBaseLayer": false,

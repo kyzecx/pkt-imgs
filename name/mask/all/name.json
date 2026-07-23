@@ -7,6 +7,22 @@
       "animateFrame": 0
     }
   },
+  "u_mask1507.png": {
+    "name": "草莓冻冻冰女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1506.png": {
+    "name": "草莓冻冻冰男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1502.png": {
     "name": "舞会惊遇女头饰",
     "hideBaseLayer": false,
@@ -47,8 +63,88 @@
       "animateFrame": 0
     }
   },
+  "u_mask1495.png": {
+    "name": "云羽宝石紫夹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1494.png": {
+    "name": "云羽宝石粉夹",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1493.png": {
+    "name": "薄荷海岸女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1492.png": {
+    "name": "薄荷海岸男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1489.png": {
+    "name": "兔宝娃娃车女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1486.png": {
+    "name": "工程眼镜（女）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1485.png": {
+    "name": "工程眼镜（男）",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1482.png": {
+    "name": "失速街区女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1481.png": {
+    "name": "失速街区男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1480.png": {
     "name": "蓝布丁女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1479.png": {
+    "name": "兔宝娃娃车男发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -95,6 +191,22 @@
       "animateFrame": 0
     }
   },
+  "u_mask1472.png": {
+    "name": "糖彩星跃女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1471.png": {
+    "name": "糖彩星跃男发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_mask1466.png": {
     "name": "涟生花影发饰",
     "hideBaseLayer": false,
@@ -105,6 +217,22 @@
   },
   "u_mask1464.png": {
     "name": "樱桃恋曲发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1453.png": {
+    "name": "心予白玫女发饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_mask1452.png": {
+    "name": "心予白玫男发饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

@@ -23,6 +23,22 @@
       "animateFrame": 0
     }
   },
+  "u_hats1647.png": {
+    "name": "小狗当家女帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1646.png": {
+    "name": "小狗当家男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1645.png": {
     "name": "耀橘之夏女头饰",
     "hideBaseLayer": false,
@@ -49,6 +65,22 @@
   },
   "u_hats1642.png": {
     "name": "莓果派对男头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1628.png": {
+    "name": "暖薰春意女头饰",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1627.png": {
+    "name": "暖薰春意男头饰",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -119,8 +151,32 @@
       "animateFrame": 4
     }
   },
+  "u_hats1617.png": {
+    "name": "灵机一动",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_hats1617_Animate.png": {
+    "name": "灵机一动",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
   "u_hats1616.png": {
     "name": "蓝布丁男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1615.png": {
+    "name": "都市病女发圈",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -223,6 +279,22 @@
       "animateFrame": 0
     }
   },
+  "u_hats1588.png": {
+    "name": "怪诞喵咪女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1587.png": {
+    "name": "怪诞喵咪男帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_hats1586.png": {
     "name": "小兔茶杯坊女耳朵",
     "hideBaseLayer": false,
@@ -283,6 +355,22 @@
   },
   "u_hats1575.png": {
     "name": "春野兔叽男帽",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1574.png": {
+    "name": "心予白玫女帽子",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_hats1573.png": {
+    "name": "心予白玫男帽子",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,

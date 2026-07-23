@@ -1,4 +1,36 @@
 {
+  "u_cset4812.png": {
+    "name": "草莓冻冻冰女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4811.png": {
+    "name": "草莓冻冻冰男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4808.png": {
+    "name": "青云隐纱男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4807.png": {
+    "name": "红狐缀霞女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4802.png": {
     "name": "舞会惊遇女装",
     "hideBaseLayer": false,
@@ -63,6 +95,22 @@
       "animateFrame": 0
     }
   },
+  "u_cset4784.png": {
+    "name": "小狗当家女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4783.png": {
+    "name": "小狗当家男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4782.png": {
     "name": "薄荷柠檬饮女装",
     "hideBaseLayer": false,
@@ -89,6 +137,22 @@
   },
   "u_cset4779.png": {
     "name": "耀橘之夏男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4778.png": {
+    "name": "薄荷海岸女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4777.png": {
+    "name": "薄荷海岸男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -127,6 +191,22 @@
       "animateFrame": 0
     }
   },
+  "u_cset4762.png": {
+    "name": "核心机械女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4761.png": {
+    "name": "核心机械男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4760.png": {
     "name": "酷酷小熊女装",
     "hideBaseLayer": false,
@@ -137,6 +217,38 @@
   },
   "u_cset4759.png": {
     "name": "酷酷小熊男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4752.png": {
+    "name": "暖薰春意女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4751.png": {
+    "name": "暖薰春意男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4748.png": {
+    "name": "失速街区女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4747.png": {
+    "name": "失速街区男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -207,6 +319,22 @@
       "animateFrame": 0
     }
   },
+  "u_cset4738.png": {
+    "name": "蜂糖蜜语女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4737.png": {
+    "name": "蜂糖蜜语男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4734.png": {
     "name": "蓝布丁女装",
     "hideBaseLayer": false,
@@ -217,6 +345,38 @@
   },
   "u_cset4733.png": {
     "name": "蓝布丁男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4732.png": {
+    "name": "兔宝娃娃车女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4731.png": {
+    "name": "兔宝娃娃车男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4730.png": {
+    "name": "都市病女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4729.png": {
+    "name": "都市病男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -329,6 +489,22 @@
   },
   "u_cset4706.png": {
     "name": "暖阳百合男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4705.png": {
+    "name": "糖彩星跃女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4704.png": {
+    "name": "糖彩星跃男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -479,6 +655,22 @@
       "animateFrame": 0
     }
   },
+  "u_cset4671.png": {
+    "name": "怪诞喵咪女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4670.png": {
+    "name": "怪诞喵咪男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
   "u_cset4667.png": {
     "name": "运动甜心女装",
     "hideBaseLayer": false,
@@ -489,6 +681,22 @@
   },
   "u_cset4666.png": {
     "name": "运动甜心男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4665.png": {
+    "name": "粉冰夏语女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": false,
+      "animateFrame": 0
+    }
+  },
+  "u_cset4664.png": {
+    "name": "粉冰夏语男装",
     "hideBaseLayer": false,
     "animate": {
       "isAnimated": false,
@@ -641,6 +849,38 @@
     "animate": {
       "isAnimated": false,
       "animateFrame": 0
+    }
+  },
+  "u_cset4631.png": {
+    "name": "心予白玫女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_cset4631_Animate.png": {
+    "name": "心予白玫女装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_cset4630.png": {
+    "name": "心予白玫男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
+    }
+  },
+  "u_cset4630_Animate.png": {
+    "name": "心予白玫男装",
+    "hideBaseLayer": false,
+    "animate": {
+      "isAnimated": true,
+      "animateFrame": 4
     }
   },
   "u_cset4625.png": {
